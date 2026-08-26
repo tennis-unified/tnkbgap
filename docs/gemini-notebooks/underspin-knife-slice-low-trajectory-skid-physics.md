@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The aggressive 'Knife Slice' (mastered by Roger Federer, Ashleigh Barty, and Grigor Dimitrov) is not a defensive bailout; it is an offensive weapon. By carving through the ball with a steep high-to-low Continental blade ($45^\circ \rightarrow 10^\circ$), the player imparts over 3,000 RPM of reverse backspin with high forward velocity (70 mph). The ball skids flat off hard courts, staying below knee height and forcing errors.
+The aggressive 'Knife Slice' (mastered by Roger Federer, Ashleigh Barty, and Grigor Dimitrov) is not a defensive bailout; it is an offensive weapon. By carving through the ball with a steep high-to-low Continental blade (45° → 10°), the player imparts over 3,000 RPM of reverse backspin with high forward velocity (70 mph). The ball skids flat off hard courts, staying below knee height and forcing errors.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -41,13 +41,13 @@ Heavy backspin creates an upward lift force that keeps the ball floating on a fl
 
 ## 2. Hard-Court Surface Skid Coefficient
 
-Upon contact with the court, backspin opposes forward surface friction, causing the ball to slide and compress forward with a rebound angle of $< 14^\circ$, never hopping into the opponent's strike zone.
+Upon contact with the court, backspin opposes forward surface friction, causing the ball to slide and compress forward with a rebound angle of < 14°, never hopping into the opponent's strike zone.
 
 ---
 
 ## 3. Knife Slice Execution Blueprint
 
-Lead shoulder turned $100^\circ$; high racket takeback behind head; driving through the ball rather than chopping downward.
+Lead shoulder turned 100°; high racket takeback behind head; driving through the ball rather than chopping downward.
 
 ---
 

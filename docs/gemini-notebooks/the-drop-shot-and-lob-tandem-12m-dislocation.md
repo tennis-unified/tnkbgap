@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While baseline grinders can endure 30-shot lateral rallies, front-to-back sprinting rapidly depletes anaerobic phosphagen reserves. The **Drop Shot & Topspin Lob Tandem** forces a brutal **$12\text{-Meter Vertical Dislocation}$**: sprinting 6 meters forward to scrape a drop shot off the turf, followed immediately by retreating 12 meters to chase a $3,800\text{ RPM}$ topspin lob, spiking blood lactate above **$8.5\text{ mmol/L}$**.
+While baseline grinders can endure 30-shot lateral rallies, front-to-back sprinting rapidly depletes anaerobic phosphagen reserves. The **Drop Shot & Topspin Lob Tandem** forces a brutal **12 -Meter Vertical Dislocation**: sprinting 6 meters forward to scrape a drop shot off the turf, followed immediately by retreating 12 meters to chase a 3,800 RPM topspin lob, spiking blood lactate above **8.5 mmol/L**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

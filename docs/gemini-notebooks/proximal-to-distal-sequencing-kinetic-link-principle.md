@@ -28,7 +28,7 @@ The kinetic chain in tennis operates on the **Proximal-to-Distal Sequencing Law*
 
 ## 1. The 6-Segment Angular Velocity Cascade
 
-Peak angular velocities occur in rigid chronological sequence: 1. Pelvis ($t = -120\text{ms}$, $\omega = 450^\circ/\text{s}$) $\rightarrow$ 2. Torso ($t = -80\text{ms}$, $\omega = 750^\circ/\text{s}$) $\rightarrow$ 3. Upper Arm ($t = -40\text{ms}$, $\omega = 1,100^\circ/\text{s}$) $\rightarrow$ 4. Forearm ($t = -15\text{ms}$, $\omega = 1,800^\circ/\text{s}$) $\rightarrow$ 5. Hand ($t = -5\text{ms}$, $\omega = 2,400^\circ/\text{s}$) $\rightarrow$ 6. Racket Tip ($t = 0\text{ms}$, $\omega = 3,200^\circ/\text{s}$).
+Peak angular velocities occur in rigid chronological sequence: 1. Pelvis (*t* = -120 ms, ω = 450°/s) → 2. Torso (*t* = -80 ms, ω = 750°/s) → 3. Upper Arm (*t* = -40 ms, ω = 1,100°/s) → 4. Forearm (*t* = -15 ms, ω = 1,800°/s) → 5. Hand (*t* = -5 ms, ω = 2,400°/s) → 6. Racket Tip (*t* = 0 ms, ω = 3,200°/s).
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -41,7 +41,7 @@ Peak angular velocities occur in rigid chronological sequence: 1. Pelvis ($t = -
 
 ## 2. Segmental Deceleration Driving Upstream Acceleration
 
-A proximal segment MUST decelerate for the distal segment to reach peak acceleration (Conservation of Angular Momentum: $L = I_1 \omega_1 + I_2 \omega_2$). If the hips continue spinning through contact, terminal hand speed drops by 32%.
+A proximal segment MUST decelerate for the distal segment to reach peak acceleration (Conservation of Angular Momentum: *L* = *I*₁ω₁ + *I*₂ω₂). If the hips continue spinning through contact, terminal hand speed drops by 32%.
 
 ---
 

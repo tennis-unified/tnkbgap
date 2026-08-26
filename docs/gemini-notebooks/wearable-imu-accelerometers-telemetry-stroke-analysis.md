@@ -9,9 +9,9 @@
 
 ## Executive Abstract
 
-The integration of miniaturized **9-Axis Inertial Measurement Units (IMUs)**—combining a 3-axis accelerometer ($\pm 64\text{G}$), a 3-axis gyroscope ($\pm 4,000^\circ/\text{sec}$), and a 3-axis magnetometer—embedded within racket handles (e.g., Babolat Play, Sony Smart Sensor) and player wristbands has transformed stroke analysis from qualitative guesswork into high-frequency quantitative telemetry.
+The integration of miniaturized **9-Axis Inertial Measurement Units (IMUs)**—combining a 3-axis accelerometer (± 64G), a 3-axis gyroscope (± 4,000°/s), and a 3-axis magnetometer—embedded within racket handles (e.g., Babolat Play, Sony Smart Sensor) and player wristbands has transformed stroke analysis from qualitative guesswork into high-frequency quantitative telemetry.
 
-This whitepaper analyzes: (1) The sensor fusion algorithms (Kalman Filtering & Quaternion orientation representation) used to track racket paths in real-time, (2) Mathematical extraction of terminal racket head velocity ($v_{\text{tip}}$) and sweet spot impact localization, (3) Measuring peak impact shock and deceleration G-forces, and (4) Real-time auditory biofeedback systems accelerating motor skill acquisition.
+This whitepaper analyzes: (1) The sensor fusion algorithms (Kalman Filtering & Quaternion orientation representation) used to track racket paths in real-time, (2) Mathematical extraction of terminal racket head velocity (*v*~tip~) and sweet spot impact localization, (3) Measuring peak impact shock and deceleration G-forces, and (4) Real-time auditory biofeedback systems accelerating motor skill acquisition.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -43,7 +43,7 @@ QUATERNION REPRESENTATION:
 ```
 
 ### 1.1. Real-Time Acceleration Extraction
-By knowing the exact distance from the butt-cap IMU to the center of the stringbed ($r = 45\text{ cm}$), the linear velocity of the impact zone ($v_{\text{impact}}$) is computed dynamically:
+By knowing the exact distance from the butt-cap IMU to the center of the stringbed (*r* = 45 cm), the linear velocity of the impact zone (*v*~impact~) is computed dynamically:
 
 $$\mathbf{v}_{\text{impact}} = \mathbf{v}_{\text{sensor}} + \boldsymbol{\omega} \times \mathbf{r}$$
 
@@ -53,7 +53,7 @@ $$\mathbf{v}_{\text{impact}} = \mathbf{v}_{\text{sensor}} + \boldsymbol{\omega} 
 
 | Metric | Amateur / Club Level | ATP / WTA Tour Elite |
 |---|---|---|
-| **Peak Angular Velocity ($\omega$)** | $800^\circ\text{--}1,100^\circ/\text{sec}$ | $1,800^\circ\text{--}2,600^\circ/\text{sec}$ |
-| **Impact Duration ($\Delta t$)** | $5.2\text{--}6.0\text{ ms}$ (Mushy stringbed) | $3.8\text{--}4.2\text{ ms}$ (Crisp elastic snap) |
-| **Sweet Spot Hit Accuracy** | $45\%\text{ within } \pm 2\text{ cm}$ | $92\%\text{ within } \pm 1\text{ cm}$ |
-| **Deceleration G-Force** | $12\text{--}18\text{ G}$ | $35\text{--}55\text{ G}$ (Massive terminal brake) |
+| **Peak Angular Velocity (ω)** | 800°–1,100°/s | 1,800°–2,600°/s |
+| **Impact Duration (Δ*t*)** | 5.2–6.0 ms (Mushy stringbed) | 3.8–4.2 ms (Crisp elastic snap) |
+| **Sweet Spot Hit Accuracy** | 45% within ± 2 cm | 92% within ± 1 cm |
+| **Deceleration G-Force** | 12–18 G | 35–55 G (Massive terminal brake) |

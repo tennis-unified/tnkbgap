@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The serve's terminal velocity is fundamentally capped by the quality of Stages 3 (Loading) and 4 (Leg Drive). Elite servers achieve a knee flexion angle of **$110^\circ\text{ to }120^\circ$** at the trophy pose apex, tilting the pelvis forward into the court while creating a $25^\circ$ lateral shoulder tilt (cartwheel axis). This paper analyzes ground impulse integration ($J = \int F \, dt$) and vertical center of mass launch.
+The serve's terminal velocity is fundamentally capped by the quality of Stages 3 (Loading) and 4 (Leg Drive). Elite servers achieve a knee flexion angle of **110° to 120°** at the trophy pose apex, tilting the pelvis forward into the court while creating a 25° lateral shoulder tilt (cartwheel axis). This paper analyzes ground impulse integration (*J* = ∫ *F* dt) and vertical center of mass launch.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ The serve's terminal velocity is fundamentally capped by the quality of Stages 3
 
 ---
 
-## 1. Knee Flexion Spring Dynamics ($115^\circ$)
+## 1. Knee Flexion Spring Dynamics (115°)
 
-Bending both knees to $115^\circ$ stores maximal elastic strain energy in the quadriceps and patellar tendons. Extending violently upward delivers a vertical impulse that launches the server $40\text{--}60\text{ cm}$ into the court.
+Bending both knees to 115° stores maximal elastic strain energy in the quadriceps and patellar tendons. Extending violently upward delivers a vertical impulse that launches the server 40–60 cm into the court.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -41,7 +41,7 @@ Bending both knees to $115^\circ$ stores maximal elastic strain energy in the qu
 
 ## 2. Trophy Pose Cartwheel Alignment
 
-The hitting shoulder is elevated $25^\circ$ above the front shoulder; the tossing arm reaches vertically to extend the anterior abdominal oblique sling.
+The hitting shoulder is elevated 25° above the front shoulder; the tossing arm reaches vertically to extend the anterior abdominal oblique sling.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During rapid saccadic eye movements ($> 400^\circ/\text{sec}$), the brain temporarily shuts down visual input processing for 20–50 milliseconds (Saccadic Suppression) to prevent motion blur disorientation. This means a tennis player is biologically blind during the very saccade that jumps to the bounce point. This paper reveals how the brain's internal forward model interpolates trajectory and maintains perceptual continuity.
+During rapid saccadic eye movements (> 400°/s), the brain temporarily shuts down visual input processing for 20–50 milliseconds (Saccadic Suppression) to prevent motion blur disorientation. This means a tennis player is biologically blind during the very saccade that jumps to the bounce point. This paper reveals how the brain's internal forward model interpolates trajectory and maintains perceptual continuity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

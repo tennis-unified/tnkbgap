@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Because right-handers constantly anticipate the lefty's crosscourt topspin assault to their backhand, they cheat laterally toward the Ad-court. This creates a massive tactical opening in the Deuce-court. The southpaw executes the **Down-the-Line Forehand Laser**: holding the shoulder line sideways until the last $20\text{ms}$, driving a flat **$85\text{ mph}$ bullet** down the deuce sideline for an unreturnable winner.
+Because right-handers constantly anticipate the lefty's crosscourt topspin assault to their backhand, they cheat laterally toward the Ad-court. This creates a massive tactical opening in the Deuce-court. The southpaw executes the **Down-the-Line Forehand Laser**: holding the shoulder line sideways until the last 20 ms, driving a flat **85 mph bullet** down the deuce sideline for an unreturnable winner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

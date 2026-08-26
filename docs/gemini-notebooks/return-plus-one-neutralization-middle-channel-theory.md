@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novak Djokovic's return dominance is founded on **The Middle-Third Channel Theory**. Rather than attempting low-percentage sharp angles against 125 mph serves, Djokovic directs **$82\%$ of first-serve returns deep down the middle third (within 1.5 meters of baseline)**. This target carries zero risk of hitting the net post, strips the server of acute return reflection angles, and forces the server to hit Shot 3 from behind their own baseline with zero angle.
+Novak Djokovic's return dominance is founded on **The Middle-Third Channel Theory**. Rather than attempting low-percentage sharp angles against 125 mph serves, Djokovic directs **82% of first-serve returns deep down the middle third (within 1.5 meters of baseline)**. This target carries zero risk of hitting the net post, strips the server of acute return reflection angles, and forces the server to hit Shot 3 from behind their own baseline with zero angle.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Novak Djokovic's return dominance is founded on **The Middle-Third Channel Theor
 
 ## 1. The Geometry of Angle Compression
 
-Returning wide gives the server an open $42^\circ$ crosscourt finishing angle. Returning deep down the center strap compresses the server's angle to $< 14^\circ$, neutralizing offensive threats.
+Returning wide gives the server an open 42° crosscourt finishing angle. Returning deep down the center strap compresses the server's angle to < 14°, neutralizing offensive threats.
 
 ```
        [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]

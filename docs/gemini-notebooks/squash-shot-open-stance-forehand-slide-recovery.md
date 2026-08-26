@@ -9,9 +9,9 @@
 
 ## Executive Abstract
 
-When pulled three meters outside the singles sideline by a crushing $100\text{ mph}$ angled shot, a player cannot execute standard semi-open or closed stance rotational forehands. In this extreme defensive emergency, world-class athletes deploy the **Forehand Squash Shot (Defensive Forehand Slice / Buggy-Whip Hook)**—a stroke borrowed from the sport of squash and popularized at the Grand Slam level by Roger Federer, Rafael Nadal, and Kim Clijsters.
+When pulled three meters outside the singles sideline by a crushing 100 mph angled shot, a player cannot execute standard semi-open or closed stance rotational forehands. In this extreme defensive emergency, world-class athletes deploy the **Forehand Squash Shot (Defensive Forehand Slice / Buggy-Whip Hook)**—a stroke borrowed from the sport of squash and popularized at the Grand Slam level by Roger Federer, Rafael Nadal, and Kim Clijsters.
 
-This whitepaper analyzes the extreme kinematics of the squash shot: (1) The **Maximum Open-Stance Lateral Lunge** (quadriceps eccentric overload at $3.5\times$ bodyweight), (2) The **Continental/Eastern Grip Shift** on the dead run, (3) The **Forearm Pronation "Carve"** converting lateral momentum into crosscourt angle, and (4) The immediate elastic push-off restoring court positioning.
+This whitepaper analyzes the extreme kinematics of the squash shot: (1) The **Maximum Open-Stance Lateral Lunge** (quadriceps eccentric overload at 3.5× bodyweight), (2) The **Continental/Eastern Grip Shift** on the dead run, (3) The **Forearm Pronation "Carve"** converting lateral momentum into crosscourt angle, and (4) The immediate elastic push-off restoring court positioning.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -58,4 +58,4 @@ The squash shot expands the player's lateral reaching envelope by **60 to 90 cen
 ```
 
 ### 2.1. Aerodynamic Sidespin & Float
-The downward chop imparts **reverse underspin and wicked fading sidespin ($-2,200\text{ RPM}$)**. This keeps the ball floating deep into the opponent's backhand corner, buying the defender **2.2 to 2.8 seconds** of recovery time to sprint back to the center hashmark.
+The downward chop imparts **reverse underspin and wicked fading sidespin (-2,200 RPM)**. This keeps the ball floating deep into the opponent's backhand corner, buying the defender **2.2 to 2.8 seconds** of recovery time to sprint back to the center hashmark.

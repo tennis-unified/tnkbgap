@@ -26,9 +26,9 @@ When all four players converge inside the service line, ball flight time drops t
 
 ---
 
-## 1. Reaction Time Compression ($< 150\text{ms}$)
+## 1. Reaction Time Compression (< 150 ms)
 
-Human simple visual reaction time is $180\text{--}200\text{ms}$. To survive net firefights, the player must operate on subcortical spinal reflex loops, positioning the racket head before conscious perception registers.
+Human simple visual reaction time is 180–200 ms. To survive net firefights, the player must operate on subcortical spinal reflex loops, positioning the racket head before conscious perception registers.
 
 ```
        [ Server / Partner Baseline Drive ] ──► [ Net Player Diagonal Cut ]
@@ -56,5 +56,5 @@ If the elbow drifts behind the torso midline, the racket cannot be brought forwa
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Most players telegraph their serve: tossing at 1:00 for slice and 11:00 for kick. Roger Federer and Pete Sampras mastered **Complete Serve Disguise**: tossing the ball into an **Identical $12:30\text{ Toss Window}$ for 100% of serves**. By modulating internal shoulder rotation and forearm brush in the final $30\text{ms}$, they launched 130 mph flat bombs, curving wide slices, or hopping kickers from an identical visual profile.
+Most players telegraph their serve: tossing at 1:00 for slice and 11:00 for kick. Roger Federer and Pete Sampras mastered **Complete Serve Disguise**: tossing the ball into an **Identical 12:30 Toss Window for 100% of serves**. By modulating internal shoulder rotation and forearm brush in the final 30 ms, they launched 130 mph flat bombs, curving wide slices, or hopping kickers from an identical visual profile.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Single toss point, 3 different spin launches; partner calling spin after contact
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

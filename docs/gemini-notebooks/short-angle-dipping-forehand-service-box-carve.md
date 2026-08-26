@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Short-Angle Dipping Forehand** is a geometric force multiplier. Brushing upward at a steep **$60^\circ\text{ angle}$** with a Semi-Western grip imparts over **$3,800\text{ RPM}$ of topspin**. The ball dives sharply inside the service box near the singles sideline, kicking off the court to pull the defender **$3.2\text{ meters}$ outside the doubles tramline**, opening the entire court for an uncontested winner.
+The **Short-Angle Dipping Forehand** is a geometric force multiplier. Brushing upward at a steep **60° angle** with a Semi-Western grip imparts over **3,800 RPM of topspin**. The ball dives sharply inside the service box near the singles sideline, kicking off the court to pull the defender **3.2 meters outside the doubles tramline**, opening the entire court for an uncontested winner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ The **Short-Angle Dipping Forehand** is a geometric force multiplier. Brushing u
 
 ---
 
-## 1. Steep $60^\circ$ Vertical Brush Angle
+## 1. Steep 60° Vertical Brush Angle
 
 Maximizing upward racket velocity over forward speed forces intense Magnus downward plunge, pulling the ball inside the service line.
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Attempting a full rotational takeback on a 130 mph first serve is impossible on the single-handed backhand due to the $400\text{ms}$ reaction constraint. World-class single-handers (Federer, Wawrinka, Thiem) survive and dominate through the **Reflexive Chip-Block**: executing a micro unit turn ($30^\circ$), presenting a rigid Continental string wall, and using the server's own kinetic energy to punch the return deep.
+Attempting a full rotational takeback on a 130 mph first serve is impossible on the single-handed backhand due to the 400 ms reaction constraint. World-class single-handers (Federer, Wawrinka, Thiem) survive and dominate through the **Reflexive Chip-Block**: executing a micro unit turn (30°), presenting a rigid Continental string wall, and using the server's own kinetic energy to punch the return deep.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

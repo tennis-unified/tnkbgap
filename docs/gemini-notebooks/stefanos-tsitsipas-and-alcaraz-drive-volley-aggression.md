@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The transition game in the 2020s has shifted toward hyper-aggressive aerial putaways. Players like **Carlos Alcaraz and Stefanos Tsitsipas** hunt floating balls in the mid-court, leaping into the air to execute **$85+\text{ mph}$ Forehand Drive-Volleys** before the ball can drop, combining baseline groundstroke power with net-rush proximity to leave opponents zero response time.
+The transition game in the 2020s has shifted toward hyper-aggressive aerial putaways. Players like **Carlos Alcaraz and Stefanos Tsitsipas** hunt floating balls in the mid-court, leaping into the air to execute **85+ mph Forehand Drive-Volleys** before the ball can drop, combining baseline groundstroke power with net-rush proximity to leave opponents zero response time.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ The transition game in the 2020s has shifted toward hyper-aggressive aerial puta
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

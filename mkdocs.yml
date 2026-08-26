@@ -34,6 +34,11 @@ theme:
   language: en
 extra_css:
   - assets/css/site.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 markdown_extensions:
   - toc:
       permalink: true
@@ -44,6 +49,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tilde
+  - pymdownx.caret
 nav:
   - "← Tennis Unified Main Site": https://tennis-unified.github.io/
   - Home: index.md

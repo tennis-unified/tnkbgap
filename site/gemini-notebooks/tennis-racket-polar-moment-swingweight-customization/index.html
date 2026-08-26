@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -5028,15 +5030,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#1-the-physics-of-swingweight-i_xx-polar-inertia-i_zz" class="md-nav__link">
+  <a href="#1-the-physics-of-swingweight-ixx-polar-inertia-izz" class="md-nav__link">
     <span class="md-ellipsis">
       
-        1. The Physics of Swingweight ($I_{xx}$) &amp; Polar Inertia ($I_{zz}$)
+        1. The Physics of Swingweight (Ixx) &amp; Polar Inertia (Izz)
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="1. The Physics of Swingweight ($I_{xx}$) &amp; Polar Inertia ($I_{zz}$)">
+    <nav class="md-nav" aria-label="1. The Physics of Swingweight (Ixx) &amp; Polar Inertia (Izz)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -5051,10 +5053,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#12-polar-moment-of-inertia-i_zz-off-center-twist" class="md-nav__link">
+  <a href="#12-polar-moment-of-inertia-izz-off-center-twist" class="md-nav__link">
     <span class="md-ellipsis">
       
-        1.2. Polar Moment of Inertia ($I_{zz}$) &amp; Off-Center Twist
+        1.2. Polar Moment of Inertia (Izz) &amp; Off-Center Twist
       
     </span>
   </a>
@@ -18091,15 +18093,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#1-the-physics-of-swingweight-i_xx-polar-inertia-i_zz" class="md-nav__link">
+  <a href="#1-the-physics-of-swingweight-ixx-polar-inertia-izz" class="md-nav__link">
     <span class="md-ellipsis">
       
-        1. The Physics of Swingweight ($I_{xx}$) &amp; Polar Inertia ($I_{zz}$)
+        1. The Physics of Swingweight (Ixx) &amp; Polar Inertia (Izz)
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="1. The Physics of Swingweight ($I_{xx}$) &amp; Polar Inertia ($I_{zz}$)">
+    <nav class="md-nav" aria-label="1. The Physics of Swingweight (Ixx) &amp; Polar Inertia (Izz)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -18114,10 +18116,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#12-polar-moment-of-inertia-i_zz-off-center-twist" class="md-nav__link">
+  <a href="#12-polar-moment-of-inertia-izz-off-center-twist" class="md-nav__link">
     <span class="md-ellipsis">
       
-        1.2. Polar Moment of Inertia ($I_{zz}$) &amp; Off-Center Twist
+        1.2. Polar Moment of Inertia (Izz) &amp; Off-Center Twist
       
     </span>
   </a>
@@ -18258,7 +18260,7 @@
 <strong>Keywords:</strong> <code>Swingweight</code>, <code>Moment of Inertia (MOI)</code>, <code>Polar Moment (I_zz)</code>, <code>Recoil Weight</code>, <code>Center of Percussion (COP)</code>, <code>Lead Tape Customization</code>, <code>Rod Cross</code>, <code>Howard Head</code></p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>In professional tennis, an off-the-shelf racket is merely raw material. Every elite ATP/WTA player customizes their frame's physical parameters to match their specific neuromuscular velocity profile, swing geometry, and kinetic chain tempo. Static mass (grams) is an incomplete metric; the true determinants of racket behavior during high-velocity collisions are dynamic metrics: <strong>Swingweight ($I_{xx}$)</strong>, <strong>Polar Moment of Inertia ($I_{zz}$)</strong>, <strong>Recoil Weight ($I_{\text{recoil}}$)</strong>, and the <strong>Center of Percussion (COP / "Sweet Spot")</strong>.</p>
+<p>In professional tennis, an off-the-shelf racket is merely raw material. Every elite ATP/WTA player customizes their frame's physical parameters to match their specific neuromuscular velocity profile, swing geometry, and kinetic chain tempo. Static mass (grams) is an incomplete metric; the true determinants of racket behavior during high-velocity collisions are dynamic metrics: <strong>Swingweight (<em>I</em><sub>xx</sub>)</strong>, <strong>Polar Moment of Inertia (<em>I</em><sub>zz</sub>)</strong>, <strong>Recoil Weight (<em>I</em><sub>recoil</sub>)</strong>, and the <strong>Center of Percussion (COP / "Sweet Spot")</strong>.</p>
 <p>This whitepaper analyzes: (1) The mathematical physics governing rotational inertia in three axes, (2) The Center of Percussion and node of vibration (shock minimization), (3) Recoil weight and plowing power against heavy incoming balls, and (4) The strategic application of high-density lead tape (12 o'clock, 3 &amp; 9 o'clock, and handle counter-weighting).</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    RACKET ROTATIONAL INERTIA &amp; CUSTOMIZATION                │
@@ -18272,7 +18274,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 </code></pre></div>
 <hr />
-<h2 id="1-the-physics-of-swingweight-i_xx-polar-inertia-i_zz">1. The Physics of Swingweight ($I_{xx}$) &amp; Polar Inertia ($I_{zz}$)<a class="headerlink" href="#1-the-physics-of-swingweight-i_xx-polar-inertia-i_zz" title="Permanent link">&para;</a></h2>
+<h2 id="1-the-physics-of-swingweight-ixx-polar-inertia-izz">1. The Physics of Swingweight (<em>I</em><sub>xx</sub>) &amp; Polar Inertia (<em>I</em><sub>zz</sub>)<a class="headerlink" href="#1-the-physics-of-swingweight-ixx-polar-inertia-izz" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>                        12 o'clock (Maximum Swingweight / Power)
                                     ╭─────╮
                                     │     │
@@ -18286,13 +18288,13 @@
 </code></pre></div>
 <h3 id="11-parallel-axis-theorem-swingweight">1.1. Parallel Axis Theorem &amp; Swingweight<a class="headerlink" href="#11-parallel-axis-theorem-swingweight" title="Permanent link">&para;</a></h3>
 <p>Swingweight measures the racket's resistance to rotational acceleration around a pivot axis located 10 cm from the butt-cap (simulating the wrist joint axis):</p>
-<p>$$I_{\text{pivot}} = I_{\text{cm}} + M d^2$$</p>
+<div class="arithmatex">\[I_{\text{pivot}} = I_{\text{cm}} + M d^2\]</div>
 <p>Where:
-- $M$ is total static mass ($\text{kg}$),
-- $I_{\text{cm}}$ is the moment of inertia through the center of mass,
-- $d$ is the distance from the 10cm pivot axis to the balance point.</p>
-<h3 id="12-polar-moment-of-inertia-i_zz-off-center-twist">1.2. Polar Moment of Inertia ($I_{zz}$) &amp; Off-Center Twist<a class="headerlink" href="#12-polar-moment-of-inertia-i_zz-off-center-twist" title="Permanent link">&para;</a></h3>
-<p>When a ball impacts 2 cm off the center stringbed axis, the racket twists violently along its longitudinal $z$-axis. Adding mass at <strong>3 and 9 o'clock</strong> increases $I_{zz} = \sum m_i r_i^2$, expanding the torsional sweet spot and reducing racket twisting by up to <strong>35%</strong>.</p>
+- <em>M</em> is total static mass (kg),
+- <em>I</em><sub>cm</sub> is the moment of inertia through the center of mass,
+- <em>d</em> is the distance from the 10cm pivot axis to the balance point.</p>
+<h3 id="12-polar-moment-of-inertia-izz-off-center-twist">1.2. Polar Moment of Inertia (<em>I</em><sub>zz</sub>) &amp; Off-Center Twist<a class="headerlink" href="#12-polar-moment-of-inertia-izz-off-center-twist" title="Permanent link">&para;</a></h3>
+<p>When a ball impacts 2 cm off the center stringbed axis, the racket twists violently along its longitudinal <em>z</em>-axis. Adding mass at <strong>3 and 9 o'clock</strong> increases <em>I</em><sub>zz</sub> = ∑ <em>m</em><sub>i</sub> <em>r</em><sub>i</sub>², expanding the torsional sweet spot and reducing racket twisting by up to <strong>35%</strong>.</p>
 <hr />
 <h2 id="2-the-center-of-percussion-cop-true-sweet-spot">2. The Center of Percussion (COP) &amp; True Sweet Spot<a class="headerlink" href="#2-the-center-of-percussion-cop-true-sweet-spot" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>        Ball Impacts COP ════════════════════════════════════► Net Transverse Force at Hand = 0
@@ -18301,7 +18303,7 @@
 </code></pre></div>
 <h3 id="21-true-center-of-percussion-definition">2.1. True Center of Percussion Definition<a class="headerlink" href="#21-true-center-of-percussion-definition" title="Permanent link">&para;</a></h3>
 <p>The <strong>Center of Percussion (COP)</strong> is the point on the stringbed where an impact creates equal and opposite rotational and translational forces at the player's hand, resulting in <strong>zero net initial reaction force on the wrist</strong>:</p>
-<p>$$q = \frac{I_{\text{pivot}}}{M \cdot d_{\text{pivot-to-cm}}}$$</p>
+<div class="arithmatex">\[q = \frac{I_{\text{pivot}}}{M \cdot d_{\text{pivot-to-cm}}}\]</div>
 <p>Hitting precisely at the COP eliminates shock waves traveling into the ulnar nerve, protecting against epicondylitis.</p>
 <hr />
 <h2 id="3-lead-tape-strategic-placement-protocols">3. Lead Tape Strategic Placement Protocols<a class="headerlink" href="#3-lead-tape-strategic-placement-protocols" title="Permanent link">&para;</a></h2>
@@ -18317,13 +18319,13 @@
 <tbody>
 <tr>
 <td><strong>12 o'clock (Tip)</strong></td>
-<td>Exponential Swingweight increase ($+1\text{g} \approx +3\text{ SW}$)</td>
+<td>Exponential Swingweight increase (+1 g ≈ +3 SW)</td>
 <td>Maximum plow-through on flat serves and heavy baseline drives</td>
 <td>Aggressive baseliners, hard flat servers</td>
 </tr>
 <tr>
 <td><strong>3 &amp; 9 o'clock (Sides)</strong></td>
-<td>Increases Polar MOI ($I_{zz}$) with moderate Swingweight</td>
+<td>Increases Polar MOI (<em>I</em><sub>zz</sub>) with moderate Swingweight</td>
 <td>Eliminates frame twisting on off-center return of serves</td>
 <td>Return specialists, counter-punchers</td>
 </tr>
@@ -18444,6 +18446,12 @@
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

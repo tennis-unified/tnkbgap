@@ -29,7 +29,7 @@ When jumping backward into the air to execute a scissor-kick overhead smash, the
 
 ## 1. Utricle & Saccule Gravitational Sensing
 
-Calcium carbonate otoconia crystals shift across hair cell stereocilia, providing continuous real-time calculation of head tilt ($35^\circ$) relative to true Earth gravity.
+Calcium carbonate otoconia crystals shift across hair cell stereocilia, providing continuous real-time calculation of head tilt (35°) relative to true Earth gravity.
 
 ```
        [ Visual Sensory Input ] ──► [ Magnocellular High-Speed Pathway ]

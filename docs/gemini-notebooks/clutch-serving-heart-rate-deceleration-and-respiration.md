@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Serving on match point with a heart rate of 170 BPM causes fine motor tremor. Elite clutch servers (Roger Federer, Pete Sampras) utilize **Conscious Bradycardia Induction**: taking a deep diaphragmatic inhalation followed by an **Extended 1:2 Ratio Exhalation (4s Inhale, 8s Exhale)** during the ball-bouncing cadence. This stimulates the **Vagus Nerve**, dropping heart rate by **$15\text{ to }20\text{ BPM}$ in 6 seconds** to eliminate hand tremor.
+Serving on match point with a heart rate of 170 BPM causes fine motor tremor. Elite clutch servers (Roger Federer, Pete Sampras) utilize **Conscious Bradycardia Induction**: taking a deep diaphragmatic inhalation followed by an **Extended 1:2 Ratio Exhalation (4s Inhale, 8s Exhale)** during the ball-bouncing cadence. This stimulates the **Vagus Nerve**, dropping heart rate by **15 to 20 BPM in 6 seconds** to eliminate hand tremor.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

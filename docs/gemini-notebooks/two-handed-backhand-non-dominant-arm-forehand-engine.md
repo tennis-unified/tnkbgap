@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern two-handed backhand (exemplified by Novak Djokovic and Jannik Sinner) is not a pulling backhand; it is a **Left-Handed Eastern Forehand Drive (for a right-handed player)**. Force-sensing grip sensors reveal that the non-dominant top hand generates over **$70\%$ of the forward kinetic propulsion and topspin brush**, while the bottom hand acts purely as a stabilizing guide fulcrum.
+The modern two-handed backhand (exemplified by Novak Djokovic and Jannik Sinner) is not a pulling backhand; it is a **Left-Handed Eastern Forehand Drive (for a right-handed player)**. Force-sensing grip sensors reveal that the non-dominant top hand generates over **70% of the forward kinetic propulsion and topspin brush**, while the bottom hand acts purely as a stabilizing guide fulcrum.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -41,7 +41,7 @@ The top left hand grips with an Eastern Forehand (Bevel 7), applying primary for
 
 ## 2. Non-Dominant Shoulder Extension
 
-The left shoulder uncoils through a complete $140^\circ$ arc, finishing high over the right shoulder in a full wrap, exactly mirroring an ATP forehand follow-through.
+The left shoulder uncoils through a complete 140° arc, finishing high over the right shoulder in a full wrap, exactly mirroring an ATP forehand follow-through.
 
 ---
 

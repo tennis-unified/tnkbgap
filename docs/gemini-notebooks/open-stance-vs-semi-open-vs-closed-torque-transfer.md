@@ -28,7 +28,7 @@ Stance geometry determines the rotational axis, angular momentum capacity, and r
 
 ## 1. Stance Mechanics Comparison
 
-Open stance relies entirely on gluteal loading and thoracic uncoiling ($X$-factor). Closed stance utilizes a linear weight transfer through the front hip, restricting rapid hip rotation but providing maximum forward depth on short approach balls.
+Open stance relies entirely on gluteal loading and thoracic uncoiling (*X*-factor). Closed stance utilizes a linear weight transfer through the front hip, restricting rapid hip rotation but providing maximum forward depth on short approach balls.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,13 +41,13 @@ Open stance relies entirely on gluteal loading and thoracic uncoiling ($X$-facto
 
 ## 2. Recovery Time Differential
 
-In an open stance, the outside foot is already positioned to push directly back toward the center of the court immediately upon contact ($t_{\text{recovery}} = 120\text{ms}$). In a closed stance, the trailing leg must step over the front leg, delaying recovery by $250\text{--}350\text{ms}$.
+In an open stance, the outside foot is already positioned to push directly back toward the center of the court immediately upon contact (*t*~recovery~ = 120 ms). In a closed stance, the trailing leg must step over the front leg, delaying recovery by 250–350 ms.
 
 ---
 
 ## 3. Stance Selection Matrix
 
-Deep baseline balls $\rightarrow$ Open stance; neutral baseline rallies $\rightarrow$ Semi-open stance; short balls inside baseline $\rightarrow$ Closed/Neutral stance.
+Deep baseline balls → Open stance; neutral baseline rallies → Semi-open stance; short balls inside baseline → Closed/Neutral stance.
 
 ---
 

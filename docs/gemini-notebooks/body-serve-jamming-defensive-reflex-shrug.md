@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The body serve is the most difficult serve to return because it attacks the player's center of mass directly, removing the ability to execute a standard rotational unit turn. When jammed at $120\text{ mph}$, attempting a full swing results in elbow cramping and weak shanks. This whitepaper analyzes the **Defensive Shoulder Shrug & Hop-Back Decoupling** that neutralizes body serves.
+The body serve is the most difficult serve to return because it attacks the player's center of mass directly, removing the ability to execute a standard rotational unit turn. When jammed at 120 mph, attempting a full swing results in elbow cramping and weak shanks. This whitepaper analyzes the **Defensive Shoulder Shrug & Hop-Back Decoupling** that neutralizes body serves.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ The body serve is the most difficult serve to return because it attacks the play
 
 ## 1. The Hop-Back Hip Decoupling
 
-As the ball approaches the torso, the receiver hops backward and to the side, shifting the center of mass $30\text{ cm}$ away from the ball flight path to create hitting space.
+As the ball approaches the torso, the receiver hops backward and to the side, shifting the center of mass 30 cm away from the ball flight path to create hitting space.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

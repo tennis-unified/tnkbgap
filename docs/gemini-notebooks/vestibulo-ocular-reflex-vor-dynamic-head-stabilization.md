@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When an elite tennis player sprints across the court to retrieve a wide passing shot, their head experiences violent multi-axis accelerations ($> 4\text{G}$). Without active ocular stabilization, the visual scene would blur into unintelligible streaks ('retinal slip'). The **Vestibulo-Ocular Reflex (VOR)** operates with the fastest latency in the human nervous system ($< 7\text{ms}$), firing counter-rotational eye movements that keep the ball's image locked immovably onto the fovea centralis.
+When an elite tennis player sprints across the court to retrieve a wide passing shot, their head experiences violent multi-axis accelerations (> 4 G). Without active ocular stabilization, the visual scene would blur into unintelligible streaks ('retinal slip'). The **Vestibulo-Ocular Reflex (VOR)** operates with the fastest latency in the human nervous system (< 7 ms), firing counter-rotational eye movements that keep the ball's image locked immovably onto the fovea centralis.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

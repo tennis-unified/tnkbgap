@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In temporal occlusion experiments where video footage is blacked out at the microsecond of ball impact, novice players guess serve placement at random chance ($50\%$ accuracy), while ATP Top 10 returners predict target box and spin with over **$88\%$ accuracy**. Elite returners decode **Micro-Postural Cues**—toss height relative to head, thoracic lateral tilt, lead hip forward drop, and knee extension angle—$100\text{ms}$ before the server strikes the ball.
+In temporal occlusion experiments where video footage is blacked out at the microsecond of ball impact, novice players guess serve placement at random chance (50% accuracy), while ATP Top 10 returners predict target box and spin with over **88% accuracy**. Elite returners decode **Micro-Postural Cues**—toss height relative to head, thoracic lateral tilt, lead hip forward drop, and knee extension angle—100 ms before the server strikes the ball.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

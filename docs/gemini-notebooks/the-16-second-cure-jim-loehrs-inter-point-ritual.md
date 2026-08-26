@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In a 3-hour match, actual ball-striking time is only 35 minutes; **$80\%$ of the match is spent BETWEEN points**. Dr. Jim Loehr's **16-Second Cure** divides this time into **4 Strict Stages**: (1) **Positive Physical Response** (0-3s, shoulders back, eyes up), (2) **Relaxation Stage** (3-6s, deep exhale, HR drops 15 BPM), (3) **Preparation Stage** (6-12s, tactical plan formulation), and (4) **Ritual Stage** (12-16s, pre-serve cadence).
+In a 3-hour match, actual ball-striking time is only 35 minutes; **80% of the match is spent BETWEEN points**. Dr. Jim Loehr's **16-Second Cure** divides this time into **4 Strict Stages**: (1) **Positive Physical Response** (0-3s, shoulders back, eyes up), (2) **Relaxation Stage** (3-6s, deep exhale, HR drops 15 BPM), (3) **Preparation Stage** (6-12s, tactical plan formulation), and (4) **Ritual Stage** (12-16s, pre-serve cadence).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

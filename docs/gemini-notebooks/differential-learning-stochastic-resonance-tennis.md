@@ -47,7 +47,7 @@ No two shots in a Differential Learning session are ever identical. The athlete 
 
 ## 3. Differential Learning Circuit
 
-1. Hit forehand standing on right leg only; 2. Hit forehand with left arm pinned behind back; 3. Hit forehand jumping backward; 4. Hit standard forehand $\rightarrow$ Notice instantaneous fluid power!
+1. Hit forehand standing on right leg only; 2. Hit forehand with left arm pinned behind back; 3. Hit forehand jumping backward; 4. Hit standard forehand → Notice instantaneous fluid power!
 
 ---
 

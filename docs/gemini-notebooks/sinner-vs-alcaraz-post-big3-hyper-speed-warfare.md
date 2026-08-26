@@ -41,7 +41,7 @@ Sinner stands on the baseline, using a compact double-bend arm structure to mini
 
 ## 2. Alcaraz's Engine: Extreme Kinetic Elasticity & Chaos
 
-Alcaraz uses massive $X$-factor stretch, generating extreme racket lag and 4,000 RPM topspin, pairing baseline violence with lightning-fast drop shots and athletic leaps.
+Alcaraz uses massive *X*-factor stretch, generating extreme racket lag and 4,000 RPM topspin, pairing baseline violence with lightning-fast drop shots and athletic leaps.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern open-stance forehand and hard-court sliding demand extreme hip internal rotation under violent ground reaction loads ($3.5\times$ bodyweight). Repetitive end-range loading during adolescent development triggers reactive bone formation at the femoral head-neck junction (Cam lesions), leading to Femoroacetabular Impingement (FAI), labral tears, and early osteoarthritis (exemplified by Andy Murray's hip resurfacing).
+The modern open-stance forehand and hard-court sliding demand extreme hip internal rotation under violent ground reaction loads (3.5× bodyweight). Repetitive end-range loading during adolescent development triggers reactive bone formation at the femoral head-neck junction (Cam lesions), leading to Femoroacetabular Impingement (FAI), labral tears, and early osteoarthritis (exemplified by Andy Murray's hip resurfacing).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ The modern open-stance forehand and hard-court sliding demand extreme hip intern
 
 ## 1. Pathomechanics of the Open-Stance Pivot
 
-Loading the outside leg in wide open stances forces the femoral head to abut against the acetabular rim under high rotational torque. When internal rotation is restricted ($< 25^\circ$), mechanical shear erodes articular cartilage.
+Loading the outside leg in wide open stances forces the femoral head to abut against the acetabular rim under high rotational torque. When internal rotation is restricted (< 25°), mechanical shear erodes articular cartilage.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Loading the outside leg in wide open stances forces the femoral head to abut aga
 
 ## 2. The 45-Degree Foot Flaring Rule
 
-Flaring the outside shoe outward at a $30^\circ\text{--}45^\circ$ angle prior to ground loading pre-opens the hip joint capsule, reducing internal impingement pressure by 35% while preserving explosive pelvic uncoiling.
+Flaring the outside shoe outward at a 30°–45° angle prior to ground loading pre-opens the hip joint capsule, reducing internal impingement pressure by 35% while preserving explosive pelvic uncoiling.
 
 ---
 

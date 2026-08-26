@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Modern baseline grinders are comfortable moving side-to-side, but struggle with front-to-back displacement. The **Drop Shot & Topspin Lob Tandem** manipulates **$12\text{ Meters of Court Depth}$**: first executing a disguised drop shot to sprint the opponent 6 meters forward into the net, followed immediately by a **$3,800\text{ RPM}$ Topspin Lob** that sends them retreating 12 meters back to the baseline fence.
+Modern baseline grinders are comfortable moving side-to-side, but struggle with front-to-back displacement. The **Drop Shot & Topspin Lob Tandem** manipulates **12 Meters of Court Depth**: first executing a disguised drop shot to sprint the opponent 6 meters forward into the net, followed immediately by a **3,800 RPM Topspin Lob** that sends them retreating 12 meters back to the baseline fence.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

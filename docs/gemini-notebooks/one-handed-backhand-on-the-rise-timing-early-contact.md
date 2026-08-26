@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Rather than retreating 4 meters behind the baseline to hit dropping high balls, Roger Federer revolutionized single-handed baseline defense by stepping forward to take the ball **On-the-Rise (15–25cm off the court bounce)**. This requires making contact $45\text{ cm}$ in front of the lead hip with a compact, short unit turn, robbing opponents of reaction time.
+Rather than retreating 4 meters behind the baseline to hit dropping high balls, Roger Federer revolutionized single-handed baseline defense by stepping forward to take the ball **On-the-Rise (15–25cm off the court bounce)**. This requires making contact 45 cm in front of the lead hip with a compact, short unit turn, robbing opponents of reaction time.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Rather than retreating 4 meters behind the baseline to hit dropping high balls, 
 
 ## 1. The Geometry of On-the-Rise Interception
 
-Intercepting the ball during its upward rebound flight ($0.2\text{ seconds}$ post-bounce) catches the ball in the ideal waist-height strike window ($0.85\text{--}1.05\text{m}$) before topspin kicks it out of reach.
+Intercepting the ball during its upward rebound flight (0.2 seconds post-bounce) catches the ball in the ideal waist-height strike window (0.85–1.05 m) before topspin kicks it out of reach.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,7 +41,7 @@ Intercepting the ball during its upward rebound flight ($0.2\text{ seconds}$ pos
 
 ## 2. The 45cm Forward Contact Window
 
-Contact on the single-handed backhand MUST occur significantly further forward than the two-hander. Stiffening the arm $45\text{ cm}$ in front of the lead toe maximizes linear forward leverage.
+Contact on the single-handed backhand MUST occur significantly further forward than the two-hander. Stiffening the arm 45 cm in front of the lead toe maximizes linear forward leverage.
 
 ---
 

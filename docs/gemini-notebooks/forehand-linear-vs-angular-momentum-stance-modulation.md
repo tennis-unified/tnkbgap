@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Every groundstroke represents a dynamic trade-off between **Linear Momentum ($p = m v$)** and **Angular Momentum ($L = I \omega$)**. The classical closed stance maximizes linear forward displacement of body mass along the shot vector, ideal for driving through short balls. The modern open stance maximizes transverse rotational velocity and explosive recovery. This paper models kinetic energy transfer efficiency across both paradigms.
+Every groundstroke represents a dynamic trade-off between **Linear Momentum (*p* = *mv*)** and **Angular Momentum (*L* = *I*ω)**. The classical closed stance maximizes linear forward displacement of body mass along the shot vector, ideal for driving through short balls. The modern open stance maximizes transverse rotational velocity and explosive recovery. This paper models kinetic energy transfer efficiency across both paradigms.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ Every groundstroke represents a dynamic trade-off between **Linear Momentum ($p 
 
 ---
 
-## 1. Linear Momentum Mechanics ($p = m v$)
+## 1. Linear Momentum Mechanics (*p* = *mv*)
 
-Closed stance transfers $70\text{kg}$ of body mass forward $0.8\text{ meters}$ into the ball, maximizing heavy penetration and low launch angles on approach shots.
+Closed stance transfers 70 kg of body mass forward 0.8 meters into the ball, maximizing heavy penetration and low launch angles on approach shots.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -39,15 +39,15 @@ Closed stance transfers $70\text{kg}$ of body mass forward $0.8\text{ meters}$ i
 
 ---
 
-## 2. Angular Momentum Mechanics ($L = I \omega$)
+## 2. Angular Momentum Mechanics (*L* = *I*ω)
 
-Open stance converts ground reaction vertical thrust into high-speed transverse rotational torque ($\omega = 650^\circ/\text{s}$), producing massive topspin RPM on deep baseline balls.
+Open stance converts ground reaction vertical thrust into high-speed transverse rotational torque (ω = 650°/s), producing massive topspin RPM on deep baseline balls.
 
 ---
 
 ## 3. Stance Modulation Decision Tree
 
-Behind baseline $\rightarrow$ Open stance rotational drive; Inside baseline $\rightarrow$ Closed stance linear penetration drive.
+Behind baseline → Open stance rotational drive; Inside baseline → Closed stance linear penetration drive.
 
 ---
 

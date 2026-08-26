@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In an era dominated by extreme topspin baseliners, the **Underspin Backhand Slice** represents the ultimate tactical counter-measure. By imparting reverse spin ($-2,500\text{--}-3,500\text{ RPM}$), the slice exploits the **Bernoulli Principle** to create upward aerodynamic lift during flight, followed by a sudden, razor-low skid upon bouncing ($< 15^\circ\text{ rebound angle}$). This forces two-handed topspin opponents out of their optimal waist-high hitting zone into deep knee flexion below net level.
+In an era dominated by extreme topspin baseliners, the **Underspin Backhand Slice** represents the ultimate tactical counter-measure. By imparting reverse spin (-2,500 to -3,500 RPM), the slice exploits the **Bernoulli Principle** to create upward aerodynamic lift during flight, followed by a sudden, razor-low skid upon bouncing (< 15° rebound angle). This forces two-handed topspin opponents out of their optimal waist-high hitting zone into deep knee flexion below net level.
 
 This whitepaper analyzes: (1) The aerodynamic physics of backspin glide and Magnus lift inversion, (2) The high-to-low cutting trajectory with the Continental grip, (3) The "Carving" vs. "Floating" distinction, (4) Tactical applications (defensive neutralization, change of pace, and approach shot knife), and (5) The master techniques of Ashleigh Barty and Roger Federer.
 
@@ -44,12 +44,12 @@ This whitepaper analyzes: (1) The aerodynamic physics of backspin glide and Magn
 ```
 
 ### 1.1. Inverted Magnus Lift
-While topspin forces the ball downward, backspin accelerates air over the top surface of the ball, creating a lower pressure zone above the ball. This upward aerodynamic lift ($F_L$) keeps the ball floating on a flat, laser-like trajectory, clearing the net by inches and carrying deep into the opponent's baseline.
+While topspin forces the ball downward, backspin accelerates air over the top surface of the ball, creating a lower pressure zone above the ball. This upward aerodynamic lift (*F*~L~) keeps the ball floating on a flat, laser-like trajectory, clearing the net by inches and carrying deep into the opponent's baseline.
 
 ### 1.2. Low Rebound Skid Angle
 Upon impacting the court surface, backspin causes the ball to bite and skid forward rather than bouncing upward:
-- Topspin Rebound Angle: $28^\circ\text{--}38^\circ$ (bounces up to chest height).
-- Slice Rebound Angle: **$12^\circ\text{--}18^\circ$** (stays below knee level, $< 25\text{ cm}$ off the ground).
+- Topspin Rebound Angle: 28°–38° (bounces up to chest height).
+- Slice Rebound Angle: **12°–18°** (stays below knee level, < 25 cm off the ground).
 
 ---
 
@@ -64,7 +64,7 @@ Upon impacting the court surface, backspin causes the ball to bite and skid forw
 
 ### 2.1. The "Knife" vs. "Float" Distinction
 - **Defensive Float**: Used when stretched out wide; high-to-low-to-high swing path creates a deep, floating ball that buys 2.5 seconds of recovery time.
-- **Offensive Knife (Barty / Federer)**: Racket cuts sharply through the ball with a flat horizontal follow-through, driving the ball at $75\text{ mph}$ with near-zero bounce.
+- **Offensive Knife (Barty / Federer)**: Racket cuts sharply through the ball with a flat horizontal follow-through, driving the ball at 75 mph with near-zero bounce.
 
 ---
 
@@ -73,8 +73,8 @@ Upon impacting the court surface, backspin causes the ball to bite and skid forw
 | Technical Attribute | Ashleigh Barty (WTA Gold Standard) | Roger Federer (ATP Master) |
 |---|---|---|
 | **Grip Orientation** | Pure Continental / Slight Eastern Backhand | Pure Continental (Bevel 2) |
-| **Average Spin Rate** | $-2,800\text{--}-3,600\text{ RPM}$ | $-2,600\text{--}-3,400\text{ RPM}$ |
-| **Tactical Role** | Primary rally foundation ($> 60\%$ of backhands) | Change-of-pace, short angle, approach |
+| **Average Spin Rate** | -2,800 to -3,600 RPM | -2,600 to -3,400 RPM |
+| **Tactical Role** | Primary rally foundation (> 60% of backhands) | Change-of-pace, short angle, approach |
 | **Disguise Index** | Indistinguishable takeback for slice vs. dropshot | Seamless transition from slice to drop shot |
 
 ---
@@ -83,6 +83,6 @@ Upon impacting the court surface, backspin causes the ball to bite and skid forw
 
 | Defect | Biomechanical Cause | Corrective Drill |
 |---|---|---|
-| **Floating Ball Long** | Strings open too much ($> 45^\circ$) | **"Shelf Glide Drill"**: Place a horizontal visual line at shoulder height; carve forward keeping racket face tilted at exactly $15^\circ$. |
+| **Floating Ball Long** | Strings open too much (> 45°) | **"Shelf Glide Drill"**: Place a horizontal visual line at shoulder height; carve forward keeping racket face tilted at exactly 15°. |
 | **Net Dumps** | Chopping straight down without forward extension | **Target Bucket Extension**: Place a target 1 meter in front of contact point; racket must extend through target. |
 | **Torso Over-Spinning** | Left arm dropping to waist | **Left Hand Fence Lock**: Non-dominant arm must extend straight back to 6 o'clock at impact. |

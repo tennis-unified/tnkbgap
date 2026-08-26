@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Dominic Thiem (2020 US Open Champion) modernized the single-handed backhand for high-spin clay and hard court warfare. By adopting a modified Semi-Western backhand grip (Bevel 8), dropping the racket head 40cm below the ball, and driving upward at a $60^\circ$ angle, Thiem generated **3,600+ RPM of heavy topspin**—matching Rafael Nadal's forehand spin rates from the backhand wing.
+Dominic Thiem (2020 US Open Champion) modernized the single-handed backhand for high-spin clay and hard court warfare. By adopting a modified Semi-Western backhand grip (Bevel 8), dropping the racket head 40cm below the ball, and driving upward at a 60° angle, Thiem generated **3,600+ RPM of heavy topspin**—matching Rafael Nadal's forehand spin rates from the backhand wing.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -47,7 +47,7 @@ The forearm violently supinates through contact, whipping the racket face closed
 
 ## 3. Deep Knee Flexion & Core Uncoiling
 
-Bending knees to $95^\circ$ to launch the entire body upward into the shot, clearing the net by over 1.2 meters with massive safety margins.
+Bending knees to 95° to launch the entire body upward into the shot, clearing the net by over 1.2 meters with massive safety margins.
 
 ---
 

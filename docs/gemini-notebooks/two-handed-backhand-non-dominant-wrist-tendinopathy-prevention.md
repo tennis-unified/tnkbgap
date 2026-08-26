@@ -59,5 +59,5 @@ Tyler Twist FlexBar exercises for non-dominant arm; isometric carpal holds; vide
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Active Left-Wrist Flicking: Flicking the left wrist violently upward at contact | ECU tendon subluxation & chronic TFCC tears | **Lock Left Wrist Firm: Drive topspin with shoulder vaulting and leg uncoiling; keep left wrist stable.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

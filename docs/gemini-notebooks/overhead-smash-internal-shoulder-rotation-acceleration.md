@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Just as on the serve, terminal racket velocity on the overhead smash is powered by **Internal Shoulder Rotation (ISR)**. Firing the **Subscapularis and Pectoralis Major** in the final $25\text{ms}$ before contact generates angular velocities exceeding **$2,400^\circ/\text{s}$**. Combined with forearm pronation, this snaps the racket flush behind the descending ball, discharging an unstoppable **$100\text{ mph}$ downward strike**.
+Just as on the serve, terminal racket velocity on the overhead smash is powered by **Internal Shoulder Rotation (ISR)**. Firing the **Subscapularis and Pectoralis Major** in the final 25 ms before contact generates angular velocities exceeding **2,400°/s**. Combined with forearm pronation, this snaps the racket flush behind the descending ball, discharging an unstoppable **100 mph downward strike**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

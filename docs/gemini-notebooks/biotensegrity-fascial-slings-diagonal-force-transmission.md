@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Human movement is governed by **Biotensegrity**—a continuous network of tensioned fascial cables balancing compressed bony struts. In tennis, power does not travel in straight lines; it travels through **Diagonal Functional Slings**: the Posterior Oblique Sling (contralateral gluteus maximus $\rightarrow$ thoracolumbar fascia $\rightarrow$ ipsilateral latissimus dorsi) and Anterior Oblique Sling (external oblique $\rightarrow$ anterior abdominal fascia $\rightarrow$ contralateral adductors).
+Human movement is governed by **Biotensegrity**—a continuous network of tensioned fascial cables balancing compressed bony struts. In tennis, power does not travel in straight lines; it travels through **Diagonal Functional Slings**: the Posterior Oblique Sling (contralateral gluteus maximus → thoracolumbar fascia → ipsilateral latissimus dorsi) and Anterior Oblique Sling (external oblique → anterior abdominal fascia → contralateral adductors).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

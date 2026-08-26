@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The kick serve (American Twist) utilizes a unique combination of heavy topspin ($3,000\text{--}4,200\text{ RPM}$) and right-to-left sidespin. In flight, the topspin causes the ball to dip steeply over the net cord; upon contact with the court, the forward rotational energy converts into vertical rebound height, kicking the ball up to $1.8\text{--}2.2\text{ meters}$ high into the opponent's weaker high backhand.
+The kick serve (American Twist) utilizes a unique combination of heavy topspin (3,000–4,200 RPM) and right-to-left sidespin. In flight, the topspin causes the ball to dip steeply over the net cord; upon contact with the court, the forward rotational energy converts into vertical rebound height, kicking the ball up to 1.8–2.2 meters high into the opponent's weaker high backhand.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ The kick serve (American Twist) utilizes a unique combination of heavy topspin (
 
 ## 1. The 7-to-1 o'clock Brushing Vector
 
-The racket head accelerates diagonally upward and outward across the back of the ball. Launch angle is $12^\circ\text{--}18^\circ$ above horizontal, clearing the net by over $1.0\text{ meter}$ with complete safety.
+The racket head accelerates diagonally upward and outward across the back of the ball. Launch angle is 12°–18° above horizontal, clearing the net by over 1.0 meter with complete safety.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ The racket head accelerates diagonally upward and outward across the back of the
 
 ## 2. Rebound Angle & Hop Physics
 
-Due to high forward rotational momentum, the angle of reflection exceeds the angle of incidence ($\theta_{\text{rebound}} > \theta_{\text{incidence}}$). The ball leaps violently off the court rather than skidding.
+Due to high forward rotational momentum, the angle of reflection exceeds the angle of incidence (θ~rebound~ > θ~incidence~). The ball leaps violently off the court rather than skidding.
 
 ---
 

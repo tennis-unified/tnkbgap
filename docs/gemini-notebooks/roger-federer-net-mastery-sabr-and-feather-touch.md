@@ -21,7 +21,7 @@ Roger Federer represents the zenith of modern net artistry. Biomechanical analys
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

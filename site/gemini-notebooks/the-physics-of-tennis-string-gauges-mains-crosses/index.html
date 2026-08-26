@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -18180,8 +18182,8 @@
 <strong>Keywords:</strong> <code>String Gauge Physics</code>, <code>15L to 18G (1.35mm to 1.15mm)</code>, <code>Differential Tension Tuning</code>, <code>Ball Pocketing</code>, <code>Tangential Bite</code>, <code>String Elasticity Curve</code>, <code>Jannik Sinner String Setup</code></p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>In high-performance tennis racket customization, string diameter (<strong>Gauge</strong>) and differential tension between main strings and cross strings represent the most critical fine-tuning dials. While recreational players often default to thick 16-gauge ($1.30\text{mm}$) strings for durability, elite ATP/WTA competitors manipulate gauge thicknesses from <strong>15L ($1.35\text{mm}$) down to 18 ($1.15\text{mm}$)</strong> and apply <strong>differential tension spreads of 1.0 to 2.5 kg (2 to 5 lbs)</strong> between mains and crosses to sculpt ball pocketing dwell time, launch angle, and spin potential.</p>
-<p>This whitepaper analyzes: (1) The structural physics of string gauge diameters ($1.15\text{mm}$ vs. $1.30\text{mm}$), (2) The mathematical relationship between string cross-sectional area and tangential ball penetration (felt bite), (3) <strong>Differential Tension Tuning</strong> (stringing crosses 1.5kg looser to maximize main string lateral snapback), and (4) Dwell-time mechanics during the 4-millisecond collision window.</p>
+<p>In high-performance tennis racket customization, string diameter (<strong>Gauge</strong>) and differential tension between main strings and cross strings represent the most critical fine-tuning dials. While recreational players often default to thick 16-gauge (1.30 mm) strings for durability, elite ATP/WTA competitors manipulate gauge thicknesses from <strong>15L (1.35 mm) down to 18 (1.15 mm)</strong> and apply <strong>differential tension spreads of 1.0 to 2.5 kg (2 to 5 lbs)</strong> between mains and crosses to sculpt ball pocketing dwell time, launch angle, and spin potential.</p>
+<p>This whitepaper analyzes: (1) The structural physics of string gauge diameters (1.15 mm vs. 1.30 mm), (2) The mathematical relationship between string cross-sectional area and tangential ball penetration (felt bite), (3) <strong>Differential Tension Tuning</strong> (stringing crosses 1.5kg looser to maximize main string lateral snapback), and (4) Dwell-time mechanics during the 4-millisecond collision window.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    STRING GAUGE &amp; DIFFERENTIAL TENSION TUNING               │
 │                                                                             │
@@ -18212,34 +18214,34 @@
 <tbody>
 <tr>
 <td><strong>15L</strong></td>
-<td>$1.35\text{ mm}$</td>
+<td>1.35 mm</td>
 <td>Low (Stiff stringbed)</td>
-<td>Low ($2,400\text{ RPM}$)</td>
-<td>Extreme ($30+\text{ hours}$)</td>
+<td>Low (2,400 RPM)</td>
+<td>Extreme (30+ hours)</td>
 <td>Chronic string breakers, flat heavy bashers</td>
 </tr>
 <tr>
 <td><strong>16</strong></td>
-<td>$1.30\text{ mm}$</td>
+<td>1.30 mm</td>
 <td>Standard</td>
-<td>Medium ($2,800\text{ RPM}$)</td>
-<td>High ($15\text{--}20\text{ hours}$)</td>
+<td>Medium (2,800 RPM)</td>
+<td>High (15–20 hours)</td>
 <td>Standard ATP/WTA baseline standard</td>
 </tr>
 <tr>
 <td><strong>16L / 17</strong></td>
-<td>$1.25\text{ mm} / 1.20\text{ mm}$</td>
+<td>1.25 mm / 1.20 mm</td>
 <td>High</td>
-<td><strong>Very High ($3,500\text{ RPM}$)</strong></td>
-<td>Moderate ($8\text{--}12\text{ hours}$)</td>
+<td><strong>Very High (3,500 RPM)</strong></td>
+<td>Moderate (8–12 hours)</td>
 <td><strong>Modern topspin specialists (Alcaraz / Sinner)</strong></td>
 </tr>
 <tr>
 <td><strong>18</strong></td>
-<td>$1.15\text{ mm}$</td>
+<td>1.15 mm</td>
 <td>Maximum</td>
-<td>Extreme ($4,000\text{ RPM}$)</td>
-<td>Low ($4\text{--}6\text{ hours}$)</td>
+<td>Extreme (4,000 RPM)</td>
+<td>Low (4–6 hours)</td>
 <td>Precision ball-strikers, clay court touch players</td>
 </tr>
 </tbody>
@@ -18253,7 +18255,7 @@ DIFFERENTIAL STRINGING (24kg Mains / 22kg Crosses - The Pro Setup):
   Lower cross tension relaxes the grid ──► Mains displace 6mm sideways freely!
 </code></pre></div>
 <h3 id="21-the-2kg-tension-differential-rule">2.1. The 2kg Tension Differential Rule<a class="headerlink" href="#21-the-2kg-tension-differential-rule" title="Permanent link">&para;</a></h3>
-<p>By dropping the cross string tension by <strong>$1.5\text{ to }2.0\text{ kg}$ ($3\text{ to }4.5\text{ lbs}$)</strong> relative to the mains:
+<p>By dropping the cross string tension by <strong>1.5 to 2.0 kg (3 to 4.5 lbs)</strong> relative to the mains:
 - The longitudinal mains have lower vertical frictional resistance from the crosses.
 - Lateral snapback amplitude increases by <strong>up to 35%</strong>, elevating spin output while softening the stringbed for arm protection.</p>
 
@@ -18359,6 +18361,12 @@ DIFFERENTIAL STRINGING (24kg Mains / 22kg Crosses - The Pro Setup):
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

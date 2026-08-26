@@ -9,9 +9,9 @@
 
 ## Executive Abstract
 
-The history of tennis technique cannot be separated from the history of materials science. From 1874 to 1980, tennis was played with **laminated wood rackets** characterized by tiny head sizes ($65\text{ sq inches}$), heavy static mass ($380\text{--}420\text{g}$), extreme flexibility, and minimal torsional stability. Hitting off-center with a wood racket caused severe frame twisting, mandating rigid closed-stance mechanics, flat linear swings, and continental grips. The invention of **oversized graphite/carbon-fiber composite frames** by Howard Head and Prince in the late 1970s and 1980s triggered an irreversible biomechanical revolution.
+The history of tennis technique cannot be separated from the history of materials science. From 1874 to 1980, tennis was played with **laminated wood rackets** characterized by tiny head sizes (65 sq inches), heavy static mass (380–420 g), extreme flexibility, and minimal torsional stability. Hitting off-center with a wood racket caused severe frame twisting, mandating rigid closed-stance mechanics, flat linear swings, and continental grips. The invention of **oversized graphite/carbon-fiber composite frames** by Howard Head and Prince in the late 1970s and 1980s triggered an irreversible biomechanical revolution.
 
-This whitepaper analyzes: (1) The structural physics of the wood-to-graphite transition ($65 \rightarrow 85 \rightarrow 100\text{ sq in}$), (2) The expansion of the torsional sweet spot ($I_{zz}$ multiplied by $300\%$), (3) How larger head sizes enabled the **Semi-Western/Western topspin revolution**, and (4) The extinction of classical serve-and-volley play.
+This whitepaper analyzes: (1) The structural physics of the wood-to-graphite transition (65 → 85 → 100 sq in), (2) The expansion of the torsional sweet spot (*I*~zz~ multiplied by 300%), (3) How larger head sizes enabled the **Semi-Western/Western topspin revolution**, and (4) The extinction of classical serve-and-volley play.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -35,7 +35,7 @@ This whitepaper analyzes: (1) The structural physics of the wood-to-graphite tra
 
 | Parameter | 1975 Dunlop Maxply Fort (Wood) | 2026 Babolat Pure Aero (Carbon Graphite) | Biomechanical Consequence |
 |---|---|---|---|
-| **Head Size** | $65\text{ sq inches}$ ($419\text{ cm}^2$) | $100\text{ sq inches}$ ($645\text{ cm}^2$) | Sweet spot area expanded by **340%**. |
-| **Static Mass** | $395\text{ grams}$ | $300\text{ grams}$ | Lighter mass allows explosive angular wrist pronation. |
-| **Polar MOI ($I_{zz}$)** | $8.5\text{ kg}\cdot\text{cm}^2$ (Extreme Twist) | $15.5\text{ kg}\cdot\text{cm}^2$ (Rock Solid) | Eliminates off-center torque on open-stance hits. |
-| **Frame Stiffness (RA)**| $40\text{ RA}$ (Heavy Energy Dissipation)| $69\text{ RA}$ (Elastic Kinetic Rebound) | Multiplies coefficient of restitution by 28%. |
+| **Head Size** | 65 sq inches (419 cm²) | 100 sq inches (645 cm²) | Sweet spot area expanded by **340%**. |
+| **Static Mass** | 395 grams | 300 grams | Lighter mass allows explosive angular wrist pronation. |
+| **Polar MOI (*I*~zz~)** | 8.5 kg·cm² (Extreme Twist) | 15.5 kg·cm² (Rock Solid) | Eliminates off-center torque on open-stance hits. |
+| **Frame Stiffness (RA)**| 40 RA (Heavy Energy Dissipation)| 69 RA (Elastic Kinetic Rebound) | Multiplies coefficient of restitution by 28%. |

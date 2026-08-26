@@ -28,7 +28,7 @@ Against passive or predictable second servers, the **Chip-and-Charge** represent
 
 ## 1. Underspin Knife Mechanics
 
-The returner uses a compact high-to-low Continental carving motion, keeping the return low ($< 15\text{ cm}$ over the net tape) with heavy backspin to force the server to hit up from below knee level.
+The returner uses a compact high-to-low Continental carving motion, keeping the return low (< 15 cm over the net tape) with heavy backspin to force the server to hit up from below knee level.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

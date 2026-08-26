@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In elite sports science, sleep is not passive downtime; it is the most potent legal performance-enhancing intervention available to human biology. During non-REM **Slow-Wave Sleep (Stage 3/4 SWS)**, the anterior pituitary gland secretes over **70% of daily Human Growth Hormone (HGH)**, driving collagen remodeling in micro-torn tennis tendons. Concurrently, the brain's **Glymphatic System** expands by 60%, flushing out metabolic neurotoxins (beta-amyloid, tau proteins, and adenosine), while **REM sleep spindles** replay daytime tennis motor patterns at $10\times$ speed, laying down myelin sheaths along cerebellar neural pathways.
+In elite sports science, sleep is not passive downtime; it is the most potent legal performance-enhancing intervention available to human biology. During non-REM **Slow-Wave Sleep (Stage 3/4 SWS)**, the anterior pituitary gland secretes over **70% of daily Human Growth Hormone (HGH)**, driving collagen remodeling in micro-torn tennis tendons. Concurrently, the brain's **Glymphatic System** expands by 60%, flushing out metabolic neurotoxins (beta-amyloid, tau proteins, and adenosine), while **REM sleep spindles** replay daytime tennis motor patterns at 10× speed, laying down myelin sheaths along cerebellar neural pathways.
 
 This whitepaper analyzes: (1) The four stages of sleep architecture and their tennis recovery functions, (2) The **Glymphatic clearance mechanism** preventing central reaction time decay, (3) **Motor Engram Consolidation & Neural Myelination**, and (4) The sleep hygiene and environmental protocols of generational longevity legends (Roger Federer's 10–12 hour sleep rule).
 
@@ -59,7 +59,7 @@ OVERNIGHT SLEEP SPINDLE PHASE:
 ```
 
 ### 2.1. Why Sleep Deprivation Destroys Technique
-Depriving an athlete of just 2 hours of sleep per night ($< 7\text{ hours}$):
+Depriving an athlete of just 2 hours of sleep per night (< 7 hours):
 - Decreases visual-motor reaction time by **18%**.
 - Increases unforced error rates by **32%**.
 - Elevates musculoskeletal injury risk by **1.7-fold**.
@@ -70,7 +70,7 @@ Depriving an athlete of just 2 hours of sleep per night ($< 7\text{ hours}$):
 
 | Environmental Parameter | Optimal Clinical Standard | Practical Implementation |
 |---|---|---|
-| **Ambient Room Temperature** | $18.0^\circ\text{C} \pm 1^\circ\text{C}$ ($65^\circ\text{F}$) | Facilitates the core body temperature drop required for deep SWS entry. |
-| **Complete Photonic Blackout** | $0.0\text{ Lux}$ light pollution | Blackout curtains + tape over all hotel electronic standby LEDs. |
-| **Acoustic White Noise** | Constant $45\text{ dB}$ flat spectrum | Mask sudden ambient hotel noises to prevent micro-arousals during REM. |
+| **Ambient Room Temperature** | 18.0°C ± 1°C (65° F) | Facilitates the core body temperature drop required for deep SWS entry. |
+| **Complete Photonic Blackout** | 0.0 Lux light pollution | Blackout curtains + tape over all hotel electronic standby LEDs. |
+| **Acoustic White Noise** | Constant 45 dB flat spectrum | Mask sudden ambient hotel noises to prevent micro-arousals during REM. |
 | **Digital Sunset Rule** | Zero blue light 90 min before bed | Blue-blocking glasses; keep smartphones outside the bedroom. |

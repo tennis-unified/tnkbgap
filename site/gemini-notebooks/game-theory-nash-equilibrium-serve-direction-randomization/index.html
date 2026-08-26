@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -18190,7 +18192,7 @@
 <strong>Keywords:</strong> <code>Game Theory, Nash Equilibrium, Mixed Strategies, Serve Direction Randomization, Minimax Theorem, John von Neumann</code>  </p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>In tennis serving, if a server always targets the opponent's weaker backhand, the returner will cheat laterally and anticipate the shot, destroying the server's advantage. Under <strong>Game Theory and Nash Equilibrium (Minimax Theorem)</strong>, the server must employ a <strong>Mixed Strategy</strong>: serving to the wide corner, 'T', and body with specific mathematical probabilities ($p_1, p_2, p_3$) such that the receiver's expected payoff is identical across all guessing choices, preventing tactical exploitation.</p>
+<p>In tennis serving, if a server always targets the opponent's weaker backhand, the returner will cheat laterally and anticipate the shot, destroying the server's advantage. Under <strong>Game Theory and Nash Equilibrium (Minimax Theorem)</strong>, the server must employ a <strong>Mixed Strategy</strong>: serving to the wide corner, 'T', and body with specific mathematical probabilities (<em>p</em>₁, <em>p</em>₂, <em>p</em>₃) such that the receiver's expected payoff is identical across all guessing choices, preventing tactical exploitation.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    TACTICAL INTELLIGENCE &amp; GAME THEORY ARCHITECTURE         │
 │                                                                             │
@@ -18207,7 +18209,7 @@
 </code></pre></div>
 <hr />
 <h2 id="1-the-2x2-payoff-matrix-in-serve-return-warfare">1. The 2x2 Payoff Matrix in Serve-Return Warfare<a class="headerlink" href="#1-the-2x2-payoff-matrix-in-serve-return-warfare" title="Permanent link">&para;</a></h2>
-<p>Constructing payoff matrices ($E(S_i, R_j)$) for Serve Wide vs. Serve 'T' against Receiver Anticipate Wide vs. Anticipate 'T', solving for equalized expected value.</p>
+<p>Constructing payoff matrices (<em>E</em>(<em>S</em><sub>i</sub>, <em>R</em><sub>j</sub>)) for Serve Wide vs. Serve 'T' against Receiver Anticipate Wide vs. Anticipate 'T', solving for equalized expected value.</p>
 <div class="highlight"><pre><span></span><code>       [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]
                                                        │
        [ High-Percentage First-Strike Weapon ] ◄───────┘
@@ -18354,6 +18356,12 @@
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

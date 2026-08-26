@@ -27,7 +27,7 @@ Aimless serving without target clustering produces low-percentage aces and easy 
 
 ---
 
-## 1. Center 'T' Angle Compression ($< 14^\circ$)
+## 1. Center 'T' Angle Compression (< 14°)
 
 Serving down the 'T' gives the returner no angle to work with, forcing returns back down the middle for easy forehand putaways.
 
@@ -56,6 +56,6 @@ Aiming at the returner's dominant hip catches them between forehand and backhand
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

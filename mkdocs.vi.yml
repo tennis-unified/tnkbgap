@@ -36,6 +36,11 @@ theme:
   language: vi
 extra_css:
   - assets/css/site.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 extra:
   alternate:
     - name: English
@@ -54,6 +59,10 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - tables
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tilde
+  - pymdownx.caret
 nav:
   - "← Thư Viện Tennis Thống Nhất": https://tennis-unified.github.io/vi/
   - Trang chủ: index.md

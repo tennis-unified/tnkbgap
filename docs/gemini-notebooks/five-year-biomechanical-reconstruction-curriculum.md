@@ -41,18 +41,18 @@ This whitepaper presents the comprehensive **5-Year Biomechanical Reconstruction
 
 ### 1.2. Year 2: Kinetic Chaining & Elastic Whip Acceleration (The Engine)
 - **Primary Objective**: Transition from "arming the ball" to full-body rotational whipping.
-- **Physical Conditioning**: Rotational medicine ball throws ($2\text{--}4\text{ kg}$), plyometric jump-landing mechanics, rotator cuff eccentric deceleration capacity.
-- **Technical Milestones**: Passive racket lag ($90^\circ\text{--}110^\circ$) on the forehand; 8-stage serve internal shoulder rotation (ISR $> 2,000^\circ/\text{sec}$).
+- **Physical Conditioning**: Rotational medicine ball throws (2–4 kg), plyometric jump-landing mechanics, rotator cuff eccentric deceleration capacity.
+- **Technical Milestones**: Passive racket lag (90°–110°) on the forehand; 8-stage serve internal shoulder rotation (ISR > 2,000°/s).
 
 ### 1.3. Year 3: Neuro-Ocular Synchronization & Subcortical Myelination (The Senses)
 - **Primary Objective**: Build high-speed predictive saccades and quiet eye fixation.
 - **Physical Conditioning**: Reactive agility tethers, stroboscopic visual training, vestibular balance boards.
-- **Technical Milestones**: Quiet eye contact freeze maintained for 1 full second; split-step timing synchronized to $-30\text{ ms}$ before opponent impact.
+- **Technical Milestones**: Quiet eye contact freeze maintained for 1 full second; split-step timing synchronized to -30 ms before opponent impact.
 
 ### 1.4. Year 4: Fault-Tolerant Pressure Mechanics & 0-4 Shot Tactical Dominance (The Strategy)
 - **Primary Objective**: Expand the error margin and dominate the first four shots of every point.
 - **Physical Conditioning**: Anaerobic alactic-lactic interval sprints (10-second bursts, 20-second recoveries), match-condition simulated fatigue sets.
-- **Technical Milestones**: 70%+ win rate in 0–4 shot rally sequences; consistent $80\text{ cm}$ net clearance on deep topspin balls.
+- **Technical Milestones**: 70%+ win rate in 0–4 shot rally sequences; consistent 80 cm net clearance on deep topspin balls.
 
 ### 1.5. Year 5: Championship Periodization & The Satori Mindset (The Master)
 - **Primary Objective**: Complete subcortical motor automation, autonomic nervous system self-regulation, and tournament peaking.
@@ -65,11 +65,11 @@ This whitepaper presents the comprehensive **5-Year Biomechanical Reconstruction
 
 | Development Pillar | Year 1 Baseline | Year 3 Intermediate | Year 5 Elite Standard |
 |---|---|---|---|
-| **First-Serve Speed** | $85\text{--}100\text{ mph}$ | $105\text{--}118\text{ mph}$ | $125\text{--}138+\text{ mph}$ |
-| **Forehand Topspin** | $1,500\text{ RPM}$ | $2,400\text{ RPM}$ | $3,200\text{--}3,800\text{ RPM}$ |
-| **Quiet Eye Duration** | $120\text{ ms}$ (Peeking common) | $250\text{ ms}$ | $350\text{--}450\text{ ms}$ (Rock solid) |
-| **0-4 Shot Win Rate** | $42\%$ | $49\%$ | $54\text{--}58\%$ |
-| **Lateral COD Time** | $1.8\text{ sec}$ | $1.4\text{ sec}$ | $< 1.15\text{ sec}$ |
+| **First-Serve Speed** | 85–100 mph | 105–118 mph | 125–138+ mph |
+| **Forehand Topspin** | 1,500 RPM | 2,400 RPM | 3,200–3,800 RPM |
+| **Quiet Eye Duration** | 120 ms (Peeking common) | 250 ms | 350–450 ms (Rock solid) |
+| **0-4 Shot Win Rate** | 42% | 49% | 54%–58% |
+| **Lateral COD Time** | 1.8 sec | 1.4 sec | < 1.15 sec |
 | **Injury Incidence** | High (Wrist/Shoulder strain) | Low | Near Zero (Biotensegrity Protection) |
 
 ---

@@ -41,13 +41,13 @@ When a player presents with 'elbow pain during kick serves,' the agent queries V
 
 ## 2. Eliminating Generic Coaching Clichés
 
-Instead of saying 'bend your knees,' the grounded LLM specifies: 'Increase knee flexion angle to $112^\circ$, drop string tension by 1.5kg, and shift serve toss 15cm forward.'
+Instead of saying 'bend your knees,' the grounded LLM specifies: 'Increase knee flexion angle to 112°, drop string tension by 1.5kg, and shift serve toss 15cm forward.'
 
 ---
 
 ## 3. The Tripartite Research Pipeline
 
-Scouting $\rightarrow$ Synthesis $\rightarrow$ Verification $\rightarrow$ Live Intranet Portal Publishing.
+Scouting → Synthesis → Verification → Live Intranet Portal Publishing.
 
 ---
 

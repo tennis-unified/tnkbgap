@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Richard Gasquet possesses the most extreme vertical whipping action on the single-handed backhand. By elevating the racket tip high above head level ($2.1\text{ meters}$) on the loop takeback and dropping it steeply beneath the ball ($0.4\text{ meters}$ below impact), Gasquet generates maximum gravitational and elastic acceleration, finishing with an iconic 'helicopter' wrap that produces devastating sharp crosscourt angles.
+Richard Gasquet possesses the most extreme vertical whipping action on the single-handed backhand. By elevating the racket tip high above head level (2.1 meters) on the loop takeback and dropping it steeply beneath the ball (0.4 meters below impact), Gasquet generates maximum gravitational and elastic acceleration, finishing with an iconic 'helicopter' wrap that produces devastating sharp crosscourt angles.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

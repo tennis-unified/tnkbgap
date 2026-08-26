@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The straight-arm forehand (used by Roger Federer, Rafael Nadal, and Carlos Alcaraz) locks the elbow joint in full extension from the bottom of the drop through contact. This configuration maximizes the lever radius ($r = 0.98\text{ meters}$ from shoulder to ball), maximizing linear sweet spot speed ($v = \omega r$) and creating effortless, flowing power.
+The straight-arm forehand (used by Roger Federer, Rafael Nadal, and Carlos Alcaraz) locks the elbow joint in full extension from the bottom of the drop through contact. This configuration maximizes the lever radius (*r* = 0.98 m from shoulder to ball), maximizing linear sweet spot speed (*v* = ω*r*) and creating effortless, flowing power.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ The straight-arm forehand (used by Roger Federer, Rafael Nadal, and Carlos Alcar
 
 ---
 
-## 1. Lever Arm Length Maximization ($r = 0.98\text{m}$)
+## 1. Lever Arm Length Maximization (*r* = 0.98 m)
 
-Extending the elbow adds $15\text{ cm}$ of lever length compared to a double-bend structure. At equal rotational speed ($\omega = 1,200^\circ/\text{s}$), sweet spot velocity increases by $12\text{ mph}$.
+Extending the elbow adds 15 cm of lever length compared to a double-bend structure. At equal rotational speed (ω = 1,200°/s), sweet spot velocity increases by 12 mph.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -41,7 +41,7 @@ Extending the elbow adds $15\text{ cm}$ of lever length compared to a double-ben
 
 ## 2. Forward Contact Window Requirement
 
-A straight arm requires making contact further in front of the body ($40\text{ cm}$ in front of lead hip) to achieve structural bone alignment.
+A straight arm requires making contact further in front of the body (40 cm in front of lead hip) to achieve structural bone alignment.
 
 ---
 

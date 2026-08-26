@@ -39,15 +39,15 @@ As the hitting arm snaps forward-downward, the rear right leg kicks backward and
 
 ---
 
-## 2. High Apex Contact Point ($2.8\text{--}3.2\text{ meters}$)
+## 2. High Apex Contact Point (2.8–3.2 meters)
 
-Airborne suspension allows contact at maximum reach, creating a steep downward angle of depression ($35^\circ$) that bounces the ball into the grandstands.
+Airborne suspension allows contact at maximum reach, creating a steep downward angle of depression (35°) that bounces the ball into the grandstands.
 
 ---
 
 ## 3. Scissor-Kick Progression Drills
 
-Standing rear-leg kick off $\rightarrow$ Overhead toss-and-jump off 15cm box $\rightarrow$ Full-speed retreat scissor smash.
+Standing rear-leg kick off → Overhead toss-and-jump off 15cm box → Full-speed retreat scissor smash.
 
 ---
 

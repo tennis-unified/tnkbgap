@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Under high-pressure match conditions (facing match points, double faults, crowd hostility), sympathetic nervous system hyper-arousal spikes heart rate ($> 185\text{ BPM}$), dilates pupils excessively, and triggers muscle tremor. World-class champions utilize the **20-Second Vagal Reset**—prolonged diaphragmatic exhalations and trigeminal cooling—to stimulate parasympathetic acetylcholine release, lowering heart rate by 15–20 BPM before the next point begins.
+Under high-pressure match conditions (facing match points, double faults, crowd hostility), sympathetic nervous system hyper-arousal spikes heart rate (> 185 BPM), dilates pupils excessively, and triggers muscle tremor. World-class champions utilize the **20-Second Vagal Reset**—prolonged diaphragmatic exhalations and trigeminal cooling—to stimulate parasympathetic acetylcholine release, lowering heart rate by 15–20 BPM before the next point begins.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

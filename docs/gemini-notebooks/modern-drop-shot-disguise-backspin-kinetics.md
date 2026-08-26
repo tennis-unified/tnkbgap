@@ -11,7 +11,7 @@
 
 In the modern power baseline era where defenders stand 3 to 4 meters behind the baseline to return heavy topspin drives, the **Disguised Drop Shot** has evolved from an occasional novelty into a primary offensive execution tool. Mastered by Carlos Alcaraz, Ons Jabeur, and Novak Djokovic, the modern drop shot boasts an unprecedented **85%+ point conversion rate** when deployed from inside the baseline.
 
-This whitepaper analyzes: (1) The neuromuscular anatomy of **Micro-Second Disguise** (preserving 100% of the standard forehand takeback until 40ms before contact), (2) The physics of **Kinetic Yielding & Soft-Tissue Impulse Dissipation**, (3) Imparting high reverse backspin ($-3,500\text{ RPM}$) causing the ball to "die" and bounce backward, and (4) The tactical trigger conditions for drop-shot execution.
+This whitepaper analyzes: (1) The neuromuscular anatomy of **Micro-Second Disguise** (preserving 100% of the standard forehand takeback until 40ms before contact), (2) The physics of **Kinetic Yielding & Soft-Tissue Impulse Dissipation**, (3) Imparting high reverse backspin (-3,500 RPM) causing the ball to "die" and bounce backward, and (4) The tactical trigger conditions for drop-shot execution.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

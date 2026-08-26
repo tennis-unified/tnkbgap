@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Traditional on-court training is limited by physical fatigue and ball availability. **High-Fidelity Virtual Reality (VR) Simulators operating at 120 Hz with sub-5ms motion-to-photon latency** provide unlimited high-repetition perceptual-cognitive exposure. By facing thousands of simulated 130 mph ATP serves without physical joint wear, players accelerate their perceptual cue recognition neural circuits by over **$400\%$**.
+Traditional on-court training is limited by physical fatigue and ball availability. **High-Fidelity Virtual Reality (VR) Simulators operating at 120 Hz with sub-5ms motion-to-photon latency** provide unlimited high-repetition perceptual-cognitive exposure. By facing thousands of simulated 130 mph ATP serves without physical joint wear, players accelerate their perceptual cue recognition neural circuits by over **400%**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -42,13 +42,13 @@ A player can face 500 elite serves in a 30-minute VR session, encoding toss vari
 
 ## 2. Transfer of Training to Real Match Courts
 
-Peer-reviewed studies confirm an $18.4\%$ improvement in real-world first-serve return conversion rates following 8 weeks of structured VR cognitive training.
+Peer-reviewed studies confirm an 18.4% improvement in real-world first-serve return conversion rates following 8 weeks of structured VR cognitive training.
 
 ---
 
 ## 3. VR Training Curriculum Blueprint
 
-3 Sessions per week (20 min each): 10 min server toss decoding $\rightarrow$ 10 min trajectory occlusion target identification.
+3 Sessions per week (20 min each): 10 min server toss decoding → 10 min trajectory occlusion target identification.
 
 ---
 

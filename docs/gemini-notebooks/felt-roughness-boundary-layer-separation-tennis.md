@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The felt covering of a tennis ball is not merely cosmetic; it fundamentally alters the boundary layer aerodynamics. The microscopic fibers trip laminar airflow into a turbulent boundary layer, delaying flow separation and dramatically altering the drag coefficient ($C_D \approx 0.55\text{--}0.70$). This whitepaper evaluates aerodynamic performance differences across major championship balls (Slazenger Wimbledon, Wilson US Open, Dunlop Fort).
+The felt covering of a tennis ball is not merely cosmetic; it fundamentally alters the boundary layer aerodynamics. The microscopic fibers trip laminar airflow into a turbulent boundary layer, delaying flow separation and dramatically altering the drag coefficient (*C*~D~ ≈ 0.55–0.70). This whitepaper evaluates aerodynamic performance differences across major championship balls (Slazenger Wimbledon, Wilson US Open, Dunlop Fort).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ The felt covering of a tennis ball is not merely cosmetic; it fundamentally alte
 
 ## 1. Boundary Layer Turbulence & Drag Physics
 
-At tennis flight velocities ($Re \approx 10^5$), smooth spheres experience laminar separation with a large wake and high pressure drag. The rough felt triggers turbulent flow, which adheres longer to the ball's rear surface, stabilizing flight trajectory.
+At tennis flight velocities (*Re* ≈ 10⁵), smooth spheres experience laminar separation with a large wake and high pressure drag. The rough felt triggers turbulent flow, which adheres longer to the ball's rear surface, stabilizing flight trajectory.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ At tennis flight velocities ($Re \approx 10^5$), smooth spheres experience lamin
 
 ## 2. The 'Fluffing' Effect in Long Rallies
 
-After 5–7 games of heavy baseline pounding, felt fibers expand outward, increasing the effective aerodynamic diameter ($+3\text{mm}$) and spiking drag by 18%, causing groundstrokes to decelerate rapidly in flight.
+After 5–7 games of heavy baseline pounding, felt fibers expand outward, increasing the effective aerodynamic diameter (+3 mm) and spiking drag by 18%, causing groundstrokes to decelerate rapidly in flight.
 
 ---
 

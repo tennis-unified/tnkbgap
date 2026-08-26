@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The high-velocity tennis serve places extreme rotational torque on the **Superior Labrum Anterior-to-Posterior (SLAP)** complex. At maximum shoulder external rotation ($170^\circ$, Cocking Phase), the **Long Head of the Biceps Tendon** changes its vector from vertical to posterior-oblique. This exerts a torsional **'Peel-Back' Shear Force** that peels the superior labrum and biceps anchor off the glenoid rim, causing deep shoulder clicking and loss of serve velocity.
+The high-velocity tennis serve places extreme rotational torque on the **Superior Labrum Anterior-to-Posterior (SLAP)** complex. At maximum shoulder external rotation (170°, Cocking Phase), the **Long Head of the Biceps Tendon** changes its vector from vertical to posterior-oblique. This exerts a torsional **'Peel-Back' Shear Force** that peels the superior labrum and biceps anchor off the glenoid rim, causing deep shoulder clicking and loss of serve velocity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

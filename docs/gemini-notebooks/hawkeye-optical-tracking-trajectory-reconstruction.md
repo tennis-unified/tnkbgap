@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Hawk-Eye has become the undisputed gold standard for electronic line calling and ball tracking across all Grand Slam championships. Using an array of 10 to 12 synchronized high-speed cameras ($340\text{ fps}$) positioned around the stadium, Hawk-Eye reconstructs the 3D trajectory of a $6.7\text{ cm}$ tennis ball traveling at $150\text{ mph}$ with an average error margin of **less than 2.6 millimeters**.
+Hawk-Eye has become the undisputed gold standard for electronic line calling and ball tracking across all Grand Slam championships. Using an array of 10 to 12 synchronized high-speed cameras (340 fps) positioned around the stadium, Hawk-Eye reconstructs the 3D trajectory of a 6.7 cm tennis ball traveling at 150 mph with an average error margin of **less than 2.6 millimeters**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Hawk-Eye has become the undisputed gold standard for electronic line calling and
 
 ## 1. High-Speed Multi-View Optical Triangulation
 
-Each camera identifies the pixel center of the yellow felt ball. Synchronized 2D pixel coordinates are combined through Direct Linear Transformation (DLT) and epipolar geometry to generate a continuous 3D Euclidean coordinate tensor $(x(t), y(t), z(t))$.
+Each camera identifies the pixel center of the yellow felt ball. Synchronized 2D pixel coordinates are combined through Direct Linear Transformation (DLT) and epipolar geometry to generate a continuous 3D Euclidean coordinate tensor (*x*(*t*), *y*(*t*), *z*(*t*)).
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

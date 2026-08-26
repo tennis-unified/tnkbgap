@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Over 60% of all groundstroke and return collisions in competitive tennis occur outside the longitudinal midline of the stringbed. Off-center impacts produce violent rotational twisting torque along the racket's $z$-axis, deflecting the racket face and transferring destructive torsional shock waves into the wrist and elbow. Adding high-density lead tape at 3 and 9 o'clock increases Polar Moment of Inertia ($I_{zz}$), stabilizing the frame.
+Over 60% of all groundstroke and return collisions in competitive tennis occur outside the longitudinal midline of the stringbed. Off-center impacts produce violent rotational twisting torque along the racket's *z*-axis, deflecting the racket face and transferring destructive torsional shock waves into the wrist and elbow. Adding high-density lead tape at 3 and 9 o'clock increases Polar Moment of Inertia (*I*~zz~), stabilizing the frame.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ Over 60% of all groundstroke and return collisions in competitive tennis occur o
 
 ---
 
-## 1. Polar Moment Calculation ($I_{zz}$)
+## 1. Polar Moment Calculation (*I*~zz~)
 
-The torsional resistance $I_{zz} = \sum m_i r_i^2$ scales with the square of the distance from the central axis. Adding just 4 grams of lead tape split at 3 and 9 o'clock ($r = 12\text{ cm}$) increases torsional stability by 22% while adding only 1.2% to total static mass.
+The torsional resistance *I*~zz~ = ∑ *m*~i~ *r*~i~² scales with the square of the distance from the central axis. Adding just 4 grams of lead tape split at 3 and 9 o'clock (*r* = 12 cm) increases torsional stability by 22% while adding only 1.2% to total static mass.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ The torsional resistance $I_{zz} = \sum m_i r_i^2$ scales with the square of the
 
 ## 2. Racket Face Angle Deviation Reduction
 
-On an off-center impact 2cm from center, an unweighted frame twists $4.5^\circ$ during contact, causing a 1.2-meter directional error. A perimeter-weighted frame twists only $1.8^\circ$, keeping the ball inside the court.
+On an off-center impact 2cm from center, an unweighted frame twists 4.5° during contact, causing a 1.2-meter directional error. A perimeter-weighted frame twists only 1.8°, keeping the ball inside the court.
 
 ---
 

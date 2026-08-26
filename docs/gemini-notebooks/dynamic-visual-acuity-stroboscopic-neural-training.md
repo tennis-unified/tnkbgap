@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Static visual acuity (20/20 eye chart test) correlates poorly with tennis success. The critical visual metric is Dynamic Visual Acuity (DVA)—the ability to resolve fine spatial detail in an object moving at high angular velocity ($> 100^\circ/\text{sec}$). This whitepaper presents stroboscopic occlusion training protocols that force the brain to extrapolate trajectory from incomplete visual data, dramatically reducing reaction time.
+Static visual acuity (20/20 eye chart test) correlates poorly with tennis success. The critical visual metric is Dynamic Visual Acuity (DVA)—the ability to resolve fine spatial detail in an object moving at high angular velocity (> 100°/s). This whitepaper presents stroboscopic occlusion training protocols that force the brain to extrapolate trajectory from incomplete visual data, dramatically reducing reaction time.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Static visual acuity (20/20 eye chart test) correlates poorly with tennis succes
 
 ## 1. Quantifying Dynamic Visual Acuity in Tennis
 
-When an incoming serve travels at $60\text{ m/s}$, the ball's retinal image moves across photoreceptors faster than chemical phototransduction can regenerate rhodopsin. DVA training enhances smooth pursuit gain and saccadic accuracy.
+When an incoming serve travels at 60 m/s, the ball's retinal image moves across photoreceptors faster than chemical phototransduction can regenerate rhodopsin. DVA training enhances smooth pursuit gain and saccadic accuracy.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

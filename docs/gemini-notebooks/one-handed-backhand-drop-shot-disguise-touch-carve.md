@@ -47,7 +47,7 @@ The grip tension relaxes from 6/10 to 2/10; the racket face carves underneath th
 
 ## 3. Drop Shot Execution Gate
 
-Deploy when opponent retreats $> 2.5\text{ meters}$ behind baseline; aim for short diagonal alley 1 meter past the net.
+Deploy when opponent retreats > 2.5 meters behind baseline; aim for short diagonal alley 1 meter past the net.
 
 ---
 

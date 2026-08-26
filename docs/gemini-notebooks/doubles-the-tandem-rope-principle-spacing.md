@@ -28,7 +28,7 @@ Weak doubles teams move independently, creating vast 4-meter gaps between them w
 
 ## 1. The Elastic 3-Meter Spacing Vector
 
-Maintaining a constant $2.8\text{--}3.2\text{ meter}$ distance between partners ensures that no passing shot can travel between them without entering one player's full-stretch volley reach.
+Maintaining a constant 2.8–3.2 meter distance between partners ensures that no passing shot can travel between them without entering one player's full-stretch volley reach.
 
 ```
        [ Server / Partner Baseline Drive ] ──► [ Net Player Diagonal Cut ]
@@ -56,5 +56,5 @@ Practicing doubles movement while tethered together with an elastic 3-meter resi
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Body language directly dictates neurochemistry. Adopting slumped, contracted postures elevates cortisol and suppresses testosterone. In contrast, **Postural Priming & Power Posing (Amy Cuddy Model)**—walking with **Shoulders Retracted, Spine Upright ($90^\circ$), Fast Confident Strides, and Head Elevated**—triggers a **$20\%\text{ Increase in Testosterone and }25\%\text{ Drop in Cortisol}$**, projecting subconscious intimidation across the net.
+Body language directly dictates neurochemistry. Adopting slumped, contracted postures elevates cortisol and suppresses testosterone. In contrast, **Postural Priming & Power Posing (Amy Cuddy Model)**—walking with **Shoulders Retracted, Spine Upright (90°), Fast Confident Strides, and Head Elevated**—triggers a **20% Increase in Testosterone and 25% Drop in Cortisol**, projecting subconscious intimidation across the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

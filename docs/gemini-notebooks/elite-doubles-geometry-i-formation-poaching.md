@@ -59,7 +59,7 @@ In standard doubles positioning, the returner easily reads the open crosscourt c
 ```
 
 ### 2.1. The Diagonal Crossing Law
-A common amateur error is running parallel along the net tape. In elite doubles, poaching is executed **diagonally forward at a $45^\circ$ angle toward the net strap**. This closes the distance to the ball, elevates the contact point above the tape, and allows downward punch redirection into the opponent's feet.
+A common amateur error is running parallel along the net tape. In elite doubles, poaching is executed **diagonally forward at a 45° angle toward the net strap**. This closes the distance to the ball, elevates the contact point above the tape, and allows downward punch redirection into the opponent's feet.
 
 ---
 

@@ -29,7 +29,7 @@ Every movement a tennis player makes creates massive internal sensory noise: the
 
 ## 1. Corollary Discharge Inhibitory Gating
 
-The motor cortex tells the auditory and somatosensory cortices: 'Ignore my own shoe squeak and racket whoosh.' This increases signal-to-noise ratio by $18\text{ dB}$.
+The motor cortex tells the auditory and somatosensory cortices: 'Ignore my own shoe squeak and racket whoosh.' This increases signal-to-noise ratio by 18 dB.
 
 ```
        [ Visual Sensory Input ] ──► [ Magnocellular High-Speed Pathway ]

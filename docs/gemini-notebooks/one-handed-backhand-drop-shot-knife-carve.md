@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **One-Handed Backhand Drop Shot** is the most natural disguise in tennis because it mimics the aggressive knife slice. Initiating a **High-to-Low Knife Slice Takeback**, Roger Federer and Richard Gasquet feign a deep skidding slice. At the point of impact, they **Decouple Scapular Driving Force**, softening the wrist to carve **$3,200\text{ RPM}$ of high-lift backspin** that clears the net by 5cm and checks backward on the bounce.
+The **One-Handed Backhand Drop Shot** is the most natural disguise in tennis because it mimics the aggressive knife slice. Initiating a **High-to-Low Knife Slice Takeback**, Roger Federer and Richard Gasquet feign a deep skidding slice. At the point of impact, they **Decouple Scapular Driving Force**, softening the wrist to carve **3,200 RPM of high-lift backspin** that clears the net by 5cm and checks backward on the bounce.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

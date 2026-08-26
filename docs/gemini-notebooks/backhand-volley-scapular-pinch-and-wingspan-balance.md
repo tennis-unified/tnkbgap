@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The Backhand Volley is biomechanically stronger than the forehand volley when executed correctly. By actively **Pinching the Hitting Scapula (Retraction)** and simultaneously **Expanding the Non-Dominant Arm Backward (Wingspan Counter-Extension)**, the player utilizes the Law of Conservation of Angular Momentum ($L = I \omega$) to lock the torso sideways, forming an unbreakable shock wall against 85 mph drives.
+The Backhand Volley is biomechanically stronger than the forehand volley when executed correctly. By actively **Pinching the Hitting Scapula (Retraction)** and simultaneously **Expanding the Non-Dominant Arm Backward (Wingspan Counter-Extension)**, the player utilizes the Law of Conservation of Angular Momentum (*L* = *I*ω) to lock the torso sideways, forming an unbreakable shock wall against 85 mph drives.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ The Backhand Volley is biomechanically stronger than the forehand volley when ex
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

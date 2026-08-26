@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A racket specification optimized for a modern two-handed backhand (e.g., head-heavy, thick beam, 100 sq in) is disastrous for a single-handed player. Single-handers require high maneuverability to accelerate the single-arm lever, combined with high torsional stability to prevent twisting on off-center hits. This paper provides exact customization specs: **$310\text{--}325\text{g}$ static mass, 6–8 points Head-Light balance, 325–335 swingweight, and 97–98 sq in head size**.
+A racket specification optimized for a modern two-handed backhand (e.g., head-heavy, thick beam, 100 sq in) is disastrous for a single-handed player. Single-handers require high maneuverability to accelerate the single-arm lever, combined with high torsional stability to prevent twisting on off-center hits. This paper provides exact customization specs: **310–325 g static mass, 6–8 points Head-Light balance, 325–335 swingweight, and 97–98 sq in head size**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ A racket specification optimized for a modern two-handed backhand (e.g., head-he
 
 ## 1. The Head-Light Balance Imperative
 
-A balance of $6\text{--}8\text{ pts HL}$ ($31.5\text{--}32.0\text{ cm}$) allows the single wrist and forearm to drop and whip the racket head through the acceleration arc without excessive tendon strain.
+A balance of 6–8 pts HL (31.5–32.0 cm) allows the single wrist and forearm to drop and whip the racket head through the acceleration arc without excessive tendon strain.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,13 +41,13 @@ A balance of $6\text{--}8\text{ pts HL}$ ($31.5\text{--}32.0\text{ cm}$) allows 
 
 ## 2. Polar Moment Optimization at 3 & 9 o'clock
 
-Adding 3 grams of lead tape at 3 and 9 o'clock increases Polar MOI ($I_{zz}$), preventing frame flutter on off-center single-handed hits.
+Adding 3 grams of lead tape at 3 and 9 o'clock increases Polar MOI (*I*~zz~), preventing frame flutter on off-center single-handed hits.
 
 ---
 
 ## 3. String Setup for Single-Handers
 
-Thinner gauge poly (17G / 1.20mm) strung at moderate tension ($22\text{--}23\text{ kg}$) to maximize pocketing dwell time and arm comfort.
+Thinner gauge poly (17G / 1.20mm) strung at moderate tension (22–23 kg) to maximize pocketing dwell time and arm comfort.
 
 ---
 

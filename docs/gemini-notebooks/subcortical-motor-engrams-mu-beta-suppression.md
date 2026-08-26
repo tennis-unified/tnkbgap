@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Under championship pressure (such as break points in a Grand Slam final), why do world-class athletes suddenly suffer catastrophic biomechanical breakdown—a phenomenon known clinically as "choking" or in French coaching terminology as *"Petit Bras"*? Neuroscience reveals that choking is not a failure of character; it is a **neurological routing failure**. When the threat-detecting amygdala triggers high sympathetic arousal, the conscious Prefrontal Cortex (PFC) seizes control of automated motor circuits. Because the PFC processes information at a sluggish $40\text{--}60\text{ bits/sec}$ compared to subcortical pathways ($120\text{ m/s}$ conduction speed), the athlete experiences agonist-antagonist co-contraction, locked joints, and severe deceleration.
+Under championship pressure (such as break points in a Grand Slam final), why do world-class athletes suddenly suffer catastrophic biomechanical breakdown—a phenomenon known clinically as "choking" or in French coaching terminology as *"Petit Bras"*? Neuroscience reveals that choking is not a failure of character; it is a **neurological routing failure**. When the threat-detecting amygdala triggers high sympathetic arousal, the conscious Prefrontal Cortex (PFC) seizes control of automated motor circuits. Because the PFC processes information at a sluggish 40–60 bits/sec compared to subcortical pathways (120 m/s conduction speed), the athlete experiences agonist-antagonist co-contraction, locked joints, and severe deceleration.
 
 This whitepaper analyzes: (1) The dual-processing architecture of the brain in tennis (Explicit Cortical vs. Implicit Subcortical), (2) The electroencephalographic (EEG) signature of **Mu/Beta Wave Suppression**, (3) **Jannik Sinner's 500ms Pre-Movement Zero-Noise Engram**, and (4) Neurological regulation protocols (**The Dantian Reset & The Observer Mindset**).
 
@@ -56,8 +56,8 @@ JANNIK SINNER "ZERO-NOISE" BRAIN:
 ```
 
 ### 2.1. The 500-Millisecond Neural Lead
-Electroencephalography (EEG) studies measuring sensorimotor Mu rhythms ($8\text{--}13\text{ Hz}$) and Beta rhythms ($14\text{--}30\text{ Hz}$) demonstrate that elite mastery is characterized by **rapid event-related desynchronization (ERD)**.
-- While sub-elite players quiet their conscious thoughts only $150\text{--}200\text{ ms}$ before contact, **Jannik Sinner completely desynchronizes analytical Mu/Beta waves nearly $500\text{ ms}$ prior to movement initiation**.
+Electroencephalography (EEG) studies measuring sensorimotor Mu rhythms (8–13 Hz) and Beta rhythms (14–30 Hz) demonstrate that elite mastery is characterized by **rapid event-related desynchronization (ERD)**.
+- While sub-elite players quiet their conscious thoughts only 150–200 ms before contact, **Jannik Sinner completely desynchronizes analytical Mu/Beta waves nearly 500 ms prior to movement initiation**.
 - Before the ball has even crossed the net cord, Sinner's motor program has been handed over entirely to the subcortical cerebellum, eliminating all doubt, hesitation, or mid-swing interference.
 
 ---

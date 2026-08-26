@@ -28,7 +28,7 @@ While the forehand allows both straight-arm (Federer/Nadal) and double-bend (Djo
 
 ## 1. Radius of Gyration & Lever Arm Length
 
-A locked straight arm maximizes the radius of rotation ($r = 0.95\text{m}$ from glenohumeral joint to sweet spot), maximizing tangential racket speed ($v = \omega r$) for a given angular velocity.
+A locked straight arm maximizes the radius of rotation (*r* = 0.95 m from glenohumeral joint to sweet spot), maximizing tangential racket speed (*v* = ω*r*) for a given angular velocity.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]

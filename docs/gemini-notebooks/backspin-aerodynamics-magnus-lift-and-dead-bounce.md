@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Understanding drop shot physics requires analyzing **Backspin Aerodynamics**. Topspin drives balls down ($F_{\text{Magnus}} < 0$), but backspin produces **Upward Inverted Magnus Lift ($F_{\text{Magnus}} > 0$)**. This allows a ball hit with low forward velocity to hover gently over the net. Upon court collision, backspin creates **Opposing Ground Friction**, converting forward rolling into a backward checking hop that kills the bounce dead.
+Understanding drop shot physics requires analyzing **Backspin Aerodynamics**. Topspin drives balls down (*F*~Magnus~ < 0), but backspin produces **Upward Inverted Magnus Lift (*F*~Magnus~ > 0)**. This allows a ball hit with low forward velocity to hover gently over the net. Upon court collision, backspin creates **Opposing Ground Friction**, converting forward rolling into a backward checking hop that kills the bounce dead.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Understanding drop shot physics requires analyzing **Backspin Aerodynamics**. To
 
 ---
 
-## 1. Upward Magnus Lift & Hover Flight ($F_{\text{lift}}$)
+## 1. Upward Magnus Lift & Hover Flight (*F*~lift~)
 
 Air flows faster over the top of the spinning ball, creating low pressure above and keeping the low-speed ball aloft over the tape.
 

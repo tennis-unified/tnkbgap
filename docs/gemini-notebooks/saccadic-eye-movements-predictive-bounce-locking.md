@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Eye-tracking telemetry (Land & McLeod, Vickers) debunks the myth of continuous ball tracking. Because the ball travels faster than the maximum speed of human smooth pursuit eye tracking ($> 100^\circ/\text{s}$), elite players make a **Predictive Saccadic Jump ($600^\circ/\text{s}$)** from the opponent's racket directly to the anticipated court bounce zone, waiting for the ball to arrive.
+Eye-tracking telemetry (Land & McLeod, Vickers) debunks the myth of continuous ball tracking. Because the ball travels faster than the maximum speed of human smooth pursuit eye tracking (> 100°/s), elite players make a **Predictive Saccadic Jump (600°/s)** from the opponent's racket directly to the anticipated court bounce zone, waiting for the ball to arrive.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Eye-tracking telemetry (Land & McLeod, Vickers) debunks the myth of continuous b
 
 ## 1. The Limitations of Smooth Pursuit
 
-Human smooth pursuit fails when retinal image velocity exceeds $80\text{--}100^\circ/\text{s}$. The ball moves across the field of view at up to $300^\circ/\text{s}$.
+Human smooth pursuit fails when retinal image velocity exceeds 80°–100°/s. The ball moves across the field of view at up to 300°/s.
 
 ```
        [ Visual Sensory Input ] ──► [ Magnocellular High-Speed Pathway ]

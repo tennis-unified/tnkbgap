@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -18204,7 +18206,7 @@
 </code></pre></div>
 <hr />
 <h2 id="1-the-6-segment-angular-velocity-cascade">1. The 6-Segment Angular Velocity Cascade<a class="headerlink" href="#1-the-6-segment-angular-velocity-cascade" title="Permanent link">&para;</a></h2>
-<p>Peak angular velocities occur in rigid chronological sequence: 1. Pelvis ($t = -120\text{ms}$, $\omega = 450^\circ/\text{s}$) $\rightarrow$ 2. Torso ($t = -80\text{ms}$, $\omega = 750^\circ/\text{s}$) $\rightarrow$ 3. Upper Arm ($t = -40\text{ms}$, $\omega = 1,100^\circ/\text{s}$) $\rightarrow$ 4. Forearm ($t = -15\text{ms}$, $\omega = 1,800^\circ/\text{s}$) $\rightarrow$ 5. Hand ($t = -5\text{ms}$, $\omega = 2,400^\circ/\text{s}$) $\rightarrow$ 6. Racket Tip ($t = 0\text{ms}$, $\omega = 3,200^\circ/\text{s}$).</p>
+<p>Peak angular velocities occur in rigid chronological sequence: 1. Pelvis (<em>t</em> = -120 ms, ω = 450°/s) → 2. Torso (<em>t</em> = -80 ms, ω = 750°/s) → 3. Upper Arm (<em>t</em> = -40 ms, ω = 1,100°/s) → 4. Forearm (<em>t</em> = -15 ms, ω = 1,800°/s) → 5. Hand (<em>t</em> = -5 ms, ω = 2,400°/s) → 6. Racket Tip (<em>t</em> = 0 ms, ω = 3,200°/s).</p>
 <div class="highlight"><pre><span></span><code>       [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
                                                          │
        [ Distal Catapult Release ] ◄─────────────────────┘
@@ -18212,7 +18214,7 @@
 </code></pre></div>
 <hr />
 <h2 id="2-segmental-deceleration-driving-upstream-acceleration">2. Segmental Deceleration Driving Upstream Acceleration<a class="headerlink" href="#2-segmental-deceleration-driving-upstream-acceleration" title="Permanent link">&para;</a></h2>
-<p>A proximal segment MUST decelerate for the distal segment to reach peak acceleration (Conservation of Angular Momentum: $L = I_1 \omega_1 + I_2 \omega_2$). If the hips continue spinning through contact, terminal hand speed drops by 32%.</p>
+<p>A proximal segment MUST decelerate for the distal segment to reach peak acceleration (Conservation of Angular Momentum: <em>L</em> = <em>I</em>₁ω₁ + <em>I</em>₂ω₂). If the hips continue spinning through contact, terminal hand speed drops by 32%.</p>
 <hr />
 <h2 id="3-diagnosing-sequencing-disruptions">3. Diagnosing Sequencing Disruptions<a class="headerlink" href="#3-diagnosing-sequencing-disruptions" title="Permanent link">&para;</a></h2>
 <p>'Arming the ball' occurs when the arm initiates before pelvic braking; corrected via step-and-hold medicine ball rotational throws.</p>
@@ -18351,6 +18353,12 @@
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

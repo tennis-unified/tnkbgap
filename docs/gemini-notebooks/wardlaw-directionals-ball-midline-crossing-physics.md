@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Developed by legendary collegiate coach Paul Wardlaw, **Wardlaw Directionals** is the most widely adopted tactical system in professional tennis. It classifies every incoming ball into two categories based on whether it crosses the player's midline: (1) **Inside-Out (Crosscourt) Balls MUST be redirected Crosscourt** (Low Risk), and (2) **Down-the-Line Direction Changes are PERMISSIBLE ONLY on balls that cross the player's body inside the baseline**. Obeying Wardlaw Directionals reduces unforced errors by over **$45\%$**.
+Developed by legendary collegiate coach Paul Wardlaw, **Wardlaw Directionals** is the most widely adopted tactical system in professional tennis. It classifies every incoming ball into two categories based on whether it crosses the player's midline: (1) **Inside-Out (Crosscourt) Balls MUST be redirected Crosscourt** (Low Risk), and (2) **Down-the-Line Direction Changes are PERMISSIBLE ONLY on balls that cross the player's body inside the baseline**. Obeying Wardlaw Directionals reduces unforced errors by over **45%**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Developed by legendary collegiate coach Paul Wardlaw, **Wardlaw Directionals** i
 
 ## 1. The Physics of Ball Midline Crossing
 
-Hitting a crosscourt ball down the line requires changing the ball's momentum vector by $60^\circ$, significantly narrowing the permissible contact timing window to $< 8\text{ms}$.
+Hitting a crosscourt ball down the line requires changing the ball's momentum vector by 60°, significantly narrowing the permissible contact timing window to < 8 ms.
 
 ```
        [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]

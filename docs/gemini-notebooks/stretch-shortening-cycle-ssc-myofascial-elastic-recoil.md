@@ -28,7 +28,7 @@ The human musculoskeletal system is not merely an internal combustion engine; it
 
 ## 1. The Physics of the Series Elastic Component (SEC)
 
-During the loading phase, muscle fibers contract isometrically as rigid struts, forcing compliant collagen tendons to stretch and store elastic strain energy ($U = \frac{1}{2} k \Delta x^2$). Tendons recoil 3x faster than active muscle contraction speed.
+During the loading phase, muscle fibers contract isometrically as rigid struts, forcing compliant collagen tendons to stretch and store elastic strain energy ($$U = \frac{1}{2} k \Delta x^2$$). Tendons recoil 3x faster than active muscle contraction speed.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -39,7 +39,7 @@ During the loading phase, muscle fibers contract isometrically as rigid struts, 
 
 ---
 
-## 2. The Critical Coupling Time Window ($< 250\text{ms}$)
+## 2. The Critical Coupling Time Window (< 250 ms)
 
 If the delay between eccentric loading and concentric release exceeds 250 milliseconds, stored elastic strain energy is dissipated as heat. Fluid, continuous strokes preserve 100% of elastic potentiation.
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-An erratic ball toss destroys serve timing. Kinematic tracking reveals that ATP champions achieve a **Toss Spatial Dispersion Under $2.0\text{cm}$**. The toss must be executed as a **Pure Glenohumeral Shoulder Hinge** with locked elbow and wrist, releasing the ball smoothly at eye level. Optimal toss height peaks just $10\text{ to }15\text{cm}$ above maximum contact reach, allowing the player to strike the ball at the 'still point' of zero vertical velocity.
+An erratic ball toss destroys serve timing. Kinematic tracking reveals that ATP champions achieve a **Toss Spatial Dispersion Under 2.0 cm**. The toss must be executed as a **Pure Glenohumeral Shoulder Hinge** with locked elbow and wrist, releasing the ball smoothly at eye level. Optimal toss height peaks just 10 to 15 cm above maximum contact reach, allowing the player to strike the ball at the 'still point' of zero vertical velocity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ Eliminating wrist flick and elbow bend ensures the ball travels on a perfectly r
 
 ---
 
-## 2. Striking the 'Still Point' ($v = 0$ at Apex)
+## 2. Striking the 'Still Point' (*v* = 0 at Apex)
 
 Hitting at the toss apex maximizes contact precision, eliminating the timing error of striking a fast-falling ball.
 
@@ -56,6 +56,6 @@ Toss-and-catch with racket on ground; laser ring toss tracking; 50 consecutive i
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

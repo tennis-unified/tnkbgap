@@ -9,9 +9,9 @@
 
 ## Executive Abstract
 
-The evaluation of athletic performance in tennis has evolved from subjective coach observation to quantitative, markerless **3D Computer Vision (CV) and Artificial Intelligence pipelines**. Utilizing multi-camera high-speed video capture ($120\text{--}500\text{ fps}$), deep neural network pose estimators (e.g., OpenPose, MediaPipe, DeepLabCut, and proprietary Hawk-Eye optical architectures) reconstruct 33 human joint keypoints in 3D Euclidean space without invasive body markers.
+The evaluation of athletic performance in tennis has evolved from subjective coach observation to quantitative, markerless **3D Computer Vision (CV) and Artificial Intelligence pipelines**. Utilizing multi-camera high-speed video capture (120–500 fps), deep neural network pose estimators (e.g., OpenPose, MediaPipe, DeepLabCut, and proprietary Hawk-Eye optical architectures) reconstruct 33 human joint keypoints in 3D Euclidean space without invasive body markers.
 
-This whitepaper analyzes: (1) The mathematical foundation of 2D-to-3D markerless joint triangulation, (2) Optical flow algorithms for ball trajectory and spin tracking, (3) Automated algorithmic detection of upstream kinetic chain breakdowns (e.g., measuring $X$-Factor separation angles and trophy pose tilt in real-time), and (4) The integration of multi-agent LLM systems (Hermes $\leftrightarrow$ Antigravity $\leftrightarrow$ NotebookLM) to generate personalized, biomechanically grounded coaching interventions.
+This whitepaper analyzes: (1) The mathematical foundation of 2D-to-3D markerless joint triangulation, (2) Optical flow algorithms for ball trajectory and spin tracking, (3) Automated algorithmic detection of upstream kinetic chain breakdowns (e.g., measuring *X*-Factor separation angles and trophy pose tilt in real-time), and (4) The integration of multi-agent LLM systems (Hermes ↔ Antigravity ↔ NotebookLM) to generate personalized, biomechanically grounded coaching interventions.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -43,11 +43,11 @@ Camera 3 (Overhead Drone) ─/
 ```
 
 ### 1.1. Epipolar Geometry & Spatial Triangulation
-By calibrating extrinsic camera matrices ($R, T$) and intrinsic camera parameters ($f_x, f_y, c_x, c_y$), a 2D pixel coordinate $(u, v)$ from multiple camera views is projected along epipolar rays into a singular 3D Cartesian point $(X, Y, Z)$:
+By calibrating extrinsic camera matrices (*R*, *T*) and intrinsic camera parameters (*f*~x~, *f*~y~, *c*~x~, *c*~y~), a 2D pixel coordinate (*u*, *v*) from multiple camera views is projected along epipolar rays into a singular 3D Cartesian point (*X*, *Y*, *Z*):
 
 $$\lambda \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = K [R \mid T] \begin{bmatrix} X \\ Y \\ Z \\ 1 \end{bmatrix}$$
 
-This allows algorithms to track hip angular velocity ($\omega_{\text{hip}}$) and internal shoulder rotation ($\omega_{\text{ISR}}$) with an error margin of **less than 2 millimeters**.
+This allows algorithms to track hip angular velocity (ω~hip~) and internal shoulder rotation (ω~ISR~) with an error margin of **less than 2 millimeters**.
 
 ---
 
@@ -68,9 +68,9 @@ This allows algorithms to track hip angular velocity ($\omega_{\text{hip}}$) and
 
 ### 2.1. Feature Extraction & Anomaly Detection
 The AI pipeline continuously audits key biomechanical thresholds:
-1. **Serve Trophy Shoulder Tilt**: Triggers warning if dominant shoulder is depressed $< 20^\circ$.
-2. **Knee Flexion Depth**: Triggers warning if knee flexion at lowest dip is $< 100^\circ$.
-3. **Quiet Eye Contact Duration**: Measures the variance in head vector during the $100\text{ ms}$ post-impact interval.
+1. **Serve Trophy Shoulder Tilt**: Triggers warning if dominant shoulder is depressed < 20°.
+2. **Knee Flexion Depth**: Triggers warning if knee flexion at lowest dip is < 100°.
+3. **Quiet Eye Contact Duration**: Measures the variance in head vector during the 100 ms post-impact interval.
 
 ---
 

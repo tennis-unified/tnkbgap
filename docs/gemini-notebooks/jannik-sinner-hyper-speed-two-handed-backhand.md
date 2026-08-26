@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Jannik Sinner produces the highest average backhand ball speed on the ATP Tour (**$85.2\text{ mph}$ cruise speed**). Biomechanical telemetry reveals that Sinner achieves this not through muscular forcing, but through **Extreme Wrist Relaxation (Grip Tension 2.5/10)** combined with **Explosive Core Uncoiling**. His hitting arm acts as a double-pendulum whip, launching flat-topspin missiles with effortless rhythm.
+Jannik Sinner produces the highest average backhand ball speed on the ATP Tour (**85.2 mph cruise speed**). Biomechanical telemetry reveals that Sinner achieves this not through muscular forcing, but through **Extreme Wrist Relaxation (Grip Tension 2.5/10)** combined with **Explosive Core Uncoiling**. His hitting arm acts as a double-pendulum whip, launching flat-topspin missiles with effortless rhythm.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -44,7 +44,7 @@ Keeping wrists loose allows the racket head to lag passively before snapping for
 
 ## 2. High-Speed Rotational Uncoiling
 
-Sinner uncoils his hips and thoracic spine at over $700^\circ/\text{s}$, driving massive rotational power through the ball.
+Sinner uncoils his hips and thoracic spine at over 700°/s, driving massive rotational power through the ball.
 
 ---
 
@@ -59,5 +59,5 @@ Loose-wrist rapid acceleration backhands; 85+ mph radar gun speed threshold chal
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Tight Grip Choking Whip: Clenching the handle with 9/10 grip tension | Stiff robotic swing, lost racket speed & forearm fatigue | **Sinner Loose-Hand Rule: Relax fingers to 3/10 tension; let the racket whip effortlessly.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

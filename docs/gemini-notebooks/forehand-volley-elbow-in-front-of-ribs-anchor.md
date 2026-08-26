@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A frequent technical error on forehand volleys is letting the elbow tuck back into the hip, jamming the stroke. The biomechanical rule is the **Elbow-in-Front Anchor**: positioning the hitting elbow **$20\text{cm}$ in front of the rib cage** with the wrist extended $30^\circ$. This creates an unyielding structural cantilever that absorbs 80 mph passing shots and punches them deep with zero arm recoil.
+A frequent technical error on forehand volleys is letting the elbow tuck back into the hip, jamming the stroke. The biomechanical rule is the **Elbow-in-Front Anchor**: positioning the hitting elbow **20 cm in front of the rib cage** with the wrist extended 30°. This creates an unyielding structural cantilever that absorbs 80 mph passing shots and punches them deep with zero arm recoil.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ A frequent technical error on forehand volleys is letting the elbow tuck back in
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -42,7 +42,7 @@ Keeping the elbow ahead of the torso maintains optimal mechanical leverage and e
 
 ---
 
-## 2. $30^\circ$ Wrist Extension & Scapular Lock
+## 2. 30° Wrist Extension & Scapular Lock
 
 Pre-setting wrist extension locks the carpal bones into the forearm, creating a rock-solid impact face.
 

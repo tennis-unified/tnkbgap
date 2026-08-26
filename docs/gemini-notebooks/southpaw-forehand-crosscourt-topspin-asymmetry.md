@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The historic rivalry between Rafael Nadal and Roger Federer was defined by **Southpaw Crosscourt Topspin Asymmetry**. A left-hander's natural crosscourt forehand drives with **$3,400\text{ to }3,800\text{ RPM}$** directly into the right-hander's high backhand shoulder zone ($> 1.6\text{m}$ high). Forcing a right-hander to hit single-handed or two-handed backhands above shoulder height produces weak short balls, creating an effortless inside-in forehand putaway on Shot 3.
+The historic rivalry between Rafael Nadal and Roger Federer was defined by **Southpaw Crosscourt Topspin Asymmetry**. A left-hander's natural crosscourt forehand drives with **3,400 to 3,800 RPM** directly into the right-hander's high backhand shoulder zone (> 1.6 m high). Forcing a right-hander to hit single-handed or two-handed backhands above shoulder height produces weak short balls, creating an effortless inside-in forehand putaway on Shot 3.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ The historic rivalry between Rafael Nadal and Roger Federer was defined by **Sou
 
 ## 1. The High Rebound Geometric Trap
 
-Heavy topspin Magnus plunge causes the ball to hop to $1.7\text{m}$ height, placing the ball completely outside the right-hander's optimal power zone ($0.9\text{--}1.1\text{m}$).
+Heavy topspin Magnus plunge causes the ball to hop to 1.7 m height, placing the ball completely outside the right-hander's optimal power zone (0.9–1.1 m).
 
 ```
        [ Forward Jump-Split Ingestion ] ──► [ Isometric Wrist-Wall Block ]

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During high-velocity hard-court slides and split-steps, articular cartilage absorbs **$40\text{G Impact Shocks}$**. The cartilage solid matrix (collagen Type II and aggrecan proteoglycans) cannot withstand this alone; it relies on **Interstitial Fluid Pressurization**. Under rapid loading, water trapped within the proteoglycan mesh becomes pressurized, supporting **$> 90\%\text{ of the Total Contact Load}$** and providing nearly frictionless **Biphasic Boundary Lubrication** ($\mu < 0.005$).
+During high-velocity hard-court slides and split-steps, articular cartilage absorbs **40 G Impact Shocks**. The cartilage solid matrix (collagen Type II and aggrecan proteoglycans) cannot withstand this alone; it relies on **Interstitial Fluid Pressurization**. Under rapid loading, water trapped within the proteoglycan mesh becomes pressurized, supporting **> 90% of the Total Contact Load** and providing nearly frictionless **Biphasic Boundary Lubrication** (μ < 0.005).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

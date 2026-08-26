@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Caught in the transition alley ('No Man's Land'), players must execute the **Half-Volley Reflex Pick-Up**. Striking the ball just **$5\text{ to }10\text{cm}$ off the court bounce**, the player locks the wrist isometrically with a Continental grip, lowers the center of gravity, and shortens the stroke to a pure deflection block, converting the opponent's dipping shot into a deep transition drive.
+Caught in the transition alley ('No Man's Land'), players must execute the **Half-Volley Reflex Pick-Up**. Striking the ball just **5 to 10 cm off the court bounce**, the player locks the wrist isometrically with a Continental grip, lowers the center of gravity, and shortens the stroke to a pure deflection block, converting the opponent's dipping shot into a deep transition drive.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ Caught in the transition alley ('No Man's Land'), players must execute the **Hal
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

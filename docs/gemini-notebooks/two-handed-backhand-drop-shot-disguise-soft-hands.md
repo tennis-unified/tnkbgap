@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novak Djokovic is a master of the **Two-Handed Disguised Drop Shot**. He sets up with a **$100\%$ Full Two-Handed Drive Takeback**, forcing the defender deep behind the baseline. In the final **$30\text{ milliseconds}$**, he releases his non-dominant left hand, opens the racket face with a Continental blade, and carves **$3,000\text{ RPM}$ dead backspin**, dropping the ball inches past the net.
+Novak Djokovic is a master of the **Two-Handed Disguised Drop Shot**. He sets up with a **100% Full Two-Handed Drive Takeback**, forcing the defender deep behind the baseline. In the final **30 milliseconds**, he releases his non-dominant left hand, opens the racket face with a Continental blade, and carves **3,000 RPM dead backspin**, dropping the ball inches past the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ Alternating 2 heavy 2HB drives + 1 hand-release drop shot; service line drop tar
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Slowing Down Takeback Early: Decelerating the backswing, telegraphing the drop shot | Defender sprints forward early to hit an easy winner | **Full-Speed Coiling: Maintain 100% fast drive takeback; soften grip only in final 30ms.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

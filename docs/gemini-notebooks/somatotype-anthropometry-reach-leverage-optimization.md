@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Is there an idealized anatomical morphology for modern championship tennis? Statistical regressions across the ATP Top 100 over the past three decades demonstrate an evolutionary convergence toward an optimal height window: **$185\text{ cm to }191\text{ cm}$ ($6'1''\text{ to }6'3''$)**—the exact physical dimensions shared by Novak Djokovic ($188\text{ cm}$), Roger Federer ($185\text{ cm}$), and Rafael Nadal ($185\text{ cm}$). While taller players ($> 198\text{ cm}$) possess massive serve leverage, they suffer from high rotational moments of inertia and sluggish lateral change-of-direction. Conversely, shorter players ($< 175\text{ cm}$) enjoy elite agility but face severe serve trajectory deficits.
+Is there an idealized anatomical morphology for modern championship tennis? Statistical regressions across the ATP Top 100 over the past three decades demonstrate an evolutionary convergence toward an optimal height window: **185 cm to 191 cm (6'1\" to 6'3\")**—the exact physical dimensions shared by Novak Djokovic (188 cm), Roger Federer (185 cm), and Rafael Nadal (185 cm). While taller players (> 198 cm) possess massive serve leverage, they suffer from high rotational moments of inertia and sluggish lateral change-of-direction. Conversely, shorter players (< 175 cm) enjoy elite agility but face severe serve trajectory deficits.
 
 This whitepaper analyzes: (1) The biomechanical tradeoffs of height, mass, and center of mass (CoM), (2) The **Ape Index (Wingspan-to-Height Ratio)** in rotational whip generation, (3) Somatotype classifications (Ecto-Mesomorph dominance in elite tennis), and (4) Tactical game-style customization tailored to an individual athlete's anthropometric profile.
 
@@ -42,9 +42,9 @@ ROTATIONAL MOMENT OF INERTIA & COD:
 ```
 
 ### 1.1. The Golden 188cm Equilibrium
-At $188\text{ cm}$ ($6'2''$):
+At 188 cm (6'2\"):
 - The player hits serves from high enough to clear the net tape with flat trajectory.
-- The rotational radius ($r$) remains compact enough to permit violent hip deceleration ($> 600^\circ/\text{sec}$) and instantaneous hard-court sliding recovery.
+- The rotational radius (*r*) remains compact enough to permit violent hip deceleration (> 600°/s) and instantaneous hard-court sliding recovery.
 
 ---
 
@@ -57,7 +57,7 @@ Ape Index = Wingspan (cm) / Height (cm)
 ```
 
 ### 2.1. Long Arms as Force Multipliers
-A positive Ape Index provides exceptional leverage at the tip of the racket, increasing terminal racket head speed by $5\text{--}8\text{ mph}$ for the exact same angular velocity of the shoulder joint ($\Delta v = r \cdot \omega$).
+A positive Ape Index provides exceptional leverage at the tip of the racket, increasing terminal racket head speed by 5–8 mph for the exact same angular velocity of the shoulder joint (Δ*v* = *r* · ω).
 
 ---
 
@@ -65,6 +65,6 @@ A positive Ape Index provides exceptional leverage at the tip of the racket, inc
 
 | Anthropometric Profile | Physical Strengths | Primary Biomechanical Weakness | Prescribed Tactical System |
 |---|---|---|---|
-| **The Giant ($> 198\text{ cm}$)** | Massive serve, huge reach at net | High center of gravity, slow low-ball retrieval | **Serve + 1 First Strike**: Keep points $< 3$ shots; avoid extended baseline attrition. |
-| **The Golden Median ($185\text{--}191\text{ cm}$)** | Perfect balance of power, spin, and agility | None (Complete kinetic versatility) | **All-Court Domination**: Universal adaptation across all surfaces and rally lengths. |
-| **The Pocket Dynamo ($< 175\text{ cm}$)** | Blazing footwork speed, ultra-low CoM | Flat serve speed limited by net geometry | **Heavy Topspin & Counter-Punching**: Attack second serves, take balls early on-the-rise. |
+| **The Giant (> 198 cm)** | Massive serve, huge reach at net | High center of gravity, slow low-ball retrieval | **Serve + 1 First Strike**: Keep points < 3 shots; avoid extended baseline attrition. |
+| **The Golden Median (185–191 cm)** | Perfect balance of power, spin, and agility | None (Complete kinetic versatility) | **All-Court Domination**: Universal adaptation across all surfaces and rally lengths. |
+| **The Pocket Dynamo (< 175 cm)** | Blazing footwork speed, ultra-low CoM | Flat serve speed limited by net geometry | **Heavy Topspin & Counter-Punching**: Attack second serves, take balls early on-the-rise. |

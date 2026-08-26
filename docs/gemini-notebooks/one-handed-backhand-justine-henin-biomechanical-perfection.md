@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Justine Henin (7 Grand Slam titles) proved that raw physical size is secondary to flawless kinetic chaining. At 1.67m ($5'6''$) and 57kg, Henin routinely overpowered 1.88m power baseline players. Her single-handed backhand remains the gold standard of mechanical efficiency: deep shoulder coil, zero energy leaks in the core, and extreme opposite-arm wingspan counter-extension.
+Justine Henin (7 Grand Slam titles) proved that raw physical size is secondary to flawless kinetic chaining. At 1.67m (5'6\") and 57kg, Henin routinely overpowered 1.88m power baseline players. Her single-handed backhand remains the gold standard of mechanical efficiency: deep shoulder coil, zero energy leaks in the core, and extreme opposite-arm wingspan counter-extension.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Justine Henin (7 Grand Slam titles) proved that raw physical size is secondary t
 
 ## 1. Weight Transfer & Kinetic Velocity Multiplication
 
-Henin achieved a perfect velocity multiplication factor ($v_{\text{tip}} / v_{\text{hip}} = 4.8$) by decelerating her core abruptly prior to impact, releasing the arm like a dynamic elastic whip.
+Henin achieved a perfect velocity multiplication factor (*v*~tip~ / *v*~hip~ = 4.8) by decelerating her core abruptly prior to impact, releasing the arm like a dynamic elastic whip.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]

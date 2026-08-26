@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In classical tennis instruction, coaches often urge players to "use more muscle" or "hit harder." However, multi-channel **Surface Electromyography (sEMG)** studies comparing elite ATP professionals against recreational players reveal a paradoxical neurological reality: **elite ball-strikers exhibit SHORTER muscle activation burst durations and LOWER mean electrical activity during swing acceleration**, reserving maximal motor unit recruitment for a microsecond burst ($< 15\text{ ms}$) precisely at impact.
+In classical tennis instruction, coaches often urge players to "use more muscle" or "hit harder." However, multi-channel **Surface Electromyography (sEMG)** studies comparing elite ATP professionals against recreational players reveal a paradoxical neurological reality: **elite ball-strikers exhibit SHORTER muscle activation burst durations and LOWER mean electrical activity during swing acceleration**, reserving maximal motor unit recruitment for a microsecond burst (< 15 ms) precisely at impact.
 
 This whitepaper analyzes: (1) The chronological sEMG activation timeline across 8 primary muscle groups during the forehand and serve, (2) The debilitating phenomenon of **Antagonist Co-Contraction** (e.g., triceps firing during bicep flexion), (3) Motor unit rate coding and synchronization, and (4) sEMG biofeedback protocols for training fascial relaxation (*Tùng*).
 

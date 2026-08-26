@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During Stage 5 (Maximum External Shoulder Rotation / Racket Drop), the racket tip drops pointing straight down the player's spine. This positions the shoulder in **$165^\circ\text{ to }175^\circ\text{ of External Rotation}$**, stretching the subscapularis and pectoralis major like extreme rubber bands. The deep drop maximizes the rotational displacement angle ($\Delta \theta$), allowing maximum torque generation over distance.
+During Stage 5 (Maximum External Shoulder Rotation / Racket Drop), the racket tip drops pointing straight down the player's spine. This positions the shoulder in **165° to 175° of External Rotation**, stretching the subscapularis and pectoralis major like extreme rubber bands. The deep drop maximizes the rotational displacement angle (Δθ), allowing maximum torque generation over distance.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -27,9 +27,9 @@ During Stage 5 (Maximum External Shoulder Rotation / Racket Drop), the racket ti
 
 ---
 
-## 1. External Shoulder Rotation Range ($170^\circ$)
+## 1. External Shoulder Rotation Range (170°)
 
-Reaching $170^\circ$ external rotation is passive, driven by racket inertia as the torso accelerates upward.
+Reaching 170° external rotation is passive, driven by racket inertia as the torso accelerates upward.
 
 ```
        [ 115° Knee Flexion Thrust ] ──► [ 40° Cartwheel Shoulder Tilt ]
@@ -40,7 +40,7 @@ Reaching $170^\circ$ external rotation is passive, driven by racket inertia as t
 
 ---
 
-## 2. Maximizing Torque-Angle Integration ($\tau \cdot \Delta \theta$)
+## 2. Maximizing Torque-Angle Integration (τ · Δθ)
 
 A deeper drop expands the swing arc, giving shoulder rotators a longer distance to accelerate the racket to supersonic speeds.
 
@@ -56,6 +56,6 @@ Sleeper stretches for internal rotators; weighted sock/racket drop shadow swings
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

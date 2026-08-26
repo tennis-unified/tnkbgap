@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The serve's kinetic chain begins with the ground. Force-plate analysis reveals that sinking into a **$115^\circ\text{ knee flexion}$** trophy squat generates vertical ground reaction forces exceeding **$2,200\text{ Newtons}$**. This upward-forward thrust converts linear vertical impulse ($J = \int F dt$) into rotational torso uncoiling, launching the server **$50\text{cm}$ inside the baseline** at contact.
+The serve's kinetic chain begins with the ground. Force-plate analysis reveals that sinking into a **115° knee flexion** trophy squat generates vertical ground reaction forces exceeding **2,200 Newtons**. This upward-forward thrust converts linear vertical impulse (*J* = ∫ *F* dt) into rotational torso uncoiling, launching the server **50 cm inside the baseline** at contact.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -27,9 +27,9 @@ The serve's kinetic chain begins with the ground. Force-plate analysis reveals t
 
 ---
 
-## 1. The $115^\circ$ Knee Flexion Spring Geometry
+## 1. The 115° Knee Flexion Spring Geometry
 
-Bending less than $90^\circ$ leaves 40% of leg power untapped; bending past $120^\circ$ slows uncoiling. $115^\circ$ is the universal ATP golden angle.
+Bending less than 90° leaves 40% of leg power untapped; bending past 120° slows uncoiling. 115° is the universal ATP golden angle.
 
 ```
        [ 115° Knee Flexion Thrust ] ──► [ 40° Cartwheel Shoulder Tilt ]
@@ -56,6 +56,6 @@ Jump squats with resistance vest; trophy pose depth drops; vertical reach serve 
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -6866,15 +6868,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#1-surface-mechanics-friction-mu-restitution-e" class="md-nav__link">
+  <a href="#1-surface-mechanics-friction-restitution-e" class="md-nav__link">
     <span class="md-ellipsis">
       
-        1. Surface Mechanics: Friction ($\mu$) &amp; Restitution ($e$)
+        1. Surface Mechanics: Friction (μ) &amp; Restitution (e)
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="1. Surface Mechanics: Friction ($\mu$) &amp; Restitution ($e$)">
+    <nav class="md-nav" aria-label="1. Surface Mechanics: Friction (μ) &amp; Restitution (e)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -18091,15 +18093,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#1-surface-mechanics-friction-mu-restitution-e" class="md-nav__link">
+  <a href="#1-surface-mechanics-friction-restitution-e" class="md-nav__link">
     <span class="md-ellipsis">
       
-        1. Surface Mechanics: Friction ($\mu$) &amp; Restitution ($e$)
+        1. Surface Mechanics: Friction (μ) &amp; Restitution (e)
       
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="1. Surface Mechanics: Friction ($\mu$) &amp; Restitution ($e$)">
+    <nav class="md-nav" aria-label="1. Surface Mechanics: Friction (μ) &amp; Restitution (e)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -18258,7 +18260,7 @@
 <strong>Keywords:</strong> <code>Coefficient of Restitution (COR)</code>, <code>Court Pace Index (CPI)</code>, <code>Sliding Friction (μ)</code>, <code>Altitude Aerodynamics</code>, <code>Barometric Drag</code>, <code>Clay vs. Hard vs. Grass</code>, <code>Madrid Open</code>, <code>Wimbledon</code></p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>A tennis ball does not fly in a vacuum, nor does it bounce on an idealized frictionless plane. In professional tournament tennis, environmental physics dictates tactical reality. Moving from sea level (US Open, Australian Open) to high-altitude venues like the <strong>Madrid Open (667m)</strong> or <strong>Gstaad (1,050m)</strong> decreases air density by <strong>8% to 12%</strong>, reducing aerodynamic Magnus drag and causing standard topspin groundstrokes to fly 30 to 50 cm deeper. Simultaneously, the court surface's <strong>Coefficient of Restitution ($e$)</strong> and <strong>Coefficient of Sliding Friction ($\mu$)</strong> fundamentally alter ball speed retention and bounce height.</p>
+<p>A tennis ball does not fly in a vacuum, nor does it bounce on an idealized frictionless plane. In professional tournament tennis, environmental physics dictates tactical reality. Moving from sea level (US Open, Australian Open) to high-altitude venues like the <strong>Madrid Open (667m)</strong> or <strong>Gstaad (1,050m)</strong> decreases air density by <strong>8% to 12%</strong>, reducing aerodynamic Magnus drag and causing standard topspin groundstrokes to fly 30 to 50 cm deeper. Simultaneously, the court surface's <strong>Coefficient of Restitution (<em>e</em>)</strong> and <strong>Coefficient of Sliding Friction (μ)</strong> fundamentally alter ball speed retention and bounce height.</p>
 <p>This whitepaper analyzes: (1) The mathematical physics of surface friction across Hard (Plexipave/DecoTurf), Red Clay (Roland Garros), and Natural Grass (Wimbledon), (2) The ITF Court Pace Index (CPI) equation, (3) Altitude aerodynamics and barometric drag formulas, and (4) Technical and equipment adaptations (reducing string tension, increasing spin RPM).</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    SURFACE DYNAMICS &amp; ENVIRONMENTAL PHYSICS                 │
@@ -18277,7 +18279,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 </code></pre></div>
 <hr />
-<h2 id="1-surface-mechanics-friction-mu-restitution-e">1. Surface Mechanics: Friction ($\mu$) &amp; Restitution ($e$)<a class="headerlink" href="#1-surface-mechanics-friction-mu-restitution-e" title="Permanent link">&para;</a></h2>
+<h2 id="1-surface-mechanics-friction-restitution-e">1. Surface Mechanics: Friction (μ) &amp; Restitution (<em>e</em>)<a class="headerlink" href="#1-surface-mechanics-friction-restitution-e" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>                       SURFACE FRICTION MATRIX
 
   [ Red Clay: μ = 0.85 ] ──► Maximum Friction Bites Ball ──► Ball Slows 56%, Jumps to Shoulder
@@ -18285,16 +18287,16 @@
 </code></pre></div>
 <h3 id="11-the-itf-court-pace-index-cpi-equation">1.1. The ITF Court Pace Index (CPI) Equation<a class="headerlink" href="#11-the-itf-court-pace-index-cpi-equation" title="Permanent link">&para;</a></h3>
 <p>The International Tennis Federation (ITF) quantifies court speed using the <strong>Court Pace Index (CPI)</strong>:</p>
-<p>$$\text{CPI} = 100(1 - \mu) + 80(a - e)$$</p>
+<div class="arithmatex">\[\text{CPI} = 100(1 - \mu) + 80(a - e)\]</div>
 <p>Where:
-- $\mu$ is the coefficient of dynamic sliding friction,
-- $e$ is the coefficient of restitution ($e = \sqrt{h_2 / h_1}$),
-- $a$ is the temperature correction factor.</p>
+- μ is the coefficient of dynamic sliding friction,
+- <em>e</em> is the coefficient of restitution (<em>e</em> = √(h₂ / h₁)),
+- <em>a</em> is the temperature correction factor.</p>
 <h3 id="12-the-surface-spectrum">1.2. The Surface Spectrum<a class="headerlink" href="#12-the-surface-spectrum" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong>Category 1 (Slow — CPI $&lt; 30$)</strong>: Red Clay (Roland Garros, Monte Carlo, Rome). Rewards 3,500+ RPM topspin and patience.</li>
-<li><strong>Category 3 (Medium — CPI $35\text{--}39$)</strong>: Medium Hard (Indian Wells, Miami, US Open). Balanced baseline warfare.</li>
-<li><strong>Category 5 (Fast — CPI $&gt; 45$)</strong>: Natural Grass (Wimbledon, Halle, Queen's Club), Fast Indoor Carpet. Rewards flat serves, low slices, and net rushes.</li>
+<li><strong>Category 1 (Slow — CPI &lt; 30)</strong>: Red Clay (Roland Garros, Monte Carlo, Rome). Rewards 3,500+ RPM topspin and patience.</li>
+<li><strong>Category 3 (Medium — CPI 35–39)</strong>: Medium Hard (Indian Wells, Miami, US Open). Balanced baseline warfare.</li>
+<li><strong>Category 5 (Fast — CPI &gt; 45)</strong>: Natural Grass (Wimbledon, Halle, Queen's Club), Fast Indoor Carpet. Rewards flat serves, low slices, and net rushes.</li>
 </ul>
 <hr />
 <h2 id="2-altitude-physics-barometric-pressure-aerodynamic-drag">2. Altitude Physics: Barometric Pressure &amp; Aerodynamic Drag<a class="headerlink" href="#2-altitude-physics-barometric-pressure-aerodynamic-drag" title="Permanent link">&para;</a></h2>
@@ -18305,9 +18307,9 @@ ALTITUDE 1,050m (Gstaad / Madrid):
   Air Density ρ = 1.090 kg/m³ (-11%) ──► Low Magnus Downward Force ──► Balls Fly Long by 40cm
 </code></pre></div>
 <h3 id="21-aerodynamic-drag-reduction">2.1. Aerodynamic Drag Reduction<a class="headerlink" href="#21-aerodynamic-drag-reduction" title="Permanent link">&para;</a></h3>
-<p>The aerodynamic drag force opposing ball flight is directly proportional to air density ($\rho$):</p>
-<p>$$F_D = \frac{1}{2} C_D \rho A v^2$$</p>
-<p>At high altitudes, lower air density ($\rho$) reduces both drag ($F_D$) and the downward Magnus lift ($F_M$). Because the ball experiences less air resistance, groundstrokes travel significantly faster through the air but fail to dip sharply.</p>
+<p>The aerodynamic drag force opposing ball flight is directly proportional to air density (ρ):</p>
+<div class="arithmatex">\[F_D = \frac{1}{2} C_D \rho A v^2\]</div>
+<p>At high altitudes, lower air density (ρ) reduces both drag (<em>F</em><sub>D</sub>) and the downward Magnus lift (<em>F</em><sub>M</sub>). Because the ball experiences less air resistance, groundstrokes travel significantly faster through the air but fail to dip sharply.</p>
 <hr />
 <h2 id="3-equipment-technical-adaptations">3. Equipment &amp; Technical Adaptations<a class="headerlink" href="#3-equipment-technical-adaptations" title="Permanent link">&para;</a></h2>
 <table>
@@ -18443,6 +18445,12 @@ ALTITUDE 1,050m (Gstaad / Madrid):
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern forehand drop shot is the most lethal touch weapon in tennis. Rather than telegraphing the stroke with a tentative chip, Carlos Alcaraz initiates a **100% Identical Full-Drive Unit Turn and Lag Drop**. In the **Final 30 Milliseconds Before Contact**, he relaxes grip tension from **6/10 to 2/10**, allowing the racket face to open slightly and carve under the ball, imparting **$3,500\text{ RPM}$ of dead backspin** that lands inches past the net with zero forward bounce.
+The modern forehand drop shot is the most lethal touch weapon in tennis. Rather than telegraphing the stroke with a tentative chip, Carlos Alcaraz initiates a **100% Identical Full-Drive Unit Turn and Lag Drop**. In the **Final 30 Milliseconds Before Contact**, he relaxes grip tension from **6/10 to 2/10**, allowing the racket face to open slightly and carve under the ball, imparting **3,500 RPM of dead backspin** that lands inches past the net with zero forward bounce.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

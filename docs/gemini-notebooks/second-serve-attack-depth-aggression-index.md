@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In professional tennis, servers win only **$51\%$ of second-serve points**. Elite returners transform second serves into instant offense by establishing a high **Second Serve Attack Index**: stepping **$1.5\text{ meters}$ inside the baseline**, cutting the ball's flight time to $420\text{ms}$, and driving the return deep into the server's backhand corner to win over **$70\%$ of points within 3 shots**.
+In professional tennis, servers win only **51% of second-serve points**. Elite returners transform second serves into instant offense by establishing a high **Second Serve Attack Index**: stepping **1.5 meters inside the baseline**, cutting the ball's flight time to 420 ms, and driving the return deep into the server's backhand corner to win over **70% of points within 3 shots**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The kinetic chain is an unbroken series of biological links. An energy leak in any single link—such as a collapsed rear knee during loading, premature chest uncoiling, or a floppy wrist at impact—breaks the transmission wave, causing up to **$40\%$ loss of terminal ball velocity**. When upstream links fail, the player instinctively overcompensates with the shoulder and arm, causing rotator cuff tears and elbow tendinitis.
+The kinetic chain is an unbroken series of biological links. An energy leak in any single link—such as a collapsed rear knee during loading, premature chest uncoiling, or a floppy wrist at impact—breaks the transmission wave, causing up to **40% loss of terminal ball velocity**. When upstream links fail, the player instinctively overcompensates with the shoulder and arm, causing rotator cuff tears and elbow tendinitis.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ The kinetic chain is an unbroken series of biological links. An energy leak in a
 
 ## 1. Leak #1: The Collapsed Rear Knee
 
-Allowing the rear knee to cave inward ($> 15^\circ$ valgus collapse) leaks 35% of ground reaction force, depriving the pelvis of upward propulsion.
+Allowing the rear knee to cave inward (> 15° valgus collapse) leaks 35% of ground reaction force, depriving the pelvis of upward propulsion.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -47,7 +47,7 @@ Uncoiling the chest before the lead hip brakes dissipates core elastic tension, 
 
 ## 3. Systematic Kinetic Chain Audit Protocol
 
-High-speed 240fps video review checking 5 key checkpoints: Foot plant $\rightarrow$ Knee angle $\rightarrow$ Hip separation $\rightarrow$ Scapular lock $\rightarrow$ Contact point.
+High-speed 240fps video review checking 5 key checkpoints: Foot plant → Knee angle → Hip separation → Scapular lock → Contact point.
 
 ---
 

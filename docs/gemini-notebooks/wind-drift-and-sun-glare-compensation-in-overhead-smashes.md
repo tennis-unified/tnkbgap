@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Smashing outdoors presents severe environmental challenges. When lobs enter the **Solar Glare Zone**, looking directly at the sun causes temporary retinal blindness ($> 500\text{ms}$). The solution is **Peripheral Gaze Shifting**: tracking the ball through the non-dominant hand frame to shade the eyes. In **Crosswind Conditions**, players adjust footwork by **$30\text{cm}$ into the wind** to anticipate boundary layer felt drift.
+Smashing outdoors presents severe environmental challenges. When lobs enter the **Solar Glare Zone**, looking directly at the sun causes temporary retinal blindness (> 500 ms). The solution is **Peripheral Gaze Shifting**: tracking the ball through the non-dominant hand frame to shade the eyes. In **Crosswind Conditions**, players adjust footwork by **30 cm into the wind** to anticipate boundary layer felt drift.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ Positioning the left hand between the sun and eyes creates a localized shadow, p
 
 ---
 
-## 2. Crosswind Drift Offset Vectors ($\Delta x = 30\text{cm}$)
+## 2. Crosswind Drift Offset Vectors (Δ*x* = 30 cm)
 
 Aiming contact 30cm upwind compensates for lateral Magnus and drag deflection on high hanging lobs.
 

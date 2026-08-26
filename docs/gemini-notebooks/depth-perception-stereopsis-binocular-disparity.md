@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Accurate depth perception in tennis relies on binocular disparity—the slight difference between the horizontal images captured by the left and right retinas. At high ball velocities, the brain integrates binocular disparity with optical expansion rate ($\tau$ / Tau Theory) to compute exact time-to-collision ($TTC$). This paper details how stereopsis guides millimeter-precise racket face interception at the net.
+Accurate depth perception in tennis relies on binocular disparity—the slight difference between the horizontal images captured by the left and right retinas. At high ball velocities, the brain integrates binocular disparity with optical expansion rate (τ / Tau Theory) to compute exact time-to-collision (TTC). This paper details how stereopsis guides millimeter-precise racket face interception at the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ Accurate depth perception in tennis relies on binocular disparity—the slight d
 
 ---
 
-## 1. Binocular Disparity & The Tau ($\tau$) Margin
+## 1. Binocular Disparity & The Tau (τ) Margin
 
-Optical expansion of the ball's retinal image diameter ($\theta$) divided by its rate of expansion ($\dot{\theta}$) provides an instantaneous neural calculation of time-to-collision: $\tau = \theta / \dot{\theta}$, bypassing conscious cognitive estimation.
+Optical expansion of the ball's retinal image diameter (θ) divided by its rate of expansion (θ̇) provides an instantaneous neural calculation of time-to-collision: τ = θ / θ̇, bypassing conscious cognitive estimation.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

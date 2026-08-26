@@ -29,7 +29,7 @@ The tennis serve is the most mechanically intricate closed-loop motor skill in s
 
 ## 1. Stages 1–4: Potential Energy Accumulation
 
-From stable base through deep $115^\circ$ knee flexion and $25^\circ$ thoracic extension, storing massive elastic strain energy in the posterior chain.
+From stable base through deep 115° knee flexion and 25° thoracic extension, storing massive elastic strain energy in the posterior chain.
 
 ```
        [ 115° Knee Flexion Thrust ] ──► [ 40° Cartwheel Shoulder Tilt ]
@@ -42,7 +42,7 @@ From stable base through deep $115^\circ$ knee flexion and $25^\circ$ thoracic e
 
 ## 2. Stages 5–8: Ballistic Kinetic Discharge & Deceleration
 
-Internal shoulder rotation ($> 2,400^\circ/\text{s}$) and forearm pronation accelerate the racket to 135 mph, followed by eccentric posterior shoulder deceleration.
+Internal shoulder rotation (> 2,400°/s) and forearm pronation accelerate the racket to 135 mph, followed by eccentric posterior shoulder deceleration.
 
 ---
 
@@ -56,6 +56,6 @@ High-speed 240fps multi-planar filming; 8-stage freeze-frame checklist; kinemati
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Two distinct structural arm alignments exist in the modern 2HB. In the **Straight Dominant Arm Model** (Rafael Nadal, Marat Safin), the right elbow extends fully at contact, maximizing the **Lever Arm Radius ($r = 0.88\text{m}$)** for heavier topspin. In the **Double-Bend Model** (Novak Djokovic, Andy Murray), both elbows remain slightly bent ($120^\circ$), optimizing **Torsional Control & Timing Compactness** on fast surfaces.
+Two distinct structural arm alignments exist in the modern 2HB. In the **Straight Dominant Arm Model** (Rafael Nadal, Marat Safin), the right elbow extends fully at contact, maximizing the **Lever Arm Radius (*r* = 0.88 m)** for heavier topspin. In the **Double-Bend Model** (Novak Djokovic, Andy Murray), both elbows remain slightly bent (120°), optimizing **Torsional Control & Timing Compactness** on fast surfaces.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ High-speed camera alignment evaluation; testing comfort across contact depths; p
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Hyper-Extended Jammed Elbow: Locking both elbows rigidly straight throughout swing | Robotic stroke, lost feel & hyperextension injury | **Relaxed Extension: Allow the left arm to extend naturally while keeping the right arm comfortable.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

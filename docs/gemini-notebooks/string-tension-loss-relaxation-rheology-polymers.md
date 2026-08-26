@@ -28,7 +28,7 @@ Every tennis player experiences the sudden loss of control when strings 'go dead
 
 ## 1. Molecular Mechanics of Polymer Creep
 
-Unoriented amorphous polymer chains gradually slip and disentangle under tension (stress relaxation: $\sigma(t) = \sigma_0 e^{-t/\tau}$). This reduces string stiffness and alters the dynamic coefficient of restitution.
+Unoriented amorphous polymer chains gradually slip and disentangle under tension (stress relaxation: σ(*t*) = σ₀ *e*^(-*t*/τ)). This reduces string stiffness and alters the dynamic coefficient of restitution.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Unoriented amorphous polymer chains gradually slip and disentangle under tension
 
 ## 2. Impact on Snapback & Launch Angle
 
-As tension drops, the stringbed deflects deeper during impact, increasing dwell time and elevating launch angle ($+2^\circ\text{--}4^\circ$). Balls that previously dipped inside the baseline begin flying long by 40cm.
+As tension drops, the stringbed deflects deeper during impact, increasing dwell time and elevating launch angle (+2°–4°). Balls that previously dipped inside the baseline begin flying long by 40cm.
 
 ---
 

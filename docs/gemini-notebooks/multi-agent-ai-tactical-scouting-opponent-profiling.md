@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Modern championship preparation has transcended subjective coach notes. Autonomous multi-agent AI architectures (e.g., Hermes Agent $\leftrightarrow$ Google Antigravity) ingest thousands of historical Hawkeye data points, clustering opponent shot tendencies by scoreline, court location, and fatigue state. This generates predictive game plans that quantify opponent tactical biases on high-leverage points.
+Modern championship preparation has transcended subjective coach notes. Autonomous multi-agent AI architectures (e.g., Hermes Agent ↔ Google Antigravity) ingest thousands of historical Hawkeye data points, clustering opponent shot tendencies by scoreline, court location, and fatigue state. This generates predictive game plans that quantify opponent tactical biases on high-leverage points.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -39,7 +39,7 @@ In a 10-point format, dropping a single service point represents a 10% swing in 
 
 ---
 
-## 2. First-Serve In Percentage Optimization ($> 80\%$)
+## 2. First-Serve In Percentage Optimization (> 80%)
 
 Second serves in a match tiebreak are attacked with 72% return conversion. Servers must sacrifice 10 mph of flat pace to guarantee an 80%+ first serve landing rate with heavy spin.
 
@@ -56,5 +56,5 @@ Points 1–6: High-percentage solid middle targets; Points 7–10: High-convicti
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

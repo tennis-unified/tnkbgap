@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Coaches often shout 'Keep your eye on the ball until it hits the strings!' Neuro-ophthalmology proves this is physically impossible. In the final $1.5\text{ meters}$ before contact, the ball's angular velocity exceeds **$500^\circ/\text{s}$**, far surpassing the biological limit of human smooth pursuit ($100^\circ/\text{s}$). The ball disappears from the fovea 30ms before impact. Elite champions do not track the ball to the strings; they **Anchor their Gaze at the Predicted Contact Point**.
+Coaches often shout 'Keep your eye on the ball until it hits the strings!' Neuro-ophthalmology proves this is physically impossible. In the final 1.5 meters before contact, the ball's angular velocity exceeds **500°/s**, far surpassing the biological limit of human smooth pursuit (100°/s). The ball disappears from the fovea 30ms before impact. Elite champions do not track the ball to the strings; they **Anchor their Gaze at the Predicted Contact Point**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -27,7 +27,7 @@ Coaches often shout 'Keep your eye on the ball until it hits the strings!' Neuro
 
 ---
 
-## 1. The Angular Velocity Explosion ($> 500^\circ/\text{s}$)
+## 1. The Angular Velocity Explosion (> 500°/s)
 
 As the ball nears the racket head, angular velocity approaches infinity relative to the eyes. Retinal photoreceptors suffer complete motion smear.
 
@@ -42,7 +42,7 @@ As the ball nears the racket head, angular velocity approaches infinity relative
 
 ## 2. The Visual Contact Anchor Technique
 
-Fixating gaze firmly at the future point of contact $200\text{ms}$ in advance, letting the ball fly into the stationary visual field without moving the eyes.
+Fixating gaze firmly at the future point of contact 200 ms in advance, letting the ball fly into the stationary visual field without moving the eyes.
 
 ---
 

@@ -28,7 +28,7 @@ The second serve return is the single highest-leverage offensive opportunity for
 
 ## 1. Geometric Court Infiltration
 
-Stepping inside the baseline reduces the ball flight time from $650\text{ms}$ to $420\text{ms}$, depriving the server of recovery time and catching the ball at peak strike zone (waist-to-chest height) before it hops out of reach.
+Stepping inside the baseline reduces the ball flight time from 650 ms to 420 ms, depriving the server of recovery time and catching the ball at peak strike zone (waist-to-chest height) before it hops out of reach.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

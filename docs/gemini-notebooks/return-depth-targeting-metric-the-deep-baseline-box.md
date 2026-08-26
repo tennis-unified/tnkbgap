@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-ATP tour analytics (Craig O'Shannessy) prove that **Return Depth is 3.5x More Important Than Return Speed**. When a return lands short (around the service line), the server wins **$72\%$ of points on Shot 3**. However, when the return lands within **$1.5\text{ meters}$ of the baseline**, the server's win probability plummets to **$38\%$**, forcing awkward backpedaling and eliminating offensive angles.
+ATP tour analytics (Craig O'Shannessy) prove that **Return Depth is 3.5x More Important Than Return Speed**. When a return lands short (around the service line), the server wins **72% of points on Shot 3**. However, when the return lands within **1.5 meters of the baseline**, the server's win probability plummets to **38%**, forcing awkward backpedaling and eliminating offensive angles.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern ATP forehand is a high-speed rotational engine generating over **$3,200\text{ RPM}$ and $80\text{ mph}$**. This whitepaper details the **5-Phase Kinetic Breakdown**: (1) The $45^\circ\text{ Unit Turn & Scapular Load}$, (2) The Gravitational Lag Drop, (3) Leg Thrust & Hip Deceleration, (4) Forward Linear Contact (40cm ahead of hip), and (5) The Windshield Wiper Pronation Finish.
+The modern ATP forehand is a high-speed rotational engine generating over **3,200 RPM and 80 mph**. This whitepaper details the **5-Phase Kinetic Breakdown**: (1) The 45° Unit Turn & Scapular Load, (2) The Gravitational Lag Drop, (3) Leg Thrust & Hip Deceleration, (4) Forward Linear Contact (40cm ahead of hip), and (5) The Windshield Wiper Pronation Finish.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ The modern ATP forehand is a high-speed rotational engine generating over **$3,2
 
 ## 1. Phase 1 & 2: Elastic Storage & Passive Lag Drop
 
-Rotating the shoulders $45^\circ\text{--}55^\circ$ past the hips pre-stretches the core obliques; dropping the racket head utilizes gravity and inertia.
+Rotating the shoulders 45°–55° past the hips pre-stretches the core obliques; dropping the racket head utilizes gravity and inertia.
 
 ```
        [ 45° X-Factor Torsion Core ] ──► [ Lead Hip Deceleration Brake ]

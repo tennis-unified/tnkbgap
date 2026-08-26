@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Playing 5-set matches in $40^\circ\text{C}$ heat (e.g. Australian Open) produces extreme physiological strain. When metabolic heat production outpaces evaporative cooling, **Core Temperature can exceed $40.5^\circ\text{C}$ (Exertional Heat Stroke)**. Conversely, over-consuming plain water without sodium leads to **Exercise-Associated Hyponatremia ($[\text{Na}^+] < 135\text{ mmol/L}$)** and cerebral edema. Protocol mandates **Targeted Electrolyte Replacement ($1.2\text{--}1.8\text{g Na/hr}$)** and **Palmar Core Cooling ($12^\circ\text{C}$)** on changeovers.
+Playing 5-set matches in 40° C heat (e.g. Australian Open) produces extreme physiological strain. When metabolic heat production outpaces evaporative cooling, **Core Temperature can exceed 40.5° C (Exertional Heat Stroke)**. Conversely, over-consuming plain water without sodium leads to **Exercise-Associated Hyponatremia ([Na⁺] < 135 mmol/L)** and cerebral edema. Protocol mandates **Targeted Electrolyte Replacement (1.2–1.8 g Na/hr)** and **Palmar Core Cooling (12° C)** on changeovers.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

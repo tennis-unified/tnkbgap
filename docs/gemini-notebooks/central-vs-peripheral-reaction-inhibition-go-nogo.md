@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Hitting a great shot is only half the battle; knowing when NOT to hit is equally critical. When an opponent's deep drive is sailing long over the baseline, an unconditioned player swings impulsively due to motor momentum. Elite players possess exceptional **Go/No-Go Inhibitory Motor Control**: the **Pre-Supplementary Motor Area (pre-SMA) and Right Inferior Frontal Cortex** fire an instant inhibitory stop signal to the basal ganglia, canceling the motor program in under $90\text{ms}$.
+Hitting a great shot is only half the battle; knowing when NOT to hit is equally critical. When an opponent's deep drive is sailing long over the baseline, an unconditioned player swings impulsively due to motor momentum. Elite players possess exceptional **Go/No-Go Inhibitory Motor Control**: the **Pre-Supplementary Motor Area (pre-SMA) and Right Inferior Frontal Cortex** fire an instant inhibitory stop signal to the basal ganglia, canceling the motor program in under 90 ms.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

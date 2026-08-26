@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-At 6'10" (2.08m), John Isner achieved the most statistically dominant serve in tennis history (over 14,000 career aces). Biomechanically, Isner strikes the ball at a **Contact Height of $3.20\text{ meters}$**, creating a **True Downward Contact Angle ($\theta = -8.2^\circ$)**. This allows 140 mph flat serves to clear the net with massive safety margins while driving the ball down with steep, unreturnable bounce angles.
+At 6'10" (2.08m), John Isner achieved the most statistically dominant serve in tennis history (over 14,000 career aces). Biomechanically, Isner strikes the ball at a **Contact Height of 3.20 meters**, creating a **True Downward Contact Angle (θ = -8.2°)**. This allows 140 mph flat serves to clear the net with massive safety margins while driving the ball down with steep, unreturnable bounce angles.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Managing high moment of inertia in long limbs; compacting takeback to match long
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

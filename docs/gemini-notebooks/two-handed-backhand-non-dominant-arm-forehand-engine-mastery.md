@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Electromyographic and 3D kinematic studies prove that the modern **Two-Handed Backhand (2HB)** is functionally a **Non-Dominant (Left-Handed) Eastern Forehand Drive**. The non-dominant left hand provides **$70\%$ of forward-upward propulsion and topspin brush**, while the dominant right hand acts as an **Isometric Guiding Lever (30% contribution)**. Mastering the 2HB requires training the non-dominant arm as an elite forehand weapon.
+Electromyographic and 3D kinematic studies prove that the modern **Two-Handed Backhand (2HB)** is functionally a **Non-Dominant (Left-Handed) Eastern Forehand Drive**. The non-dominant left hand provides **70% of forward-upward propulsion and topspin brush**, while the dominant right hand acts as an **Isometric Guiding Lever (30% contribution)**. Mastering the 2HB requires training the non-dominant arm as an elite forehand weapon.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ Left-hand-only forehand crosscourt feeds (50 reps); two-hand unit turn with left
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Dominant Arm Pulling: Right arm pulling the racket across the chest | Lack of depth, weak spin & right elbow strain | **Left-Hand Push: Drive through the ball with the left palm facing the target.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

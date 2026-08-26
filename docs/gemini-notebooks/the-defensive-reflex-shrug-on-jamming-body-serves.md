@@ -31,7 +31,7 @@ Body serves traveling at 120 mph target the receiver's dominant hip or sternum, 
 
 ## 1. The Hop-Back Hip Decoupling Footwork
 
-Hopping back and laterally by $30\text{cm}$ creates immediate hitting space, allowing the elbow to clear the ribcage for clean ball contact.
+Hopping back and laterally by 30 cm creates immediate hitting space, allowing the elbow to clear the ribcage for clean ball contact.
 
 ```
        [ Forward Jump-Split Ingestion ] ──► [ Isometric Wrist-Wall Block ]

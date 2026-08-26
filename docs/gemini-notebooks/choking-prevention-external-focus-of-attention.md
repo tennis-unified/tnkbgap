@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Under pressure, the fatal mistake made by players is directing attention internally to body mechanics ('keep wrist extended, bend knees $90^\circ$'). According to Dr. Gabriele Wulf's Constrained Action Hypothesis, internal focus disrupts automated subcortical motor synergies. Focusing externally on the **intended ball trajectory, sound, and target zone** enhances stroke accuracy by 28% and prevents choking.
+Under pressure, the fatal mistake made by players is directing attention internally to body mechanics ('keep wrist extended, bend knees 90°'). According to Dr. Gabriele Wulf's Constrained Action Hypothesis, internal focus disrupts automated subcortical motor synergies. Focusing externally on the **intended ball trajectory, sound, and target zone** enhances stroke accuracy by 28% and prevents choking.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

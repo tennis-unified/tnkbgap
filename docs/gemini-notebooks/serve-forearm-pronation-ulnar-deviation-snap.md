@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Because the serve takeback leads with the edge of the frame (Continental grip), the racket face would strike the ball at a $90^\circ$ slice angle without pronation. In the final **4 milliseconds before contact**, violent forearm pronation (pronator quadratus / pronator teres) combined with ulnar deviation snaps the stringbed flush behind the ball, transferring pure horizontal momentum for 135+ mph flat aces.
+Because the serve takeback leads with the edge of the frame (Continental grip), the racket face would strike the ball at a 90° slice angle without pronation. In the final **4 milliseconds before contact**, violent forearm pronation (pronator quadratus / pronator teres) combined with ulnar deviation snaps the stringbed flush behind the ball, transferring pure horizontal momentum for 135+ mph flat aces.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Because the serve takeback leads with the edge of the frame (Continental grip), 
 
 ## 1. Leading with the Edge to Flat Flush Snap
 
-The racket ascends on its knife edge until $t = -8\text{ms}$. Pronation snaps the frame $90^\circ$ inward, presenting a perfectly flat stringbed at contact apex.
+The racket ascends on its knife edge until *t* = -8 ms. Pronation snaps the frame 90° inward, presenting a perfectly flat stringbed at contact apex.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]

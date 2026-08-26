@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Tennis is a stochastic point-by-point Markov process. Because scoring is discrete and non-linear, not all points are created equal. This whitepaper constructs a complete **18-State Markov Chain Transition Matrix** ($P_{i,j}$), calculating conditional win probabilities for every scoreline (0-0, 15-30, 30-40, Deuce). Points at **30-30 and 30-40 exhibit 3.8x higher scoreline leverage** than 40-0, dictating high-risk aggressive tactical deployments.
+Tennis is a stochastic point-by-point Markov process. Because scoring is discrete and non-linear, not all points are created equal. This whitepaper constructs a complete **18-State Markov Chain Transition Matrix** (*P*~i,j~), calculating conditional win probabilities for every scoreline (0-0, 15-30, 30-40, Deuce). Points at **30-30 and 30-40 exhibit 3.8x higher scoreline leverage** than 40-0, dictating high-risk aggressive tactical deployments.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Tennis is a stochastic point-by-point Markov process. Because scoring is discret
 
 ## 1. The 18-State Markov Transition Matrix
 
-Mapping points as discrete states from State 1 (0-0) to State 18 (Game Server / Game Receiver), calculating absorbing probabilities ($B = (I - Q)^{-1} R$).
+Mapping points as discrete states from State 1 (0-0) to State 18 (Game Server / Game Receiver), calculating absorbing probabilities (*B* = (*I* - *Q*)⁻¹*R*).
 
 ```
        [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]
@@ -44,7 +44,7 @@ Mapping points as discrete states from State 1 (0-0) to State 18 (Game Server / 
 
 ## 2. Quantifying Point Importance (Leverage Index)
 
-Point importance is defined as the swing in game win probability ($\Delta P = |P_{\text{win point}} - P_{\text{lose point}}|$). At 30-40, $\Delta P = 0.62$; at 40-0, $\Delta P = 0.08$.
+Point importance is defined as the swing in game win probability (Δ*P* = |*P*~win point~ - *P*~lose point~|). At 30-40, Δ*P* = 0.62; at 40-0, Δ*P* = 0.08.
 
 ---
 

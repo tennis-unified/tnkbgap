@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novak Djokovic transformed modern tennis defense by mastering the **Open-Stance Sliding Two-Handed Backhand**. Slicing onto the outside left foot at full sprint, Djokovic absorbs **$3.2\times\text{ bodyweight}$** in lateral deceleration. By flexing the knees deeply ($95^\circ$) and utilizing core elastic torsion, he executes an explosive counter-strike from the extreme corner and recovers back to the center in under **$400\text{ms}$**.
+Novak Djokovic transformed modern tennis defense by mastering the **Open-Stance Sliding Two-Handed Backhand**. Slicing onto the outside left foot at full sprint, Djokovic absorbs **3.2× bodyweight** in lateral deceleration. By flexing the knees deeply (95°) and utilizing core elastic torsion, he executes an explosive counter-strike from the extreme corner and recovers back to the center in under **400 ms**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -44,7 +44,7 @@ The outside left hip and vastus lateralis absorb extreme kinetic energy, convert
 
 ## 2. Extreme Core Torsion in Open Stance
 
-Coiling the upper shoulders $90^\circ$ against an open pelvis creates massive X-Factor stretch, powering heavy counter-punches without stepping forward.
+Coiling the upper shoulders 90° against an open pelvis creates massive X-Factor stretch, powering heavy counter-punches without stepping forward.
 
 ---
 
@@ -59,5 +59,5 @@ Lateral slide-and-freeze medicine ball backhands; single-leg eccentric squat hol
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Weak Open Stance Arming: Hitting open-stance backhands with zero shoulder coil | Weak floating balls and severe shoulder strain | **Pre-Turn Shoulders: Fully coil shoulders 90° before planting the outside foot.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

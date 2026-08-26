@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Contrary to popular belief, exercise-associated muscle cramping (EAMC) is rarely caused by potassium deficiency or dehydration alone; it is caused by **altered neuromuscular control and severe sodium deficit** impairing the sodium-potassium ($Na^+/K^+$) ATPase pump in fatigued motor units. This whitepaper analyzes electrolyte replacement kinetics and the neuro-reflexive action of transient receptor potential (TRP) agonists (pickle juice/mustard).
+Contrary to popular belief, exercise-associated muscle cramping (EAMC) is rarely caused by potassium deficiency or dehydration alone; it is caused by **altered neuromuscular control and severe sodium deficit** impairing the sodium-potassium (Na⁺/K⁺) ATPase pump in fatigued motor units. This whitepaper analyzes electrolyte replacement kinetics and the neuro-reflexive action of transient receptor potential (TRP) agonists (pickle juice/mustard).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Contrary to popular belief, exercise-associated muscle cramping (EAMC) is rarely
 
 ## 1. Pathophysiology of Neuromuscular Cramps
 
-Repetitive eccentric contractions fatigue Golgi tendon organs (which inhibit motor neuron firing) while hyper-exciting muscle spindles. As sodium is lost in heavy sweat ($1.5\text{g Na}^+/\text{Liter}$), the motor neuron enters uncontrollable oscillatory firing.
+Repetitive eccentric contractions fatigue Golgi tendon organs (which inhibit motor neuron firing) while hyper-exciting muscle spindles. As sodium is lost in heavy sweat (1.5g Na⁺/Liter), the motor neuron enters uncontrollable oscillatory firing.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

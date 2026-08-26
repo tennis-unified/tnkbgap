@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Medial Epicondylitis in tennis occurs primarily from **Valgus Extension Overload during Stage 5 (Acceleration) of the Serve**. As the hitting arm transitions from external rotation to rapid internal rotation ($> 2,400^\circ/\text{s}$), the **Pronator Teres and Flexor Carpi Radialis** endure severe tensile forces to stabilize the medial joint line. Correcting elbow drop and strengthening the flexor-pronator mass prevents medial collateral ligament (UCL) laxity.
+Medial Epicondylitis in tennis occurs primarily from **Valgus Extension Overload during Stage 5 (Acceleration) of the Serve**. As the hitting arm transitions from external rotation to rapid internal rotation (> 2,400°/s), the **Pronator Teres and Flexor Carpi Radialis** endure severe tensile forces to stabilize the medial joint line. Correcting elbow drop and strengthening the flexor-pronator mass prevents medial collateral ligament (UCL) laxity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

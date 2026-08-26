@@ -31,7 +31,7 @@ Hitting a great backhand is useless if the player cannot recover back to the cen
 
 ## 1. Penultimate Outside Foot Dynamic Brake
 
-Planting the outside foot at a $45^\circ$ angle arrests lateral slide momentum, redirecting ground reaction forces back toward the court center.
+Planting the outside foot at a 45° angle arrests lateral slide momentum, redirecting ground reaction forces back toward the court center.
 
 ```
        [ 50° Compact Torso Coil ] ──► [ Lead Hip Deceleration Fulcrum ]
@@ -59,5 +59,5 @@ Corner strike-and-recover sprint sets timed under 450ms; carioca cross-over agil
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Backpedaling Recovery: Turning back to net and backpedaling to center | Loss of visual tracking and extreme recovery latency (> 800ms) | **Carioca Step: Cross the outside leg in front while keeping eyes and chest locked on the opponent.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

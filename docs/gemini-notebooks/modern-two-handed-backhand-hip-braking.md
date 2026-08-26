@@ -49,14 +49,14 @@ This whitepaper details the structural dynamics of the modern 2HB: (1) The dual-
 
 ### 2.1. Unit Turn & Coiling Phase
 During the preparation phase:
-1. The shoulders rotate $100^\circ\text{--}115^\circ$ relative to the net (past perpendicular), creating a profound back-to-opponent visual angle.
-2. The hips rotate only $45^\circ\text{--}60^\circ$, loading the gluteus medius and deep spinal rotators.
-3. The racket tip points upward ($45^\circ\text{--}60^\circ$) before dropping beneath the ball path via gravity and shoulder relaxation.
+1. The shoulders rotate 100°–115° relative to the net (past perpendicular), creating a profound back-to-opponent visual angle.
+2. The hips rotate only 45°–60°, loading the gluteus medius and deep spinal rotators.
+3. The racket tip points upward (45°–60°) before dropping beneath the ball path via gravity and shoulder relaxation.
 
 ### 2.2. The Hip-Braking Mechanism in 2HB
 In the 2HB, because both hands are locked onto the handle, rotational freedom is naturally constrained compared to the forehand. 
 - The lead hip plants and internally rotates to initiate forward motion.
-- As the hips square to roughly $20^\circ\text{--}30^\circ$ before the baseline, the lead leg actively **presses backward against the ground**, halting hip rotation.
+- As the hips square to roughly 20°–30° before the baseline, the lead leg actively **presses backward against the ground**, halting hip rotation.
 - This sudden lower-body deceleration drives the non-dominant shoulder and elbow forward along a flat, piercing linear trajectory before curling upward.
 
 ---
@@ -66,9 +66,9 @@ In the 2HB, because both hands are locked onto the handle, rotational freedom is
 | Metric | Novak Djokovic (The Benchmark) | Jannik Sinner (Heavy Linear Core) | Carlos Alcaraz (Dynamic Rotational) |
 |---|---|---|---|
 | **Stance Preference** | Neutral / Closed Stance Precision | Semi-Open / On-the-Rise Aggression | Dynamic Open-Stance Recovery |
-| **Contact Distance** | $25\text{--}30\text{ cm}$ in front of lead hip | $30\text{--}35\text{ cm}$ forward extension | Dynamic variable contact point |
+| **Contact Distance** | 25–30 cm in front of lead hip | 30–35 cm forward extension | Dynamic variable contact point |
 | **Torso Rotation** | Highly controlled, squares up at finish | Heavy shoulder drive through ball | Explosive hip rotation past square |
-| **Topspin / Speed** | $2,200\text{ RPM} / 78\text{ mph}$ (Laser Depth) | $2,500\text{ RPM} / 82\text{ mph}$ (Piercing Pace) | $2,600\text{ RPM} / 80\text{ mph}$ (Heavy Angle) |
+| **Topspin / Speed** | 2,200 RPM / 78 mph (Laser Depth) | 2,500 RPM / 82 mph (Piercing Pace) | 2,600 RPM / 80 mph (Heavy Angle) |
 | **Defensive Reach** | Open-stance sliding split-recovery | Deep knee drop linear block | Dynamic leaping scissor recovery |
 
 ---
@@ -78,5 +78,5 @@ In the 2HB, because both hands are locked onto the handle, rotational freedom is
 | Technical Defect | Biomechanical Cause | Correction Protocol |
 |---|---|---|
 | **Dominant Arm Dominance** | Right arm pulling, left arm passive | **Left-Hand-Only Forehand Drill**: Hit 50 balls using only the left hand to rewire non-dominant motor drive. |
-| **"Popping Up" on Impact** | Premature knee extension during swing | **Low-Rope Swing Gate**: Place a 1m barrier, execute full stroke maintaining constant knee flexion angle ($110^\circ$). |
+| **"Popping Up" on Impact** | Premature knee extension during swing | **Low-Rope Swing Gate**: Place a 1m barrier, execute full stroke maintaining constant knee flexion angle (110°). |
 | **Late Contact / Jammed** | Insufficient shoulder coiling | **Chest-to-Fence Unit Turn**: Turn until upper back faces the net before initiating racket drop. |

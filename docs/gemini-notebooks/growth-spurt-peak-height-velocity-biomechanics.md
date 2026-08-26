@@ -28,7 +28,7 @@ During Peak Height Velocity (PHV)—typically occurring between ages 12–14 in 
 
 ## 1. The Physics of Lengthening Lever Arms
 
-As arm length increases by 10%, rotational moment of inertia increases quadratically ($I \propto r^2$). An adolescent junior suddenly finds their racket swing lagging late, causing frequent frame shanks and timing frustration.
+As arm length increases by 10%, rotational moment of inertia increases quadratically (*I* ∝ *r*²). An adolescent junior suddenly finds their racket swing lagging late, causing frequent frame shanks and timing frustration.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

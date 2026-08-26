@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Carlos Alcaraz has redefined the modern drop shot as a primary offensive weapon. Biomechanical tracking reveals that Alcaraz rotates his torso at **$700^\circ/\text{s}$ during takeback**, identical to his 100 mph forehand drive. At **$T - 30\text{ms}$ before impact**, he abruptly decelerates his arm, cushions the handle with relaxed fingertips, and carves a feather-soft drop shot with an astounding **$82\%$ point-win conversion rate**.
+Carlos Alcaraz has redefined the modern drop shot as a primary offensive weapon. Biomechanical tracking reveals that Alcaraz rotates his torso at **700°/s during takeback**, identical to his 100 mph forehand drive. At ***T* - 30 ms before impact**, he abruptly decelerates his arm, cushions the handle with relaxed fingertips, and carves a feather-soft drop shot with an astounding **82% point-win conversion rate**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

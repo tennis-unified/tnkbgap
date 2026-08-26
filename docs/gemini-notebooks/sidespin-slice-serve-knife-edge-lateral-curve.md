@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Wide Slice Serve** in the Deuce-court is a devastating geometric tool. Brushing around the outside edge of the ball from **10 to 4 o'clock** with a Continental grip imparts pure sidespin (**$3,200\text{ RPM}$**). The resulting **Lateral Magnus Vector ($F_M = 14\text{ N}$)** bends the ball $1.4\text{ meters}$ in flight and skids low off the hard court ($< 15^\circ$ rebound), dragging the receiver 3 meters outside the doubles alley.
+The **Wide Slice Serve** in the Deuce-court is a devastating geometric tool. Brushing around the outside edge of the ball from **10 to 4 o'clock** with a Continental grip imparts pure sidespin (**3,200 RPM**). The resulting **Lateral Magnus Vector (*F*~M~ = 14 N)** bends the ball 1.4 meters in flight and skids low off the hard court (< 15° rebound), dragging the receiver 3 meters outside the doubles alley.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Deuce-court wide corner target rings; side-spin flight curvature cameras; low-bo
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

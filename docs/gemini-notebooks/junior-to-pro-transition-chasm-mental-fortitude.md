@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Top juniors transition from being worshipped prodigies surrounded by entourage into anonymous, broke competitors grinding in isolated $25k ITF Futures and ATP Challengers in remote corners of the world. Over 90% of talented juniors experience profound **Identity Deconstruction** when their junior titles mean nothing against veteran 28-year-old pros fighting for prize money to feed their families.
+Top juniors transition from being worshipped prodigies surrounded by entourage into anonymous, broke competitors grinding in isolated \$25k ITF Futures and ATP Challengers in remote corners of the world. Over 90% of talented juniors experience profound **Identity Deconstruction** when their junior titles mean nothing against veteran 28-year-old pros fighting for prize money to feed their families.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

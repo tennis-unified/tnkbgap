@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A 7-point tiebreak is the highest-pressure crucible in sports. Statistical modeling reveals that **Winning the First Mini-Break Elevates Match Win Probability to $76\%$**. The psychology of tiebreaks requires **Front-Loaded Aggression**: attacking on Points 1 to 3 to secure the cognitive lead, followed by **High-Percentage Depth Clustering** that forces the trailing opponent into suffocating risk-taking panic.
+A 7-point tiebreak is the highest-pressure crucible in sports. Statistical modeling reveals that **Winning the First Mini-Break Elevates Match Win Probability to 76%**. The psychology of tiebreaks requires **Front-Loaded Aggression**: attacking on Points 1 to 3 to secure the cognitive lead, followed by **High-Percentage Depth Clustering** that forces the trailing opponent into suffocating risk-taking panic.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

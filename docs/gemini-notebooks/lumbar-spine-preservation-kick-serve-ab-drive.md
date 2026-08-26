@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Repetitive kick serves frequently cause **Lumbar Spondylolysis (pars interarticularis stress fractures at L4-L5)** when players hyperextend their lower back to generate topspin. This whitepaper establishes the **Spine-Shielding Kick Serve Protocol**: replacing lumbar hyperextension with **$115^\circ\text{ Deep Knee Flexion}$** and **Active Rectus Abdominis / Oblique Crunching**, absorbing rotational stress in large myofascial slings rather than spinal facet joints.
+Repetitive kick serves frequently cause **Lumbar Spondylolysis (pars interarticularis stress fractures at L4-L5)** when players hyperextend their lower back to generate topspin. This whitepaper establishes the **Spine-Shielding Kick Serve Protocol**: replacing lumbar hyperextension with **115° Deep Knee Flexion** and **Active Rectus Abdominis / Oblique Crunching**, absorbing rotational stress in large myofascial slings rather than spinal facet joints.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ McGill Big 3 core stabilization; anterior abdominal crunch conditioning; kick se
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -18190,7 +18192,7 @@
 <strong>Keywords:</strong> <code>Computer Vision, Deep Learning, Pose Estimation, Kinematic Fault Detection, Automated Biomechanical Auditing</code>  </p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>Using high-speed smartphone video ($240\text{ fps}$), deep learning pose estimators (MediaPipe, OpenPose, YOLO-Pose) extract 3D skeletal joint angles. Automated algorithmic decision trees compare the athlete's kinematic sequence against an idealized ATP biomechanical model, instantly flagging upstream kinetic chain errors with millimeter precision.</p>
+<p>Using high-speed smartphone video (240 fps), deep learning pose estimators (MediaPipe, OpenPose, YOLO-Pose) extract 3D skeletal joint angles. Automated algorithmic decision trees compare the athlete's kinematic sequence against an idealized ATP biomechanical model, instantly flagging upstream kinetic chain errors with millimeter precision.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    KINETIC &amp; TACTICAL FLOW ARCHITECTURE                     │
 │                                                                             │
@@ -18204,7 +18206,7 @@
 </code></pre></div>
 <hr />
 <h2 id="1-3d-joint-keypoint-extraction-pipeline">1. 3D Joint Keypoint Extraction Pipeline<a class="headerlink" href="#1-3d-joint-keypoint-extraction-pipeline" title="Permanent link">&para;</a></h2>
-<p>Neural networks track 33 landmarks: ankles, knees, hips, shoulders, elbows, wrists, and ear-cervical vectors. Angular velocities ($\omega = d\theta / dt$) are calculated across each kinetic segment.</p>
+<p>Neural networks track 33 landmarks: ankles, knees, hips, shoulders, elbows, wrists, and ear-cervical vectors. Angular velocities (ω = dθ/dt) are calculated across each kinetic segment.</p>
 <div class="highlight"><pre><span></span><code>       [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
                                                 │
        [ Terminal Whip Acceleration ] ◄─────────┘
@@ -18212,7 +18214,7 @@
 </code></pre></div>
 <hr />
 <h2 id="2-automated-flaw-detection-rules">2. Automated Flaw Detection Rules<a class="headerlink" href="#2-automated-flaw-detection-rules" title="Permanent link">&para;</a></h2>
-<p>Rule 1: Trophy Shoulder Tilt $&lt; 20^\circ \rightarrow$ 'Serve Energy Leak Flagged'. Rule 2: $X$-Factor Separation $&lt; 30^\circ \rightarrow$ 'Arming Forehand Flagged'.</p>
+<p>Rule 1: Trophy Shoulder Tilt &lt; 20° → 'Serve Energy Leak Flagged'. Rule 2: <em>X</em>-Factor Separation &lt; 30° → 'Arming Forehand Flagged'.</p>
 <hr />
 <h2 id="3-instant-diagnostic-feedback-app">3. Instant Diagnostic Feedback App<a class="headerlink" href="#3-instant-diagnostic-feedback-app" title="Permanent link">&para;</a></h2>
 <p>Overlaying color-coded skeletal skeletons on player video; green for optimal angles, red for biomechanical flaws.</p>
@@ -18351,6 +18353,12 @@
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

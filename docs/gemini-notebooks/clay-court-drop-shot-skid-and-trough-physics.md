@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Red clay courts ($\mu = 0.45$) provide the ideal canvas for the drop shot. The granular crushed brick surface absorbs horizontal ball momentum. When combined with **$3,500\text{ RPM}$ of pure backspin**, the ball bites into the loose brick dust, digging a **Micro-Trough** that eliminates forward bounce, reducing the second bounce height to **$< 15\text{cm}$** and making retrieval physically impossible for deep defenders.
+Red clay courts (μ = 0.45) provide the ideal canvas for the drop shot. The granular crushed brick surface absorbs horizontal ball momentum. When combined with **3,500 RPM of pure backspin**, the ball bites into the loose brick dust, digging a **Micro-Trough** that eliminates forward bounce, reducing the second bounce height to **< 15 cm** and making retrieval physically impossible for deep defenders.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Red clay courts ($\mu = 0.45$) provide the ideal canvas for the drop shot. The g
 
 ---
 
-## 1. Brick Dust Friction & Momentum Absorption ($\mu = 0.45$)
+## 1. Brick Dust Friction & Momentum Absorption (μ = 0.45)
 
 Loose clay particles slide under the spinning ball, dissipating residual forward momentum upon the very first contact.
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While wide slice serves are popular in singles, in doubles, serving out wide exposes the serving team to dangerous sharp crosscourt angles and down-the-line returns into the open alley. Serving down the center 'T' or directly into the receiver's dominant hip reduces the returner's available angle of reflection from $42^\circ$ down to $14^\circ$, setting up guaranteed poach volleys for the net partner.
+While wide slice serves are popular in singles, in doubles, serving out wide exposes the serving team to dangerous sharp crosscourt angles and down-the-line returns into the open alley. Serving down the center 'T' or directly into the receiver's dominant hip reduces the returner's available angle of reflection from 42° down to 14°, setting up guaranteed poach volleys for the net partner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,5 +56,5 @@ Deuce Court: 65% 'T', 25% Body, 10% Wide; Ad Court: 70% 'T', 20% Body, 10% Wide.
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

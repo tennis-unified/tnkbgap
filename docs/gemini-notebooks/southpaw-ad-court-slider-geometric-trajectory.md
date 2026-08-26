@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Left-Handed Ad-Court Wide Slice Serve** is the most lethal asymmetric weapon in tennis history. Exemplified by Rafael Nadal, John McEnroe, and Goran Ivanisevic, the southpaw brushes the outside edge of the ball from 10 to 4 o'clock, generating a **Lateral Magnus Force Vector ($F_M = 14.5\text{ N}$)**. The ball curves 1.4 meters in mid-air and skids violently off the court surface, dragging the right-handed returner **$3.2\text{ meters}$ beyond the doubles alley**.
+The **Left-Handed Ad-Court Wide Slice Serve** is the most lethal asymmetric weapon in tennis history. Exemplified by Rafael Nadal, John McEnroe, and Goran Ivanisevic, the southpaw brushes the outside edge of the ball from 10 to 4 o'clock, generating a **Lateral Magnus Force Vector (*F*~M~ = 14.5 N)**. The ball curves 1.4 meters in mid-air and skids violently off the court surface, dragging the right-handed returner **3.2 meters beyond the doubles alley**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -44,7 +44,7 @@ High sidespin creates a horizontal pressure differential, bending the trajectory
 
 ## 2. The Court Skid & Geometric Dislocation
 
-Upon bouncing, the ball grips the court surface and skids at a sharp $22^\circ$ angle outward, forcing the returner into an off-balance stretch.
+Upon bouncing, the ball grips the court surface and skids at a sharp 22° angle outward, forcing the returner into an off-balance stretch.
 
 ---
 

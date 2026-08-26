@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The double-bend forehand (mastered by Novak Djokovic, Jannik Sinner, and Daniil Medvedev) bends both the elbow ($90^\circ\text{--}110^\circ$) and the wrist ($90^\circ$ extension) at contact. This compact geometry dramatically reduces the arm's **Rotational Moment of Inertia ($I = m r^2$)**, allowing players to accelerate the racket with lightning-fast timing on fast, low-bouncing hard courts.
+The double-bend forehand (mastered by Novak Djokovic, Jannik Sinner, and Daniil Medvedev) bends both the elbow (90°–110°) and the wrist (90° extension) at contact. This compact geometry dramatically reduces the arm's **Rotational Moment of Inertia (*I* = *mr*²)**, allowing players to accelerate the racket with lightning-fast timing on fast, low-bouncing hard courts.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ The double-bend forehand (mastered by Novak Djokovic, Jannik Sinner, and Daniil 
 
 ---
 
-## 1. Minimizing Rotational Inertia ($I = m r^2$)
+## 1. Minimizing Rotational Inertia (*I* = *mr*²)
 
-Bending the elbow brings the racket mass $15\text{ cm}$ closer to the torso's axis of rotation, reducing rotational resistance by over $28\%$, facilitating ultra-fast adjustments on 90 mph incoming drives.
+Bending the elbow brings the racket mass 15 cm closer to the torso's axis of rotation, reducing rotational resistance by over 28%, facilitating ultra-fast adjustments on 90 mph incoming drives.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]

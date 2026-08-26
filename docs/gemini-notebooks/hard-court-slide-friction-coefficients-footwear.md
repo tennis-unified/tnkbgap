@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Pioneered by Novak Djokovic, sliding on hard acrylic courts has become mandatory in elite professional tennis. This paper analyzes the friction physics between tennis shoe outsole rubber compounds and acrylic court grit, the critical $45^\circ$ foot placement angle that prevents shoe-grabbing rollovers, and the eccentric ankle eversion strength required to slide safely.
+Pioneered by Novak Djokovic, sliding on hard acrylic courts has become mandatory in elite professional tennis. This paper analyzes the friction physics between tennis shoe outsole rubber compounds and acrylic court grit, the critical 45° foot placement angle that prevents shoe-grabbing rollovers, and the eccentric ankle eversion strength required to slide safely.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Pioneered by Novak Djokovic, sliding on hard acrylic courts has become mandatory
 
 ## 1. Static vs. Kinetic Friction Modulation
 
-The transition from running to sliding occurs when the lateral braking shear force exceeds static friction ($F_{\text{shear}} > \mu_s F_N$). Once sliding initiates, kinetic friction ($\mu_k \approx 0.60$) allows a smooth 1.2-meter controlled deceleration.
+The transition from running to sliding occurs when the lateral braking shear force exceeds static friction (*F*~shear~ > μ~s~ *F*~N~). Once sliding initiates, kinetic friction (μ~k~ ≈ 0.60) allows a smooth 1.2-meter controlled deceleration.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,13 +41,13 @@ The transition from running to sliding occurs when the lateral braking shear for
 
 ## 2. The Anti-Inversion Geometric Foot Angle
 
-The foot MUST plant with the entire lateral sole flush to the court surface at an angle of $40^\circ\text{--}50^\circ$ relative to the sideline. Planting on the toe or edge causes shoe bite and catastrophic lateral ankle ligament tears.
+The foot MUST plant with the entire lateral sole flush to the court surface at an angle of 40°–50° relative to the sideline. Planting on the toe or edge causes shoe bite and catastrophic lateral ankle ligament tears.
 
 ---
 
 ## 3. Hard-Court Slide Progression Drills
 
-Sock-on-hardwood slide drills $\rightarrow$ Clay court slide mechanics $\rightarrow$ Wet hard-court sliding $\rightarrow$ Full-speed dry hard-court slide stops.
+Sock-on-hardwood slide drills → Clay court slide mechanics → Wet hard-court sliding → Full-speed dry hard-court slide stops.
 
 ---
 

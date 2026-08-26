@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Stroboscopic training utilizes specialized LCD eyewear that alternates between transparent and opaque states at adjustable frequencies ($1\text{ to }8\text{ Hz}$). By depriving the visual system of continuous optical motion data, the brain is forced to rely on **Working Visual Memory and Motion Interpolation (filling in the missing frames)**. When returned to normal vision, ball trajectories appear to move in 'slow motion'.
+Stroboscopic training utilizes specialized LCD eyewear that alternates between transparent and opaque states at adjustable frequencies (1 to 8 Hz). By depriving the visual system of continuous optical motion data, the brain is forced to rely on **Working Visual Memory and Motion Interpolation (filling in the missing frames)**. When returned to normal vision, ball trajectories appear to move in 'slow motion'.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ Flickering at 4 Hz provides only 100ms of visual information every 250ms, forcin
 
 ## 2. Improved Dynamic Visual Acuity & Contact Precision
 
-Controlled clinical trials show a $14\%$ increase in sweet spot contact accuracy and a $22\%$ reduction in reaction hesitation following 6 weeks of stroboscopic practice.
+Controlled clinical trials show a 14% increase in sweet spot contact accuracy and a 22% reduction in reaction hesitation following 6 weeks of stroboscopic practice.
 
 ---
 

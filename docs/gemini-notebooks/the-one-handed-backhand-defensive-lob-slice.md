@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Stretched wide onto the backhand wing with zero time for a topspin swing, the **One-Handed Backhand Defensive Float Slice Lob** provides salvation. With a **Continental Grip (Bevel 2)**, the player carves under the ball with an open blade ($50^\circ$), imparting **$2,500\text{ RPM}$ of pure backspin**. Bernoulli and inverted Magnus lift creates **$3.2\text{ seconds}$ of hovering hangtime**.
+Stretched wide onto the backhand wing with zero time for a topspin swing, the **One-Handed Backhand Defensive Float Slice Lob** provides salvation. With a **Continental Grip (Bevel 2)**, the player carves under the ball with an open blade (50°), imparting **2,500 RPM of pure backspin**. Bernoulli and inverted Magnus lift creates **3.2 seconds of hovering hangtime**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ Backspin circulation creates upward aerodynamic lift, keeping the ball suspended
 
 ---
 
-## 2. Open Continental Blade Angle ($50^\circ$)
+## 2. Open Continental Blade Angle (50°)
 
 Opening the racket face allows a smooth high-to-low carving action even when stretched 2 meters outside the doubles alley.
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Left-Handed Underspin Slice Backhand** (mastered by John McEnroe, Feliciano Lopez, and Denis Shapovalov) exhibits unique asymmetric physics. Carving the ball from high-to-low with a Continental grip, the southpaw imparts combined backspin and sidespin (**$2,600\text{ RPM}$**). In the Deuce-court, this ball floats low over the net and **skids away from the right-hander's forehand into the doubles alley**, forcing awkward reaching errors.
+The **Left-Handed Underspin Slice Backhand** (mastered by John McEnroe, Feliciano Lopez, and Denis Shapovalov) exhibits unique asymmetric physics. Carving the ball from high-to-low with a Continental grip, the southpaw imparts combined backspin and sidespin (**2,600 RPM**). In the Deuce-court, this ball floats low over the net and **skids away from the right-hander's forehand into the doubles alley**, forcing awkward reaching errors.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

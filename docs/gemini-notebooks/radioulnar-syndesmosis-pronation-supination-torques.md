@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern windshield-wiper forehand and flat serve whip forearm pronation at **$> 2,200^\circ/\text{s}$**. This requires the radius to cross over the ulna at the **Proximal and Distal Radioulnar Joints (DRUJ)**. The **Interosseous Membrane** acts as a dynamic hydraulic shock distributor, transferring $80\%$ of wrist impact force from the radius to the ulna. DRUJ instability occurs when high-frequency vibrations disrupt the triangular fibrocartilage complex.
+The modern windshield-wiper forehand and flat serve whip forearm pronation at **> 2,200°/s**. This requires the radius to cross over the ulna at the **Proximal and Distal Radioulnar Joints (DRUJ)**. The **Interosseous Membrane** acts as a dynamic hydraulic shock distributor, transferring 80% of wrist impact force from the radius to the ulna. DRUJ instability occurs when high-frequency vibrations disrupt the triangular fibrocartilage complex.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

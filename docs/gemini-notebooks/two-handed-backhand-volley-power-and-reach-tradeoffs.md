@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Two-Handed Backhand Volley** (common in WTA players like Serena Williams, Aryna Sabalenka, and Jelena Ostapenko) provides **$40\%$ Greater Torsional Stability on Hard Body Serves and Jams**. However, it reduces lateral reach by **$45\text{cm}$**. This paper establishes the hybrid protocol: utilizing two hands for power and stability on balls close to the body, and releasing the non-dominant hand for wide reaches.
+The **Two-Handed Backhand Volley** (common in WTA players like Serena Williams, Aryna Sabalenka, and Jelena Ostapenko) provides **40% Greater Torsional Stability on Hard Body Serves and Jams**. However, it reduces lateral reach by **45 cm**. This paper establishes the hybrid protocol: utilizing two hands for power and stability on balls close to the body, and releasing the non-dominant hand for wide reaches.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ The **Two-Handed Backhand Volley** (common in WTA players like Serena Williams, 
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

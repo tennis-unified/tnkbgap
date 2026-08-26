@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Time-based return to tennis (e.g. 'rest 6 weeks') results in a **$42\%$ re-injury rate**. Elite sports medicine mandates a **Criterion-Based 5-Stage Return-to-Play (RTP) Protocol**: (1) Pain-free active range of motion, (2) **Isometric Strength Symmetry $> 90\%$** compared to contralateral side, (3) **Y-Balance Dynamic Agility Clearance**, (4) High-speed **240fps Biomechanical Stroke Audit** verifying zero kinetic compensation, and (5) Graded match simulation without symptom recurrence.
+Time-based return to tennis (e.g. 'rest 6 weeks') results in a **42% re-injury rate**. Elite sports medicine mandates a **Criterion-Based 5-Stage Return-to-Play (RTP) Protocol**: (1) Pain-free active range of motion, (2) **Isometric Strength Symmetry > 90%** compared to contralateral side, (3) **Y-Balance Dynamic Agility Clearance**, (4) High-speed **240fps Biomechanical Stroke Audit** verifying zero kinetic compensation, and (5) Graded match simulation without symptom recurrence.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

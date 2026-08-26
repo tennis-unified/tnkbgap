@@ -61,8 +61,8 @@ Data from all four Grand Slams demonstrates that tournament champions do not win
 ```
 
 ### 2.1. The Serve + 1 Playbook
-1. **Target A**: Serve out wide on Deuce court $\rightarrow$ Inside-in Forehand to open backhand corner.
-2. **Target B**: Body-T serve on Ad court $\rightarrow$ Inside-out Forehand to opponent's backhand.
+1. **Target A**: Serve out wide on Deuce court → Inside-in Forehand to open backhand corner.
+2. **Target B**: Body-T serve on Ad court → Inside-out Forehand to opponent's backhand.
 3. **The Rule**: The server must hunt the forehand on Ball 3 regardless of court position.
 
 ### 2.2. The Return + 1 Playbook
@@ -99,7 +99,7 @@ Data from all four Grand Slams demonstrates that tournament champions do not win
 
 ### 4.1. Biomechanical Fault Line Exploitation
 An Agentic champion does not focus on hitting flashy winners; they analyze the opponent as a biological system subject to fatigue and mechanical degradation.
-1. **The High-Backhand Lever Trap**: Pounding heavy $3,500\text{ RPM}$ balls above the opponent's shoulder height to force weak slice floats.
+1. **The High-Backhand Lever Trap**: Pounding heavy 3,500 RPM balls above the opponent's shoulder height to force weak slice floats.
 2. **Acoustic Monitoring**: Listening to the opponent's impact sound. When the sound shifts from a deep rooted "thud" to a tinny "slap", the opponent's kinetic chain has fractured.
 
 ---

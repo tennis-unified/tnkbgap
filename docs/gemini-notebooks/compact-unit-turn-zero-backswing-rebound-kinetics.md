@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Against first serves exceeding 120 mph, taking a conventional looped backswing guarantees late contact and frame shanks. The **Zero-Backswing Law** dictates that the return takeback is purely an **Angular Torso Unit Turn ($45^\circ$)** with the racket remaining strictly in front of the chest plane. By acting as a rigid kinetic rebound wall, the stringbed utilizes the ball's incoming momentum ($e \approx 0.82$) to fire blistering returns.
+Against first serves exceeding 120 mph, taking a conventional looped backswing guarantees late contact and frame shanks. The **Zero-Backswing Law** dictates that the return takeback is purely an **Angular Torso Unit Turn (45°)** with the racket remaining strictly in front of the chest plane. By acting as a rigid kinetic rebound wall, the stringbed utilizes the ball's incoming momentum (*e* ≈ 0.82) to fire blistering returns.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Against first serves exceeding 120 mph, taking a conventional looped backswing g
 
 ## 1. The Physics of High-Speed Rebound
 
-An incoming 125 mph ball retains massive kinetic energy ($E_k = \frac{1}{2} m v^2$). Presenting a rigid, stable stringbed rebounds the ball deep without muscular pushing.
+An incoming 125 mph ball retains massive kinetic energy (*E*~k~ = ½ *mv*²). Presenting a rigid, stable stringbed rebounds the ball deep without muscular pushing.
 
 ```
        [ Forward Jump-Split Ingestion ] ──► [ Isometric Wrist-Wall Block ]
@@ -42,9 +42,9 @@ An incoming 125 mph ball retains massive kinetic energy ($E_k = \frac{1}{2} m v^
 
 ---
 
-## 2. The $45^\circ$ Unit Turn Coil
+## 2. The 45° Unit Turn Coil
 
-Rotating the shoulders $45^\circ$ while keeping both hands together loads the core fascial sling, locking the racket into the hitting line in $< 120\text{ms}$.
+Rotating the shoulders 45° while keeping both hands together loads the core fascial sling, locking the racket into the hitting line in < 120 ms.
 
 ---
 

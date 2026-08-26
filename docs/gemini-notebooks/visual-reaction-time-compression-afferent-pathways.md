@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Standard human Simple Visual Reaction Time (VRT) averages $220\text{ to }250\text{ms}$. In elite tennis, this delay represents the difference between a clean return and an unreturned ace. By optimizing conduction velocity along the **Magnocellular Retino-Geniculo-Striate Pathway** and pre-activating spinal motor neuron pools, elite athletes compress choice reaction latency down to an astonishing **$160\text{ to }175\text{ms}$**.
+Standard human Simple Visual Reaction Time (VRT) averages 220 to 250 ms. In elite tennis, this delay represents the difference between a clean return and an unreturned ace. By optimizing conduction velocity along the **Magnocellular Retino-Geniculo-Striate Pathway** and pre-activating spinal motor neuron pools, elite athletes compress choice reaction latency down to an astonishing **160 to 175 ms**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Standard human Simple Visual Reaction Time (VRT) averages $220\text{ to }250\tex
 
 ## 1. The Magnocellular High-Speed Highway
 
-Large M-type ganglion cells with thick myelin sheaths transmit low-spatial-frequency motion data at $35\text{ m/s}$, arriving in primary visual cortex (V1) 30ms faster than color/detail P-cells.
+Large M-type ganglion cells with thick myelin sheaths transmit low-spatial-frequency motion data at 35 m/s, arriving in primary visual cortex (V1) 30ms faster than color/detail P-cells.
 
 ```
        [ Visual Sensory Input ] ──► [ Magnocellular High-Speed Pathway ]
@@ -42,7 +42,7 @@ Large M-type ganglion cells with thick myelin sheaths transmit low-spatial-frequ
 
 ## 2. Spinal Motor Neuron Pre-Depolarization
 
-During the split-step descent, corticospinal excitability primes motor units to a sub-threshold membrane potential ($-55\text{mV}$), allowing incoming signals to trigger instant muscle contraction.
+During the split-step descent, corticospinal excitability primes motor units to a sub-threshold membrane potential (-55 mV), allowing incoming signals to trigger instant muscle contraction.
 
 ---
 

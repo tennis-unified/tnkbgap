@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Embedding piezoelectric pressure sensor arrays beneath high-performance court acrylic provides continuous kinetic telemetry on athlete movement. By measuring vertical ($F_z$) and horizontal shear ($F_x, F_y$) ground reaction forces at $1,000\text{ Hz}$, smart court systems quantify bilateral force asymmetries, explosive split-step impulse, and decelerative braking loads.
+Embedding piezoelectric pressure sensor arrays beneath high-performance court acrylic provides continuous kinetic telemetry on athlete movement. By measuring vertical (*F*~z~) and horizontal shear (*F*~x~, *F*~y~) ground reaction forces at 1,000 Hz, smart court systems quantify bilateral force asymmetries, explosive split-step impulse, and decelerative braking loads.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Embedding piezoelectric pressure sensor arrays beneath high-performance court ac
 
 ## 1. Ground Reaction Force Impulse Integration
 
-Impulse $J = \int F \, dt$ determines the initial velocity of lateral movement. High-performing movers produce sharp, high-amplitude force spikes ($> 2.5\times\text{BW}$) with contact times $< 180\text{ ms}$.
+Impulse *J* = ∫ *F* dt determines the initial velocity of lateral movement. High-performing movers produce sharp, high-amplitude force spikes (> 2.5× BW) with contact times < 180 ms.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Impulse $J = \int F \, dt$ determines the initial velocity of lateral movement. 
 
 ## 2. Detecting Sub-Clinical Injury Asymmetries
 
-A $> 15\%$ force production deficit on the left leg during open-stance deceleration flags hidden patellar tendinitis or gluteal inhibition weeks before pain onset.
+A > 15% force production deficit on the left leg during open-stance deceleration flags hidden patellar tendinitis or gluteal inhibition weeks before pain onset.
 
 ---
 

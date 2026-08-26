@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The thoracic spine is designed for rotation and extension, while the lumbar spine is built for stability. When a tennis player develops **Thoracic Hypomobility** (stiff mid-back from prolonged sitting or hunching), the kinetic chain compensates by forcing **Excessive Rotation and Hyperextension into the Lumbar Spine and Glenohumeral Joint**. Restoring **$45^\circ\text{ of T-Spine Rotation}$** immediately eliminates lower back and shoulder pain.
+The thoracic spine is designed for rotation and extension, while the lumbar spine is built for stability. When a tennis player develops **Thoracic Hypomobility** (stiff mid-back from prolonged sitting or hunching), the kinetic chain compensates by forcing **Excessive Rotation and Hyperextension into the Lumbar Spine and Glenohumeral Joint**. Restoring **45° of T-Spine Rotation** immediately eliminates lower back and shoulder pain.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Nick Kyrgios possesses one of the most effective and effortless serves in tennis history. Biomechanical analysis reveals **Minimalist Kinetic Flow**: an ultra-fast, compact takeback with zero hesitation, an abbreviated pinpoint stance, and extreme muscular relaxation throughout the upper body. The hitting arm acts as a **Zero-Noise Flail**, generating **$140\text{ mph}$ serves** with virtually zero joint wear.
+Nick Kyrgios possesses one of the most effective and effortless serves in tennis history. Biomechanical analysis reveals **Minimalist Kinetic Flow**: an ultra-fast, compact takeback with zero hesitation, an abbreviated pinpoint stance, and extreme muscular relaxation throughout the upper body. The hitting arm acts as a **Zero-Noise Flail**, generating **140 mph serves** with virtually zero joint wear.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Rapid-tempo continuous serve swings; relaxed-wrist whip feeds; speed generation 
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

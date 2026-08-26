@@ -41,13 +41,13 @@ The player unweights with a dynamic scissor-kick jump, loading the core and unco
 
 ## 2. High Strike Zone Envelope
 
-Contact occurs at shoulder-to-eye height ($1.4\text{--}1.7\text{ meters}$). Striking the ball downward with topspin guarantees high net clearance while painting the opponent's baseline.
+Contact occurs at shoulder-to-eye height (1.4–1.7 meters). Striking the ball downward with topspin guarantees high net clearance while painting the opponent's baseline.
 
 ---
 
 ## 3. Drive-Volley Commitment Rules
 
-Ball trajectory apex $> 1.8\text{ meters}$ + landing in mid-court $\rightarrow$ Execute full Drive-Volley; Ball $< 1.2\text{ meters}$ $\rightarrow$ Classical Punch Volley.
+Ball trajectory apex > 1.8 meters + landing in mid-court → Execute full Drive-Volley; Ball < 1.2 meters → Classical Punch Volley.
 
 ---
 
@@ -56,5 +56,5 @@ Ball trajectory apex $> 1.8\text{ meters}$ + landing in mid-court $\rightarrow$ 
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

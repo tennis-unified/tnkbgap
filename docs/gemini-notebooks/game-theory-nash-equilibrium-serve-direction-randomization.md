@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In tennis serving, if a server always targets the opponent's weaker backhand, the returner will cheat laterally and anticipate the shot, destroying the server's advantage. Under **Game Theory and Nash Equilibrium (Minimax Theorem)**, the server must employ a **Mixed Strategy**: serving to the wide corner, 'T', and body with specific mathematical probabilities ($p_1, p_2, p_3$) such that the receiver's expected payoff is identical across all guessing choices, preventing tactical exploitation.
+In tennis serving, if a server always targets the opponent's weaker backhand, the returner will cheat laterally and anticipate the shot, destroying the server's advantage. Under **Game Theory and Nash Equilibrium (Minimax Theorem)**, the server must employ a **Mixed Strategy**: serving to the wide corner, 'T', and body with specific mathematical probabilities (*p*₁, *p*₂, *p*₃) such that the receiver's expected payoff is identical across all guessing choices, preventing tactical exploitation.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ In tennis serving, if a server always targets the opponent's weaker backhand, th
 
 ## 1. The 2x2 Payoff Matrix in Serve-Return Warfare
 
-Constructing payoff matrices ($E(S_i, R_j)$) for Serve Wide vs. Serve 'T' against Receiver Anticipate Wide vs. Anticipate 'T', solving for equalized expected value.
+Constructing payoff matrices (*E*(*S*~i~, *R*~j~)) for Serve Wide vs. Serve 'T' against Receiver Anticipate Wide vs. Anticipate 'T', solving for equalized expected value.
 
 ```
        [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]

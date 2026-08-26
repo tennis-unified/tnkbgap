@@ -28,7 +28,7 @@ The kick serve requires arching the back, tossing the ball behind the head, and 
 
 ## 1. Kinematic Vector Analysis of the Kick Serve
 
-Tossing the ball at 11 o'clock forces the torso into combined extension ($20^\circ$), lateral bending ($25^\circ$), and axial rotation ($40^\circ$)—the exact 'triad of doom' for lumbar facet joints.
+Tossing the ball at 11 o'clock forces the torso into combined extension (20°), lateral bending (25°), and axial rotation (40°)—the exact 'triad of doom' for lumbar facet joints.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Tossing the ball at 11 o'clock forces the torso into combined extension ($20^\ci
 
 ## 2. Replacing Spine Arch with Pelvic Forward Tilt
 
-Elite kick servers (e.g., Dominic Thiem, Stefanos Tsitsipas) achieve vertical launch by bending the knees to $110^\circ$ and driving the pelvis forward into the court, creating a gentle whole-body C-curve rather than an isolated lumbar hinge.
+Elite kick servers (e.g., Dominic Thiem, Stefanos Tsitsipas) achieve vertical launch by bending the knees to 110° and driving the pelvis forward into the court, creating a gentle whole-body C-curve rather than an isolated lumbar hinge.
 
 ---
 

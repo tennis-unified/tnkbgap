@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Tennis is characterized by continuous explosive acceleration, rapid multidirectional lateral cutting, and high-impact landings where the foot absorbs vertical ground reaction forces ($F_z$) exceeding **3.5 to 5.0 times body weight**. The plantar aponeurosis (plantar fascia) and the Achilles tendon function as the body's primary mechanical springs, storing and returning elastic strain energy during the stretch-shortening cycle (SSC).
+Tennis is characterized by continuous explosive acceleration, rapid multidirectional lateral cutting, and high-impact landings where the foot absorbs vertical ground reaction forces (*F*~z~) exceeding **3.5 to 5.0 times body weight**. The plantar aponeurosis (plantar fascia) and the Achilles tendon function as the body's primary mechanical springs, storing and returning elastic strain energy during the stretch-shortening cycle (SSC).
 
 Chronic overload, improper hard-court footwear, calf tightness, and poor ankle dorsiflexion frequently trigger **Plantar Fasciosis (degenerative collagen fraying)** and **Achilles Tendinopathy**. This whitepaper provides a comprehensive biomechanical analysis of the foot-ankle complex in tennis: (1) The **Windlass Mechanism** and plantar load distribution, (2) Etiology of morning heel pain and degenerative tendinopathy, (3) The **Modified Alfredson Heavy-Slow Eccentric Loading Protocol**, and (4) Court footwear and orthotic customization.
 
@@ -71,6 +71,6 @@ Plantar fasciitis in athletes is rarely an acute inflammatory condition; histolo
 | Protocol | Mechanical Action | Clinical Prescription |
 |---|---|---|
 | **Rathleff High-Load Strength Protocol** | High-tension plantar fascia remodeling | Single-leg calf raises with a rolled towel placed under the toes (to engage Windlass mechanism). 3-second concentric, 2-second isometric pause at top, 3-second eccentric lower. 3 sets of 12 RM, 3 days/week with backpack weight. |
-| **Alfredson Eccentric Achilles Drops** | Eccentric tendon lengthening & realignment | Single-leg heel drops off a step (both straight knee and bent knee). Lower for 3 seconds; use good leg to push back up. 3 sets $\times$ 15 reps, $2\times$ daily for 12 weeks. |
+| **Alfredson Eccentric Achilles Drops** | Eccentric tendon lengthening & realignment | Single-leg heel drops off a step (both straight knee and bent knee). Lower for 3 seconds; use good leg to push back up. 3 sets × 15 reps, 2× daily for 12 weeks. |
 | **Frozen Water Bottle Rolling** | Cryo-analgesia & fascial mobilization | Roll foot over a frozen water bottle for 10 minutes post-training to reduce local pain and release plantar tone. |
-| **Night Splint / Strassburg Sock** | Prevents overnight fascial shortening | Maintains $5^\circ\text{--}10^\circ$ of passive dorsiflexion during sleep, eliminating the agonizing "first morning steps." |
+| **Night Splint / Strassburg Sock** | Prevents overnight fascial shortening | Maintains 5°–10° of passive dorsiflexion during sleep, eliminating the agonizing "first morning steps." |

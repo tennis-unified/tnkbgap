@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Against kick servers who retreat deep behind the baseline after serving, the **Disguised Drop-Return** is a devastating ambush. Stepping **$1.5\text{ Meters Inside the Baseline}$**, the returner winds up as if to blast a crushing forehand return. In the final fraction of a second, they feather the grip to **$2/10$**, carving a dead drop shot that lands before the server can even recover from their landing stride.
+Against kick servers who retreat deep behind the baseline after serving, the **Disguised Drop-Return** is a devastating ambush. Stepping **1.5 Meters Inside the Baseline**, the returner winds up as if to blast a crushing forehand return. In the final fraction of a second, they feather the grip to **2/10**, carving a dead drop shot that lands before the server can even recover from their landing stride.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

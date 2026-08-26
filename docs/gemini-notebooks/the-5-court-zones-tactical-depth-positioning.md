@@ -31,7 +31,7 @@ Tactical confusion occurs when players attempt offensive finishing strokes from 
 
 ## 1. Zone 1 (The Trench): High Defensive Elevation
 
-When pushed into Zone 1, shot selection is restricted to high-arc topspin or float slices clearing the net by $> 2.0\text{ meters}$ to buy recovery time.
+When pushed into Zone 1, shot selection is restricted to high-arc topspin or float slices clearing the net by > 2.0 meters to buy recovery time.
 
 ```
        [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]
@@ -44,7 +44,7 @@ When pushed into Zone 1, shot selection is restricted to high-arc topspin or flo
 
 ## 2. Zone 3 & 4 (Transition & Red Zone): Strike Execution
 
-Stepping into Zones 3 and 4 demands aggressive linear forward weight transfer, taking the ball on-the-rise to finish the point in $< 2\text{ shots}$.
+Stepping into Zones 3 and 4 demands aggressive linear forward weight transfer, taking the ball on-the-rise to finish the point in < 2 shots.
 
 ---
 

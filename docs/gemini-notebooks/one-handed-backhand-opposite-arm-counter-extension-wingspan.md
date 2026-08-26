@@ -26,9 +26,9 @@ Amateurs hitting single-handed backhands allow their left arm to dangle uselessl
 
 ---
 
-## 1. Conservation of Angular Momentum ($L = I \omega$)
+## 1. Conservation of Angular Momentum (*L* = *I*ω)
 
-As the right hitting arm accelerates forward with positive angular momentum ($+L_z$), the left arm fires backward with equal and opposite negative angular momentum ($-L_z$), keeping total torso rotation net-zero.
+As the right hitting arm accelerates forward with positive angular momentum (+*L*~z~), the left arm fires backward with equal and opposite negative angular momentum (-*L*~z~), keeping total torso rotation net-zero.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,7 +41,7 @@ As the right hitting arm accelerates forward with positive angular momentum ($+L
 
 ## 2. Preventing Premature Chest Over-Rotation
 
-The backward wing extension anchors the thoracic spine perpendicular to the net ($90^\circ$), ensuring the hitting arm drives down the target line rather than pulling across.
+The backward wing extension anchors the thoracic spine perpendicular to the net (90°), ensuring the hitting arm drives down the target line rather than pulling across.
 
 ---
 

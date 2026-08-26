@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The slice serve is one of the most devastating tactical deliveries in tennis. By striking the ball at 3 o'clock with a Continental grip and aggressive forearm pronation/internal rotation, the player imparts combined sidespin and topspin ($2,500\text{--}3,500\text{ RPM}$). This creates a lateral Magnus force that curves the ball outward in mid-air, followed by an aggressive sideways skid upon bouncing.
+The slice serve is one of the most devastating tactical deliveries in tennis. By striking the ball at 3 o'clock with a Continental grip and aggressive forearm pronation/internal rotation, the player imparts combined sidespin and topspin (2,500–3,500 RPM). This creates a lateral Magnus force that curves the ball outward in mid-air, followed by an aggressive sideways skid upon bouncing.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ The slice serve is one of the most devastating tactical deliveries in tennis. By
 
 ## 1. 3D Magnus Force Vector Decomposition
 
-The spin vector $\boldsymbol{\omega}$ is tilted $45^\circ$ between horizontal and vertical axes. The resulting Magnus force $\mathbf{F}_M = S (\boldsymbol{\omega} \times \mathbf{v})$ produces both downward dip and substantial lateral curve ($0.8\text{--}1.4\text{ meters}$ of flight deflection).
+The spin vector **ω** is tilted 45° between horizontal and vertical axes. The resulting Magnus force **F**~M~ = *S*(**ω** × **v**) produces both downward dip and substantial lateral curve (0.8–1.4 meters of flight deflection).
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ The spin vector $\boldsymbol{\omega}$ is tilted $45^\circ$ between horizontal an
 
 ## 2. Court Surface Skid Friction
 
-Upon colliding with the court, the lateral rotation bites into the surface grit, redirecting the rebound vector $15^\circ\text{--}25^\circ$ away from the original flight path and pulling the returner deep into the doubles alley.
+Upon colliding with the court, the lateral rotation bites into the surface grit, redirecting the rebound vector 15°–25° away from the original flight path and pulling the returner deep into the doubles alley.
 
 ---
 

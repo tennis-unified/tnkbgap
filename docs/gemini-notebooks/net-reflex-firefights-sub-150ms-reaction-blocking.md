@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-At 3 meters net proximity, an 80 mph drive arrives in just **$135\text{ milliseconds}$**—faster than conscious visual processing. Surviving **Point-Blank Net Firefights** requires **Subcortical Motor Automation**: holding the racket in the 'Elbows-in-Front' ready position, relying on spinal motor reflexes, and using compact forearm deflection blocks without any attempt to swing.
+At 3 meters net proximity, an 80 mph drive arrives in just **135 milliseconds**—faster than conscious visual processing. Surviving **Point-Blank Net Firefights** requires **Subcortical Motor Automation**: holding the racket in the 'Elbows-in-Front' ready position, relying on spinal motor reflexes, and using compact forearm deflection blocks without any attempt to swing.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ At 3 meters net proximity, an 80 mph drive arrives in just **$135\text{ millisec
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Allowing high floating lobs to bounce gives defenders time to reset. Modern champions (Carlos Alcaraz, Aryna Sabalenka, Venus Williams) execute the **Airborne Drive-Volley**: leaping off the rear foot, executing a **Mid-Air Rotational Scissor Kick**, and blasting an **$85+\text{ mph}$ topspin winner** directly out of the air at shoulder height ($1.6\text{m}$), ending points decisively.
+Allowing high floating lobs to bounce gives defenders time to reset. Modern champions (Carlos Alcaraz, Aryna Sabalenka, Venus Williams) execute the **Airborne Drive-Volley**: leaping off the rear foot, executing a **Mid-Air Rotational Scissor Kick**, and blasting an **85+ mph topspin winner** directly out of the air at shoulder height (1.6 m), ending points decisively.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ Allowing high floating lobs to bounce gives defenders time to reset. Modern cham
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

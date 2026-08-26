@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Deploying the **Serve-and-Volley (S&V)** as a strategic surprise disrupts deep baseline returners. Following the serve landing inside the baseline, the server executes a **3-Stride Forward Charge Covering $4.5\text{ Meters}$**, setting a balanced split-step 1 meter behind the service line 'T' just as the returner strikes the ball, positioning themselves to intercept 85% of returns above net level.
+Deploying the **Serve-and-Volley (S&V)** as a strategic surprise disrupts deep baseline returners. Following the serve landing inside the baseline, the server executes a **3-Stride Forward Charge Covering 4.5 Meters**, setting a balanced split-step 1 meter behind the service line 'T' just as the returner strikes the ball, positioning themselves to intercept 85% of returns above net level.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ Deploying the **Serve-and-Volley (S&V)** as a strategic surprise disrupts deep b
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘

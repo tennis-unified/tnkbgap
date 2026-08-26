@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-High-speed 1,000 fps video reveals that the famous 'Racket Lag' (where the racket head points directly at the back fence while the hand pulls forward) is **100% passive**. As the torso and arm accelerate forward, the $330\text{g}$ inertia of the racket head drags the relaxed wrist into extreme extension ($90^\circ$) and the forearm into passive supination. The wrist muscles act as an elastic spring that automatically snaps forward at impact.
+High-speed 1,000 fps video reveals that the famous 'Racket Lag' (where the racket head points directly at the back fence while the hand pulls forward) is **100% passive**. As the torso and arm accelerate forward, the 330 g inertia of the racket head drags the relaxed wrist into extreme extension (90°) and the forearm into passive supination. The wrist muscles act as an elastic spring that automatically snaps forward at impact.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ High-speed 1,000 fps video reveals that the famous 'Racket Lag' (where the racke
 
 ## 1. Newton's First Law & Racket Head Inertia
 
-The racket head resists acceleration ($F = m a$). As the butt-cap is pulled forward by the arm, the heavy head lags behind, storing elastic strain energy in the flexor carpi radialis tendon.
+The racket head resists acceleration (*F* = *ma*). As the butt-cap is pulled forward by the arm, the heavy head lags behind, storing elastic strain energy in the flexor carpi radialis tendon.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]

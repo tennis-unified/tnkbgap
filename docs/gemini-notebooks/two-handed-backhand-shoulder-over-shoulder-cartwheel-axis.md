@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Rotating the shoulders horizontally on low balls forces players to scoop with their wrists, resulting in dumped net balls or high floaters. The modern solution is the **Shoulder-Over-Shoulder Cartwheel Engine**: tilting the shoulder axis **$35^\circ\text{ to }45^\circ$ vertically**. As the player uncoils, the rear left shoulder vaults over the lowered right shoulder, driving the racket upward on a steep brushing arc that lifts low balls with **$2,800\text{ RPM}$ topspin**.
+Rotating the shoulders horizontally on low balls forces players to scoop with their wrists, resulting in dumped net balls or high floaters. The modern solution is the **Shoulder-Over-Shoulder Cartwheel Engine**: tilting the shoulder axis **35° to 45° vertically**. As the player uncoils, the rear left shoulder vaults over the lowered right shoulder, driving the racket upward on a steep brushing arc that lifts low balls with **2,800 RPM topspin**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Rotating the shoulders horizontally on low balls forces players to scoop with th
 
 ---
 
-## 1. The $35^\circ\text{--}45^\circ$ Vertical Axis Tilt Geometry
+## 1. The 35°–45° Vertical Axis Tilt Geometry
 
 Dropping the right shoulder while coiling positions the upper body to uncoil upward diagonally rather than horizontally.
 
@@ -59,5 +59,5 @@ Low-feed cartwheel shadow swings; diagonal medicine ball passes from knee to sho
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Horizontal Merry-Go-Round: Spinning shoulders on a flat horizontal plane | Dumping low balls into the net & lack of topspin | **Dip & Vault: Drop right shoulder below chin; vault left shoulder over top.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

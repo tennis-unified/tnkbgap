@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In a 5-set Grand Slam match lasting over four hours, an elite tennis player burns between **2,500 and 4,000 kilocalories**, depleting liver and skeletal muscle glycogen stores by **up to 80%**. When intramuscular glycogen drops below critical thresholds ($< 150\text{ mmol/kg}$ wet weight), calcium release from the sarcoplasmic reticulum is impaired, leading to catastrophic deceleration in first-step explosive speed and sudden cognitive brain fog.
+In a 5-set Grand Slam match lasting over four hours, an elite tennis player burns between **2,500 and 4,000 kilocalories**, depleting liver and skeletal muscle glycogen stores by **up to 80%**. When intramuscular glycogen drops below critical thresholds (< 150 mmol/kg wet weight), calcium release from the sarcoplasmic reticulum is impaired, leading to catastrophic deceleration in first-step explosive speed and sudden cognitive brain fog.
 
 This research whitepaper details evidence-based performance nutrition protocols tailored for tennis competition: (1) **Pre-Match Glycogen Supercompensation** (8–10g carbohydrate per kg body weight 24h prior), (2) The **3-Hour Pre-Match Meal Blueprint**, (3) **Dual-Source Intra-Match Fueling** (60–90g/hour of 2:1 Glucose-to-Fructose ratio maximizing SGLT-1 and GLUT-5 intestinal transporters), and (4) Post-match glycogen and myofascial protein repair timelines.
 
@@ -41,7 +41,7 @@ TARGET CARBOHYDRATE INTAKE:
 
 ### 1.1. The 3-Hour Pre-Match Rule
 - Consumed **3 to 3.5 hours before match call**.
-- Composition: $2.0\text{--}2.5\text{g CHO / kg}$, $25\text{g}$ easily digestible lean protein, $< 10\text{g}$ fat, $< 5\text{g}$ fiber.
+- Composition: 2.0–2.5 g CHO / kg, 25 g easily digestible lean protein, < 10 g fat, < 5 g fiber.
 - Purpose: Tops off liver glycogen while allowing complete gastric emptying, preventing gastrointestinal distress and insulin crashes.
 
 ---
@@ -59,7 +59,7 @@ DUAL-SOURCE GLUCOSE + FRUCTOSE (2:1 Ratio):
 
 ### 2.1. Changeover Fueling Schedule
 Every 2 games (90-second changeover):
-- Sip **$150\text{--}200\text{ mL}$** of a 6% hypotonic dual-carbohydrate electrolyte solution.
+- Sip **150–200 mL** of a 6% hypotonic dual-carbohydrate electrolyte solution.
 - Alternate with half a banana or carbohydrate energy gel every 40 minutes of match play.
 
 ---
@@ -68,6 +68,6 @@ Every 2 games (90-second changeover):
 
 | Nutrient Target | Prescription | Physiological Function |
 |---|---|---|
-| **Rapid Carbohydrates** | $1.2\text{g / kg}$ high-GI carbs (maltodextrin / fruit juice) | Insulin spike drives rapid glycogen resynthesis at $7\text{--}10\text{ mmol/kg/hr}$. |
-| **Complete Protein** | $30\text{--}40\text{g}$ Whey isolate / Essential amino acids | Delivers 3g Leucine to trigger mTOR myofascial protein synthesis. |
-| **Electrolyte Rehydration** | $1.5\times$ body mass lost in fluid + $1,000\text{mg Na}^+$ | Rapidly expands blood plasma volume and prevents muscle cramping. |
+| **Rapid Carbohydrates** | 1.2 g / kg high-GI carbs (maltodextrin / fruit juice) | Insulin spike drives rapid glycogen resynthesis at 7–10 mmol/kg/hr. |
+| **Complete Protein** | 30–40 g Whey isolate / Essential amino acids | Delivers 3g Leucine to trigger mTOR myofascial protein synthesis. |
+| **Electrolyte Rehydration** | 1.5× body mass lost in fluid + 1,000mg Na⁺ | Rapidly expands blood plasma volume and prevents muscle cramping. |

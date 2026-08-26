@@ -9,9 +9,9 @@
 
 ## Executive Abstract
 
-While the two-handed backhand dominates modern professional tennis for its ease of return and open-stance adaptability, the **Modern One-Handed Backhand (1HB)** remains the pinnacle of single-arm kinetic leverage, aesthetic fluid elegance, and rotational reach. Exemplified by Roger Federer, Stan Wawrinka, and Stefanos Tsitsipas, an elite 1HB can generate ballistic shot speeds exceeding $90\text{ mph}$ ($145\text{ km/h}$) with heavy topspin ($2,800\text{--}3,600\text{ RPM}$).
+While the two-handed backhand dominates modern professional tennis for its ease of return and open-stance adaptability, the **Modern One-Handed Backhand (1HB)** remains the pinnacle of single-arm kinetic leverage, aesthetic fluid elegance, and rotational reach. Exemplified by Roger Federer, Stan Wawrinka, and Stefanos Tsitsipas, an elite 1HB can generate ballistic shot speeds exceeding 90 mph (145 km/h) with heavy topspin (2,800–3,600 RPM).
 
-This whitepaper analyzes the biomechanical requirements of the 1HB: (1) The Eastern Backhand Grip alignment (Bevel 1 index knuckle anchor), (2) The **Extreme Shoulder Turn ($115^\circ\text{--}130^\circ$)**, (3) The **Scapular Retraction & Rhomboid Pre-load**, (4) **Straight-Arm Contact Geometry ($45\text{ cm}$ in front of lead toe)**, and (5) The counter-balancing non-dominant arm extension creating the "Chest Wingspan" finish.
+This whitepaper analyzes the biomechanical requirements of the 1HB: (1) The Eastern Backhand Grip alignment (Bevel 1 index knuckle anchor), (2) The **Extreme Shoulder Turn (115°–130°)**, (3) The **Scapular Retraction & Rhomboid Pre-load**, (4) **Straight-Arm Contact Geometry (45 cm in front of lead toe)**, and (5) The counter-balancing non-dominant arm extension creating the "Chest Wingspan" finish.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -41,8 +41,8 @@ This whitepaper analyzes the biomechanical requirements of the 1HB: (1) The East
 
 ### 1.1. The Forward Contact Geometry
 The primary mechanical reason players struggle with the 1HB is late contact.
-- In a two-handed backhand, contact can occur even with the lead hip ($0\text{--}15\text{ cm}$ forward).
-- In a one-handed backhand, **contact MUST occur $40\text{--}50\text{ cm}$ in front of the lead hip**. Hitting behind this zone collapses the wrist, jamming the radius against the humerus and causing frame shanks.
+- In a two-handed backhand, contact can occur even with the lead hip (0–15 cm forward).
+- In a one-handed backhand, **contact MUST occur 40–50 cm in front of the lead hip**. Hitting behind this zone collapses the wrist, jamming the radius against the humerus and causing frame shanks.
 
 ---
 
@@ -68,9 +68,9 @@ To prevent the upper torso from over-rotating and pulling the racket off the bal
 | Technical Parameter | Stan Wawrinka (The Heavy Hammer) | Roger Federer (The Precision Blade) |
 |---|---|---|
 | **Takeback Shape** | High looping circular drop with heavy wrist cock | Compact fluid loop with high tip point |
-| **Knee Flexion Depth** | $105^\circ$ (Deep Olympic squat load) | $120^\circ$ (Supple elastic spring) |
-| **Average Ball Speed** | $82\text{--}92\text{ mph}$ (Crushing baseline drive) | $76\text{--}84\text{ mph}$ (Surgical angle & depth) |
-| **Topspin Output** | $2,800\text{--}3,800\text{ RPM}$ | $2,600\text{--}3,400\text{ RPM}$ |
+| **Knee Flexion Depth** | 105° (Deep Olympic squat load) | 120° (Supple elastic spring) |
+| **Average Ball Speed** | 82–92 mph (Crushing baseline drive) | 76–84 mph (Surgical angle & depth) |
+| **Topspin Output** | 2,800–3,800 RPM | 2,600–3,400 RPM |
 | **High Ball Handling** | Drives over the ball with full body rise | Slices defensively or takes on-the-rise |
 
 ---
@@ -79,6 +79,6 @@ To prevent the upper torso from over-rotating and pulling the racket off the bal
 
 | Fault | Root Biomechanical Cause | Corrective Drill |
 |---|---|---|
-| **Late Jammed Contact** | Inadequate shoulder turn ($< 90^\circ$) | **Back-to-Net Wall Feed**: Stand with back facing the net, drop ball 50cm in front of lead toe to enforce forward contact. |
+| **Late Jammed Contact** | Inadequate shoulder turn (< 90°) | **Back-to-Net Wall Feed**: Stand with back facing the net, drop ball 50cm in front of lead toe to enforce forward contact. |
 | **Torso Over-Rotation** | Left arm dropping passively to side | **Left Hand Fence Touch**: Require the left hand to touch the back fence on the follow-through. |
 | **Wrist Collapsing** | Using Continental grip for topspin drive | **Bevel 1 Tape Marker**: Place red tape on Bevel 1; ensure index knuckle stays locked onto tape. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Electromyographic and 3D motion analysis proves that **Internal Shoulder Rotation (ISR)** is the single largest contributor to serve speed, accounting for **$54\%$ of terminal racket head velocity**. Firing the subscapularis and pectoralis major produces angular velocities exceeding **$2,800^\circ/\text{second}$** in the final $25\text{ms}$ before impact, turning the relaxed arm into a supersonic whip.
+Electromyographic and 3D motion analysis proves that **Internal Shoulder Rotation (ISR)** is the single largest contributor to serve speed, accounting for **54% of terminal racket head velocity**. Firing the subscapularis and pectoralis major produces angular velocities exceeding **2,800°/s** in the final 25 ms before impact, turning the relaxed arm into a supersonic whip.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ Linear summation shows legs and trunk generate 46% of kinetic energy; ISR multip
 
 ## 2. Subscapularis & Pectoralis Major Motor Recruitment
 
-Explosive concentric recruitment of subscapularis fibers accelerating the humeral head into internal rotation in $< 20\text{ms}$.
+Explosive concentric recruitment of subscapularis fibers accelerating the humeral head into internal rotation in < 20 ms.
 
 ---
 
@@ -56,6 +56,6 @@ High-velocity internal rotation resistance tubing; 2kg plyometric ball overhead 
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

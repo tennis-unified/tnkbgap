@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Volley execution depends entirely on footwork. In the **Classical 45° Cross-Step Lunge**, the player steps across with the opposite foot, channeling **$100\%$ of forward linear momentum** into deep punch volleys. In modern high-speed exchanges, the **Open-Stance Lateral Volley** plants the outside foot to absorb wide passing shots, allowing instant rebound recovery back to the center mark.
+Volley execution depends entirely on footwork. In the **Classical 45° Cross-Step Lunge**, the player steps across with the opposite foot, channeling **100% of forward linear momentum** into deep punch volleys. In modern high-speed exchanges, the **Open-Stance Lateral Volley** plants the outside foot to absorb wide passing shots, allowing instant rebound recovery back to the center mark.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ Volley execution depends entirely on footwork. In the **Classical 45° Cross-Ste
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -29,7 +29,7 @@ Volley execution depends entirely on footwork. In the **Classical 45° Cross-Ste
 
 ---
 
-## 1. The $45^\circ$ Cross-Step Forward Lunge
+## 1. The 45° Cross-Step Forward Lunge
 
 Stepping diagonally forward closes the hips and drives body mass through contact, maximizing depth and penetration.
 

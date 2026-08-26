@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Recreational players treat volleys like miniature groundstrokes, taking large backswings that cause late, popping errors. Elite net volleys (exemplified by Stefan Edberg, Roger Federer, and Martina Navratilova) operate on **Isometric Core Stiffness & Linear Punch Impulse**. With zero backswing, the player locks the abdominal wall and drives the front foot forward, redirecting incoming pace using pure kinetic impulse ($J = F \Delta t$).
+Recreational players treat volleys like miniature groundstrokes, taking large backswings that cause late, popping errors. Elite net volleys (exemplified by Stefan Edberg, Roger Federer, and Martina Navratilova) operate on **Isometric Core Stiffness & Linear Punch Impulse**. With zero backswing, the player locks the abdominal wall and drives the front foot forward, redirecting incoming pace using pure kinetic impulse (*J* = *F* Δ*t*).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Recreational players treat volleys like miniature groundstrokes, taking large ba
 
 ## 1. Zero-Backswing Wall Alignment
 
-The racket frame stays strictly in front of the nose and shoulders ($< 0\text{cm}$ backward displacement). The unit turn is created by turning the torso $45^\circ$ as a single rigid block.
+The racket frame stays strictly in front of the nose and shoulders (< 0 cm backward displacement). The unit turn is created by turning the torso 45° as a single rigid block.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -41,7 +41,7 @@ The racket frame stays strictly in front of the nose and shoulders ($< 0\text{cm
 
 ## 2. The Forward Linear Weight Step
 
-Impact coincides exactly with the lead foot landing on the court, transferring 100% of forward linear momentum ($m v_{\text{body}}$) directly through the rigid wrist into the ball.
+Impact coincides exactly with the lead foot landing on the court, transferring 100% of forward linear momentum (*m* *v*~body~) directly through the rigid wrist into the ball.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The primate visual system processes information along two parallel anatomical pathways (The Goodale & Milner Dual-Stream Model): (1) The **Dorsal Stream (V1 $\rightarrow$ Posterior Parietal Cortex)**, which processes real-time spatial localization and optic flow ('Where / How'), and (2) The **Ventral Stream (V1 $\rightarrow$ Inferotemporal Cortex)**, which processes object identity, color, and ball seam orientation ('What'). In high-speed tennis, the 50ms dorsal stream dominates.
+The primate visual system processes information along two parallel anatomical pathways (The Goodale & Milner Dual-Stream Model): (1) The **Dorsal Stream (V1 → Posterior Parietal Cortex)**, which processes real-time spatial localization and optic flow ('Where / How'), and (2) The **Ventral Stream (V1 → Inferotemporal Cortex)**, which processes object identity, color, and ball seam orientation ('What'). In high-speed tennis, the 50ms dorsal stream dominates.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ The primate visual system processes information along two parallel anatomical pa
 
 ## 1. The High-Speed Dorsal Optical Interceptor
 
-The dorsal stream operates subcortically with ultra-fast transmission ($50\text{ms}$), calculating time-to-contact (Tau) and directing arm movements without conscious awareness.
+The dorsal stream operates subcortically with ultra-fast transmission (50 ms), calculating time-to-contact (Tau) and directing arm movements without conscious awareness.
 
 ```
        [ Visual Sensory Input ] ──► [ Magnocellular High-Speed Pathway ]
@@ -42,7 +42,7 @@ The dorsal stream operates subcortically with ultra-fast transmission ($50\text{
 
 ## 2. Ventral Stream Ball Spin Analysis
 
-The ventral stream requires $150\text{ms}$ to decode yellow ball seam rotation, useful primarily during serve preparation and slow second-serve returns.
+The ventral stream requires 150 ms to decode yellow ball seam rotation, useful primarily during serve preparation and slow second-serve returns.
 
 ---
 

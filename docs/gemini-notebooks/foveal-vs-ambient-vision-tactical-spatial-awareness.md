@@ -28,7 +28,7 @@ The human visual system processes visual information through two distinct neural
 
 ## 1. The Dual Visual Processing Pathways
 
-The fovea covers only $2^\circ$ of the visual field but provides sharp acuity. The peripheral retina contains high-density magnocellular cells sensitive to motion at 100+ frames per second, creating real-time spatial optic flow.
+The fovea covers only 2° of the visual field but provides sharp acuity. The peripheral retina contains high-density magnocellular cells sensitive to motion at 100+ frames per second, creating real-time spatial optic flow.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

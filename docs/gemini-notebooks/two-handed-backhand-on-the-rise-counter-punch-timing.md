@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Striking the two-handed backhand on-the-rise is the ultimate time-stealing weapon. Champions like **Andre Agassi and Jannik Sinner** step inside the baseline to intercept the ball just **$15\text{ to }20\text{cm}$ off the court bounce**. Using a compact backswing and stationary head anchor, they redirect incoming pace with an **$85\text{ mph}$ laser**, leaving opponents zero recovery time.
+Striking the two-handed backhand on-the-rise is the ultimate time-stealing weapon. Champions like **Andre Agassi and Jannik Sinner** step inside the baseline to intercept the ball just **15 to 20 cm off the court bounce**. Using a compact backswing and stationary head anchor, they redirect incoming pace with an **85 mph laser**, leaving opponents zero recovery time.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ Half-volley baseline drop feeds; rapid-fire machine drills 1m inside baseline; a
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Lunging with Head Jerk: Lifting head up prematurely to see where ball goes | Off-center shanked frames and loss of depth | **Gaze Anchor: Keep chin tucked and eyes glued to contact zone for 150ms after hit.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

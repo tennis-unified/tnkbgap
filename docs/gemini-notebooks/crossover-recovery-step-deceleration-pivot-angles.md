@@ -28,7 +28,7 @@ When recovering from three meters outside the doubles alley, taking side-shuffle
 
 ## 1. The Physics of the Crossover Push-Off
 
-Following impact, the outside leg drives into the court at a $45^\circ$ angle, delivering horizontal ground reaction force ($F_x = m a_x$) that propels the pelvis across the midline in a single powerful stride.
+Following impact, the outside leg drives into the court at a 45° angle, delivering horizontal ground reaction force (*F*~x~ = *ma*~x~) that propels the pelvis across the midline in a single powerful stride.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Following impact, the outside leg drives into the court at a $45^\circ$ angle, d
 
 ## 2. Crossover vs. Shuffle Decision Boundary
 
-Displacement $> 2.5\text{ meters} \rightarrow$ Immediate Crossover Step. Displacement $< 1.5\text{ meters} \rightarrow$ Side-Shuffle Step to maintain chest orientation to opponent.
+Displacement > 2.5 meters → Immediate Crossover Step. Displacement < 1.5 meters → Side-Shuffle Step to maintain chest orientation to opponent.
 
 ---
 

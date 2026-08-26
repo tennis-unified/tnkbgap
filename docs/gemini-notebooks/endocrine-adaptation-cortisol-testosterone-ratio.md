@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Competing across 4-6 consecutive weeks on the ATP/WTA tour places immense chronic stress on the hypothalamic-pituitary-adrenal (HPA) axis. When salivary cortisol remains chronically elevated and free testosterone drops—depressing the **Free Testosterone-to-Cortisol (FT/C) Ratio by $> 30\%$**—the athlete enters catabolic overtraining, experiencing rapid muscle wasting, sleep disruption, and emotional burnout.
+Competing across 4-6 consecutive weeks on the ATP/WTA tour places immense chronic stress on the hypothalamic-pituitary-adrenal (HPA) axis. When salivary cortisol remains chronically elevated and free testosterone drops—depressing the **Free Testosterone-to-Cortisol (FT/C) Ratio by > 30%**—the athlete enters catabolic overtraining, experiencing rapid muscle wasting, sleep disruption, and emotional burnout.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -41,7 +41,7 @@ Testosterone promotes myofascial protein synthesis and neural drive; cortisol dr
 
 ## 2. Endocrine Regulation Interventions
 
-Incorporating adaptogenic herbs (Ashwagandha KSM-66 600mg daily), reducing high-volume court training, ensuring $> 8\text{g/kg}$ carbohydrate intake, and prioritizing 9+ hours of sleep.
+Incorporating adaptogenic herbs (Ashwagandha KSM-66 600mg daily), reducing high-volume court training, ensuring > 8 g/kg carbohydrate intake, and prioritizing 9+ hours of sleep.
 
 ---
 

@@ -31,7 +31,7 @@ When a fast defender sprints to retrieve a wide shot, they immediately initiate 
 
 ## 1. Inertial Trapping & Deceleration Physics
 
-A defender sprinting at $5.5\text{ m/s}$ requires at least $280\text{ms}$ and $3.5\times\text{BW}$ braking force to halt momentum. Hitting behind them catches them in full sprint.
+A defender sprinting at 5.5 m/s requires at least 280 ms and 3.5× BW braking force to halt momentum. Hitting behind them catches them in full sprint.
 
 ```
        [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]

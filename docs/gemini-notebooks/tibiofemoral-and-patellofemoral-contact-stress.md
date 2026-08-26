@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Deep knee flexion ($115^\circ$) in the serve trophy pose produces vertical ground reaction forces of $2,200\text{ N}$. As knee angle deepens past $90^\circ$, **Patellofemoral Contact Stress spikes to $> 15\text{ MPa}$**, shifting the contact zone to the superior and odd facets of the patella. High **Quadriceps Angle (Q-Angle)** vectors pull the patella laterally, causing retro-patellar cartilage erosion. Strengthening the Vastus Medialis Oblique (VMO) neutralizes lateral patellar tracking.
+Deep knee flexion (115°) in the serve trophy pose produces vertical ground reaction forces of 2,200 N. As knee angle deepens past 90°, **Patellofemoral Contact Stress spikes to > 15 MPa**, shifting the contact zone to the superior and odd facets of the patella. High **Quadriceps Angle (Q-Angle)** vectors pull the patella laterally, causing retro-patellar cartilage erosion. Strengthening the Vastus Medialis Oblique (VMO) neutralizes lateral patellar tracking.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

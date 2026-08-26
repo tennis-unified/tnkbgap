@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In peer-reviewed biomechanical studies (Kovacs, Ellenbecker, Reid), **Internal Shoulder Rotation (ISR)** is proven to be the single largest contributor to serve speed, accounting for **$54\%$ of terminal racket velocity**. Accelerating from $170^\circ$ of maximum external rotation to internal impact at over **$2,800^\circ/\text{sec}$**, the subscapularis and pectoralis major unleash the final explosive catapult that produces 130+ mph serves.
+In peer-reviewed biomechanical studies (Kovacs, Ellenbecker, Reid), **Internal Shoulder Rotation (ISR)** is proven to be the single largest contributor to serve speed, accounting for **54% of terminal racket velocity**. Accelerating from 170° of maximum external rotation to internal impact at over **2,800°/s**, the subscapularis and pectoralis major unleash the final explosive catapult that produces 130+ mph serves.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -26,9 +26,9 @@ In peer-reviewed biomechanical studies (Kovacs, Ellenbecker, Reid), **Internal S
 
 ---
 
-## 1. The $2,800^\circ/\text{sec}$ Rotational Explosion
+## 1. The 2,800°/s Rotational Explosion
 
-ISR rotates the humerus internally around its long axis in under 30 milliseconds. This rotational snap multiplies linear racket tip speed from $60\text{ mph}$ to over $130\text{ mph}$.
+ISR rotates the humerus internally around its long axis in under 30 milliseconds. This rotational snap multiplies linear racket tip speed from 60 mph to over 130 mph.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -39,7 +39,7 @@ ISR rotates the humerus internally around its long axis in under 30 milliseconds
 
 ---
 
-## 2. The External Rotation Pre-Stretch ($170^\circ$)
+## 2. The External Rotation Pre-Stretch (170°)
 
 To achieve maximum ISR, the shoulder must drop into deep external rotation during the 'racket drop' phase, pre-stretching the anterior subscapularis tendon for elastic recoil.
 

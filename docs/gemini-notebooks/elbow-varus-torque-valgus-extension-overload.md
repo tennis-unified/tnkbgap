@@ -28,7 +28,7 @@ During the maximum external rotation and acceleration phase of a 130 mph serve, 
 
 ## 1. UCL Tensile Stress Dynamics
 
-When the shoulder reaches $170^\circ$ of external rotation during the trophy-to-drop transition, inertial lag forces the forearm into extreme valgus angle. Flexor-pronator muscle mass (pronator teres, flexor carpi ulnaris) acts as the dynamic active shield protecting the passive UCL.
+When the shoulder reaches 170° of external rotation during the trophy-to-drop transition, inertial lag forces the forearm into extreme valgus angle. Flexor-pronator muscle mass (pronator teres, flexor carpi ulnaris) acts as the dynamic active shield protecting the passive UCL.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ When the shoulder reaches $170^\circ$ of external rotation during the trophy-to-
 
 ## 2. The 'Dropping Elbow' Kinetic Flaw
 
-If the server drops their elbow below the inter-shoulder line ($< 90^\circ$ abduction) during the forward drive, valgus torque spikes by over 40%, creating severe medial traction and lateral radio-capitellar compression.
+If the server drops their elbow below the inter-shoulder line (< 90° abduction) during the forward drive, valgus torque spikes by over 40%, creating severe medial traction and lateral radio-capitellar compression.
 
 ---
 

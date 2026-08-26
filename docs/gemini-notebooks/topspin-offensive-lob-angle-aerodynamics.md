@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Against an elite net rusher with a standing wingspan exceeding 2.5 meters, conventional passing shots down the line or crosscourt carry a high risk of interception. The **Offensive Topspin Lob** represents the most lethal vertical counter-measure in the sport. When executed with heavy forward rotation ($> 3,500\text{ RPM}$), the ball clears the net player's maximum vertical reach at a steep $55^\circ\text{--}65^\circ$ launch angle, then experiences violent **downward Magnus acceleration**, plunging sharply inside the baseline and exploding forward upon bouncing.
+Against an elite net rusher with a standing wingspan exceeding 2.5 meters, conventional passing shots down the line or crosscourt carry a high risk of interception. The **Offensive Topspin Lob** represents the most lethal vertical counter-measure in the sport. When executed with heavy forward rotation (> 3,500 RPM), the ball clears the net player's maximum vertical reach at a steep 55°–65° launch angle, then experiences violent **downward Magnus acceleration**, plunging sharply inside the baseline and exploding forward upon bouncing.
 
 This whitepaper analyzes: (1) The aerodynamic flight trajectory and parabolic Magnus curvature of the topspin lob, (2) The **Disguised Groundstroke Takeback** (feigning a standard passing drive until the final 30ms), (3) Extreme low-to-high vertical brushing mechanics with the Western/Semi-Western grip, and (4) The post-bounce velocity explosion that leaves sprinting opponents helpless.
 

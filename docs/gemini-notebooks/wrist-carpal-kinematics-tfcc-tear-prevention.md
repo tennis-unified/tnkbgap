@@ -28,7 +28,7 @@ With the rise of Full Western and Semi-Western forehand grips imparting 3,500+ R
 
 ## 1. Carpal Load Transmission During Racket Lag
 
-As the shoulder pulls the arm forward, the racket head's inertia drags the wrist into $90^\circ$ hyperextension and $25^\circ$ ulnar deviation. The TFCC acts as the primary shock absorber on the pinky-side of the wrist.
+As the shoulder pulls the arm forward, the racket head's inertia drags the wrist into 90° hyperextension and 25° ulnar deviation. The TFCC acts as the primary shock absorber on the pinky-side of the wrist.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

@@ -39,8 +39,8 @@ For decades, coaching manuals have treated the body as a set of segmented links.
 | Feature / Dimension | Classical Kinetic Chain Model | Wave Transmission Model (WTM) & Kình |
 |---|---|---|
 | **Structural Architecture** | Discrete rigid levers connected by hinge joints | Continuous 3D viscoelastic tensegrity matrix (Fascia) |
-| **Power Mechanism** | Sequential muscular concentric contraction | Elastic strain storage $\rightarrow$ Wave resonance $\rightarrow$ Pulse collapse |
-| **Transmission Speed** | Limited by electromechanical muscle delay (~150–200 ms) | Acoustic/elastic shear wave speed in tissue ($15\text{--}150\text{ m/s}$) |
+| **Power Mechanism** | Sequential muscular concentric contraction | Elastic strain storage → Wave resonance → Pulse collapse |
+| **Transmission Speed** | Limited by electromechanical muscle delay (~150–200 ms) | Acoustic/elastic shear wave speed in tissue (15–150 m/s) |
 | **Energy Nature** | Mechanical push/pull (*Lực* - local muscular exertion) | Elastic shockwave pulse (*Kình / Jing* - structural spring release) |
 | **Muscle Role** | Primary engine of racket acceleration | Impedance tuners maintaining fascial pre-tension (*Tùng*) |
 | **Contact Event** | Pushing through the ball with arm levers | Orthogonal wave collapse and terminal energy discharge |
@@ -87,14 +87,14 @@ As ground reaction forces enter the body, they travel as three distinct wave for
                       └────────────────────────────────────────┘
 ```
 
-### 3.1 Compression Wave ($GRW \rightarrow \text{Pelvis}$)
-When the player's plant foot strikes the court during an open or semi-open stance, the ground reaction wave ($GRW$) ascends through the calcaneus, tibia, and femur. The Achilles tendon and plantar fascia act as primary shock accumulators.
+### 3.1 Compression Wave (GRW → Pelvis)
+When the player's plant foot strikes the court during an open or semi-open stance, the ground reaction wave (GRW) ascends through the calcaneus, tibia, and femur. The Achilles tendon and plantar fascia act as primary shock accumulators.
 
-### 3.2 Torsion Wave ($\text{Pelvis} \rightarrow \text{Thoracolumbar Core}$)
+### 3.2 Torsion Wave (Pelvis → Thoracolumbar Core)
 The pelvis acts as a **phase inverter and wave amplifier**. As the hips rotate forward, the linear upward compression wave is converted into a rapid torsional wave wrapping around the spine. The thoracolumbar fascia and abdominal obliques are twisted like a heavy rubber spring.
 
-### 3.3 Shear Wave ($\text{Shoulder} \rightarrow \text{Arm} \rightarrow \text{Racket}$)
-The glenohumeral joint and rotator cuff act as an **impedance-matching directional converter**. They redirect the vertical/torsional body wave $90^\circ$ outward along the loose arm segment. The arm does not "pull" the racket; rather, it acts as a passive whip conduit guiding the transverse shear wave into the racket head.
+### 3.3 Shear Wave (Shoulder → Arm → Racket)
+The glenohumeral joint and rotator cuff act as an **impedance-matching directional converter**. They redirect the vertical/torsional body wave 90° outward along the loose arm segment. The arm does not "pull" the racket; rather, it acts as a passive whip conduit guiding the transverse shear wave into the racket head.
 
 ---
 
@@ -124,7 +124,7 @@ The human body on the tennis court sets up a transient **standing wave pattern**
 
 Elite players modulate their standing wave configuration dynamically. By dropping the center of mass or changing grip pressure by 5%, they shift the nodal points, altering trajectory and spin without telegraphing the shot.
 
-### 4.3 Controlled Phase Delay ($\Delta t$)
+### 4.3 Controlled Phase Delay (Δ*t*)
 True power is not all body parts moving at the same time, but **controlled phase shifting**:
 
 $$\Delta t_{\text{foot}\rightarrow\text{hip}} \approx 15\text{ ms} \quad\longrightarrow\quad \Delta t_{\text{hip}\rightarrow\text{torso}} \approx 20\text{ ms} \quad\longrightarrow\quad \Delta t_{\text{torso}\rightarrow\text{racket}} \approx 25\text{ ms}$$
@@ -140,7 +140,7 @@ When the phase offsets align with the natural resonant frequency of the player's
 - **Wave Mechanism**: Federer exhibits near-zero muscular deceleration resistance. His body absorbs the impact shock through the continuous fascial loop, producing an iconic effortless strike where the racket sweeps freely through the dynamic slot.
 
 ### 5.2 Jannik Sinner & Carlos Alcaraz: Compact Fascial Recoil
-- **Biomechanical Profile**: Double-bend / semi-western compact loop with ultra-high pelvic rotational acceleration ($>600^\circ/\text{s}$).
+- **Biomechanical Profile**: Double-bend / semi-western compact loop with ultra-high pelvic rotational acceleration (> 600°/s).
 - **Wave Mechanism**: Sinner and Alcaraz utilize an intense, short-amplitude compression-torsion pulse. Their unit turn loads the thoracolumbar and gluteal fascia with extreme rapid pre-stretch, snapping the racket forward like an elastic whip under high tempo.
 
 ### 5.3 Novak Djokovic: Elastic Kinetic Redirection

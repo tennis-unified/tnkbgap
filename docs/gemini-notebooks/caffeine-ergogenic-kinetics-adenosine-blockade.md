@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Caffeine (1,3,7-trimethylxanthine) is one of the most thoroughly researched ergogenic aids in sports science. By acting as a competitive antagonist at central **$A_1$ and $A_{2A}$ adenosine receptors**, caffeine prevents fatigue-induced CNS slowdown, increases motor unit firing rates, and accelerates visual-motor reaction time by 12–15 milliseconds. This paper establishes optimal timing and micro-dosing protocols to avoid tremors and anxiety.
+Caffeine (1,3,7-trimethylxanthine) is one of the most thoroughly researched ergogenic aids in sports science. By acting as a competitive antagonist at central ***A*₁ and *A*~2A~ adenosine receptors**, caffeine prevents fatigue-induced CNS slowdown, increases motor unit firing rates, and accelerates visual-motor reaction time by 12–15 milliseconds. This paper establishes optimal timing and micro-dosing protocols to avoid tremors and anxiety.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Caffeine (1,3,7-trimethylxanthine) is one of the most thoroughly researched ergo
 
 ## 1. Pharmacokinetics & Peak Plasma Concentration
 
-Caffeine reaches peak plasma levels ($T_{\text{max}}$) in 45–60 minutes and possesses a half-life of 4–6 hours. Dosing must occur 45 minutes before match call.
+Caffeine reaches peak plasma levels (*T*~max~) in 45–60 minutes and possesses a half-life of 4–6 hours. Dosing must occur 45 minutes before match call.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Caffeine reaches peak plasma levels ($T_{\text{max}}$) in 45–60 minutes and po
 
 ## 2. Optimal Dosing Window: 3 to 5 mg/kg
 
-Consuming $3\text{--}5\text{ mg / kg}$ bodyweight (e.g., 225–350mg for a 75kg player) enhances reaction speed and leg drive without inducing fine motor tremors or elevated heart rate spikes.
+Consuming 3–5 mg / kg bodyweight (e.g., 225–350mg for a 75kg player) enhances reaction speed and leg drive without inducing fine motor tremors or elevated heart rate spikes.
 
 ---
 

@@ -28,7 +28,7 @@ Blasting flat, high-speed returns at a rushing server plays directly into their 
 
 ## 1. Magnus-Induced Trajectory Dip
 
-Heavy topspin creates downward Magnus acceleration ($a_M = -18.5\text{ m/s}^2$). The ball crosses the net tape at $0.95\text{m}$ and plunges to $0.35\text{m}$ (shoe level) within $4.5\text{ meters}$ of flight.
+Heavy topspin creates downward Magnus acceleration (*a*~M~ = -18.5 m/s²). The ball crosses the net tape at 0.95 m and plunges to 0.35 m (shoe level) within 4.5 meters of flight.
 
 ```
        [ Server / Partner Baseline Drive ] ──► [ Net Player Diagonal Cut ]
@@ -41,7 +41,7 @@ Heavy topspin creates downward Magnus acceleration ($a_M = -18.5\text{ m/s}^2$).
 
 ## 2. Forcing the Upward Volley Pop-Up
 
-Striking a volley from below net height mandates angling the racket face upward ($\theta_{\text{face}} = +25^\circ$). This pops the ball gently upward, offering the receiver's net partner an immediate put-away overhead or punch volley.
+Striking a volley from below net height mandates angling the racket face upward (θ~face~ = +25°). This pops the ball gently upward, offering the receiver's net partner an immediate put-away overhead or punch volley.
 
 ---
 
@@ -56,5 +56,5 @@ Short-hop split step 1 meter inside baseline; low-to-high windshield wiper brush
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

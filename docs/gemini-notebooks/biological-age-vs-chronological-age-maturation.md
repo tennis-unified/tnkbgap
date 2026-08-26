@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During adolescent **Peak Height Velocity (PHV)**, junior players can grow 8 to 12cm in a single year. Rapid limb lengthening dramatically increases the arm's **Rotational Moment of Inertia ($I = m r^2$)**, causing temporary loss of coordination, timing breakdown, and emotional distress ('Adolescent Clumsiness'). This whitepaper provides a **Bio-Banding Periodization Protocol** that recalibrates swingweights, preserves technique, and protects growth plates from epiphyseal fractures.
+During adolescent **Peak Height Velocity (PHV)**, junior players can grow 8 to 12cm in a single year. Rapid limb lengthening dramatically increases the arm's **Rotational Moment of Inertia (*I* = *mr*²)**, causing temporary loss of coordination, timing breakdown, and emotional distress ('Adolescent Clumsiness'). This whitepaper provides a **Bio-Banding Periodization Protocol** that recalibrates swingweights, preserves technique, and protects growth plates from epiphyseal fractures.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

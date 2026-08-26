@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The relentless 11-month ATP/WTA schedule creates severe risk of **Overtraining Syndrome (OTS)** and hypothalamic-pituitary-adrenal (HPA) axis exhaustion. Daily monitoring of **Heart Rate Variability (rMSSD / Root Mean Square of Successive Differences)** tracks autonomic parasympathetic recovery. A **$> 1.5\text{ Standard Deviation Drop in rMSSD}$** indicates central nervous system non-recovery, mandating immediate volume reduction to prevent structural injury.
+The relentless 11-month ATP/WTA schedule creates severe risk of **Overtraining Syndrome (OTS)** and hypothalamic-pituitary-adrenal (HPA) axis exhaustion. Daily monitoring of **Heart Rate Variability (rMSSD / Root Mean Square of Successive Differences)** tracks autonomic parasympathetic recovery. A **> 1.5 Standard Deviation Drop in rMSSD** indicates central nervous system non-recovery, mandating immediate volume reduction to prevent structural injury.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

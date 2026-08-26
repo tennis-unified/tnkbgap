@@ -184,5 +184,5 @@ Cuốn sách này thống nhất những gì camera tốc độ cao ghi lại v�
 
 ## 🔬 Hướng Dẫn Đọc Sách
 
-1. **Đọc tuần tự từ nền tảng đến dòng chảy**: Đọc từ Chương 1 đến Chương 16 để có sự chuyển hóa toàn diện: từ nền tảng động học $\rightarrow$ thị giác $\rightarrow$ bộ pháp $\rightarrow$ chiến thuật $\rightarrow$ các cú đánh $\rightarrow$ thể chất $\rightarrow$ tâm lý $\rightarrow$ đánh đôi.
+1. **Đọc tuần tự từ nền tảng đến dòng chảy**: Đọc từ Chương 1 đến Chương 16 để có sự chuyển hóa toàn diện: từ nền tảng động học → thị giác → bộ pháp → chiến thuật → các cú đánh → thể chất → tâm lý → đánh đôi.
 2. **Tra cứu khắc phục lỗi chuyên biệt**: Mỗi chương là một cẩm nang hoàn chỉnh với các bài tập thực chiến và bảng chẩn đoán lỗi cụ thể trên sân.

@@ -60,13 +60,13 @@ Fault-Tolerant Solution: Synergistic coordinative structures self-adjusting (Res
 ```
 
 ### 2.1. Pillar 1: The Linear-to-Rotational Contact Corridor
-Fragile swings strike the ball at a single microscopic point in space along a circular arc. Fault-tolerant swings extend the contact corridor horizontally by **$30\text{--}45\text{ cm}$**, allowing the player to strike the ball 50ms early or 50ms late with minimal loss of accuracy.
+Fragile swings strike the ball at a single microscopic point in space along a circular arc. Fault-tolerant swings extend the contact corridor horizontally by **30–45 cm**, allowing the player to strike the ball 50ms early or 50ms late with minimal loss of accuracy.
 
 ### 2.2. Pillar 2: The Double-Bend Arm Shock-Absorber
-A straight arm offers maximum leverage but has zero compliance if the ball bounces higher or lower than expected. A double-bend structure (Sinner, Djokovic) allows the elbow ($110^\circ\text{--}130^\circ$) to micro-flex or extend dynamically, absorbing bounce anomalies effortlessly.
+A straight arm offers maximum leverage but has zero compliance if the ball bounces higher or lower than expected. A double-bend structure (Sinner, Djokovic) allows the elbow (110°–130°) to micro-flex or extend dynamically, absorbing bounce anomalies effortlessly.
 
 ### 2.3. Pillar 3: Generous Vertical Net Clearance
-Fault-tolerant players maintain an average net clearance of **$70\text{--}120\text{ cm}$** over the center strap. Combined with 3,000 RPM topspin, this eliminates net errors entirely while maintaining baseline depth.
+Fault-tolerant players maintain an average net clearance of **70–120 cm** over the center strap. Combined with 3,000 RPM topspin, this eliminates net errors entirely while maintaining baseline depth.
 
 ---
 
@@ -75,9 +75,9 @@ Fault-tolerant players maintain an average net clearance of **$70\text{--}120\te
 | Biomechanical Characteristic | Fragile / Aesthetic Model | Fault-Tolerant Model (Djokovic / Nadal) |
 |---|---|---|
 | **Stance Base** | Narrow, upright, rigid knees | Wide, low center of gravity, deep knee flexion |
-| **Contact Window Length** | Small point ($< 10\text{ cm}$) | Elongated corridor ($35\text{--}50\text{ cm}$) |
+| **Contact Window Length** | Small point (< 10 cm) | Elongated corridor (35–50 cm) |
 | **Response to Bad Bounces** | Complete stroke collapse / shank | Automatic torso tilt and wrist compensator |
-| **Break-Point Performance** | High unforced error spike | Unchanged error rate ($< 5\%$ variance) |
+| **Break-Point Performance** | High unforced error spike | Unchanged error rate (< 5% variance) |
 | **Net Error Frequency** | High (Aiming 15cm above tape) | Extremely low (Aiming 80cm above tape) |
 
 ---

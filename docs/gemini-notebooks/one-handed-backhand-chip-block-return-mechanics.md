@@ -44,7 +44,7 @@ Pinching the shoulder blade back locks the glenohumeral joint, turning the entir
 
 ## 2. Continental Blade Micro-Tilt
 
-Tilting the racket face $10^\circ$ open generates gentle backspin ($1,500\text{ RPM}$) that lifts the ball safely over the net cord.
+Tilting the racket face 10° open generates gentle backspin (1,500 RPM) that lifts the ball safely over the net cord.
 
 ---
 

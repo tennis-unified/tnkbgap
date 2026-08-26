@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novice players rotate their shoulders horizontally like a merry-go-round, dragging the racket into the net. Elite servers execute a **Shoulder-Over-Shoulder Cartwheel Rotation**: tilting the shoulder line by **$35^\circ\text{ to }45^\circ$ vertically** during the trophy phase. As the legs thrust upward, the hitting shoulder vaults vertically over the non-dominant shoulder, creating a massive upward ballistic whip.
+Novice players rotate their shoulders horizontally like a merry-go-round, dragging the racket into the net. Elite servers execute a **Shoulder-Over-Shoulder Cartwheel Rotation**: tilting the shoulder line by **35° to 45° vertically** during the trophy phase. As the legs thrust upward, the hitting shoulder vaults vertically over the non-dominant shoulder, creating a massive upward ballistic whip.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -27,7 +27,7 @@ Novice players rotate their shoulders horizontally like a merry-go-round, draggi
 
 ---
 
-## 1. The $40^\circ$ Vertical Axis Tilt Geometry
+## 1. The 40° Vertical Axis Tilt Geometry
 
 Lifting the non-dominant arm high while depressing the hitting shoulder creates a steep diagonal tilt that launches the racket upward.
 
@@ -56,6 +56,6 @@ High-toss left arm stretch holds; diagonal medicine ball overhead throws; cartwh
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

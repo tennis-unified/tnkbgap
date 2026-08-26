@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Just as on the forehand, maximum racket velocity on the two-handed backhand requires **Proximal-to-Distal Deceleration Sequencing**. High-speed tracking shows that the **Lead (Right) Hip Halts $> 75\%$ of its rotation in $45\text{ milliseconds}$** just prior to impact. Under the Law of Conservation of Angular Momentum ($L = I \omega$), braking the heavy pelvis instantly whips the shoulders, arms, and racket through the ball at **$80+\text{ mph}$**.
+Just as on the forehand, maximum racket velocity on the two-handed backhand requires **Proximal-to-Distal Deceleration Sequencing**. High-speed tracking shows that the **Lead (Right) Hip Halts > 75% of its rotation in 45 milliseconds** just prior to impact. Under the Law of Conservation of Angular Momentum (*L* = *I*ω), braking the heavy pelvis instantly whips the shoulders, arms, and racket through the ball at **80+ mph**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Just as on the forehand, maximum racket velocity on the two-handed backhand requ
 
 ## 1. Lead Hip Deceleration as Mechanical Pivot
 
-Halting the right hip at a $45^\circ$ forward angle creates a rigid kinetic fulcrum, multiplying shoulder and arm angular velocity.
+Halting the right hip at a 45° forward angle creates a rigid kinetic fulcrum, multiplying shoulder and arm angular velocity.
 
 ```
        [ 50° Compact Torso Coil ] ──► [ Lead Hip Deceleration Fulcrum ]
@@ -59,5 +59,5 @@ Medicine ball rotational backhand throws into wall with frozen lead hip; resista
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Over-Spinning Pelvis: Allowing hips to spin completely open past contact | Weak arm contact & pulling balls wide crosscourt | **Lead Hip Anchor: Lock right hip at 45° to whip arms through impact.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

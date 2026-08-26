@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Neglecting the non-dominant arm causes premature shoulder over-rotation and energy leaks. In elite forehands (Federer, Alcaraz), the **Non-Dominant Left Arm** performs three vital functions: (1) Tracks the ball across the chest to lock the $45^\circ$ unit turn, (2) Pulls inward to the torso during uncoiling to act as a **Transverse Rotational Brake**, and (3) Catches the racket on the follow-through to absorb deceleration shock.
+Neglecting the non-dominant arm causes premature shoulder over-rotation and energy leaks. In elite forehands (Federer, Alcaraz), the **Non-Dominant Left Arm** performs three vital functions: (1) Tracks the ball across the chest to lock the 45° unit turn, (2) Pulls inward to the torso during uncoiling to act as a **Transverse Rotational Brake**, and (3) Catches the racket on the follow-through to absorb deceleration shock.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

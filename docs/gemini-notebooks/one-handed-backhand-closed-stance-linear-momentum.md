@@ -28,7 +28,7 @@ Unlike the two-handed backhand which thrives in wide open stances, the **Single-
 
 ## 1. The 45-Degree Closed Stance Step-In
 
-The lead right foot steps across the body at a $45^\circ$ angle, loading the front quadriceps and locking the hips perpendicular to the baseline.
+The lead right foot steps across the body at a 45° angle, loading the front quadriceps and locking the hips perpendicular to the baseline.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,7 +41,7 @@ The lead right foot steps across the body at a $45^\circ$ angle, loading the fro
 
 ## 2. Linear Momentum Transfer Along Shot Axis
 
-As the racket swings forward, body mass transfers $100\%$ onto the front foot ($m v_{\text{body}}$), adding linear plowing power to the stroke.
+As the racket swings forward, body mass transfers 100% onto the front foot (*m* *v*~body~), adding linear plowing power to the stroke.
 
 ---
 

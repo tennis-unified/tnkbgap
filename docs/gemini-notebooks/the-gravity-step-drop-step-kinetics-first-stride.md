@@ -28,7 +28,7 @@ Traditional coaching instructs players to 'push off the back foot' to initiate m
 
 ## 1. Gravitational Unweighting Mechanics
 
-By briefly inhibiting the adductor and quadriceps muscle group of the near leg, the athlete drops $3\text{--}5\text{ cm}$ vertically. Gravity creates an immediate lateral lean vector ($F_{\text{gravity-lateral}} = m g \sin\theta$).
+By briefly inhibiting the adductor and quadriceps muscle group of the near leg, the athlete drops 3–5 cm vertically. Gravity creates an immediate lateral lean vector (*F*~gravity-lateral~ = *mg* sin θ).
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ By briefly inhibiting the adductor and quadriceps muscle group of the near leg, 
 
 ## 2. Trailing Leg Drive Synchronization
 
-Once the body has tilted $20^\circ$ in the intended movement direction, the trailing leg fires into the court, applying pure horizontal shear force without wasted vertical bounce.
+Once the body has tilted 20° in the intended movement direction, the trailing leg fires into the court, applying pure horizontal shear force without wasted vertical bounce.
 
 ---
 

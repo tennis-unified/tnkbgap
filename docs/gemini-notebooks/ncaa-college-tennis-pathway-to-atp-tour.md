@@ -52,7 +52,7 @@ In NCAA tennis, opposing teams heckle between points, cheer double faults, and c
 
 | Dimension | Early Pro Pathway (Age 17 Futures Grinder) | NCAA College Pathway (Ages 18–21) |
 |---|---|---|
-| **Financial Cost** | -$60,000 to -$100,000 per year (Heavy family debt) | $0 (Full athletic scholarship covers tuition, travel, coaching, gear) |
+| **Financial Cost** | -\$60,000 to -\$100,000 per year (Heavy family debt) | \$0 (Full athletic scholarship covers tuition, travel, coaching, gear) |
 | **Physical Development** | High risk of burnout & injury due to constant travel | 4 years of structured Olympic-level strength & conditioning |
 | **Match Play Volume** | 30–40 individual matches/year | 50–70 intense dual matches + individual fall tournaments |
 | **Average Age of Top 100** | Age 24–25 (Struggling for 7 years) | Age 22–24 (Fast-tracked Top 100 breakthrough within 18 months) |

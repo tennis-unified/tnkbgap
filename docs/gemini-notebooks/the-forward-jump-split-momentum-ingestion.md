@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Returning a 130 mph serve gives the receiver only **$450\text{ to }500\text{ milliseconds}$** total time. Novak Djokovic and Andre Agassi mastered the **Forward Jump-Split**: leaping $0.5\text{ meters}$ forward into the court *before* the server strikes the ball. Landing on the balls of the feet at the exact microsecond of ball impact ingests linear momentum ($p = m v$), converting incoming kinetic shock into a heavy, deep return with zero arm strain.
+Returning a 130 mph serve gives the receiver only **450 to 500 milliseconds** total time. Novak Djokovic and Andre Agassi mastered the **Forward Jump-Split**: leaping 0.5 meters forward into the court *before* the server strikes the ball. Landing on the balls of the feet at the exact microsecond of ball impact ingests linear momentum (*p* = *mv*), converting incoming kinetic shock into a heavy, deep return with zero arm strain.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Returning a 130 mph serve gives the receiver only **$450\text{ to }500\text{ mil
 
 ## 1. The Forward Linear Inertia Conversion
 
-Stepping forward into the split-step adds $1.5\text{ m/s}$ of forward body velocity, providing 80% of the return ball speed without requiring an active racket backswing.
+Stepping forward into the split-step adds 1.5 m/s of forward body velocity, providing 80% of the return ball speed without requiring an active racket backswing.
 
 ```
        [ Forward Jump-Split Ingestion ] ──► [ Isometric Wrist-Wall Block ]
@@ -44,7 +44,7 @@ Stepping forward into the split-step adds $1.5\text{ m/s}$ of forward body veloc
 
 ## 2. Landing Synchronization Window (-30ms)
 
-The receiver's feet unweight at $-30\text{ms}$ and land into ground reaction connection at $+60\text{ms}$, creating maximum multi-directional elastic responsiveness.
+The receiver's feet unweight at -30 ms and land into ground reaction connection at +60 ms, creating maximum multi-directional elastic responsiveness.
 
 ---
 

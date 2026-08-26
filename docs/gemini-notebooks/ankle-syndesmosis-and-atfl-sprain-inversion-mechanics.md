@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Lateral sliding on hard courts and rapid change-of-direction subject the ankle to violent **Inversion Torques ($> 140\text{ Nm}$)**. When inversion exceeds $35^\circ$ under axial load, the **Anterior Talofibular Ligament (ATFL)** and Calcaneofibular Ligament (CFL) suffer partial or complete rupture. Preventing recurrent instability requires conditioning the **Peroneus Longus/Brevis Reflex Arc ($< 50\text{ms}$ pre-activation)** through perturbation balance boards.
+Lateral sliding on hard courts and rapid change-of-direction subject the ankle to violent **Inversion Torques (> 140 Nm)**. When inversion exceeds 35° under axial load, the **Anterior Talofibular Ligament (ATFL)** and Calcaneofibular Ligament (CFL) suffer partial or complete rupture. Preventing recurrent instability requires conditioning the **Peroneus Longus/Brevis Reflex Arc (< 50 ms pre-activation)** through perturbation balance boards.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

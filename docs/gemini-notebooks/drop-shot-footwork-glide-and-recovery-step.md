@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Hitting a drop shot while falling forward or tumbling causes severe mis-hits and leaves the court wide open. The biomechanical standard is the **Deceleration Glide & Torso Anchor**: stepping smoothly into the shot, anchoring the **Torso Perfectly Upright ($90^\circ$)**, and immediately executing an explosive **2-Step Backward Recovery Hop** to cover the opponent's defensive lob or re-drop counter.
+Hitting a drop shot while falling forward or tumbling causes severe mis-hits and leaves the court wide open. The biomechanical standard is the **Deceleration Glide & Torso Anchor**: stepping smoothly into the shot, anchoring the **Torso Perfectly Upright (90°)**, and immediately executing an explosive **2-Step Backward Recovery Hop** to cover the opponent's defensive lob or re-drop counter.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Hitting a drop shot while falling forward or tumbling causes severe mis-hits and
 
 ---
 
-## 1. The Upright Torso Balance Anchor ($90^\circ$)
+## 1. The Upright Torso Balance Anchor (90°)
 
 Keeping the upper body vertical stabilizes the vestibular horizon and ensures flawless touch control without tumbling forward.
 

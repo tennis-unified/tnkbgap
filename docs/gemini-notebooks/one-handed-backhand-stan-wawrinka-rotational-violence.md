@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While Roger Federer's single-handed backhand was defined by frictionless elegance and timing, Stan Wawrinka's 1HB represents pure rotational violence. By achieving over $110^\circ$ of shoulder coiling relative to hips and loading violently into a $105^\circ$ knee flexion squat, Wawrinka unleashes a straight-arm drive that clocks over 100 mph with 3,400 RPM of topspin, capable of hitting clean winners straight through Novak Djokovic and Rafael Nadal at Roland Garros.
+While Roger Federer's single-handed backhand was defined by frictionless elegance and timing, Stan Wawrinka's 1HB represents pure rotational violence. By achieving over 110° of shoulder coiling relative to hips and loading violently into a 105° knee flexion squat, Wawrinka unleashes a straight-arm drive that clocks over 100 mph with 3,400 RPM of topspin, capable of hitting clean winners straight through Novak Djokovic and Rafael Nadal at Roland Garros.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ While Roger Federer's single-handed backhand was defined by frictionless eleganc
 
 ## 1. Extreme Torso Coiling & Shoulder-Hip Separation
 
-Wawrinka turns his back almost completely to the net during preparation ($115^\circ$ shoulder rotation vs. $40^\circ$ pelvic turn), storing massive elastic potential energy in the latissimus dorsi, external obliques, and rhomboids.
+Wawrinka turns his back almost completely to the net during preparation (115° shoulder rotation vs. 40° pelvic turn), storing massive elastic potential energy in the latissimus dorsi, external obliques, and rhomboids.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,13 +41,13 @@ Wawrinka turns his back almost completely to the net during preparation ($115^\c
 
 ## 2. The Deep Knee Flexion Spring
 
-Wawrinka drops lower than any other single-hander in history, bending his lead right knee to $105^\circ$. The violent vertical ground reaction drive ($2.8\times\text{BW}$) propels the racket diagonally upward through the ball.
+Wawrinka drops lower than any other single-hander in history, bending his lead right knee to 105°. The violent vertical ground reaction drive (2.8× BW) propels the racket diagonally upward through the ball.
 
 ---
 
 ## 3. The Chest-Locked Impact Geometry
 
-At contact, Wawrinka locks his thoracic spine facing the side fence ($90^\circ$), allowing the arm to whip independently with zero chest opening, transferring 100% of momentum to the ball.
+At contact, Wawrinka locks his thoracic spine facing the side fence (90°), allowing the arm to whip independently with zero chest opening, transferring 100% of momentum to the ball.
 
 ---
 

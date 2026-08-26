@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While constant serve-and-volleying disappeared with the advent of poly strings, **Strategic 'Stealth' Serve-and-Volley (deploying it 15–20% of the time on key points)** has become a devastating modern weapon (used masterfully by Roger Federer, Carlos Alcaraz, and Maxime Cressy). Rushing the net behind a wide slice or body serve catches returners who stand 3 meters behind the baseline completely off guard, yielding an **$81\%$ winning percentage**.
+While constant serve-and-volleying disappeared with the advent of poly strings, **Strategic 'Stealth' Serve-and-Volley (deploying it 15–20% of the time on key points)** has become a devastating modern weapon (used masterfully by Roger Federer, Carlos Alcaraz, and Maxime Cressy). Rushing the net behind a wide slice or body serve catches returners who stand 3 meters behind the baseline completely off guard, yielding an **81% winning percentage**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

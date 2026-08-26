@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Elite athletes entering 'The Zone' display distinct neuro-electric signatures: **Elevated 12-15 Hz Sensorimotor Rhythm (SMR) and Synchronized 8-12 Hz Alpha Waves** across the sensory-motor strip, combined with suppression of high-beta anxiety waves ($> 22\text{ Hz}$). Conditioning SMR through **EEG Neurofeedback Training** enhances motor stillness, suppresses verbal self-criticism, and induces the effortless 'Wu Wei' flow state.
+Elite athletes entering 'The Zone' display distinct neuro-electric signatures: **Elevated 12-15 Hz Sensorimotor Rhythm (SMR) and Synchronized 8-12 Hz Alpha Waves** across the sensory-motor strip, combined with suppression of high-beta anxiety waves (> 22 Hz). Conditioning SMR through **EEG Neurofeedback Training** enhances motor stillness, suppresses verbal self-criticism, and induces the effortless 'Wu Wei' flow state.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

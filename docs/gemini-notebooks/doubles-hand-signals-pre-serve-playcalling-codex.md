@@ -44,7 +44,7 @@ In professional doubles, zero serves are hit without pre-point coordination. The
 
 ## 2. The Secondary Target Codex
 
-Target is signaled simultaneously: Pointing left $\rightarrow$ Serve out Wide; Pointing down $\rightarrow$ Serve to the 'T'; Pointing right $\rightarrow$ Jam the Body.
+Target is signaled simultaneously: Pointing left → Serve out Wide; Pointing down → Serve to the 'T'; Pointing right → Jam the Body.
 
 ---
 
@@ -59,5 +59,5 @@ Hiding hands beneath shorts hemline; using double-tap confirmations; changing si
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

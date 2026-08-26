@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Backpedaling square to the net on a deep lob is the most common cause of missed smashes and fall-back injuries. The proper movement is the **Sideways Crossover Stride**: instantly turning the hips $90^\circ$ perpendicular to the net on the first step, executing rapid **Crossover Strides Behind the Lead Leg**, and planting the rear foot to vault upward into contact.
+Backpedaling square to the net on a deep lob is the most common cause of missed smashes and fall-back injuries. The proper movement is the **Sideways Crossover Stride**: instantly turning the hips 90° perpendicular to the net on the first step, executing rapid **Crossover Strides Behind the Lead Leg**, and planting the rear foot to vault upward into contact.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Backpedaling square to the net on a deep lob is the most common cause of missed 
 
 ---
 
-## 1. Instant $90^\circ$ Hip Unit Turn on Step 1
+## 1. Instant 90° Hip Unit Turn on Step 1
 
 Pivoting sideways on the first movement allows full sprinting speed backward without tripping over heels.
 

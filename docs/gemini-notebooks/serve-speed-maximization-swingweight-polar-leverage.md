@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Maximizing serve speed requires optimizing the relationship between **Angular Velocity ($\omega$)** and **Racket Swingweight ($I_{xx}$)**. While lighter frames swing faster, they lack impact plow-through ($p = m v$). Biomechanical modeling proves that an optimal swingweight of **$325\text{ to }335\text{ kg}\cdot\text{cm}^2$** with a **$6\text{ to }8\text{ pts Head-Light balance}$** maximizes terminal kinetic momentum ($p_{\text{ball}} = 1.45 \cdot p_{\text{racket}}$), delivering peak serve velocity.
+Maximizing serve speed requires optimizing the relationship between **Angular Velocity (ω)** and **Racket Swingweight (*I*~xx~)**. While lighter frames swing faster, they lack impact plow-through (*p* = *mv*). Biomechanical modeling proves that an optimal swingweight of **325 to 335 kg·cm²** with a **6 to 8 pts Head-Light balance** maximizes terminal kinetic momentum (*p*~ball~ = 1.45 · *p*~racket~), delivering peak serve velocity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -40,9 +40,9 @@ Increasing swingweight past 345 slows ISR acceleration; dropping below 315 loses
 
 ---
 
-## 2. Linear Velocity Scaling at Racket Tip ($v = \omega r$)
+## 2. Linear Velocity Scaling at Racket Tip (*v* = ω*r*)
 
-Striking the ball at the upper 1/3 of the stringbed maximizes lever arm radius ($r = 0.95\text{m}$), producing 8 mph higher ball exit speed.
+Striking the ball at the upper 1/3 of the stringbed maximizes lever arm radius (*r* = 0.95 m), producing 8 mph higher ball exit speed.
 
 ---
 
@@ -56,6 +56,6 @@ Lead tape application at 12 o'clock (2g increments); radar gun exit velocity tra
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

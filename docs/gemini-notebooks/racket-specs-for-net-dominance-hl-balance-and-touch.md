@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A racket that feels great from the baseline can be a sluggish brick at the net. Dominating the net requires an **8 to 10 Points Head-Light Balance** to ensure sub-150ms maneuverability. Combined with **Polar Weighting at 3 and 9 O'Clock (Twistweight $> 15.0$)**, this provides rock-solid torsional stability on off-center 85 mph passing shot impacts while preserving feather-light touch.
+A racket that feels great from the baseline can be a sluggish brick at the net. Dominating the net requires an **8 to 10 Points Head-Light Balance** to ensure sub-150ms maneuverability. Combined with **Polar Weighting at 3 and 9 O'Clock (Twistweight > 15.0)**, this provides rock-solid torsional stability on off-center 85 mph passing shot impacts while preserving feather-light touch.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ A racket that feels great from the baseline can be a sluggish brick at the net. 
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -42,7 +42,7 @@ Shifting racket mass toward the handle lowers swing inertia around the hand pivo
 
 ---
 
-## 2. High Twistweight ($I_{zz}$) for Off-Center Shock Absorption
+## 2. High Twistweight (*I*~zz~) for Off-Center Shock Absorption
 
 Lead tape at 3/9 o'clock prevents frame twisting when blocking heavy topspin drives on the edge of the sweet spot.
 

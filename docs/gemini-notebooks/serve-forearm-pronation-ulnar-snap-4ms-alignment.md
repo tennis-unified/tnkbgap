@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Elite servers use a strict Continental grip (Bevel 2), approaching the ball on a sharp knife edge. In the final **$4\text{ milliseconds}$ before contact**, rapid **Forearm Pronation ($> 1,800^\circ/\text{s}$)** combined with **Ulnar Deviation Snap** rotates the stringbed $90^\circ$, presenting a perfectly flush impact surface behind 135 mph flat bombs before rolling outward in the follow-through.
+Elite servers use a strict Continental grip (Bevel 2), approaching the ball on a sharp knife edge. In the final **4 milliseconds before contact**, rapid **Forearm Pronation (> 1,800°/s)** combined with **Ulnar Deviation Snap** rotates the stringbed 90°, presenting a perfectly flush impact surface behind 135 mph flat bombs before rolling outward in the follow-through.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ Elite servers use a strict Continental grip (Bevel 2), approaching the ball on a
 
 ## 1. The Knife-Edge Approach Geometry
 
-Leading with the frame edge minimizes aerodynamic air resistance ($C_d$), accelerating the racket through the upward path.
+Leading with the frame edge minimizes aerodynamic air resistance (*C*~D~), accelerating the racket through the upward path.
 
 ```
        [ 115° Knee Flexion Thrust ] ──► [ 40° Cartwheel Shoulder Tilt ]
@@ -56,6 +56,6 @@ Edge-to-flat shadow snaps; tossing footballs with forearm spiral release; high-s
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

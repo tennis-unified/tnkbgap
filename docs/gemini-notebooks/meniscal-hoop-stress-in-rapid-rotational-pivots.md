@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The medial and lateral menisci convert axial compressive joint loads into **Circumferential 'Hoop Stresses'**. When a player plants their shoe on a high-friction hard court ($\mu_s = 0.85$) and aggressively uncoils their pelvis at $600^\circ/\text{s}$, the **Posterior Horn of the Medial Meniscus** is trapped between the femoral condyle and tibial plateau. If the foot is locked, rotational shear can rupture circumferential collagen bundles.
+The medial and lateral menisci convert axial compressive joint loads into **Circumferential 'Hoop Stresses'**. When a player plants their shoe on a high-friction hard court (μ~s~ = 0.85) and aggressively uncoils their pelvis at 600°/s, the **Posterior Horn of the Medial Meniscus** is trapped between the femoral condyle and tibial plateau. If the foot is locked, rotational shear can rupture circumferential collagen bundles.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

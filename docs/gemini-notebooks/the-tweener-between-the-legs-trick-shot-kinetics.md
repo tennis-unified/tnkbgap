@@ -11,7 +11,7 @@
 
 Once dismissed as an exhibition trick shot popularized by Guillermo Vilas and Yannick Noah, the **Tweener (Between-the-Legs Shot)** has become a legitimate, high-percentage competitive emergency weapon on the ATP Tour (immortalized by Roger Federer's US Open semi-final passing shot against Novak Djokovic). When a player is lobbed and sprinting with their back turned completely away from the net, turning around to hit a conventional groundstroke causes late contact behind the body. Overrunning the ball and striking it directly between the legs allows the player to contact the ball **in front of their forward momentum vector**.
 
-This whitepaper analyzes: (1) The sprint tracking mechanics of overrunning a descending lob, (2) Stride length synchronization and hip abduction ($45^\circ\text{--}60^\circ$), (3) The explosive **wrist flexion flick** generating 60+ mph pace, and (4) The offensive down-the-line passing geometry.
+This whitepaper analyzes: (1) The sprint tracking mechanics of overrunning a descending lob, (2) Stride length synchronization and hip abduction (45°–60°), (3) The explosive **wrist flexion flick** generating 60+ mph pace, and (4) The offensive down-the-line passing geometry.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -63,4 +63,4 @@ THE TWEENER CORRECTION:
 
 ### 2.1. Tactical Directionals
 - **Down-the-Line Passing Tweener**: Keeping the racket face flat shoots the ball directly down the sideline, catching the net player frozen in disbelief.
-- **Defensive Lob Tweener**: Angling the racket face upward ($60^\circ$) converts the shot into a high defensive rainbow lob that resets the rally.
+- **Defensive Lob Tweener**: Angling the racket face upward (60°) converts the shot into a high defensive rainbow lob that resets the rally.

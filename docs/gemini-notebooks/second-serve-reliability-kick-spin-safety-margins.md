@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Matches are won and lost on second serves. Championship second serve architecture relies on **Magnus Aerodynamic Safety Margins**: aiming for **$1.0\text{ to }1.4\text{ meters}$ of net cord clearance** while imparting **$3,600\text{ to }4,000\text{ RPM}$ of topspin**. Downward Magnus acceleration ($-15.5\text{ m/s}^2$) pulls the high-clearing ball sharply down inside the box, guaranteeing an **$85\%+$ landing percentage** under Grand Slam final pressure.
+Matches are won and lost on second serves. Championship second serve architecture relies on **Magnus Aerodynamic Safety Margins**: aiming for **1.0 to 1.4 meters of net cord clearance** while imparting **3,600 to 4,000 RPM of topspin**. Downward Magnus acceleration (-15.5 m/s²) pulls the high-clearing ball sharply down inside the box, guaranteeing an **85%+ landing percentage** under Grand Slam final pressure.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ High ribbon net clearance drills; 20 consecutive second serves into corner targe
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

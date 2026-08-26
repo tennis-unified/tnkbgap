@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While the southpaw slice serve dominates the Ad-court, the **Southpaw Deuce-Court Kick Serve** is equally devastating. Brushing the ball from 7 to 1 o'clock with a Continental grip, the lefty generates high topspin-sidespin ($> 3,600\text{ RPM}$). In the Deuce-court, this serve hops **$1.8\text{ meters}$ high directly into the right-hander's dominant right shoulder/armpit**, jamming their forehand takeback and producing weak floating mishits.
+While the southpaw slice serve dominates the Ad-court, the **Southpaw Deuce-Court Kick Serve** is equally devastating. Brushing the ball from 7 to 1 o'clock with a Continental grip, the lefty generates high topspin-sidespin (> 3,600 RPM). In the Deuce-court, this serve hops **1.8 meters high directly into the right-hander's dominant right shoulder/armpit**, jamming their forehand takeback and producing weak floating mishits.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -28,7 +28,7 @@ When an opponent rushes the net, the single-handed player has two lethal passing
 
 ## 1. The Sharp-Angle Crosscourt Dipper
 
-Accelerating vertically with $65^\circ$ upward brush creates 3,800 RPM topspin that dives steeply over the net cord, landing short in the crosscourt service box alley.
+Accelerating vertically with 65° upward brush creates 3,800 RPM topspin that dives steeply over the net cord, landing short in the crosscourt service box alley.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,13 +41,13 @@ Accelerating vertically with $65^\circ$ upward brush creates 3,800 RPM topspin t
 
 ## 2. The Down-the-Line Laser Carve
 
-Contacting the ball $5\text{ cm}$ deeper and driving through with an open chest finish, firing the ball flat at 85 mph down the line past the reaching volleyer.
+Contacting the ball 5 cm deeper and driving through with an open chest finish, firing the ball flat at 85 mph down the line past the reaching volleyer.
 
 ---
 
 ## 3. Volleyer Hip-Read Decision Protocol
 
-If volleyer pinches middle $\rightarrow$ Fire down-the-line; If volleyer holds alley $\rightarrow$ Dip crosscourt at their sneakers.
+If volleyer pinches middle → Fire down-the-line; If volleyer holds alley → Dip crosscourt at their sneakers.
 
 ---
 

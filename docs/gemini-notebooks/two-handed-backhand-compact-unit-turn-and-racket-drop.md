@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-On fast hard courts, large looped backswings result in late contact. The elite two-handed backhand utilizes a **Compact Unit Turn & Gravitational Drop**: turning the shoulders **$50^\circ\text{ as a single connected unit}$** while keeping the hands close to the left hip. Releasing the racket head under gravity drops the frame below the ball without muscle tension, setting up instant forward acceleration.
+On fast hard courts, large looped backswings result in late contact. The elite two-handed backhand utilizes a **Compact Unit Turn & Gravitational Drop**: turning the shoulders **50° as a single connected unit** while keeping the hands close to the left hip. Releasing the racket head under gravity drops the frame below the ball without muscle tension, setting up instant forward acceleration.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ Rapid unit turn pause-and-hit drills off high-speed feeds; shadow unit turns aga
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Disconnected Arm Takeback: Pulling arms back independently of torso turn | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle: Turn chest, shoulders, and hands simultaneously as a single unit.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

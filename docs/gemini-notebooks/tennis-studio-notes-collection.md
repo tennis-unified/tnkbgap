@@ -29,10 +29,10 @@ Tennis is treated not as a series of isolated, aesthetic strokes, but as a conti
 ```
 
 ### 1.2. The Martial Body: Precision Instrument
-1. **Ground Reaction Forces ($F_{GRF}$)**: Power is not manufactured by the muscles of the arm; it is harvested from the court surface according to Newton's Third Law. Players drive force into the ground through triple flexion of the ankle, knee, and hip (yielding vertical impulses exceeding $2.5\times$ to $3.0\times$ body weight in elite servers) and sequentially transfer that force up through the kinetic chain.
+1. **Ground Reaction Forces (*F*~GRF~)**: Power is not manufactured by the muscles of the arm; it is harvested from the court surface according to Newton's Third Law. Players drive force into the ground through triple flexion of the ankle, knee, and hip (yielding vertical impulses exceeding 2.5× to 3.0× body weight in elite servers) and sequentially transfer that force up through the kinetic chain.
 2. **Kình (Jin) — "Organized Readiness"**: Rejecting the false coaching binary of complete "relaxation" versus rigid "tension," the framework emphasizes Kình (Structural Tone). Kình is the living balance of supportive firmness (postural rooting) and elastic readiness. Under the **"Iron in Cotton"** principle, the player’s frame remains structurally strong enough to act as a bridge for kinetic energy, but fluid and supple enough to achieve maximum rotational speed.
-3. **Viscoelastic Slingshot (Stretch-Shortening Cycle — SSC)**: The body stores and releases Elastic Potential Energy ($U_e = \frac{1}{2} k \theta^2$) across diagonal myofascial slings and obliques (the X-Factor Stretch). To maximize this power, elite players minimize the amortization phase (transition between loading and releasing force) to under **150ms** so that stored elastic energy does not dissipate as heat.
-4. **Downstream Diagnosis**: Because the body operates as an open-linkage system, technical errors are diagnosed as whole-body failures rather than localized limb mistakes. A "sprayed" forehand or wrist error is traced back to its origins—usually a breakdown in ground connection ($F_{GRF}$) or a desynchronized unit turn.
+3. **Viscoelastic Slingshot (Stretch-Shortening Cycle — SSC)**: The body stores and releases Elastic Potential Energy (*U*~e~ = ½ *k*θ²) across diagonal myofascial slings and obliques (the X-Factor Stretch). To maximize this power, elite players minimize the amortization phase (transition between loading and releasing force) to under **150ms** so that stored elastic energy does not dissipate as heat.
+4. **Downstream Diagnosis**: Because the body operates as an open-linkage system, technical errors are diagnosed as whole-body failures rather than localized limb mistakes. A "sprayed" forehand or wrist error is traced back to its origins—usually a breakdown in ground connection (*F*~GRF~) or a desynchronized unit turn.
 
 ### 1.3. The Agentic Mind: Creative & Strategic Engine
 1. **Perceptual Matrix & Predictive Coding**: To survive high ball velocities (where a 120 mph serve leaves an execution window of less than 150ms), players cannot rely on slow visual processing. The Agentic Mind utilizes **Predictive Saccades**. Instead of "watching the ball hit the strings" (a biological impossibility at high speed), the player reads the opponent's proximal body cues (shoulder tilt, hip rotation) and jumps their eyes to the future intersection zone before the ball bounce occurs.
@@ -69,10 +69,10 @@ Tennis is treated not as a series of isolated, aesthetic strokes, but as a conti
 
 ### 2.2. Khóa Đường Chân Trời (Horizon Locking) & Quy Tắc 5 Độ
 - Não bộ sử dụng hệ tiền đình ở tai trong để giữ thăng bằng. Nếu đầu nghiêng **quá 5 độ** so với trục dọc trong lúc vung vợt, não phát tín hiệu báo động kích hoạt **Căng cơ bảo vệ (Protective Tension)** làm giảm tới **20% lực đánh**.
-- Luyện tập trên bóng BOSU hoặc ván thăng bằng ép hệ tiền đình giữ đường chân trời nằm ngang (Horizon Lock) ngay cả khi vai xoay $90^\circ - 110^\circ$.
+- Luyện tập trên bóng BOSU hoặc ván thăng bằng ép hệ tiền đình giữ đường chân trời nằm ngang (Horizon Lock) ngay cả khi vai xoay 90°–110°.
 
 ### 2.3. Cô Lập Đốt Sống Cổ & Phản Xạ Tiền Đình - Mắt (VOR)
-- Khi thân người và vai mở xoắn với tốc độ lên tới $1000^\circ/\text{giây}$, cột sống cổ phải chủ động chống lại lực xoay này để giữ cho phần đầu hoạt động độc lập như một con quay hồi chuyển sinh cơ học (**Federer Anchor**).
+- Khi thân người và vai mở xoắn với tốc độ lên tới 1000°/s, cột sống cổ phải chủ động chống lại lực xoay này để giữ cho phần đầu hoạt động độc lập như một con quay hồi chuyển sinh cơ học (**Federer Anchor**).
 - **Tiêu chuẩn Tỷ lệ Đầu - Vai (Head-to-Shoulder Ratio)**: Biên độ chuyển động của đầu phải luôn được cô lập ở mức **dưới 15%** so với biên độ xoay của vai.
 
 ---

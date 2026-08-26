@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The Two-Handed Backhand is the most versatile directional weapon in tennis. To hit **Crosscourt Diagonals**, contact occurs **$35\text{cm}$ ahead of the front hip**, rotating the stringbed across the long court diagonal. For **Down-the-Line Lasers**, contact is delayed by **$8\text{cm}$**, holding the **Shoulder Line Sideways until the last $25\text{ms}$** to blast an $85\text{ mph}$ winner down the sideline.
+The Two-Handed Backhand is the most versatile directional weapon in tennis. To hit **Crosscourt Diagonals**, contact occurs **35 cm ahead of the front hip**, rotating the stringbed across the long court diagonal. For **Down-the-Line Lasers**, contact is delayed by **8 cm**, holding the **Shoulder Line Sideways until the last 25 ms** to blast an 85 mph winner down the sideline.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ Alternating 2 crosscourt drives + 1 down-the-line laser; corner target cone chal
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Telegraphing DTL Early: Opening shoulders early when trying to hit down the line | Pulling ball wide into tramlines or netting | **Hold Shoulders Sideways: Keep right shoulder pointing at target; let ball come 8cm deeper.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Tennis is physiologically unique among competitive sports: it is not a purely aerobic endurance event (like marathon running) nor a purely anaerobic sprint (like 100m sprinting). It is an **alactic-aerobic intermittent sport** characterized by repetitive, explosive maximal bursts ($4\text{--}10\text{ seconds}$) followed by short passive recovery periods ($15\text{--}25\text{ seconds}$ between points, $90\text{ seconds}$ on changeovers) sustained over **3 to 5 hours**.
+Tennis is physiologically unique among competitive sports: it is not a purely aerobic endurance event (like marathon running) nor a purely anaerobic sprint (like 100m sprinting). It is an **alactic-aerobic intermittent sport** characterized by repetitive, explosive maximal bursts (4–10 seconds) followed by short passive recovery periods (15–25 seconds between points, 90 seconds on changeovers) sustained over **3 to 5 hours**.
 
 This research whitepaper breaks down the bioenergetic systems of elite tennis: (1) The **ATP-Creatine Phosphate (CP) phosphagen pathway** supplying instantaneous kinetic energy for 130 mph serves, (2) The **Monocarboxylate Transporter (MCT-1/MCT-4) Lactate Shuttle**, (3) Mitochondrial oxidative phosphorylation restoring CP reserves during the 20-second inter-point window, and (4) Evidence-based **High-Intensity Interval Training (HIIT)** protocols (Laursen & Buchheit 2019) engineered specifically for tennis metabolic demands.
 
@@ -48,7 +48,7 @@ During an intense 8-shot rally involving maximal lateral sprints:
 
 $$\text{Creatine} + \text{ATP} \xrightarrow{\text{Creatine Kinase}} \text{Phosphocreatine} + \text{ADP}$$
 
-An athlete with a high aerobic capacity ($\text{VO}_2\text{ max} > 60\text{ mL/kg/min}$) restores 85%+ of PCr reserves in 20 seconds; an unfit player restores only 50%, resulting in progressive power decay.
+An athlete with a high aerobic capacity (VO₂max > 60 mL/kg/min) restores 85%+ of PCr reserves in 20 seconds; an unfit player restores only 50%, resulting in progressive power decay.
 
 ---
 
@@ -63,8 +63,8 @@ BIOCHEMICAL REALITY (George Brooks):
   and oxidized by cardiac muscle and slow-twitch oxidative fibers via MCT-1.
 ```
 
-### 2.1. Hydrogen Ion ($H^+$) Buffering
-Muscular fatigue during long 30-shot rallies is caused not by lactate, but by the accumulation of **Hydrogen ions ($H^+$)** which lowers intracellular pH ($7.1 \rightarrow 6.5$), inhibiting the actin-myosin cross-bridge cycle. Elite training enhances carnosine and sodium bicarbonate buffering capacity, maintaining neural firing frequency under high acidosis.
+### 2.1. Hydrogen Ion (H⁺) Buffering
+Muscular fatigue during long 30-shot rallies is caused not by lactate, but by the accumulation of **Hydrogen ions (H⁺)** which lowers intracellular pH (7.1 → 6.5), inhibiting the actin-myosin cross-bridge cycle. Elite training enhances carnosine and sodium bicarbonate buffering capacity, maintaining neural firing frequency under high acidosis.
 
 ---
 
@@ -72,6 +72,6 @@ Muscular fatigue during long 30-shot rallies is caused not by lactate, but by th
 
 | Training Protocol | Work Interval | Rest Interval | Intensity (% vVO2max / HRmax) | Sets & Reps | Target Physiological Adaptation |
 |---|---|---|---|---|---|
-| **Short-Interval Tennis HIIT** | 10s sprint | 20s jog | $110\text{--}120\%$ vVO2max | 2 sets $\times$ 10 reps (3 min rest between sets) | Specific PCr resynthesis rate and lateral change-of-direction tolerance. |
-| **Long-Interval Aerobic Power** | 2 min running | 2 min walk | $90\text{--}95\%$ HRmax | 4 $\times$ 4 min intervals | Expands total cardiac stroke volume and capillary bed density. |
-| **On-Court Metabolic Ghosting** | 15s rally drill | 20s recovery | $100\%$ Match Effort | 3 sets $\times$ 8 points | Matches Grand Slam 5th-set metabolic stress profiles. |
+| **Short-Interval Tennis HIIT** | 10s sprint | 20s jog | 110%–120% vVO2max | 2 sets × 10 reps (3 min rest between sets) | Specific PCr resynthesis rate and lateral change-of-direction tolerance. |
+| **Long-Interval Aerobic Power** | 2 min running | 2 min walk | 90%–95% HRmax | 4 × 4 min intervals | Expands total cardiac stroke volume and capillary bed density. |
+| **On-Court Metabolic Ghosting** | 15s rally drill | 20s recovery | 100% Match Effort | 3 sets × 8 points | Matches Grand Slam 5th-set metabolic stress profiles. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The grip determines the hand's biomechanical leverage behind the racket handle. The **Eastern Grip (Bevel 3)** provides maximum linear forward penetration ($p = mv$) and flat speed at waist-height contact ($0.9\text{--}1.0\text{m}$). The **Semi-Western Grip (Bevel 4)** (Alcaraz, Djokovic, Sinner) angles the palm under the handle, optimizing vertical upward brush ($45^\circ$) for high-rebound balls ($1.1\text{--}1.4\text{m}$) with **$3,400\text{ RPM}$ topspin**.
+The grip determines the hand's biomechanical leverage behind the racket handle. The **Eastern Grip (Bevel 3)** provides maximum linear forward penetration (*p* = *mv*) and flat speed at waist-height contact (0.9–1.0 m). The **Semi-Western Grip (Bevel 4)** (Alcaraz, Djokovic, Sinner) angles the palm under the handle, optimizing vertical upward brush (45°) for high-rebound balls (1.1–1.4 m) with **3,400 RPM topspin**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

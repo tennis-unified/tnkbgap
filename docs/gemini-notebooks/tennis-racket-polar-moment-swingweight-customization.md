@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In professional tennis, an off-the-shelf racket is merely raw material. Every elite ATP/WTA player customizes their frame's physical parameters to match their specific neuromuscular velocity profile, swing geometry, and kinetic chain tempo. Static mass (grams) is an incomplete metric; the true determinants of racket behavior during high-velocity collisions are dynamic metrics: **Swingweight ($I_{xx}$)**, **Polar Moment of Inertia ($I_{zz}$)**, **Recoil Weight ($I_{\text{recoil}}$)**, and the **Center of Percussion (COP / "Sweet Spot")**.
+In professional tennis, an off-the-shelf racket is merely raw material. Every elite ATP/WTA player customizes their frame's physical parameters to match their specific neuromuscular velocity profile, swing geometry, and kinetic chain tempo. Static mass (grams) is an incomplete metric; the true determinants of racket behavior during high-velocity collisions are dynamic metrics: **Swingweight (*I*~xx~)**, **Polar Moment of Inertia (*I*~zz~)**, **Recoil Weight (*I*~recoil~)**, and the **Center of Percussion (COP / "Sweet Spot")**.
 
 This whitepaper analyzes: (1) The mathematical physics governing rotational inertia in three axes, (2) The Center of Percussion and node of vibration (shock minimization), (3) Recoil weight and plowing power against heavy incoming balls, and (4) The strategic application of high-density lead tape (12 o'clock, 3 & 9 o'clock, and handle counter-weighting).
 
@@ -28,7 +28,7 @@ This whitepaper analyzes: (1) The mathematical physics governing rotational iner
 
 ---
 
-## 1. The Physics of Swingweight ($I_{xx}$) & Polar Inertia ($I_{zz}$)
+## 1. The Physics of Swingweight (*I*~xx~) & Polar Inertia (*I*~zz~)
 
 ```
                         12 o'clock (Maximum Swingweight / Power)
@@ -49,12 +49,12 @@ Swingweight measures the racket's resistance to rotational acceleration around a
 $$I_{\text{pivot}} = I_{\text{cm}} + M d^2$$
 
 Where:
-- $M$ is total static mass ($\text{kg}$),
-- $I_{\text{cm}}$ is the moment of inertia through the center of mass,
-- $d$ is the distance from the 10cm pivot axis to the balance point.
+- *M* is total static mass (kg),
+- *I*~cm~ is the moment of inertia through the center of mass,
+- *d* is the distance from the 10cm pivot axis to the balance point.
 
-### 1.2. Polar Moment of Inertia ($I_{zz}$) & Off-Center Twist
-When a ball impacts 2 cm off the center stringbed axis, the racket twists violently along its longitudinal $z$-axis. Adding mass at **3 and 9 o'clock** increases $I_{zz} = \sum m_i r_i^2$, expanding the torsional sweet spot and reducing racket twisting by up to **35%**.
+### 1.2. Polar Moment of Inertia (*I*~zz~) & Off-Center Twist
+When a ball impacts 2 cm off the center stringbed axis, the racket twists violently along its longitudinal *z*-axis. Adding mass at **3 and 9 o'clock** increases *I*~zz~ = ∑ *m*~i~ *r*~i~², expanding the torsional sweet spot and reducing racket twisting by up to **35%**.
 
 ---
 
@@ -79,7 +79,7 @@ Hitting precisely at the COP eliminates shock waves traveling into the ulnar ner
 
 | Placement Location | Primary Physical Effect | Tactical Benefit | Target Player Profile |
 |---|---|---|---|
-| **12 o'clock (Tip)** | Exponential Swingweight increase ($+1\text{g} \approx +3\text{ SW}$) | Maximum plow-through on flat serves and heavy baseline drives | Aggressive baseliners, hard flat servers |
-| **3 & 9 o'clock (Sides)** | Increases Polar MOI ($I_{zz}$) with moderate Swingweight | Eliminates frame twisting on off-center return of serves | Return specialists, counter-punchers |
+| **12 o'clock (Tip)** | Exponential Swingweight increase (+1 g ≈ +3 SW) | Maximum plow-through on flat serves and heavy baseline drives | Aggressive baseliners, hard flat servers |
+| **3 & 9 o'clock (Sides)** | Increases Polar MOI (*I*~zz~) with moderate Swingweight | Eliminates frame twisting on off-center return of serves | Return specialists, counter-punchers |
 | **10 & 2 o'clock (Shoulders)** | Hybrid sweet-spot elevation + torsional stability | Raises sweet spot toward the upper hoop for modern topspin | Heavy topspinners, western forehands |
 | **Butt-Cap / Handle** | Decreases balance point (Head-Light) without adding swingweight | Enhances dynamic whip velocity and net maneuverability | All-court players, serve-and-volleyers |

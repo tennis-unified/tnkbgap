@@ -72,5 +72,5 @@ By requiring the player to say the words "Bounce" and "Hit" at the exact micro-s
 
 | Traditional Coaching (Self 1 Heavy) | Inner Game Coaching (Self 2 Programming) |
 |---|---|---|
-| "Turn your shoulders $90^\circ$, drop the racket head $20\text{ cm}$ below the ball, and finish over your left ear." | "Watch this video of Roger Federer. Don't analyze it; just absorb the feeling of his swing into your body, and let your body recreate the rhythm." |
+| "Turn your shoulders 90°, drop the racket head 20 cm below the ball, and finish over your left ear." | "Watch this video of Roger Federer. Don't analyze it; just absorb the feeling of his swing into your body, and let your body recreate the rhythm." |
 | "That was a terrible shot! You didn't bend your knees!" | "Notice where the ball landed. On that last shot, on a scale of 1 to 10, how deeply did your knees bend? Just observe without judgment." |

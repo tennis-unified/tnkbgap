@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-After launching a 130 mph serve, the hitting arm must decelerate from $2,800^\circ/\text{s}$ to zero in under **$30\text{ milliseconds}$**. The posterior rotator cuff (**Infraspinatus and Teres Minor**) must generate eccentric braking forces equal to **$1.0\times\text{ bodyweight}$**. Without adequate eccentric conditioning, this deceleration shock causes micro-tears, subacromial impingement, and labral pathology (SLAP tears).
+After launching a 130 mph serve, the hitting arm must decelerate from 2,800°/s to zero in under **30 milliseconds**. The posterior rotator cuff (**Infraspinatus and Teres Minor**) must generate eccentric braking forces equal to **1.0× bodyweight**. Without adequate eccentric conditioning, this deceleration shock causes micro-tears, subacromial impingement, and labral pathology (SLAP tears).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Heavy-slow eccentric external rotations; plyometric ball rebound catches; full d
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

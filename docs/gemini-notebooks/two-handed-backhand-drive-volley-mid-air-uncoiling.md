@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Letting high floating balls bounce allows defenders to reset the baseline rally. Modern players (Serena Williams, Aryna Sabalenka, Jelena Ostapenko) crush floating balls using the **Two-Handed Drive-Volley**: jumping into the air off the rear left foot, executing a **Mid-Air Rotational Scissor Kick**, and blasting an **$80+\text{ mph}$ drive-volley winner** directly out of the air.
+Letting high floating balls bounce allows defenders to reset the baseline rally. Modern players (Serena Williams, Aryna Sabalenka, Jelena Ostapenko) crush floating balls using the **Two-Handed Drive-Volley**: jumping into the air off the rear left foot, executing a **Mid-Air Rotational Scissor Kick**, and blasting an **80+ mph drive-volley winner** directly out of the air.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ High-floating drop feeds inside service line; transition sprint to airborne 2HB 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Letting Floaters Drop: Hesitating and waiting for floating balls to bounce | Losing offensive advantage and letting opponent recover | **Jump & Attack: Leap off rear foot and crush the ball out of the air with both hands.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

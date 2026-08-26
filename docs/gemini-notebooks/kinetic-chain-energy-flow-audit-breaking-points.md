@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Joint injuries rarely originate at the joint itself; they are symptoms of **Kinetic Chain Energy Leaks**. If the legs and pelvis fail to generate **$54\%$ of total stroke kinetic energy**, distal links (shoulder, elbow, wrist) must accelerate disproportionately to compensate (**The 'Catch-Up' Phenomenon**). A systematic **6-Link Kinetic Chain Clinical Audit** identifies weak links (ankle dorsiflexion, hip rotation, thoracic mobility) before catastrophic joint failure occurs.
+Joint injuries rarely originate at the joint itself; they are symptoms of **Kinetic Chain Energy Leaks**. If the legs and pelvis fail to generate **54% of total stroke kinetic energy**, distal links (shoulder, elbow, wrist) must accelerate disproportionately to compensate (**The 'Catch-Up' Phenomenon**). A systematic **6-Link Kinetic Chain Clinical Audit** identifies weak links (ankle dorsiflexion, hip rotation, thoracic mobility) before catastrophic joint failure occurs.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

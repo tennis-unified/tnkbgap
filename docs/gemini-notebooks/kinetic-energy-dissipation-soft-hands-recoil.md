@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A 75 mph incoming ball carries significant kinetic energy ($E_k = \frac{1}{2}mv^2 \approx 31\text{ J}$). Striking with a rigid grip creates an elastic collision ($e \approx 0.85$), blasting the ball deep. The physics of **'Soft Hands'** relies on **Dynamic Grip Compliance**: relaxing grip tension to **$2/10$**, which allows the racket frame to recoil backward upon collision, absorbing **$85\%$ of incoming kinetic energy** and dropping the ball lifelessly over the net.
+A 75 mph incoming ball carries significant kinetic energy (*E*~k~ = ½ *mv*² ≈ 31 J). Striking with a rigid grip creates an elastic collision (*e* ≈ 0.85), blasting the ball deep. The physics of **'Soft Hands'** relies on **Dynamic Grip Compliance**: relaxing grip tension to **2/10**, which allows the racket frame to recoil backward upon collision, absorbing **85% of incoming kinetic energy** and dropping the ball lifelessly over the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

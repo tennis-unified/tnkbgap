@@ -28,7 +28,7 @@ Amateur two-handed backhands rotate horizontally like a baseball swing, causing 
 
 ## 1. Transverse vs. Frontal Plane Tilt
 
-Rather than pure transverse rotation, the shoulder axis tilts $35^\circ\text{--}45^\circ$ relative to horizontal, converting horizontal arm momentum into steep vertical launch angles ($+14^\circ$).
+Rather than pure transverse rotation, the shoulder axis tilts 35°–45° relative to horizontal, converting horizontal arm momentum into steep vertical launch angles (+14°).
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]

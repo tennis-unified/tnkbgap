@@ -28,7 +28,7 @@ In professional tennis, the server's primary objective is to dictate the point o
 
 ## 1. The Server +1 Win Decay Curve
 
-Short returns ($< 4\text{ meters}$ deep) allow the server to step inside the baseline and attack. Deep returns ($> 5.5\text{ meters}$ deep) pin the server's hips behind the baseline, eliminating sharp offensive angles.
+Short returns (< 4 meters deep) allow the server to step inside the baseline and attack. Deep returns (> 5.5 meters deep) pin the server's hips behind the baseline, eliminating sharp offensive angles.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

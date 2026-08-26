@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Grass courts ($\mu = 0.35$) present unique drop shot dynamics. Because the slick rye-grass turf allows low skids, a drop shot hit with knife backspin does not bounce vertically—it **Skids Horizontally and Dies Below Ankle Level ($< 10\text{cm}$)**. Furthermore, because sprinting on grass carries slipping risks, defenders cannot decelerate aggressively, making well-disguised drop shots nearly 100% decisive.
+Grass courts (μ = 0.35) present unique drop shot dynamics. Because the slick rye-grass turf allows low skids, a drop shot hit with knife backspin does not bounce vertically—it **Skids Horizontally and Dies Below Ankle Level (< 10 cm)**. Furthermore, because sprinting on grass carries slipping risks, defenders cannot decelerate aggressively, making well-disguised drop shots nearly 100% decisive.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

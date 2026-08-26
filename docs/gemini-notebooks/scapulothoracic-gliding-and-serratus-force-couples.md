@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The scapulothoracic articulation is not a true bony joint, but a physiological gliding plane. Maintaining the **2:1 Scapulohumeral Rhythm** requires the **Serratus Anterior, Upper Trapezius, and Lower Trapezius Force Couple** to produce **$60^\circ\text{ of Smooth Upward Scapular Rotation}$**. Weakness in the lower serratus causes scapular downward dump, pinching the rotator cuff and leaking 20% of serve velocity.
+The scapulothoracic articulation is not a true bony joint, but a physiological gliding plane. Maintaining the **2:1 Scapulohumeral Rhythm** requires the **Serratus Anterior, Upper Trapezius, and Lower Trapezius Force Couple** to produce **60° of Smooth Upward Scapular Rotation**. Weakness in the lower serratus causes scapular downward dump, pinching the rotator cuff and leaking 20% of serve velocity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

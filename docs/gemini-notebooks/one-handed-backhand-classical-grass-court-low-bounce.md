@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-On low-bouncing grass courts (such as Wimbledon), the ball rarely bounces above knee height ($< 0.5\text{ meters}$). Two-handed players often struggle to bend both arms to low grass rebounds. The single-handed backhand is the ultimate grass court weapon: by dropping the rear knee almost to the turf and leveling the swing plane, legends like Rod Laver, Roger Federer, and Stefan Edberg delivered skidding flat drives and biting slice approaches.
+On low-bouncing grass courts (such as Wimbledon), the ball rarely bounces above knee height (< 0.5 meters). Two-handed players often struggle to bend both arms to low grass rebounds. The single-handed backhand is the ultimate grass court weapon: by dropping the rear knee almost to the turf and leveling the swing plane, legends like Rod Laver, Roger Federer, and Stefan Edberg delivered skidding flat drives and biting slice approaches.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -41,7 +41,7 @@ Dropping the rear left knee to within 5cm of the grass surface lowers the center
 
 ## 2. Leveling the Swing Plane
 
-Transitioning from a vertical topspin brush to a horizontal linear drive plane ($< 15^\circ$ incline), driving through the ball to maximize skidding speed.
+Transitioning from a vertical topspin brush to a horizontal linear drive plane (< 15° incline), driving through the ball to maximize skidding speed.
 
 ---
 

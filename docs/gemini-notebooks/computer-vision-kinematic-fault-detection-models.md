@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Using high-speed smartphone video ($240\text{ fps}$), deep learning pose estimators (MediaPipe, OpenPose, YOLO-Pose) extract 3D skeletal joint angles. Automated algorithmic decision trees compare the athlete's kinematic sequence against an idealized ATP biomechanical model, instantly flagging upstream kinetic chain errors with millimeter precision.
+Using high-speed smartphone video (240 fps), deep learning pose estimators (MediaPipe, OpenPose, YOLO-Pose) extract 3D skeletal joint angles. Automated algorithmic decision trees compare the athlete's kinematic sequence against an idealized ATP biomechanical model, instantly flagging upstream kinetic chain errors with millimeter precision.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Using high-speed smartphone video ($240\text{ fps}$), deep learning pose estimat
 
 ## 1. 3D Joint Keypoint Extraction Pipeline
 
-Neural networks track 33 landmarks: ankles, knees, hips, shoulders, elbows, wrists, and ear-cervical vectors. Angular velocities ($\omega = d\theta / dt$) are calculated across each kinetic segment.
+Neural networks track 33 landmarks: ankles, knees, hips, shoulders, elbows, wrists, and ear-cervical vectors. Angular velocities (ω = dθ/dt) are calculated across each kinetic segment.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Neural networks track 33 landmarks: ankles, knees, hips, shoulders, elbows, wris
 
 ## 2. Automated Flaw Detection Rules
 
-Rule 1: Trophy Shoulder Tilt $< 20^\circ \rightarrow$ 'Serve Energy Leak Flagged'. Rule 2: $X$-Factor Separation $< 30^\circ \rightarrow$ 'Arming Forehand Flagged'.
+Rule 1: Trophy Shoulder Tilt < 20° → 'Serve Energy Leak Flagged'. Rule 2: *X*-Factor Separation < 30° → 'Arming Forehand Flagged'.
 
 ---
 

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Standing with narrow feet during the return of serve increases reaction latency and causes tipping on wide serves. Modern return biomechanics mandates the **1.6x Biacromial Platform Stance**: setting the feet at **$1.5\text{ to }1.7\times\text{ shoulder width}$** with knees flexed to $110^\circ$. This lowers center of gravity ($h_{\text{CoG}} < 0.80\text{m}$), pre-stretching the adductors and calf tendons for explosive lateral launch in $< 140\text{ms}$.
+Standing with narrow feet during the return of serve increases reaction latency and causes tipping on wide serves. Modern return biomechanics mandates the **1.6x Biacromial Platform Stance**: setting the feet at **1.5 to 1.7× shoulder width** with knees flexed to 110°. This lowers center of gravity (*h*~CoG~ < 0.80 m), pre-stretching the adductors and calf tendons for explosive lateral launch in < 140 ms.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -44,7 +44,7 @@ A widened platform expands the base of support, allowing the receiver to withsta
 
 ## 2. Pre-Stretch Kinetic Potentiation
 
-Pre-loading the hip abductors and Achilles tendons creates maximum elastic strain energy ($E_p = \frac{1}{2} k x^2$) for instant explosive push-off.
+Pre-loading the hip abductors and Achilles tendons creates maximum elastic strain energy (*E*~p~ = ½ *kx*²) for instant explosive push-off.
 
 ---
 

@@ -5,7 +5,7 @@ description: Multi-agent research pipeline connecting Hermes Agent and Google An
 
 # Gemini Notebooks & Grounded Knowledge Vaults
 
-Welcome to the **Gemini Notebooks** section of the Tennis Knowledge Gap Intranet. This section connects autonomous multi-agent research pipelines (**Google Antigravity $\leftrightarrow$ Hermes Agent**) with curated, domain-specific **Google Gemini NotebookLM** research vaults (7,000+ grounded sources across 32 active cloud vaults).
+Welcome to the **Gemini Notebooks** section of the Tennis Knowledge Gap Intranet. This section connects autonomous multi-agent research pipelines (**Google Antigravity ↔ Hermes Agent**) with curated, domain-specific **Google Gemini NotebookLM** research vaults (7,000+ grounded sources across 32 active cloud vaults).
 
 ---
 
@@ -1131,7 +1131,7 @@ Welcome to the **Gemini Notebooks** section of the Tennis Knowledge Gap Intranet
 
     ---
 
-    ITF Futures $15k financial reality, ATP Challenger grinding, $320k Grand Slam main draw break-even gateway, and points-to-cost scheduling.
+    ITF Futures \$15k financial reality, ATP Challenger grinding, \$320k Grand Slam main draw break-even gateway, and points-to-cost scheduling.
 
     [Read Whitepaper →](itf-futures-challenger-atp-tour-transition-economics.md)
 

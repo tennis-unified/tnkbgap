@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The foundation of two-handed backhand stability is proper grip pairing. The gold-standard ATP configuration pairs a **Dominant Right Continental Grip (Bevel 2)** with a **Non-Dominant Left Eastern Forehand Grip (Bevel 7)**. This pairing aligns the left palm flush behind the handle for maximum horizontal plow-through while allowing seamless upward brushing for **$2,800\text{ to }3,400\text{ RPM}$ topspin**.
+The foundation of two-handed backhand stability is proper grip pairing. The gold-standard ATP configuration pairs a **Dominant Right Continental Grip (Bevel 2)** with a **Non-Dominant Left Eastern Forehand Grip (Bevel 7)**. This pairing aligns the left palm flush behind the handle for maximum horizontal plow-through while allowing seamless upward brushing for **2,800 to 3,400 RPM topspin**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -59,5 +59,5 @@ Color-coded handle tape markers; rapid grip transition checks off server returns
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Grip Slipping / Gap: Space or separation between hands on handle | Loss of bi-manual coordination and wrist shear | **Interlocked Heel Pad: Place left heel pad touching right index knuckle.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

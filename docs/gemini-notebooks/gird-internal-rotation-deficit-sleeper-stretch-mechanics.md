@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Chronic serving creates **Glenohumeral Internal Rotation Deficit (GIRD)**: an adaptive shortening of the posterior-inferior glenohumeral capsule and infraspinatus stiffness, resulting in a loss of internal rotation ($> 18^\circ$ deficit compared to non-dominant arm). If the **Total Arc of Motion (TROM = IR + ER)** has a deficit $> 5^\circ$, the risk of rotator cuff tears and SLAP lesions increases by **$450\%$**. Daily **Sleeper Stretches and Cross-Body Adduction** restore rotational symmetry.
+Chronic serving creates **Glenohumeral Internal Rotation Deficit (GIRD)**: an adaptive shortening of the posterior-inferior glenohumeral capsule and infraspinatus stiffness, resulting in a loss of internal rotation (> 18° deficit compared to non-dominant arm). If the **Total Arc of Motion (TROM = IR + ER)** has a deficit > 5°, the risk of rotator cuff tears and SLAP lesions increases by **450%**. Daily **Sleeper Stretches and Cross-Body Adduction** restore rotational symmetry.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

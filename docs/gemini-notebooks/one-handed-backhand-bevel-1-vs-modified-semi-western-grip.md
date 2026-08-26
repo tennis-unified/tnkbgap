@@ -41,13 +41,13 @@ Provides optimal horizontal power transfer and natural palm support on low-to-me
 
 ## 2. Modified Semi-Western Backhand Grip (Bevel 8 - Thiem Model)
 
-Closes the racket face by $15^\circ$, facilitating aggressive upward brushing on high-bouncing balls ($+600\text{ RPM}$ topspin) but requiring contact 10cm further forward.
+Closes the racket face by 15°, facilitating aggressive upward brushing on high-bouncing balls (+600 RPM topspin) but requiring contact 10cm further forward.
 
 ---
 
 ## 3. Grip Selection Decision Matrix
 
-Fast hard/grass courts $\rightarrow$ Bevel 1 Eastern; Slow clay courts with high bounce $\rightarrow$ Bevel 8 Semi-Western.
+Fast hard/grass courts → Bevel 1 Eastern; Slow clay courts with high bounce → Bevel 8 Semi-Western.
 
 ---
 

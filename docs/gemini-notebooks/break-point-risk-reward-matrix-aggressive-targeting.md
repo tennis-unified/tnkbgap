@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Under the psychological pressure of a break point (30-40 or Ad-Out), unconditioned players retreat into conservative 'pushing', steering the ball safely into the center court. Big-data ATP analytics (over 500,000 tour points) prove that **Conservative Pushing on Break Points Reduces Conversion Rates by $24\%$**. Elite champions (Federer, Alcaraz, Sinner) execute **Proactive Aggressive Targeting**: stepping forward, increasing racket speed, and attacking the opponent's weaker wing with maximum conviction.
+Under the psychological pressure of a break point (30-40 or Ad-Out), unconditioned players retreat into conservative 'pushing', steering the ball safely into the center court. Big-data ATP analytics (over 500,000 tour points) prove that **Conservative Pushing on Break Points Reduces Conversion Rates by 24%**. Elite champions (Federer, Alcaraz, Sinner) execute **Proactive Aggressive Targeting**: stepping forward, increasing racket speed, and attacking the opponent's weaker wing with maximum conviction.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -22,7 +22,7 @@ This whitepaper provides a data-driven **Return on Investment (ROI) and Biomecha
 │         ┌───────────────┴───────────────┐                                   │
 │         ▼                               ▼                                   │
 │  [PATH A: EARLY PRO (High Risk)]       [PATH B: NCAA COLLEGE (High ROI)]    │
-│  - Cost: $80k–$150k/year self-funded   - Cost: $0 (Full $250k Scholarship)  │
+│  - Cost: \$80k–\$150k/year self-funded   - Cost: \$0 (Full \$250k Scholarship)  │
 │  - 97% Dropout Rate by Age 21          - Physical Maturation to Age 22      │
 │  - ⚡ High Financial & Mental Trauma   - ⚡ 4-Year Academic Asset + ATP Launch│
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -54,7 +54,7 @@ In the 1980s and 1990s, teenagers (Wilander, Becker, Chang, Hingis) routinely wo
          ┌───────────────────────────┴───────────────────────────┐
          ▼                                                       ▼
 [ Ranked ITF Junior Top 10 ]                            [ Ranked Outside Top 10 ]
-[ Has $1M+ Guaranteed Sponsor ]                         [ Self-Funded Family ]
+[ Has \$1M+ Guaranteed Sponsor ]                         [ Self-Funded Family ]
          │                                                       │
          ▼                                                       ▼
   GO PRO AT AGE 18                                        TAKE NCAA D1 SCHOLARSHIP

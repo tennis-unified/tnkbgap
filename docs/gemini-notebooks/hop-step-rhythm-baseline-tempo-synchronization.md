@@ -41,7 +41,7 @@ Maintaining continuous low-amplitude hops pretension the muscle spindles in the 
 
 ## 2. Distance Calibration via Micro-Hops
 
-Micro-adjustments of $5\text{--}10\text{ cm}$ allow the player to position their center of mass at the exact ideal sweet-spot distance ($60\text{--}75\text{ cm}$ from hip) regardless of ball skid.
+Micro-adjustments of 5–10 cm allow the player to position their center of mass at the exact ideal sweet-spot distance (60–75 cm from hip) regardless of ball skid.
 
 ---
 

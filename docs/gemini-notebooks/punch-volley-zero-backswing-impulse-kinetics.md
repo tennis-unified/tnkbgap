@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novice players swing at volleys like groundstrokes, causing late contact and floating errors. The elite **Punch Volley** relies on **Zero-Backswing Unit Turn**: locking the wrist in a firm **Continental Grip (Bevel 2)**, setting the racket head above wrist level, and stepping forward with the opposite foot to deliver pure **Kinetic Impulse ($J = \int F dt$)** directly through the ball.
+Novice players swing at volleys like groundstrokes, causing late contact and floating errors. The elite **Punch Volley** relies on **Zero-Backswing Unit Turn**: locking the wrist in a firm **Continental Grip (Bevel 2)**, setting the racket head above wrist level, and stepping forward with the opposite foot to deliver pure **Kinetic Impulse (*J* = ∫ *F* dt)** directly through the ball.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -21,7 +21,7 @@ Novice players swing at volleys like groundstrokes, causing late contact and flo
 │                                  │                                          │
 │ [Phase 3: 45° Cross-Step Lunge or Open-Stance Lateral Block]                │
 │                                  │                                          │
-│ [Phase 4: Pure Kinetic Impulse ($J = \int F dt$) or Soft Hands Yield (2/10)] │
+│ [Phase 4: Pure Kinetic Impulse (*J* = ∫ *F* dt) or Soft Hands Yield (2/10)] │
 │                                  │                                          │
 │ [Phase 5: Gaze Anchor at Contact (150ms) & Rapid Second-Volley Reset]       │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -42,7 +42,7 @@ Turning the shoulders 30° sets the racket in front of the chest without taking 
 
 ---
 
-## 2. Linear Kinetic Impulse Delivery ($J = \int F dt$)
+## 2. Linear Kinetic Impulse Delivery (*J* = ∫ *F* dt)
 
 Stepping forward onto the lead foot channels body mass behind the firm string wall, transferring high exit velocity with zero swing noise.
 

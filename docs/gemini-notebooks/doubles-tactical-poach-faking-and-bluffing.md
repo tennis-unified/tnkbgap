@@ -41,7 +41,7 @@ The human brain's magnocellular pathway detects sudden high-speed lateral motion
 
 ## 2. The Jab-and-Snap Movement Timing
 
-At $t = -100\text{ms}$ (as the serve is struck), take a violent 1-foot hop toward the center 'T'; the instant the returner looks up, push off the inside foot to snap back to the alley.
+At *t* = -100 ms (as the serve is struck), take a violent 1-foot hop toward the center 'T'; the instant the returner looks up, push off the inside foot to snap back to the alley.
 
 ---
 
@@ -56,5 +56,5 @@ Deploy the fake poach on 25% of service points to keep returners in perpetual ps
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When pulled into an extreme defensive slide 2 meters outside the tramlines, a topspin forehand is physically impossible. Elite players execute the **Forehand Squash Shot**: lunging in an extreme open stance, carving the ball with a **High-to-Low Continental Knife Blade**, and floating an underspin slice with **$2.5\text{ seconds}$ of airtime**, neutralizing the attack and buying complete court recovery.
+When pulled into an extreme defensive slide 2 meters outside the tramlines, a topspin forehand is physically impossible. Elite players execute the **Forehand Squash Shot**: lunging in an extreme open stance, carving the ball with a **High-to-Low Continental Knife Blade**, and floating an underspin slice with **2.5 seconds of airtime**, neutralizing the attack and buying complete court recovery.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

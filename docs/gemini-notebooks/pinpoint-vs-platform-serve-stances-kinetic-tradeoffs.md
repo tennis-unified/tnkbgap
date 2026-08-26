@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The serve stance determines how ground reaction forces are generated. In the **Platform Stance** (Federer, Sampras, Djokovic), the feet remain stationary shoulder-width apart, maximizing **Rotational Torsional Balance and Knee Coiling Stability**. In the **Pinpoint Stance** (Nadal, Murray, Roddick, Kyrgios), the rear foot slides forward next to the front foot, generating **$12\%$ Higher Vertical Ground Reaction Force ($F_z$)** at the cost of narrower rotational base.
+The serve stance determines how ground reaction forces are generated. In the **Platform Stance** (Federer, Sampras, Djokovic), the feet remain stationary shoulder-width apart, maximizing **Rotational Torsional Balance and Knee Coiling Stability**. In the **Pinpoint Stance** (Nadal, Murray, Roddick, Kyrgios), the rear foot slides forward next to the front foot, generating **12% Higher Vertical Ground Reaction Force (*F*~z~)** at the cost of narrower rotational base.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Force plate vertical jump testing; evaluating player hip mobility; stance-specif
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

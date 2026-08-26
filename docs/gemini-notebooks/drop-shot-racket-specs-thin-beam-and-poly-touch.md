@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Stiff, thick-beam power rackets ($> 26\text{mm}$, RA $> 70$) act like trampolines, making delicate drop shots unpredictable. Maximizing touch feel requires a **Thin Flexible Beam ($20\text{ to }21.5\text{mm}$, RA $< 64$)** that increases ball dwell time ($> 5\text{ms}$). Stringing co-poly strings at **Lower Tensions ($44\text{ to }48\text{ lbs}$)** enhances string pocketing, allowing players to feel the ball compress and carve dead spin with millimeter accuracy.
+Stiff, thick-beam power rackets (> 26 mm, RA > 70) act like trampolines, making delicate drop shots unpredictable. Maximizing touch feel requires a **Thin Flexible Beam (20 to 21.5 mm, RA < 64)** that increases ball dwell time (> 5 ms). Stringing co-poly strings at **Lower Tensions (44 to 48 lbs)** enhances string pocketing, allowing players to feel the ball compress and carve dead spin with millimeter accuracy.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

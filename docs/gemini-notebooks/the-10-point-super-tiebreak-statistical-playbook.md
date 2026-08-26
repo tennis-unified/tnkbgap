@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The 10-point super tiebreak (now standard in deciding sets across all 4 Grand Slams and ATP doubles) is a high-variance, sudden-death environment. Mathematical modeling proves that **Securing an Early Mini-Break in the First 4 Points Increases Win Probability to $76\%$**. This whitepaper establishes the **10-Point Tiebreak Statistical Playbook**: mandatory $80\%+$ first-serve landing percentages, clustering serves to the body and 'T', and targeting the opponent's weaker wing on 100% of return points.
+The 10-point super tiebreak (now standard in deciding sets across all 4 Grand Slams and ATP doubles) is a high-variance, sudden-death environment. Mathematical modeling proves that **Securing an Early Mini-Break in the First 4 Points Increases Win Probability to 76%**. This whitepaper establishes the **10-Point Tiebreak Statistical Playbook**: mandatory 80%+ first-serve landing percentages, clustering serves to the body and 'T', and targeting the opponent's weaker wing on 100% of return points.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

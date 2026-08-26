@@ -11,7 +11,7 @@
 
 The unprecedented two-decade domination of men's tennis by **Roger Federer (20 Slams), Rafael Nadal (22 Slams), and Novak Djokovic (24 Slams)** represents the greatest athletic dialectic in sports history. No single champion existed in a vacuum; each legend was forced to undergo profound technical, tactical, and biomechanical mutations in response to the specific existential threats posed by the other two.
 
-This whitepaper analyzes the 20-year evolutionary arms race: (1) **Phase 1 (2003–2007)**: Federer's frictionless straight-arm precision and offensive court positioning dominance, (2) **Phase 2 (2008–2014)**: Nadal's left-handed high topspin lasso forehand attacking Federer's single-handed backhand, forcing Federer to switch to a $97\text{ sq in}$ racket and invent the Neo-Backhand drive, (3) **Phase 3 (2011–2023)**: Djokovic's fault-tolerant two-handed backhand, open-stance hard-court sliding, and deep middle return neutralizing both Federer and Nadal, and (4) The enduring biomechanical blueprint left for the Next Generation.
+This whitepaper analyzes the 20-year evolutionary arms race: (1) **Phase 1 (2003–2007)**: Federer's frictionless straight-arm precision and offensive court positioning dominance, (2) **Phase 2 (2008–2014)**: Nadal's left-handed high topspin lasso forehand attacking Federer's single-handed backhand, forcing Federer to switch to a 97 sq in racket and invent the Neo-Backhand drive, (3) **Phase 3 (2011–2023)**: Djokovic's fault-tolerant two-handed backhand, open-stance hard-court sliding, and deep middle return neutralizing both Federer and Nadal, and (4) The enduring biomechanical blueprint left for the Next Generation.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

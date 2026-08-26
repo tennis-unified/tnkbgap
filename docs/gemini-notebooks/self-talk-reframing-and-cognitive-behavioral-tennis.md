@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Internal dialogue determines motor execution. First-person toxic self-talk (*'I am choking, I always miss this'*) activates the brain's default mode network, inducing anxiety. Applying **Cognitive Behavioral Tennis & Third-Person Distanced Self-Talk (Ethan Kross Model)**—addressing oneself by name (*'Henry, breathe, bend your knees, drive the legs'*—instantly activates executive emotion-regulation circuits, lowering physiological arousal by **$35\%$**.
+Internal dialogue determines motor execution. First-person toxic self-talk (*'I am choking, I always miss this'*) activates the brain's default mode network, inducing anxiety. Applying **Cognitive Behavioral Tennis & Third-Person Distanced Self-Talk (Ethan Kross Model)**—addressing oneself by name (*'Henry, breathe, bend your knees, drive the legs'*—instantly activates executive emotion-regulation circuits, lowering physiological arousal by **35%**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

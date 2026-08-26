@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A common fallacy in tennis coaching is the command to 'spin your hips all the way through the shot.' High-speed kinematic telemetry reveals that elite players **violently brake their lead hip ($> 80\%$ deceleration in 40ms)** immediately prior to impact. This abrupt braking acts as a physical fulcrum, transferring rotational kinetic energy into the upper torso and arm via the principle of the flail/whip.
+A common fallacy in tennis coaching is the command to 'spin your hips all the way through the shot.' High-speed kinematic telemetry reveals that elite players **violently brake their lead hip (> 80% deceleration in 40ms)** immediately prior to impact. This abrupt braking acts as a physical fulcrum, transferring rotational kinetic energy into the upper torso and arm via the principle of the flail/whip.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

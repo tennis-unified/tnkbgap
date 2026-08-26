@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Throughout the history of professional tennis, left-handed players have held a statistically disproportionate representation at the pinnacle of the sport (Rafael Nadal, Rod Laver, Jimmy Connors, John McEnroe, Goran Ivanišević, Ben Shelton). This advantage is not merely psychological; it is rooted in **fundamental geometric and neuro-perceptual asymmetries** inherent to standard tennis court layouts and the predominance of right-handed opponents ($> 88\%$ of players).
+Throughout the history of professional tennis, left-handed players have held a statistically disproportionate representation at the pinnacle of the sport (Rafael Nadal, Rod Laver, Jimmy Connors, John McEnroe, Goran Ivanišević, Ben Shelton). This advantage is not merely psychological; it is rooted in **fundamental geometric and neuro-perceptual asymmetries** inherent to standard tennis court layouts and the predominance of right-handed opponents (> 88% of players).
 
 This whitepaper provides a comprehensive mathematical and biomechanical analysis of the southpaw edge: (1) The **Ad-Court Lefty Slice Serve** (pulling right-handers off the doubles alley on critical game points), (2) The **Crosscourt Forehand-to-Backhand Inversion** (heavy topspin into the fragile right-handed high backhand), (3) **Down-the-Line Lefty Forehand Laser Dynamics**, and (4) Strategic tactical blueprints for both left-handers maximizing their edge and right-handers neutralizing southpaw geometry.
 
@@ -61,9 +61,9 @@ LEFTY vs. RIGHTY (Asymmetric):
 
 ### 2.1. Rafael Nadal's Diagonal Crosscourt Engine
 Rafael Nadal's historic dominance over Roger Federer was built upon this immutable geometric asymmetry:
-1. Nadal generated $3,500\text{--}4,500\text{ RPM}$ of topspin with his left forehand.
+1. Nadal generated 3,500–4,500 RPM of topspin with his left forehand.
 2. The crosscourt angle routed this high-velocity topspin directly into Federer's right-handed backhand.
-3. The ball rebounded $1.8\text{--}2.2\text{ meters}$ high (above shoulder level), neutralizing the single-handed backhand lever and forcing weak, floating defensive replies.
+3. The ball rebounded 1.8–2.2 meters high (above shoulder level), neutralizing the single-handed backhand lever and forcing weak, floating defensive replies.
 
 ---
 

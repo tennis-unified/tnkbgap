@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Retrieving wide balls at full sprint requires the **Running Open-Stance Forehand**. Planting the outside right foot absorbs **$3.5\times\text{ bodyweight}$** in eccentric deceleration. Elite athletes (Alcaraz, Djokovic) leap off the loaded outside leg, executing **Mid-Air Rotational Uncoiling** while airborne, striking blistering crosscourt passes and landing on the lead foot for instant recovery.
+Retrieving wide balls at full sprint requires the **Running Open-Stance Forehand**. Planting the outside right foot absorbs **3.5× bodyweight** in eccentric deceleration. Elite athletes (Alcaraz, Djokovic) leap off the loaded outside leg, executing **Mid-Air Rotational Uncoiling** while airborne, striking blistering crosscourt passes and landing on the lead foot for instant recovery.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Retrieving wide balls at full sprint requires the **Running Open-Stance Forehand
 
 ## 1. 3.5G Eccentric Gluteus Medius Shock Absorption
 
-The outside hip flexes to $85^\circ$ under extreme deceleration, loading the posterior myofascial sling to arrest lateral momentum.
+The outside hip flexes to 85° under extreme deceleration, loading the posterior myofascial sling to arrest lateral momentum.
 
 ```
        [ 45° X-Factor Torsion Core ] ──► [ Lead Hip Deceleration Brake ]

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The post-Big Three era of men's professional tennis has codified three distinct, generational biomechanical and psychological archetypes. As racket string technology (co-polyesters) and court physical conditioning have converged, the top young champions of the ATP Tour have evolved specialized neuro-kinetic systems to solve the fundamental challenge of modern tennis: **dominating time, space, and opponent entropy at ball speeds exceeding $80\text{ mph}$ ($130\text{ km/h}$)**.
+The post-Big Three era of men's professional tennis has codified three distinct, generational biomechanical and psychological archetypes. As racket string technology (co-polyesters) and court physical conditioning have converged, the top young champions of the ATP Tour have evolved specialized neuro-kinetic systems to solve the fundamental challenge of modern tennis: **dominating time, space, and opponent entropy at ball speeds exceeding 80 mph (130 km/h)**.
 
 This comparative whitepaper analyzes the defining biomechanical, neurological, and tactical architectures of the three Next-Gen archetypes: (1) **Carlos Alcaraz — The Dynamic Chaos & Athletic Improvisation Archetype**, (2) **Jannik Sinner — The Zero-Noise Linear/Rotational Efficiency Archetype**, and (3) **Holger Rune — The High-Cadence Linear Explosiveness Archetype**.
 
@@ -47,7 +47,7 @@ This comparative whitepaper analyzes the defining biomechanical, neurological, a
 ```
 
 ### 1.1. Biomechanical Signature
-Alcaraz represents the ultimate expression of biological elasticity. His forehand takeback features an enormous $X$-Factor stretch, allowing the racket to lag deeper behind the body than any player in history. His physical recovery platform allows him to sprint laterally at $24\text{ km/h}$, slide to a dead stop on hard courts, and instantly launch into a full-power offensive strike.
+Alcaraz represents the ultimate expression of biological elasticity. His forehand takeback features an enormous *X*-Factor stretch, allowing the racket to lag deeper behind the body than any player in history. His physical recovery platform allows him to sprint laterally at 24 km/h, slide to a dead stop on hard courts, and instantly launch into a full-power offensive strike.
 
 ---
 
@@ -63,7 +63,7 @@ Alcaraz represents the ultimate expression of biological elasticity. His forehan
 ```
 
 ### 2.1. Biomechanical Signature
-Sinner is the triumph of biomechanical and neurological optimization. By keeping the racket closer to his rotational core (double-bend arm architecture), his moment of inertia ($I$) is minimized, allowing lightning-fast swing acceleration with zero wasted movement. Sinner takes every groundstroke on-the-rise, stealing time from opponents through subcortical motor automation.
+Sinner is the triumph of biomechanical and neurological optimization. By keeping the racket closer to his rotational core (double-bend arm architecture), his moment of inertia (*I*) is minimized, allowing lightning-fast swing acceleration with zero wasted movement. Sinner takes every groundstroke on-the-rise, stealing time from opponents through subcortical motor automation.
 
 ---
 
@@ -87,7 +87,7 @@ Rune utilizes a high-cadence kinetic engine characterized by rapid footwork adju
 | Kinetic & Tactical Parameter | Carlos Alcaraz | Jannik Sinner | Holger Rune |
 |---|---|---|---|
 | **Arm Architecture** | Dynamic Semi-Straight Arm | Compact Double-Bend | Dynamic Double-Bend |
-| **Average Groundstroke Pace** | $78\text{ mph}$ (Variable $65\text{--}95\text{ mph}$) | $82\text{ mph}$ (Relentless Constant) | $80\text{ mph}$ (Fast Linear Attack) |
-| **Topspin Output** | $3,800\text{ RPM}$ (Heavy Dip) | $2,900\text{ RPM}$ (Piercing Flat) | $2,700\text{ RPM}$ (Penetrating Drive) |
+| **Average Groundstroke Pace** | 78 mph (Variable 65–95 mph) | 82 mph (Relentless Constant) | 80 mph (Fast Linear Attack) |
+| **Topspin Output** | 3,800 RPM (Heavy Dip) | 2,900 RPM (Piercing Flat) | 2,700 RPM (Penetrating Drive) |
 | **Time Stealing Mechanism** | Sudden Drop Shots & Explosive Sprints | Deep Early On-the-Rise Timing | First-Strike Directional Shifts |
 | **Pressure Archetype** | Creative Confidence & Athletic Joy | Cold Subcortical Automation | Emotional Fire & Explosive Cadence |

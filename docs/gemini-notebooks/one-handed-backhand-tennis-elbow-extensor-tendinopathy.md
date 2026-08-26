@@ -41,7 +41,7 @@ When a player pulls a bent elbow forward before contact, the forearm extensors m
 
 ## 2. Biomechanical Cure: The 45cm Forward Contact Gate
 
-Making contact $45\text{ cm}$ in front with a straight arm aligns the bones of the arm (radius, ulna, humerus) into a structural column, transferring impact shock to the large latissimus dorsi muscle.
+Making contact 45 cm in front with a straight arm aligns the bones of the arm (radius, ulna, humerus) into a structural column, transferring impact shock to the large latissimus dorsi muscle.
 
 ---
 

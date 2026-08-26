@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The scapula is the dynamic bridge connecting the trunk to the arm. **Scapular Dyskinesis (SICK Scapula: Scapular malposition, Inferior medial border prominence, Coracoid pain, and dysKinesis)** compromises the entire kinetic chain. Weakness in the **Serratus Anterior and Lower Trapezius** causes scapular winging, reducing serve velocity by **$16\%$** and narrowing the subacromial space. Corrective programming focuses on **Wall Slides, Push-Up Plus, and Prone Y-T-W Extensions**.
+The scapula is the dynamic bridge connecting the trunk to the arm. **Scapular Dyskinesis (SICK Scapula: Scapular malposition, Inferior medial border prominence, Coracoid pain, and dysKinesis)** compromises the entire kinetic chain. Weakness in the **Serratus Anterior and Lower Trapezius** causes scapular winging, reducing serve velocity by **16%** and narrowing the subacromial space. Corrective programming focuses on **Wall Slides, Push-Up Plus, and Prone Y-T-W Extensions**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

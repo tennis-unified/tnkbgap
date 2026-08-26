@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Topspin Offensive Lob** is the most lethal counter to aggressive net rushers. Maintaining a **100% Identical Passing Shot Takeback**, the player drops the racket head deeply and brushes upward at a **$60^\circ\text{ angle}$** with rapid forearm pronation. Imparting **$3,800\text{ RPM}$ of heavy topspin**, the ball vaults over the opponent's outstretched racket at a $4.5\text{m}$ apex before downward Magnus acceleration ($-16.5\text{ m/s}^2$) drives it down inside the baseline.
+The **Topspin Offensive Lob** is the most lethal counter to aggressive net rushers. Maintaining a **100% Identical Passing Shot Takeback**, the player drops the racket head deeply and brushes upward at a **60° angle** with rapid forearm pronation. Imparting **3,800 RPM of heavy topspin**, the ball vaults over the opponent's outstretched racket at a 4.5 m apex before downward Magnus acceleration (-16.5 m/s²) drives it down inside the baseline.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ The shoulder coil and hip loading convince the net player to brace for a hard pa
 
 ---
 
-## 2. The $60^\circ$ Upward Brush & Magnus Plunge
+## 2. The 60° Upward Brush & Magnus Plunge
 
 Extreme vertical racket head acceleration generates massive topspin circulation, pulling the ball sharply down inside the baseline.
 

@@ -28,7 +28,7 @@ When pulled into the doubles alley or beyond the grandstand by a curving slice s
 
 ## 1. Aerodynamic Hang-Time Calculation
 
-A defensive lob launched at a $50^\circ$ angle reaching an apex of $6.5\text{ meters}$ stays airborne for $t_{\text{hang}} = 2.8\text{--}3.4\text{ seconds}$, providing ample time for a full 4-meter sprint back to the center hashmark.
+A defensive lob launched at a 50° angle reaching an apex of 6.5 meters stays airborne for *t*~hang~ = 2.8–3.4 seconds, providing ample time for a full 4-meter sprint back to the center hashmark.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

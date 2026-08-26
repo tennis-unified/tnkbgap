@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-High-velocity modern forehands and serves generate immense rotational torque. When a player rapidly uncoils at **$700^\circ/\text{s}$** and suddenly decelerates, the **Contralateral Internal Oblique Muscle** (on the non-dominant rib cage) undergoes violent **Eccentric Tensile Strain**, resulting in acute fascial tearing. Rehabilitation requires strict acute rest, cross-body fascial release, and progressive anti-rotational core stabilization (Pallof presses).
+High-velocity modern forehands and serves generate immense rotational torque. When a player rapidly uncoils at **700°/s** and suddenly decelerates, the **Contralateral Internal Oblique Muscle** (on the non-dominant rib cage) undergoes violent **Eccentric Tensile Strain**, resulting in acute fascial tearing. Rehabilitation requires strict acute rest, cross-body fascial release, and progressive anti-rotational core stabilization (Pallof presses).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

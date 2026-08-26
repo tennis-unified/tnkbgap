@@ -41,7 +41,7 @@ Consuming 30mL tart cherry concentrate twice daily inhibits COX-1 and COX-2 enzy
 
 ## 2. Collagen Hydrolysate & Tendon Synthesis
 
-Consuming $15\text{g}$ of hydrolyzed collagen with $50\text{mg}$ Vitamin C 45 minutes before tendon loading stimulates collagen Type I transcription in the patellar and Achilles tendons.
+Consuming 15 g of hydrolyzed collagen with 50 mg Vitamin C 45 minutes before tendon loading stimulates collagen Type I transcription in the patellar and Achilles tendons.
 
 ---
 

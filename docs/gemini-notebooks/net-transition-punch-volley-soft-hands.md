@@ -40,11 +40,11 @@ This whitepaper analyzes: (1) The Continental grip foundation across all volleys
 ### 1.1. The Ear-Plane Law
 The cardinal error in amateur volleying is taking the racket back behind the head. In elite volleying:
 1. The hands remain in front of the chest at all times.
-2. The turn is achieved strictly via the **unit turn of the shoulders ($30^\circ\text{--}45^\circ$)**.
+2. The turn is achieved strictly via the **unit turn of the shoulders (30°–45°)**.
 3. Impact occurs 30–45 cm in front of the lead eye.
 
 ### 1.2. The V-Shape Stepping Principle
-Rather than stepping straight forward, the player steps diagonally at a $45^\circ$ angle toward the net post with the outside/cross foot, aligning the body's center of mass directly behind the contact point.
+Rather than stepping straight forward, the player steps diagonally at a 45° angle toward the net post with the outside/cross foot, aligning the body's center of mass directly behind the contact point.
 
 ---
 
@@ -60,7 +60,7 @@ According to the impulse-momentum theorem:
 
 $$J = \int F \, dt = \Delta p = m(v_f - v_i)$$
 
-To kill ball speed on a drop volley, the player must increase the impact duration ($dt$) and allow the racket to yield backward by 2–5 cm at the exact moment of collision. This backward recoil dissipates the incoming kinetic energy into the forearm's flexor tendons, dropping the rebound velocity to near zero.
+To kill ball speed on a drop volley, the player must increase the impact duration (d*t*) and allow the racket to yield backward by 2–5 cm at the exact moment of collision. This backward recoil dissipates the incoming kinetic energy into the forearm's flexor tendons, dropping the rebound velocity to near zero.
 
 ---
 
@@ -85,5 +85,5 @@ When smashing deep lobs, jumping vertically and switching legs in mid-air (the *
 | Volley Fault | Biomechanical Cause | Remediation Protocol |
 |---|---|---|
 | **Swinging Volley Long** | Big backswing behind ears | **"Back-to-Wall" Volley Drill**: Stand with back 10 cm from a fence/wall; practice volleys without allowing racket to touch the wall. |
-| **"Dead" Net Dumps** | Dropping racket head below wrist | **"Keep the V" Isometric Check**: Maintain a $90^\circ\text{--}110^\circ$ angle between forearm and racket shaft throughout contact. |
+| **"Dead" Net Dumps** | Dropping racket head below wrist | **"Keep the V" Isometric Check**: Maintain a 90°–110° angle between forearm and racket shaft throughout contact. |
 | **Pushed Overheads** | Facing the net square on preparation | **Pointing Finger Rule**: Non-dominant hand must point at the descending ball while body turns completely perpendicular. |

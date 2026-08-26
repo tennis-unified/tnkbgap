@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Short-Angle Dipping 2HB** is a devastating geometric tool. By dropping the racket head deeply and brushing upward across the ball with **Rapid Left Forearm Pronation ($55^\circ$ brush plane)**, the player imparts **$3,200\text{ RPM}$ of heavy topspin**. The ball dives inside the crosscourt service box tramline and angles sharply off the court, dragging the defender **$3\text{ meters}$ wide**.
+The **Short-Angle Dipping 2HB** is a devastating geometric tool. By dropping the racket head deeply and brushing upward across the ball with **Rapid Left Forearm Pronation (55° brush plane)**, the player imparts **3,200 RPM of heavy topspin**. The ball dives inside the crosscourt service box tramline and angles sharply off the court, dragging the defender **3 meters wide**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ The **Short-Angle Dipping 2HB** is a devastating geometric tool. By dropping the
 
 ---
 
-## 1. Steep $55^\circ$ Left-Hand Upward Brushing Vector
+## 1. Steep 55° Left-Hand Upward Brushing Vector
 
 The non-dominant left hand brushes rapidly up the outside of the ball, creating intense Magnus downward plunge.
 
@@ -59,5 +59,5 @@ Crosscourt service box corner target rings; short-hop roll backhands; high-RPM b
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Hitting Too Flat on Angle: Driving forward instead of brushing upward | Ball flying long past the sideline | **Brush Up & Across: Maximize vertical racket head speed with rapid left-hand pronation.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

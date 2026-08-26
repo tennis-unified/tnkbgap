@@ -28,7 +28,7 @@ While forward stroke acceleration receives primary coaching attention, the decel
 
 ## 1. The Thermodynamics of Energy Dissipation
 
-Residual kinetic energy $E_k = \frac{1}{2} I \omega^2$ remaining in the arm must be absorbed by the posterior myofascial sling (infraspinatus, teres minor, posterior deltoid, and trapezius). Extending the follow-through arc over the opposite shoulder increases the deceleration displacement ($\Delta x$), decreasing peak braking force ($F = W / \Delta x$).
+Residual kinetic energy *E*~k~ = ½ *I*ω² remaining in the arm must be absorbed by the posterior myofascial sling (infraspinatus, teres minor, posterior deltoid, and trapezius). Extending the follow-through arc over the opposite shoulder increases the deceleration displacement (Δ*x*), decreasing peak braking force (*F* = *W* / Δ*x*).
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]

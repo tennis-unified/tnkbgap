@@ -184,5 +184,5 @@ This book unites what high-speed cameras have finally revealed about the world�
 
 ## 🔬 How to Read This Book
 
-1. **Sequential Path (Foundations to Flow)**: If you want a complete transformation of your game, read chapters 1 through 16 in order. The architecture is deliberate: lower-body kinetic foundation $\rightarrow$ visual anticipation $\rightarrow$ footwork $\rightarrow$ tactics $\rightarrow$ individual strokes $\rightarrow$ biological durability $\rightarrow$ mental mastery $\rightarrow$ doubles synergy.
+1. **Sequential Path (Foundations to Flow)**: If you want a complete transformation of your game, read chapters 1 through 16 in order. The architecture is deliberate: lower-body kinetic foundation → visual anticipation → footwork → tactics → individual strokes → biological durability → mental mastery → doubles synergy.
 2. **Modular Troubleshooting**: If you are fighting a specific breakdown on court (e.g. tennis elbow in Chapter 13, return difficulties in Chapter 6, or volley tentativeness in Chapter 10), each chapter stands completely on its own as a definitive field manual with concrete sensory cues and on-court drills.

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Borrowed from 3D golf biomechanics and perfected in modern tennis, the **X-Factor Stretch** measures the maximal angular separation between the pelvic line and the shoulder line. Elite ball-strikers (Carlos Alcaraz, Jannik Sinner) achieve an $X$-Factor angle of **$45^\circ\text{ to }55^\circ$** during the transition from takeback to forward drive, pre-stretching the abdominal obliques and thoracolumbar fascia to deliver explosive rotational snapback.
+Borrowed from 3D golf biomechanics and perfected in modern tennis, the **X-Factor Stretch** measures the maximal angular separation between the pelvic line and the shoulder line. Elite ball-strikers (Carlos Alcaraz, Jannik Sinner) achieve an *X*-Factor angle of **45° to 55°** during the transition from takeback to forward drive, pre-stretching the abdominal obliques and thoracolumbar fascia to deliver explosive rotational snapback.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Borrowed from 3D golf biomechanics and perfected in modern tennis, the **X-Facto
 
 ## 1. The Geometry of the X-Factor Angle
 
-At maximum backswing, the pelvis rotates $40^\circ$ away from the net while the shoulders rotate $95^\circ$, creating an initial static separation of $55^\circ$.
+At maximum backswing, the pelvis rotates 40° away from the net while the shoulders rotate 95°, creating an initial static separation of 55°.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -41,7 +41,7 @@ At maximum backswing, the pelvis rotates $40^\circ$ away from the net while the 
 
 ## 2. Dynamic 'X-Factor Stretch' Augmentation
 
-As the hips initiate their forward rotation toward the net, the shoulders lag back momentarily, dynamically increasing the separation angle by an additional $8^\circ\text{--}12^\circ$ (The Dynamic Stretch Phase).
+As the hips initiate their forward rotation toward the net, the shoulders lag back momentarily, dynamically increasing the separation angle by an additional 8°–12° (The Dynamic Stretch Phase).
 
 ---
 

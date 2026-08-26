@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While internal rotators (pecs, lats, subscapularis) accelerate the serve, the **Posterior Rotator Cuff (Infraspinatus and Teres Minor)** must act as the primary braking engine. During the **Follow-Through Phase**, these small muscles must absorb **$> 1,500\text{ Watts}$ of kinetic energy in under $30\text{ms}$** to prevent humeral head subluxation. When posterior strength is $< 75\%$ of anterior strength, tendinopathy and cuff failure occur.
+While internal rotators (pecs, lats, subscapularis) accelerate the serve, the **Posterior Rotator Cuff (Infraspinatus and Teres Minor)** must act as the primary braking engine. During the **Follow-Through Phase**, these small muscles must absorb **> 1,500 Watts of kinetic energy in under 30 ms** to prevent humeral head subluxation. When posterior strength is < 75% of anterior strength, tendinopathy and cuff failure occur.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -28,7 +28,7 @@ The historical vulnerability of the single-handed backhand is the high, kicking 
 
 ## 1. The Anatomical Disadvantage at High Contact Points
 
-When contact rises above shoulder level ($> 1.4\text{ meters}$), the posterior deltoid enters active insufficiency and the wrist flexors cannot support the heavy torque of the ball.
+When contact rises above shoulder level (> 1.4 meters), the posterior deltoid enters active insufficiency and the wrist flexors cannot support the heavy torque of the ball.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]
@@ -41,7 +41,7 @@ When contact rises above shoulder level ($> 1.4\text{ meters}$), the posterior d
 
 ## 2. The Shapovalov Airborne Scissor-Jump
 
-By executing an explosive single-leg jump off the lead foot, the player elevates their center of mass by $40\text{ cm}$, artificially lowering the effective strike zone back to optimal chest height.
+By executing an explosive single-leg jump off the lead foot, the player elevates their center of mass by 40 cm, artificially lowering the effective strike zone back to optimal chest height.
 
 ---
 

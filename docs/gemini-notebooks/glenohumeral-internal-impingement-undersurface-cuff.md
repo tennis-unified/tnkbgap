@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Unlike subacromial impingement, **Posterosuperior Internal Impingement** occurs intra-articularly. At maximum shoulder external rotation ($170^\circ$) and $90^\circ$ abduction during the serve cocking phase, the **Articular (Undersurface) Side of the Infraspinatus/Supraspinatus** is pinched between the greater tuberosity and the **Posterosuperior Glenoid Labrum**. Maintaining thoracic extension and dynamic anterior capsule stability prevents this destructive micro-shear.
+Unlike subacromial impingement, **Posterosuperior Internal Impingement** occurs intra-articularly. At maximum shoulder external rotation (170°) and 90° abduction during the serve cocking phase, the **Articular (Undersurface) Side of the Infraspinatus/Supraspinatus** is pinched between the greater tuberosity and the **Posterosuperior Glenoid Labrum**. Maintaining thoracic extension and dynamic anterior capsule stability prevents this destructive micro-shear.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

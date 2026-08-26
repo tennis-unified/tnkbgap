@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A 140 mph serve strikes the stringbed with a peak collision force exceeding **$450\text{ Newtons in }4\text{ milliseconds}$**. If the wrist is relaxed or flimsy, the racket face twists violently, causing shanks or wrist injury. Elite returners engage an **Isometric Wrist-Wall Co-Contraction** (activating the extensor carpi radialis and flexor carpi ulnaris simultaneously), holding the racket face rock-solid at contact.
+A 140 mph serve strikes the stringbed with a peak collision force exceeding **450 Newtons in 4 milliseconds**. If the wrist is relaxed or flimsy, the racket face twists violently, causing shanks or wrist injury. Elite returners engage an **Isometric Wrist-Wall Co-Contraction** (activating the extensor carpi radialis and flexor carpi ulnaris simultaneously), holding the racket face rock-solid at contact.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ A 140 mph serve strikes the stringbed with a peak collision force exceeding **$4
 
 ## 1. Isometric Carpal Stabilization
 
-Co-contracting forearm flexors and extensors 20ms before contact increases racket torsional stability by $300\%$, resisting off-center impact twists.
+Co-contracting forearm flexors and extensors 20ms before contact increases racket torsional stability by 300%, resisting off-center impact twists.
 
 ```
        [ Forward Jump-Split Ingestion ] ──► [ Isometric Wrist-Wall Block ]

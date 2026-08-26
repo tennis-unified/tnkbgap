@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When pulled three meters beyond the doubles sideline by a blistering topspin drive, attempting an aggressive drive is a high-risk error. The master escape shot is the **Defensive Float Slice**: opening the Continental racket face ($35^\circ\text{--}45^\circ$) and lofting the ball 4 meters high into the opponent's deep baseline corner, buying nearly 3 seconds of hang time for full recovery.
+When pulled three meters beyond the doubles sideline by a blistering topspin drive, attempting an aggressive drive is a high-risk error. The master escape shot is the **Defensive Float Slice**: opening the Continental racket face (35°–45°) and lofting the ball 4 meters high into the opponent's deep baseline corner, buying nearly 3 seconds of hang time for full recovery.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ When pulled three meters beyond the doubles sideline by a blistering topspin dri
 
 ## 1. Aerodynamic Hang-Time Modeling
 
-A high backhand float slice launched at $35^\circ$ with 2,400 RPM backspin generates sustained aerodynamic lift, remaining in the air for $t_{\text{hang}} = 2.6\text{--}3.1\text{ seconds}$.
+A high backhand float slice launched at 35° with 2,400 RPM backspin generates sustained aerodynamic lift, remaining in the air for *t*~hang~ = 2.6–3.1 seconds.
 
 ```
        [ Deep Knee Spring Drive ] ──► [ Scapular Retraction Anchor ]

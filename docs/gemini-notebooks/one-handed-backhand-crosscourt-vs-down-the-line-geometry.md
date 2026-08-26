@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Hitting crosscourt vs. down-the-line on the single-handed backhand requires precise adjustments in contact timing and footwork alignment. To hit crosscourt, contact occurs $10\text{ cm}$ further in front with the shoulders closing slightly later. To hit down-the-line, contact occurs slightly deeper ($35\text{ cm}$ in front of hip) with an aggressive linear weight drive down the line.
+Hitting crosscourt vs. down-the-line on the single-handed backhand requires precise adjustments in contact timing and footwork alignment. To hit crosscourt, contact occurs 10 cm further in front with the shoulders closing slightly later. To hit down-the-line, contact occurs slightly deeper (35 cm in front of hip) with an aggressive linear weight drive down the line.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -41,7 +41,7 @@ Crosscourt hits clear the lowest net center (36 in) over the longest court diago
 
 ## 2. Down-the-Line Laser (The High-Risk Winner)
 
-Down-the-line drives must clear the higher net post (42 in). The player must stay sideways longer ($90^\circ$ shoulder lock) and drive the racket through the line of the ball.
+Down-the-line drives must clear the higher net post (42 in). The player must stay sideways longer (90° shoulder lock) and drive the racket through the line of the ball.
 
 ---
 

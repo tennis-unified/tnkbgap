@@ -28,7 +28,7 @@ When all four players are locked in a deep baseline-to-net duel, blasting anothe
 
 ## 1. Kinetic Yielding & Impulse Dissipation
 
-At contact, the hand loosens grip tension to 2/10, allowing the racket handle to recoil backward $2\text{--}4\text{ cm}$. This extends contact duration ($\Delta t$) and reduces rebound coefficient ($e < 0.15$).
+At contact, the hand loosens grip tension to 2/10, allowing the racket handle to recoil backward 2–4 cm. This extends contact duration (Δ*t*) and reduces rebound coefficient (*e* < 0.15).
 
 ```
        [ Server / Partner Baseline Drive ] ──► [ Net Player Diagonal Cut ]
@@ -56,5 +56,5 @@ Present the racket frame as if hitting a deep punch volley until the final 30ms 
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

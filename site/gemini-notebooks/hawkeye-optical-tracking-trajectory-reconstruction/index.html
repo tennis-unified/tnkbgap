@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -18190,7 +18192,7 @@
 <strong>Keywords:</strong> <code>Hawk-Eye Technology, Optical Triangulation, 3D Trajectory Reconstruction, Direct Linear Transformation (DLT), Sub-Millimeter In-Out Precision</code>  </p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>Hawk-Eye has become the undisputed gold standard for electronic line calling and ball tracking across all Grand Slam championships. Using an array of 10 to 12 synchronized high-speed cameras ($340\text{ fps}$) positioned around the stadium, Hawk-Eye reconstructs the 3D trajectory of a $6.7\text{ cm}$ tennis ball traveling at $150\text{ mph}$ with an average error margin of <strong>less than 2.6 millimeters</strong>.</p>
+<p>Hawk-Eye has become the undisputed gold standard for electronic line calling and ball tracking across all Grand Slam championships. Using an array of 10 to 12 synchronized high-speed cameras (340 fps) positioned around the stadium, Hawk-Eye reconstructs the 3D trajectory of a 6.7 cm tennis ball traveling at 150 mph with an average error margin of <strong>less than 2.6 millimeters</strong>.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    KINETIC &amp; TACTICAL FLOW ARCHITECTURE                     │
 │                                                                             │
@@ -18204,7 +18206,7 @@
 </code></pre></div>
 <hr />
 <h2 id="1-high-speed-multi-view-optical-triangulation">1. High-Speed Multi-View Optical Triangulation<a class="headerlink" href="#1-high-speed-multi-view-optical-triangulation" title="Permanent link">&para;</a></h2>
-<p>Each camera identifies the pixel center of the yellow felt ball. Synchronized 2D pixel coordinates are combined through Direct Linear Transformation (DLT) and epipolar geometry to generate a continuous 3D Euclidean coordinate tensor $(x(t), y(t), z(t))$.</p>
+<p>Each camera identifies the pixel center of the yellow felt ball. Synchronized 2D pixel coordinates are combined through Direct Linear Transformation (DLT) and epipolar geometry to generate a continuous 3D Euclidean coordinate tensor (<em>x</em>(<em>t</em>), <em>y</em>(<em>t</em>), <em>z</em>(<em>t</em>)).</p>
 <div class="highlight"><pre><span></span><code>       [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
                                                 │
        [ Terminal Whip Acceleration ] ◄─────────┘
@@ -18351,6 +18353,12 @@
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

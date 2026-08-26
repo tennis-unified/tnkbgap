@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When attacking short baseline balls or stepping into returns, the **Closed-Stance Two-Handed Backhand** provides unmatched linear penetration ($p = m v$). Stepping across with the right foot at a **$45^\circ\text{ angle}$** locks the pelvis sideways, allowing the player to channel **$100\%$ of forward bodyweight** through contact, producing penetrating **$85\text{ mph}$ flat drives** that skid through the court.
+When attacking short baseline balls or stepping into returns, the **Closed-Stance Two-Handed Backhand** provides unmatched linear penetration (*p* = *mv*). Stepping across with the right foot at a **45° angle** locks the pelvis sideways, allowing the player to channel **100% of forward bodyweight** through contact, producing penetrating **85 mph flat drives** that skid through the court.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -29,7 +29,7 @@ When attacking short baseline balls or stepping into returns, the **Closed-Stanc
 
 ---
 
-## 1. The $45^\circ$ Closed-Stance Step-In Geometry
+## 1. The 45° Closed-Stance Step-In Geometry
 
 Stepping diagonally forward closes the hips to the net, creating an unyielding mechanical base for linear momentum transfer.
 
@@ -59,5 +59,5 @@ Short-ball step-in target sets; closed-stance linear drive repetitions; radar sp
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Over-Stepping Across (180° Lock): Stepping too far across, trapping the hips backwards | Inability to uncoil and severe lower back torque | **45° Diagonal Step: Step at 45° into the court rather than parallel to baseline.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

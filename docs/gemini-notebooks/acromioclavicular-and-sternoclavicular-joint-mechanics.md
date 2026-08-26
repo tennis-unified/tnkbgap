@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Full overhead arm elevation in the tennis serve cannot occur at the glenohumeral joint alone; it requires **$40^\circ$ of Clavicular Posterior Rotation at the Sternoclavicular (SC) and Acromioclavicular (AC) Joints**. The clavicle acts as a mechanical strut, vaulting the entire scapular-humeral complex superiorly. AC joint osteolysis and SC subluxation occur when hyper-pronation is attempted with an un-elevated clavicle.
+Full overhead arm elevation in the tennis serve cannot occur at the glenohumeral joint alone; it requires **40° of Clavicular Posterior Rotation at the Sternoclavicular (SC) and Acromioclavicular (AC) Joints**. The clavicle acts as a mechanical strut, vaulting the entire scapular-humeral complex superiorly. AC joint osteolysis and SC subluxation occur when hyper-pronation is attempted with an un-elevated clavicle.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

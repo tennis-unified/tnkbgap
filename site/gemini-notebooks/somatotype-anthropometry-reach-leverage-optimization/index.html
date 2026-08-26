@@ -55,6 +55,8 @@
     
       <link rel="stylesheet" href="../../assets/css/site.css">
     
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
     <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -18236,7 +18238,7 @@
 <strong>Keywords:</strong> <code>Anthropometry</code>, <code>Somatotype Optimization</code>, <code>Ape Index (Wingspan/Height)</code>, <code>Center of Mass (CoM)</code>, <code>Moment of Inertia</code>, <code>Optimal Tennis Height</code>, <code>Novak Djokovic (188cm)</code>, <code>Alexander Zverev (198cm)</code>, <code>Diego Schwartzman (170cm)</code></p>
 <hr />
 <h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
-<p>Is there an idealized anatomical morphology for modern championship tennis? Statistical regressions across the ATP Top 100 over the past three decades demonstrate an evolutionary convergence toward an optimal height window: <strong>$185\text{ cm to }191\text{ cm}$ ($6'1''\text{ to }6'3''$)</strong>—the exact physical dimensions shared by Novak Djokovic ($188\text{ cm}$), Roger Federer ($185\text{ cm}$), and Rafael Nadal ($185\text{ cm}$). While taller players ($&gt; 198\text{ cm}$) possess massive serve leverage, they suffer from high rotational moments of inertia and sluggish lateral change-of-direction. Conversely, shorter players ($&lt; 175\text{ cm}$) enjoy elite agility but face severe serve trajectory deficits.</p>
+<p>Is there an idealized anatomical morphology for modern championship tennis? Statistical regressions across the ATP Top 100 over the past three decades demonstrate an evolutionary convergence toward an optimal height window: <strong>185 cm to 191 cm (6'1\" to 6'3\")</strong>—the exact physical dimensions shared by Novak Djokovic (188 cm), Roger Federer (185 cm), and Rafael Nadal (185 cm). While taller players (&gt; 198 cm) possess massive serve leverage, they suffer from high rotational moments of inertia and sluggish lateral change-of-direction. Conversely, shorter players (&lt; 175 cm) enjoy elite agility but face severe serve trajectory deficits.</p>
 <p>This whitepaper analyzes: (1) The biomechanical tradeoffs of height, mass, and center of mass (CoM), (2) The <strong>Ape Index (Wingspan-to-Height Ratio)</strong> in rotational whip generation, (3) Somatotype classifications (Ecto-Mesomorph dominance in elite tennis), and (4) Tactical game-style customization tailored to an individual athlete's anthropometric profile.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    ANTHROPOMETRIC TRADEOFF CONTINUUM IN TENNIS              │
@@ -18261,9 +18263,9 @@ ROTATIONAL MOMENT OF INERTIA &amp; COD:
   ──► Tall Players require 40% more torque to accelerate and brake hips laterally!
 </code></pre></div>
 <h3 id="11-the-golden-188cm-equilibrium">1.1. The Golden 188cm Equilibrium<a class="headerlink" href="#11-the-golden-188cm-equilibrium" title="Permanent link">&para;</a></h3>
-<p>At $188\text{ cm}$ ($6'2''$):
+<p>At 188 cm (6'2\"):
 - The player hits serves from high enough to clear the net tape with flat trajectory.
-- The rotational radius ($r$) remains compact enough to permit violent hip deceleration ($&gt; 600^\circ/\text{sec}$) and instantaneous hard-court sliding recovery.</p>
+- The rotational radius (<em>r</em>) remains compact enough to permit violent hip deceleration (&gt; 600°/s) and instantaneous hard-court sliding recovery.</p>
 <hr />
 <h2 id="2-the-ape-index-rotational-whipping">2. The Ape Index &amp; Rotational Whipping<a class="headerlink" href="#2-the-ape-index-rotational-whipping" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>Ape Index = Wingspan (cm) / Height (cm)
@@ -18271,7 +18273,7 @@ ROTATIONAL MOMENT OF INERTIA &amp; COD:
   - Ape Index ≈ 1.00 (Neutral):  Compact, highly repeatable stroke mechanics (Djokovic).
 </code></pre></div>
 <h3 id="21-long-arms-as-force-multipliers">2.1. Long Arms as Force Multipliers<a class="headerlink" href="#21-long-arms-as-force-multipliers" title="Permanent link">&para;</a></h3>
-<p>A positive Ape Index provides exceptional leverage at the tip of the racket, increasing terminal racket head speed by $5\text{--}8\text{ mph}$ for the exact same angular velocity of the shoulder joint ($\Delta v = r \cdot \omega$).</p>
+<p>A positive Ape Index provides exceptional leverage at the tip of the racket, increasing terminal racket head speed by 5–8 mph for the exact same angular velocity of the shoulder joint (Δ<em>v</em> = <em>r</em> · ω).</p>
 <hr />
 <h2 id="3-somatotype-tactical-style-customization">3. Somatotype &amp; Tactical Style Customization<a class="headerlink" href="#3-somatotype-tactical-style-customization" title="Permanent link">&para;</a></h2>
 <table>
@@ -18285,19 +18287,19 @@ ROTATIONAL MOMENT OF INERTIA &amp; COD:
 </thead>
 <tbody>
 <tr>
-<td><strong>The Giant ($&gt; 198\text{ cm}$)</strong></td>
+<td><strong>The Giant (&gt; 198 cm)</strong></td>
 <td>Massive serve, huge reach at net</td>
 <td>High center of gravity, slow low-ball retrieval</td>
-<td><strong>Serve + 1 First Strike</strong>: Keep points $&lt; 3$ shots; avoid extended baseline attrition.</td>
+<td><strong>Serve + 1 First Strike</strong>: Keep points &lt; 3 shots; avoid extended baseline attrition.</td>
 </tr>
 <tr>
-<td><strong>The Golden Median ($185\text{--}191\text{ cm}$)</strong></td>
+<td><strong>The Golden Median (185–191 cm)</strong></td>
 <td>Perfect balance of power, spin, and agility</td>
 <td>None (Complete kinetic versatility)</td>
 <td><strong>All-Court Domination</strong>: Universal adaptation across all surfaces and rally lengths.</td>
 </tr>
 <tr>
-<td><strong>The Pocket Dynamo ($&lt; 175\text{ cm}$)</strong></td>
+<td><strong>The Pocket Dynamo (&lt; 175 cm)</strong></td>
 <td>Blazing footwork speed, ultra-low CoM</td>
 <td>Flat serve speed limited by net geometry</td>
 <td><strong>Heavy Topspin &amp; Counter-Punching</strong>: Attack second serves, take balls early on-the-rise.</td>
@@ -18407,6 +18409,12 @@ ROTATIONAL MOMENT OF INERTIA &amp; COD:
     
     
       <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
       
     
   </body>

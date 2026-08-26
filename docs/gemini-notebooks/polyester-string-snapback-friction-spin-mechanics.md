@@ -9,9 +9,9 @@
 
 ## Executive Abstract
 
-The single greatest technological revolution in modern tennis was not the transition from wood to graphite; it was the introduction of **co-polyester monofilament strings** (e.g., Luxilon ALU Power, Babolat RPM Blast) in the late 1990s and 2000s. Traditional natural gut and synthetic multi-filaments lock together during ball collision due to high inter-string friction. In contrast, smooth, lubricated co-polyester strings possess an exceptionally low **string-to-string coefficient of friction ($\mu_{\text{string}}$)**, allowing the main strings to displace laterally and violently snap back during the 4-millisecond contact window, multiplying ball rotation by **30% to 50%**.
+The single greatest technological revolution in modern tennis was not the transition from wood to graphite; it was the introduction of **co-polyester monofilament strings** (e.g., Luxilon ALU Power, Babolat RPM Blast) in the late 1990s and 2000s. Traditional natural gut and synthetic multi-filaments lock together during ball collision due to high inter-string friction. In contrast, smooth, lubricated co-polyester strings possess an exceptionally low **string-to-string coefficient of friction (μ~string~)**, allowing the main strings to displace laterally and violently snap back during the 4-millisecond contact window, multiplying ball rotation by **30% to 50%**.
 
-This research whitepaper details: (1) The physical mechanics of lateral string deflection and elastic snapback, (2) The coefficient of friction ratio ($\mu_{\text{string-to-string}} / \mu_{\text{ball-to-string}}$), (3) Dynamic tension decay and notched string degradation ("dead poly" syndrome), and (4) Optimal string hybrid combinations (Poly Mains / Gut Crosses vs. Gut Mains / Poly Crosses).
+This research whitepaper details: (1) The physical mechanics of lateral string deflection and elastic snapback, (2) The coefficient of friction ratio (μ~string-to-string~ / μ~ball-to-string~), (3) Dynamic tension decay and notched string degradation ("dead poly" syndrome), and (4) Optimal string hybrid combinations (Poly Mains / Gut Crosses vs. Gut Mains / Poly Crosses).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -45,8 +45,8 @@ For the snapback mechanism to function, the stringbed must satisfy a fundamental
 
 $$\mu_{\text{string-to-string}} < \mu_{\text{ball-to-string}}$$
 
-- **High Ball-to-String Friction ($\mu_{\text{ball}} \approx 0.4\text{--}0.6$)**: The felt of the ball bites into the main string, pulling it sideways as the racket moves upward.
-- **Low String-to-String Friction ($\mu_{\text{string}} \approx 0.08\text{--}0.15$)**: The main string slides effortlessly across the cross strings without friction locking.
+- **High Ball-to-String Friction (μ~ball~ ≈ 0.4–0.6)**: The felt of the ball bites into the main string, pulling it sideways as the racket moves upward.
+- **Low String-to-String Friction (μ~string~ ≈ 0.08–0.15)**: The main string slides effortlessly across the cross strings without friction locking.
 - As the ball begins to leave the strings, stored elastic energy in the deflected main string snaps it back to its original equilibrium position at supersonic speed, imparting intense topspin.
 
 ---
@@ -75,7 +75,7 @@ Repeated lateral friction grinds microscopic grooves (notches) into the cross st
 
 | Setup Configuration | Main String | Cross String | Biomechanical Performance Profile |
 |---|---|---|---|
-| **Full Co-Poly (ATP Standard)** | Polyester (1.25mm) | Polyester (1.25mm) | Maximum snapback, maximum durability, high stiffness. Ideal for players with swing speeds $> 75\text{ mph}$. |
+| **Full Co-Poly (ATP Standard)** | Polyester (1.25mm) | Polyester (1.25mm) | Maximum snapback, maximum durability, high stiffness. Ideal for players with swing speeds > 75 mph. |
 | **Pro Hybrid A (Federer Setup)** | Natural Gut (1.30mm) | Polyester (1.25mm) | Maximum ball pocketing, supreme comfort, massive power. Poly cross allows gut main to slide freely. |
 | **Pro Hybrid B (Djokovic Setup)** | Polyester (1.25mm) | Natural Gut (1.30mm) | Enhanced durability and control over Setup A; poly mains provide heavy topspin bite with gut comfort. |
 | **Soft Multi / Poly Hybrid** | Multifilament | Polyester | Budget-friendly arm-friendly setup for club competitors and junior development. |

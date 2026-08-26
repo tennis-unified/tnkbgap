@@ -41,7 +41,7 @@ Executing an invariant 6-second physical routine acts as a Pavlovian neuro-assoc
 
 ## 2. Ball Bouncing Rhythmic Entrainment
 
-The acoustic 'thud-thud' cadence of the bouncing tennis ball entrains neural alpha wave oscillations ($8\text{--}12\text{ Hz}$), quieting internal verbal chatter and stabilizing gaze fixation.
+The acoustic 'thud-thud' cadence of the bouncing tennis ball entrains neural alpha wave oscillations (8–12 Hz), quieting internal verbal chatter and stabilizing gaze fixation.
 
 ---
 

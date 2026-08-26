@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Returning 130+ mph serves on the backhand side requires the **Asymmetric Bi-Manual Block Wall**. With two hands firmly on the handle, torsional deflection is reduced by **$45\%$ compared to a single-handed return**. By executing a compact $30^\circ$ unit turn and stepping forward into the split-step, the returner redirects incoming pace deep down the center channel with zero backswing delay.
+Returning 130+ mph serves on the backhand side requires the **Asymmetric Bi-Manual Block Wall**. With two hands firmly on the handle, torsional deflection is reduced by **45% compared to a single-handed return**. By executing a compact 30° unit turn and stepping forward into the split-step, the returner redirects incoming pace deep down the center channel with zero backswing delay.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -31,7 +31,7 @@ Returning 130+ mph serves on the backhand side requires the **Asymmetric Bi-Manu
 
 ## 1. Asymmetric Bi-Manual Shock Absorption
 
-The right hand anchors the frame against torque while the left hand punches through impact, creating a rigid rebound surface ($e = 0.82$).
+The right hand anchors the frame against torque while the left hand punches through impact, creating a rigid rebound surface (*e* = 0.82).
 
 ```
        [ 50° Compact Torso Coil ] ──► [ Lead Hip Deceleration Fulcrum ]
@@ -59,5 +59,5 @@ Stepping forward into contact channels body mass behind the ball without needing
 | Biomechanical Parameter | Common Technical Fault | Clinical / Tactical Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
 | **Hand Dominance** | Taking Racket Back Too Far: Taking a full groundstroke backswing on fast serves | Late contact, frame shanks & getting jammed | **Turn & Block: Just turn the torso 30° and punch forward with zero arm takeback.** |
-| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at $45^\circ$ to whip arms through impact. |
+| **Pelvic Sequencing** | Spinning hips completely open past contact | Weak arm contact & pulling balls wide | **Lead Hip Anchor**: Lock right hip at 45° to whip arms through impact. |
 | **Takeback Timing** | Disconnected arm pulling independently of torso | Late contact, wrist fatigue & erratic trajectory | **Chest-Hand Triangle**: Turn chest, shoulders, and hands simultaneously as a single unit. |

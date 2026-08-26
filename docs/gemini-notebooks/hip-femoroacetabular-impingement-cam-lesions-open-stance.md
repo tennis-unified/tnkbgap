@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Modern aggressive baseline tennis relies on **Open-Stance Forehands**, which generate extreme ground reaction forces (**$3.5\text{x Bodyweight}$**) while internally rotating the lead hip. In players with **Cam/Pincer Femoroacetabular Impingement (FAI)**, the aspherical femoral head neck collides with the acetabular rim, causing labral tears and chondral delamination. The clinical remedy is the **$45^\circ\text{ Foot Flaring Rule}$**, which pre-clears anatomical hip impingement zones.
+Modern aggressive baseline tennis relies on **Open-Stance Forehands**, which generate extreme ground reaction forces (**3.5 x Bodyweight**) while internally rotating the lead hip. In players with **Cam/Pincer Femoroacetabular Impingement (FAI)**, the aspherical femoral head neck collides with the acetabular rim, causing labral tears and chondral delamination. The clinical remedy is the **45° Foot Flaring Rule**, which pre-clears anatomical hip impingement zones.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

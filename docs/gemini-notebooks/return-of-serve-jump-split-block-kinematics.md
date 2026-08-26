@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern return of serve is the most time-compressed athletic reaction in all of professional sports. When returning a $130\text{ mph}$ ($209\text{ km/h}$) first serve, the returner has precisely **380 to 450 milliseconds** from ball release to contact. Standard groundstroke mechanics (full looping backswing, closed hip loading) are physically impossible in this timeframe.
+The modern return of serve is the most time-compressed athletic reaction in all of professional sports. When returning a 130 mph (209 km/h) first serve, the returner has precisely **380 to 450 milliseconds** from ball release to contact. Standard groundstroke mechanics (full looping backswing, closed hip loading) are physically impossible in this timeframe.
 
 This whitepaper analyzes the biomechanics of the world's greatest returners (Novak Djokovic, Andre Agassi, Carlos Alcaraz): (1) The **Forward Hop Jump-Split Step** (harvesting forward momentum before ball impact), (2) The **Zero-Backswing Compact Unit Turn**, (3) **Block Return Dynamics** (using the server's own kinetic energy as the propellant), and (4) **Middle-Third Depth Targeting** to neutralize server approach angles.
 
@@ -61,8 +61,8 @@ ELITE RETURN EXECUTION:
 ```
 
 ### 2.1. Isometric Racket Stabilization
-On first serves exceeding $115\text{ mph}$, the returner does not "swing" at the ball:
-1. The shoulders rotate $45^\circ$ as a single unit.
+On first serves exceeding 115 mph, the returner does not "swing" at the ball:
+1. The shoulders rotate 45° as a single unit.
 2. The racket head remains permanently in front of the chest.
 3. The player uses a short **punching block**, relying on the racket's high recoil weight and firm wrist tension to reflect the server's velocity back into the court.
 
@@ -85,7 +85,7 @@ On first serves exceeding $115\text{ mph}$, the returner does not "swing" at the
 ```
 
 ### 3.1. Neutralizing Serve Angles
-Attempting sharp down-the-line return winners off $125\text{ mph}$ serves results in an unforced error rate $> 40\%$. Elite returners drive 80% of first-serve returns **deep down the middle (within 2 meters of the center baseline)**. This jams the server's feet, eliminates sharp return angles, and resets the rally to neutral.
+Attempting sharp down-the-line return winners off 125 mph serves results in an unforced error rate > 40%. Elite returners drive 80% of first-serve returns **deep down the middle (within 2 meters of the center baseline)**. This jams the server's feet, eliminates sharp return angles, and resets the rally to neutral.
 
 ---
 

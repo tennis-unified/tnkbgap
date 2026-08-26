@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During intense anaerobic rally exchanges, lactic acid dissociates into lactate and Hydrogen ions ($H^+$). The accumulation of $H^+$ drops intramuscular pH from 7.1 to 6.5, inhibiting phosphofructokinase and calcium sensitivity in actin-myosin cross-bridges. Supplementing with Beta-Alanine elevates intramuscular **carnosine concentration by 60% to 80%**, providing a robust intracellular $H^+$ buffer that delays fatigue in 5th-set tiebreaks.
+During intense anaerobic rally exchanges, lactic acid dissociates into lactate and Hydrogen ions (H⁺). The accumulation of H⁺ drops intramuscular pH from 7.1 to 6.5, inhibiting phosphofructokinase and calcium sensitivity in actin-myosin cross-bridges. Supplementing with Beta-Alanine elevates intramuscular **carnosine concentration by 60% to 80%**, providing a robust intracellular H⁺ buffer that delays fatigue in 5th-set tiebreaks.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ During intense anaerobic rally exchanges, lactic acid dissociates into lactate a
 
 ## 1. Biochemical Synthesis of Carnosine
 
-Carnosine ($\beta$-alanyl-L-histidine) is synthesized in skeletal muscle, where Beta-Alanine is the rate-limiting precursor. Carnosine's imidazole ring possesses a pKa of 6.83, making it the perfect biological buffer for the physiological pH drop.
+Carnosine (β-alanyl-L-histidine) is synthesized in skeletal muscle, where Beta-Alanine is the rate-limiting precursor. Carnosine's imidazole ring possesses a pKa of 6.83, making it the perfect biological buffer for the physiological pH drop.
 
 ```
        [ Upstream Kinetic Drive ] ──► [ Pelvic / Core Uncoiling ]
@@ -41,7 +41,7 @@ Carnosine ($\beta$-alanyl-L-histidine) is synthesized in skeletal muscle, where 
 
 ## 2. Dosing Protocol & Avoiding Paresthesia
 
-Consume $3.2\text{--}6.4\text{ grams/day}$ divided into 4 doses of 1.6g for 6–8 weeks prior to tournament season to saturate muscle carnosine stores without causing tingling (paresthesia).
+Consume 3.2–6.4 grams/day divided into 4 doses of 1.6g for 6–8 weeks prior to tournament season to saturate muscle carnosine stores without causing tingling (paresthesia).
 
 ---
 

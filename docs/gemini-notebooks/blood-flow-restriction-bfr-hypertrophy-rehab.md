@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Traditional muscle hypertrophy requires loading joints at $> 70\%\text{ 1RM}$, which can re-injure healing tendons. **Blood Flow Restriction (BFR) Therapy** utilizes pneumatic cuffs at **$80\%\text{ Arterial Occlusion Pressure (AOP)}$** while lifting at just **$20\text{ to }30\%\text{ 1RM}$**. This creates local muscular hypoxia, triggering an explosive **$290\%\text{ Surge in Growth Hormone (GH) and IGF-1}$**, stimulating rapid muscle hypertrophy and tenocyte collagen synthesis without mechanical joint stress.
+Traditional muscle hypertrophy requires loading joints at > 70% 1RM, which can re-injure healing tendons. **Blood Flow Restriction (BFR) Therapy** utilizes pneumatic cuffs at **80% Arterial Occlusion Pressure (AOP)** while lifting at just **20 to 30% 1RM**. This creates local muscular hypoxia, triggering an explosive **290% Surge in Growth Hormone (GH) and IGF-1**, stimulating rapid muscle hypertrophy and tenocyte collagen synthesis without mechanical joint stress.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

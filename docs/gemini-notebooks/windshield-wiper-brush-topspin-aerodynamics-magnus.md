@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Classical tennis taught players to follow through over the opposite shoulder. The modern power forehand relies exclusively on the **Windshield Wiper Finish**: the forearm pronates rapidly across the front of the body, brushing upward at an angle of **$45^\circ\text{ to }60^\circ$**. This imparts **$3,500\text{ to }4,000\text{ RPM}$ of heavy topspin**, generating a **Downward Magnus Acceleration ($-16.2\text{ m/s}^2$)** that curves 85 mph drives sharply down inside the baseline.
+Classical tennis taught players to follow through over the opposite shoulder. The modern power forehand relies exclusively on the **Windshield Wiper Finish**: the forearm pronates rapidly across the front of the body, brushing upward at an angle of **45° to 60°**. This imparts **3,500 to 4,000 RPM of heavy topspin**, generating a **Downward Magnus Acceleration (-16.2 m/s²)** that curves 85 mph drives sharply down inside the baseline.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

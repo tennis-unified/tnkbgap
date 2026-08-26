@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While the shoulders rotate at $800^\circ/\text{s}$ and the hips uncoil, the head must remain **Absolute Still (Gaze Locked for 150ms Post-Impact, Roger Federer Model)**. This requires the **Cervicothoracic Junction (C7-T1) and Suboccipital Muscle Sling (Rectus Capitis Posterior, Obliquus Capitis)** to decouple the head from thoracic uncoiling. Weakness causes head bobbing, distorting the visual horizon and causing frame shanks.
+While the shoulders rotate at 800°/s and the hips uncoil, the head must remain **Absolute Still (Gaze Locked for 150ms Post-Impact, Roger Federer Model)**. This requires the **Cervicothoracic Junction (C7-T1) and Suboccipital Muscle Sling (Rectus Capitis Posterior, Obliquus Capitis)** to decouple the head from thoracic uncoiling. Weakness causes head bobbing, distorting the visual horizon and causing frame shanks.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

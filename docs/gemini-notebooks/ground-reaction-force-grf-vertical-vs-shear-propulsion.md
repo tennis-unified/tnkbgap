@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Every ounce of kinetic energy delivered to a tennis ball originates from the interaction between the player's footwear and the court surface. High-frequency 3D force-plate telemetry reveals that elite forehands generate bilateral **Ground Reaction Forces exceeding $2.5\text{ to }3.5\times\text{ bodyweight}$**. This paper decomposes vertical thrust ($F_z$), lateral shear ($F_x$), and anterior-posterior shear ($F_y$) across open and closed stances.
+Every ounce of kinetic energy delivered to a tennis ball originates from the interaction between the player's footwear and the court surface. High-frequency 3D force-plate telemetry reveals that elite forehands generate bilateral **Ground Reaction Forces exceeding 2.5 to 3.5× bodyweight**. This paper decomposes vertical thrust (*F*~z~), lateral shear (*F*~x~), and anterior-posterior shear (*F*~y~) across open and closed stances.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -28,7 +28,7 @@ Every ounce of kinetic energy delivered to a tennis ball originates from the int
 
 ## 1. 3D Force Vector Decomposition
 
-Vertical force ($F_z$) reaches peak values ($2,200\text{ N}$) during knee extension, launching the body upward. Horizontal shear force ($F_y = 950\text{ N}$) creates the transverse rotational torque that spins the pelvis.
+Vertical force (*F*~z~) reaches peak values (2,200 N) during knee extension, launching the body upward. Horizontal shear force (*F*~y~ = 950 N) creates the transverse rotational torque that spins the pelvis.
 
 ```
        [ Upstream Core Acceleration ] ──► [ Segmental Hip / Torso Braking ]
@@ -41,7 +41,7 @@ Vertical force ($F_z$) reaches peak values ($2,200\text{ N}$) during knee extens
 
 ## 2. The Lead Foot Braking Impulse
 
-The front foot plants with an aggressive backward-directed horizontal braking vector ($-F_y$), halting forward translational momentum and converting linear run speed into rotational whip.
+The front foot plants with an aggressive backward-directed horizontal braking vector (-*F*~y~), halting forward translational momentum and converting linear run speed into rotational whip.
 
 ---
 

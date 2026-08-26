@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Traditional anatomy assumes muscle force travels strictly along the tendon to bone. Groundbreaking biomechanics proves that **Up to $40\%$ of Muscle Contractile Force is Transmitted Laterally (Epimuscular Force Transmission)** via the **Endomysium, Perimysium, and Epimysium** to neighboring myofascial compartments. In tennis strokes, this fascial continuity links the glutes, latissimus dorsi, and forearm into a single continuous **Biotensegrity Spring**.
+Traditional anatomy assumes muscle force travels strictly along the tendon to bone. Groundbreaking biomechanics proves that **Up to 40% of Muscle Contractile Force is Transmitted Laterally (Epimuscular Force Transmission)** via the **Endomysium, Perimysium, and Epimysium** to neighboring myofascial compartments. In tennis strokes, this fascial continuity links the glutes, latissimus dorsi, and forearm into a single continuous **Biotensegrity Spring**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

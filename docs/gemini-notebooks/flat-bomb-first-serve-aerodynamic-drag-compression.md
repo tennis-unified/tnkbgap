@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A 140 mph flat first serve travels the distance from baseline to service box in just **$380\text{ milliseconds}$**. At this velocity, aerodynamic drag ($F_d = \frac{1}{2} \rho v^2 C_d A$) compresses the felt boundary layer, while gravity drops the ball into the service box with a **Net Cord Clearance Margin of only $12\text{ to }18\text{cm}$**. Precision contact height ($> 2.85\text{m}$) is mandatory to maintain a geometric downward window into the box.
+A 140 mph flat first serve travels the distance from baseline to service box in just **380 milliseconds**. At this velocity, aerodynamic drag (*F*~d~ = ½ ρ*v*² *C*~d~ *A*) compresses the felt boundary layer, while gravity drops the ball into the service box with a **Net Cord Clearance Margin of only 12 to 18 cm**. Precision contact height (> 2.85 m) is mandatory to maintain a geometric downward window into the box.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -56,6 +56,6 @@ Stringbed flush alignment drills; corner target towel knockdowns; radar speed th
 
 | Biomechanical Parameter | Common Technical Fault | Clinical / Performance Risk | Prescribed Intervention Protocol |
 |---|---|---|---|
-| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to $115^\circ$ before upward-forward launch. |
+| **Leg Drive** | Knee flexion < 90° | Losing 40% vertical ground thrust | **115° Trophy Squat**: Sink hips to 115° before upward-forward launch. |
 | **Shoulder Rotation** | Horizontal flat shoulder turn | Dragging ball into net & rotator tear | **40° Cartwheel Tilt**: Vault hitting shoulder vertically over lead shoulder. |
 | **Impact Alignment** | Pushing with flexed wrist | Shanked balls & wrist strain | **4ms Pronation Snap**: Continental knife approach rotating square in 4ms. |

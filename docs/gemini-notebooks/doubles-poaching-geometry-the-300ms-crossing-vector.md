@@ -28,7 +28,7 @@ Amateur net players attempt to poach by running horizontally along the net tape,
 
 ## 1. The 45-Degree Forward Diagonal Vector
 
-Running laterally parallel to the net ($0^\circ$) maintains a 3-meter distance from the net strap. Running forward-diagonally ($45^\circ$) cuts the interception point $1.5\text{ meters}$ closer to the opponent, contacting the ball at $1.1\text{m}$ height rather than $0.5\text{m}$ ankle level.
+Running laterally parallel to the net (0°) maintains a 3-meter distance from the net strap. Running forward-diagonally (45°) cuts the interception point 1.5 meters closer to the opponent, contacting the ball at 1.1 m height rather than 0.5 m ankle level.
 
 ```
        [ Server / Partner Baseline Drive ] ──► [ Net Player Diagonal Cut ]
@@ -41,7 +41,7 @@ Running laterally parallel to the net ($0^\circ$) maintains a 3-meter distance f
 
 ## 2. The 300ms Split-Step Trigger
 
-The poacher initiates the forward drive at $t = -50\text{ms}$ relative to the returner's contact, using the acoustic 'crack' of the ball on strings as the secondary trigger to commit across the center line.
+The poacher initiates the forward drive at *t* = -50 ms relative to the returner's contact, using the acoustic 'crack' of the ball on strings as the secondary trigger to commit across the center line.
 
 ---
 
@@ -56,5 +56,5 @@ Directing the intercepted poach volley with a short punching impulse directly be
 | Tactical / Positioning Variable | Common Amateur Error | High-Performance Correction Protocol |
 |---|---|---|
 | **Net Player Spacing** | Hugging the doubles alley in fear of down-the-line | **Pinch 1 Step Toward Center**: Intimidate the returner & own the middle. |
-| **Poaching Vector** | Running horizontal along net tape ($0^\circ$) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
+| **Poaching Vector** | Running horizontal along net tape (0°) | **45-Degree Forward Diagonal Sprint**: Intercept ball above net cord. |
 | **Middle Ball Confusion** | Hesitating and watching ball pass down middle | **Forehand Priority Rule**: Forehand in the middle takes 100% of seam balls. |

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Extreme frustration triggers an **Adrenaline / Noradrenaline Surge**, raising heart rate ($> 185\text{ BPM}$) and destroying fine motor control in the hands. While destructive outbursts (racket smashing, ball abuse) result in code violations, suppressing rage internally causes toxic tension. Protocol mandates **Constructive Adrenaline Channeling**: physical power venting (clenched fist, loud 'VAMOS', fast 5m sprint) followed immediately by **Controlled Vagal Exhalation**.
+Extreme frustration triggers an **Adrenaline / Noradrenaline Surge**, raising heart rate (> 185 BPM) and destroying fine motor control in the hands. While destructive outbursts (racket smashing, ball abuse) result in code violations, suppressing rage internally causes toxic tension. Protocol mandates **Constructive Adrenaline Channeling**: physical power venting (clenched fist, loud 'VAMOS', fast 5m sprint) followed immediately by **Controlled Vagal Exhalation**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

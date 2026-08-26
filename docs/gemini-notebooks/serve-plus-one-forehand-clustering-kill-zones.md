@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-ATP analytics (Craig O'Shannessy / Brain Game Tennis) reveal that **$70\%$ of all tennis points end within 0 to 4 shots**. The **Serve + 1** is the single most dominant scoring pattern in tennis. By serving wide or to the body to displace the returner, the server runs around their backhand to strike an aggressive forehand into one of **3 Tactical Kill-Zones**: (1) The Open-Court Down-the-Line Laser, (2) The Heavy Behind-the-Back Wrong-Footer, or (3) The Short-Angle Inside-Out Dipper.
+ATP analytics (Craig O'Shannessy / Brain Game Tennis) reveal that **70% of all tennis points end within 0 to 4 shots**. The **Serve + 1** is the single most dominant scoring pattern in tennis. By serving wide or to the body to displace the returner, the server runs around their backhand to strike an aggressive forehand into one of **3 Tactical Kill-Zones**: (1) The Open-Court Down-the-Line Laser, (2) The Heavy Behind-the-Back Wrong-Footer, or (3) The Short-Angle Inside-Out Dipper.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
