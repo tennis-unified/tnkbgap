@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Jannik Sinner produces the highest average backhand ball speed on the ATP Tour (**$85.2	ext{ mph}$ cruise speed**). Biomechanical telemetry reveals that Sinner achieves this not through muscular forcing, but through **Extreme Wrist Relaxation (Grip Tension 2.5/10)** combined with **Explosive Core Uncoiling**. His hitting arm acts as a double-pendulum whip, launching flat-topspin missiles with effortless rhythm.
+Jannik Sinner produces the highest average backhand ball speed on the ATP Tour (**$85.2\text{ mph}$ cruise speed**). Biomechanical telemetry reveals that Sinner achieves this not through muscular forcing, but through **Extreme Wrist Relaxation (Grip Tension 2.5/10)** combined with **Explosive Core Uncoiling**. His hitting arm acts as a double-pendulum whip, launching flat-topspin missiles with effortless rhythm.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

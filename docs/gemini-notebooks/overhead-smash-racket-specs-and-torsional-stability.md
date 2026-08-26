@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-High-altitude smash impacts generate extreme collision forces (**$> 500	ext{ N}$**). A racket with insufficient mass flutters violently, sending smashes into the net. Customizing the frame to a **Swingweight of $328	ext{ to }335	ext{ kg}\cdot	ext{cm}^2$** with **Polar Lead Tape at 12 and 3/9 O'Clock** provides maximum plow-through and torsional resistance, ensuring clean, thunderous putaways with zero frame twist.
+High-altitude smash impacts generate extreme collision forces (**$> 500\text{ N}$**). A racket with insufficient mass flutters violently, sending smashes into the net. Customizing the frame to a **Swingweight of $328\text{ to }335\text{ kg}\cdot\text{cm}^2$** with **Polar Lead Tape at 12 and 3/9 O'Clock** provides maximum plow-through and torsional resistance, ensuring clean, thunderous putaways with zero frame twist.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Following grueling 4-hour matches, elite recovery determines tournament success. Evaluating recovery modalities: (1) **Whole-Body Cryotherapy ($-110^\circ	ext{C}$ for 3 min)** suppresses systemic inflammatory cytokines (IL-6, TNF-α) and accelerates autonomic vagal tone, (2) **Intermittent Pneumatic Compression Boots (NormaTec, $70	ext{ mmHg}$)** enhances venous blood clearance, and (3) **Stage 3/4 Slow-Wave Sleep ($> 10	ext{ Hours}$)** triggers **Glymphatic Waste Clearance** and human growth hormone release.
+Following grueling 4-hour matches, elite recovery determines tournament success. Evaluating recovery modalities: (1) **Whole-Body Cryotherapy ($-110^\circ\text{C}$ for 3 min)** suppresses systemic inflammatory cytokines (IL-6, TNF-α) and accelerates autonomic vagal tone, (2) **Intermittent Pneumatic Compression Boots (NormaTec, $70\text{ mmHg}$)** enhances venous blood clearance, and (3) **Stage 3/4 Slow-Wave Sleep ($> 10\text{ Hours}$)** triggers **Glymphatic Waste Clearance** and human growth hormone release.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

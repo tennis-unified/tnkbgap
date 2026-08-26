@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When approaching the net against a heavy 80 mph passing drive, punching deep often plays into the baseline defender's hands. The **Drop Volley** neutralizes the attack: relaxing the Continental grip to **$1.5/10$ tension**, pulling the racket head back **$5	ext{cm}$ at impact (Kinetic Yielding)**, and carving under the ball to strip **$90\%$ of incoming velocity**, leaving the ball dead inches past the net.
+When approaching the net against a heavy 80 mph passing drive, punching deep often plays into the baseline defender's hands. The **Drop Volley** neutralizes the attack: relaxing the Continental grip to **$1.5/10$ tension**, pulling the racket head back **$5\text{cm}$ at impact (Kinetic Yielding)**, and carving under the ball to strip **$90\%$ of incoming velocity**, leaving the ball dead inches past the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

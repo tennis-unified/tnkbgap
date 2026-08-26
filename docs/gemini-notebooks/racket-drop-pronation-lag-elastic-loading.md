@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During Stage 5 (Maximum External Shoulder Rotation / Racket Drop), the racket tip drops pointing straight down the player's spine. This positions the shoulder in **$165^\circ	ext{ to }175^\circ	ext{ of External Rotation}$**, stretching the subscapularis and pectoralis major like extreme rubber bands. The deep drop maximizes the rotational displacement angle ($\Delta 	heta$), allowing maximum torque generation over distance.
+During Stage 5 (Maximum External Shoulder Rotation / Racket Drop), the racket tip drops pointing straight down the player's spine. This positions the shoulder in **$165^\circ\text{ to }175^\circ\text{ of External Rotation}$**, stretching the subscapularis and pectoralis major like extreme rubber bands. The deep drop maximizes the rotational displacement angle ($\Delta \theta$), allowing maximum torque generation over distance.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Coaches often shout 'Keep your eye on the ball until it hits the strings!' Neuro-ophthalmology proves this is physically impossible. In the final $1.5	ext{ meters}$ before contact, the ball's angular velocity exceeds **$500^\circ/	ext{s}$**, far surpassing the biological limit of human smooth pursuit ($100^\circ/	ext{s}$). The ball disappears from the fovea 30ms before impact. Elite champions do not track the ball to the strings; they **Anchor their Gaze at the Predicted Contact Point**.
+Coaches often shout 'Keep your eye on the ball until it hits the strings!' Neuro-ophthalmology proves this is physically impossible. In the final $1.5\text{ meters}$ before contact, the ball's angular velocity exceeds **$500^\circ/\text{s}$**, far surpassing the biological limit of human smooth pursuit ($100^\circ/\text{s}$). The ball disappears from the fovea 30ms before impact. Elite champions do not track the ball to the strings; they **Anchor their Gaze at the Predicted Contact Point**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

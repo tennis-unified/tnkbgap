@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Standard human Simple Visual Reaction Time (VRT) averages $220	ext{ to }250	ext{ms}$. In elite tennis, this delay represents the difference between a clean return and an unreturned ace. By optimizing conduction velocity along the **Magnocellular Retino-Geniculo-Striate Pathway** and pre-activating spinal motor neuron pools, elite athletes compress choice reaction latency down to an astonishing **$160	ext{ to }175	ext{ms}$**.
+Standard human Simple Visual Reaction Time (VRT) averages $220\text{ to }250\text{ms}$. In elite tennis, this delay represents the difference between a clean return and an unreturned ace. By optimizing conduction velocity along the **Magnocellular Retino-Geniculo-Striate Pathway** and pre-activating spinal motor neuron pools, elite athletes compress choice reaction latency down to an astonishing **$160\text{ to }175\text{ms}$**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

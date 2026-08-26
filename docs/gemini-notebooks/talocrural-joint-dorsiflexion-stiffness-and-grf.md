@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Talocrural (Ankle Mortise) Joint** is the initial gatekeeper of kinetic energy transfer. During the sprint-deceleration-plant cycle, **$30^\circ	ext{ of Ankle Dorsiflexion}$** pre-stretches the Achilles tendon. If talocrural joint stiffness is deficient ($< 15^\circ$ dorsiflexion mobility), the knee collapses into excessive flexion and the foot over-pronates, losing **$35\%	ext{ of Vertical Ground Propulsion}$**.
+The **Talocrural (Ankle Mortise) Joint** is the initial gatekeeper of kinetic energy transfer. During the sprint-deceleration-plant cycle, **$30^\circ\text{ of Ankle Dorsiflexion}$** pre-stretches the Achilles tendon. If talocrural joint stiffness is deficient ($< 15^\circ$ dorsiflexion mobility), the knee collapses into excessive flexion and the foot over-pronates, losing **$35\%\text{ of Vertical Ground Propulsion}$**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

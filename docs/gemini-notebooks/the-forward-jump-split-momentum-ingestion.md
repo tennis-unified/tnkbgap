@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Returning a 130 mph serve gives the receiver only **$450	ext{ to }500	ext{ milliseconds}$** total time. Novak Djokovic and Andre Agassi mastered the **Forward Jump-Split**: leaping $0.5	ext{ meters}$ forward into the court *before* the server strikes the ball. Landing on the balls of the feet at the exact microsecond of ball impact ingests linear momentum ($p = m v$), converting incoming kinetic shock into a heavy, deep return with zero arm strain.
+Returning a 130 mph serve gives the receiver only **$450\text{ to }500\text{ milliseconds}$** total time. Novak Djokovic and Andre Agassi mastered the **Forward Jump-Split**: leaping $0.5\text{ meters}$ forward into the court *before* the server strikes the ball. Landing on the balls of the feet at the exact microsecond of ball impact ingests linear momentum ($p = m v$), converting incoming kinetic shock into a heavy, deep return with zero arm strain.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

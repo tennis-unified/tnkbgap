@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Matches are won and lost on second serves. Championship second serve architecture relies on **Magnus Aerodynamic Safety Margins**: aiming for **$1.0	ext{ to }1.4	ext{ meters}$ of net cord clearance** while imparting **$3,600	ext{ to }4,000	ext{ RPM}$ of topspin**. Downward Magnus acceleration ($-15.5	ext{ m/s}^2$) pulls the high-clearing ball sharply down inside the box, guaranteeing an **$85\%+$ landing percentage** under Grand Slam final pressure.
+Matches are won and lost on second serves. Championship second serve architecture relies on **Magnus Aerodynamic Safety Margins**: aiming for **$1.0\text{ to }1.4\text{ meters}$ of net cord clearance** while imparting **$3,600\text{ to }4,000\text{ RPM}$ of topspin**. Downward Magnus acceleration ($-15.5\text{ m/s}^2$) pulls the high-clearing ball sharply down inside the box, guaranteeing an **$85\%+$ landing percentage** under Grand Slam final pressure.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

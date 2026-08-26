@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern windshield wiper forehand (pioneered by Sergi Bruguera, perfected by Rafael Nadal and Carlos Alcaraz) fundamentally changed tennis aerodynamics. By brushing upward and across the ball at an angle of **$45^\circ	ext{ to }60^\circ$**, the strings impart over **$3,500	ext{ RPM}$ of topspin**. In flight, the topspin generates a downward Magnus force that causes balls traveling 85 mph to dive steeply inside the baseline with 1.5-meter net clearance.
+The modern windshield wiper forehand (pioneered by Sergi Bruguera, perfected by Rafael Nadal and Carlos Alcaraz) fundamentally changed tennis aerodynamics. By brushing upward and across the ball at an angle of **$45^\circ\text{ to }60^\circ$**, the strings impart over **$3,500\text{ RPM}$ of topspin**. In flight, the topspin generates a downward Magnus force that causes balls traveling 85 mph to dive steeply inside the baseline with 1.5-meter net clearance.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -39,7 +39,7 @@ At 3,500 RPM, the Magnus force ($F_M = S (\boldsymbol{\omega} \times \mathbf{v})
 
 ---
 
-## 2. Dynamic Launch Angle ($	heta_{\text{launch}} = +12^\circ$)
+## 2. Dynamic Launch Angle ($\theta_{\text{launch}} = +12^\circ$)
 
 Despite a slightly closed racket face at impact ($-6^\circ$), the upward swing path produces a positive launch angle ($+12^\circ$), giving high net clearance and deep bounce depth.
 

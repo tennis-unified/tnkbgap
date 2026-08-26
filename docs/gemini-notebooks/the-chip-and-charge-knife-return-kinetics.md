@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Against soft or floating second serves, the **Chip-and-Charge Return** is the ultimate psychological and tactical weapon. Utilizing a Continental grip, the player steps forward, carves the ball with **$2,800	ext{ RPM}$ knife backspin** that skids under $15^\circ$, and transitions into a **3-Stride Forward Charge** to intercept the server's passing shot with a clinical first volley at the service line.
+Against soft or floating second serves, the **Chip-and-Charge Return** is the ultimate psychological and tactical weapon. Utilizing a Continental grip, the player steps forward, carves the ball with **$2,800\text{ RPM}$ knife backspin** that skids under $15^\circ$, and transitions into a **3-Stride Forward Charge** to intercept the server's passing shot with a clinical first volley at the service line.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-On high-friction red clay courts ($\mu = 0.45$), a heavy topspin lob is devastating. Brushing upward at a **$65^\circ	ext{ angle}$** with **$4,000	ext{ RPM}$**, the ball climbs to a **$5.5	ext{m}$ Apex**. Upon colliding with the granular brick dust, topspin bites into the surface, converting forward momentum into a **$2.2	ext{m}$ Explosive Rebound**, bouncing high into the backboard fence out of reach.
+On high-friction red clay courts ($\mu = 0.45$), a heavy topspin lob is devastating. Brushing upward at a **$65^\circ\text{ angle}$** with **$4,000\text{ RPM}$**, the ball climbs to a **$5.5\text{m}$ Apex**. Upon colliding with the granular brick dust, topspin bites into the surface, converting forward momentum into a **$2.2\text{m}$ Explosive Rebound**, bouncing high into the backboard fence out of reach.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

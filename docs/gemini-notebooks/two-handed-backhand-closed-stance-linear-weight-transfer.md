@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When attacking short baseline balls or stepping into returns, the **Closed-Stance Two-Handed Backhand** provides unmatched linear penetration ($p = m v$). Stepping across with the right foot at a **$45^\circ	ext{ angle}$** locks the pelvis sideways, allowing the player to channel **$100\%$ of forward bodyweight** through contact, producing penetrating **$85	ext{ mph}$ flat drives** that skid through the court.
+When attacking short baseline balls or stepping into returns, the **Closed-Stance Two-Handed Backhand** provides unmatched linear penetration ($p = m v$). Stepping across with the right foot at a **$45^\circ\text{ angle}$** locks the pelvis sideways, allowing the player to channel **$100\%$ of forward bodyweight** through contact, producing penetrating **$85\text{ mph}$ flat drives** that skid through the court.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

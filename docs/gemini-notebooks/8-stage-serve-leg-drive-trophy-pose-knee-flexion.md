@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The serve's terminal velocity is fundamentally capped by the quality of Stages 3 (Loading) and 4 (Leg Drive). Elite servers achieve a knee flexion angle of **$110^\circ	ext{ to }120^\circ$** at the trophy pose apex, tilting the pelvis forward into the court while creating a $25^\circ$ lateral shoulder tilt (cartwheel axis). This paper analyzes ground impulse integration ($J = \int F \, dt$) and vertical center of mass launch.
+The serve's terminal velocity is fundamentally capped by the quality of Stages 3 (Loading) and 4 (Leg Drive). Elite servers achieve a knee flexion angle of **$110^\circ\text{ to }120^\circ$** at the trophy pose apex, tilting the pelvis forward into the court while creating a $25^\circ$ lateral shoulder tilt (cartwheel axis). This paper analyzes ground impulse integration ($J = \int F \, dt$) and vertical center of mass launch.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

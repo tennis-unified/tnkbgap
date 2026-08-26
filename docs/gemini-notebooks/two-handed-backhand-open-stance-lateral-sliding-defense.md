@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novak Djokovic transformed modern tennis defense by mastering the **Open-Stance Sliding Two-Handed Backhand**. Slicing onto the outside left foot at full sprint, Djokovic absorbs **$3.2	imes	ext{ bodyweight}$** in lateral deceleration. By flexing the knees deeply ($95^\circ$) and utilizing core elastic torsion, he executes an explosive counter-strike from the extreme corner and recovers back to the center in under **$400	ext{ms}$**.
+Novak Djokovic transformed modern tennis defense by mastering the **Open-Stance Sliding Two-Handed Backhand**. Slicing onto the outside left foot at full sprint, Djokovic absorbs **$3.2\times\text{ bodyweight}$** in lateral deceleration. By flexing the knees deeply ($95^\circ$) and utilizing core elastic torsion, he executes an explosive counter-strike from the extreme corner and recovers back to the center in under **$400\text{ms}$**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

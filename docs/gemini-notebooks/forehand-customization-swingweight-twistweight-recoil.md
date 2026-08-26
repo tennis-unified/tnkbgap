@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A player's forehand performance is directly coupled to their racket's mass distribution. Customizing a frame with **Lead Tape at 3 and 9 O'Clock (2–4g)** elevates **Twistweight ($I_{zz}$) from $13.5	ext{ to }15.8	ext{ kg}\cdot	ext{cm}^2$**, expanding the sweet spot horizontally and eliminating frame twisting on off-center 85 mph baseline impacts. Combined with a **Swingweight of $325	ext{ to }335$**, this maximizes plow-through without sacrificing whip speed.
+A player's forehand performance is directly coupled to their racket's mass distribution. Customizing a frame with **Lead Tape at 3 and 9 O'Clock (2–4g)** elevates **Twistweight ($I_{zz}$) from $13.5\text{ to }15.8\text{ kg}\cdot\text{cm}^2$**, expanding the sweet spot horizontally and eliminating frame twisting on off-center 85 mph baseline impacts. Combined with a **Swingweight of $325\text{ to }335$**, this maximizes plow-through without sacrificing whip speed.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

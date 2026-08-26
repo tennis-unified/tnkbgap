@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Most players mistakenly associate power with hitting deep down the middle baseline. The **Short-Angle Crosscourt Dipper** is a far deadlier geometric weapon. By brushing with extreme vertical angle ($60^\circ$) and high RPM ($> 3,600$), the ball dives steeply over the net cord, landing inside the service box near the singles sideline. This pulls the defender **$3.0	ext{ meters}$ beyond the doubles tramline**, opening $90\%$ of the opposite court for an uncontested winner.
+Most players mistakenly associate power with hitting deep down the middle baseline. The **Short-Angle Crosscourt Dipper** is a far deadlier geometric weapon. By brushing with extreme vertical angle ($60^\circ$) and high RPM ($> 3,600$), the ball dives steeply over the net cord, landing inside the service box near the singles sideline. This pulls the defender **$3.0\text{ meters}$ beyond the doubles tramline**, opening $90\%$ of the opposite court for an uncontested winner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

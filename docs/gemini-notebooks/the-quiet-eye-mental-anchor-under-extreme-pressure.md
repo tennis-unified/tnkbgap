@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Under intense match pressure, visual search patterns become erratic (rapid saccadic jumping, scanning the opponent or stands). Dr. Joan Vickers' research shows that elite clutch performers maintain **The Quiet Eye Mental Anchor**: a final, stable foveal fixation on the ball for **$> 450	ext{ms}$ prior to contact**, holding gaze motionless for $150	ext{ms}$ post-impact. This visual stability directly down-regulates amygdala anxiety and optimizes motor accuracy.
+Under intense match pressure, visual search patterns become erratic (rapid saccadic jumping, scanning the opponent or stands). Dr. Joan Vickers' research shows that elite clutch performers maintain **The Quiet Eye Mental Anchor**: a final, stable foveal fixation on the ball for **$> 450\text{ms}$ prior to contact**, holding gaze motionless for $150\text{ms}$ post-impact. This visual stability directly down-regulates amygdala anxiety and optimizes motor accuracy.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

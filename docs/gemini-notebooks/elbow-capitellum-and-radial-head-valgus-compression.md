@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During high-velocity serve acceleration, valgus torque creates severe medial joint distraction. Simultaneously, the lateral elbow compartment experiences **Extreme Radiocapitellar Compression**, jamming the radial head against the humeral capitellum under **$> 500	ext{ N of Lateral Compressive Force}$**. This causes **Osteochondritis Dissecans (OCD) of the Capitellum** and pinches the **Posterolateral Synovial Plica**. Maintaining a high hitting elbow prevents lateral impingement.
+During high-velocity serve acceleration, valgus torque creates severe medial joint distraction. Simultaneously, the lateral elbow compartment experiences **Extreme Radiocapitellar Compression**, jamming the radial head against the humeral capitellum under **$> 500\text{ N of Lateral Compressive Force}$**. This causes **Osteochondritis Dissecans (OCD) of the Capitellum** and pinches the **Posterolateral Synovial Plica**. Maintaining a high hitting elbow prevents lateral impingement.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

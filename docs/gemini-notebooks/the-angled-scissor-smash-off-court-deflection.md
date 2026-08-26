@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The most spectacular finish in tennis is the **Angled Scissor Smash**. Leaping off the rear foot at the service line, the player strikes the ball with **$45^\circ	ext{ Pronation Carve}$** across the ball's outer face. The ball crashes into the service box near the singles sideline and bounds sideways, sailing **Over the Side Fence into the Stands**, completely beyond the reach of any defender.
+The most spectacular finish in tennis is the **Angled Scissor Smash**. Leaping off the rear foot at the service line, the player strikes the ball with **$45^\circ\text{ Pronation Carve}$** across the ball's outer face. The ball crashes into the service box near the singles sideline and bounds sideways, sailing **Over the Side Fence into the Stands**, completely beyond the reach of any defender.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

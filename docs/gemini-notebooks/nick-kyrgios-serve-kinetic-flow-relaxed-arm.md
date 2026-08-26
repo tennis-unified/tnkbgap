@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Nick Kyrgios possesses one of the most effective and effortless serves in tennis history. Biomechanical analysis reveals **Minimalist Kinetic Flow**: an ultra-fast, compact takeback with zero hesitation, an abbreviated pinpoint stance, and extreme muscular relaxation throughout the upper body. The hitting arm acts as a **Zero-Noise Flail**, generating **$140	ext{ mph}$ serves** with virtually zero joint wear.
+Nick Kyrgios possesses one of the most effective and effortless serves in tennis history. Biomechanical analysis reveals **Minimalist Kinetic Flow**: an ultra-fast, compact takeback with zero hesitation, an abbreviated pinpoint stance, and extreme muscular relaxation throughout the upper body. The hitting arm acts as a **Zero-Noise Flail**, generating **$140\text{ mph}$ serves** with virtually zero joint wear.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

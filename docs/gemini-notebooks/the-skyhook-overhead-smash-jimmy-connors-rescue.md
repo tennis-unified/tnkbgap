@@ -29,7 +29,7 @@ When a deep lob is drifting past the baseline and there is no time to execute a 
 
 ---
 
-## 1. Maximum Extension Reach Lever ($r = 1.05	ext{m}$)
+## 1. Maximum Extension Reach Lever ($r = 1.05\text{m}$)
 
 Reaching at full extension without dropping the racket into a loop allows intercepting balls at the absolute limit of vertical reach.
 

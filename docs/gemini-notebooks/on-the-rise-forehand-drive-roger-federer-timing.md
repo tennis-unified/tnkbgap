@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Waiting for the ball to reach its peak allows defenders to recover. Roger Federer revolutionized baseline offense by **Taking Forehands On-the-Rise**: stepping inside the baseline to intercept the ball just **$15	ext{ to }25	ext{cm}$ off the court bounce**. Striking with a straight arm and $45	ext{cm}$ forward contact reach cuts the opponent's reaction window to under **$350	ext{ms}$**, producing effortless winners.
+Waiting for the ball to reach its peak allows defenders to recover. Roger Federer revolutionized baseline offense by **Taking Forehands On-the-Rise**: stepping inside the baseline to intercept the ball just **$15\text{ to }25\text{cm}$ off the court bounce**. Striking with a straight arm and $45\text{cm}$ forward contact reach cuts the opponent's reaction window to under **$350\text{ms}$**, producing effortless winners.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The ultimate display of touch virtuosity is the **Half-Volley Drop Shot**. Caught near the service line as an opponent's drive lands at the shoelaces, Roger Federer does not retreat. Instead, he bends his knees deeply, places an open Continental blade just **$3	ext{cm}$ off the court surface**, and cushions the ball immediately as it rises off the bounce, killing all pace and dropping it inches over the net.
+The ultimate display of touch virtuosity is the **Half-Volley Drop Shot**. Caught near the service line as an opponent's drive lands at the shoelaces, Roger Federer does not retreat. Instead, he bends his knees deeply, places an open Continental blade just **$3\text{cm}$ off the court surface**, and cushions the ball immediately as it rises off the bounce, killing all pace and dropping it inches over the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

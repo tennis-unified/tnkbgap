@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novice players rotate their shoulders horizontally like a merry-go-round, dragging the racket into the net. Elite servers execute a **Shoulder-Over-Shoulder Cartwheel Rotation**: tilting the shoulder line by **$35^\circ	ext{ to }45^\circ$ vertically** during the trophy phase. As the legs thrust upward, the hitting shoulder vaults vertically over the non-dominant shoulder, creating a massive upward ballistic whip.
+Novice players rotate their shoulders horizontally like a merry-go-round, dragging the racket into the net. Elite servers execute a **Shoulder-Over-Shoulder Cartwheel Rotation**: tilting the shoulder line by **$35^\circ\text{ to }45^\circ$ vertically** during the trophy phase. As the legs thrust upward, the hitting shoulder vaults vertically over the non-dominant shoulder, creating a massive upward ballistic whip.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The foundation of two-handed backhand stability is proper grip pairing. The gold-standard ATP configuration pairs a **Dominant Right Continental Grip (Bevel 2)** with a **Non-Dominant Left Eastern Forehand Grip (Bevel 7)**. This pairing aligns the left palm flush behind the handle for maximum horizontal plow-through while allowing seamless upward brushing for **$2,800	ext{ to }3,400	ext{ RPM}$ topspin**.
+The foundation of two-handed backhand stability is proper grip pairing. The gold-standard ATP configuration pairs a **Dominant Right Continental Grip (Bevel 2)** with a **Non-Dominant Left Eastern Forehand Grip (Bevel 7)**. This pairing aligns the left palm flush behind the handle for maximum horizontal plow-through while allowing seamless upward brushing for **$2,800\text{ to }3,400\text{ RPM}$ topspin**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

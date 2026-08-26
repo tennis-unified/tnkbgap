@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Pete Sampras possessed the most lethal overhead smash in tennis history (The 'Slam Dunk'). When lobs travel behind the player, Sampras explodes off his **Rear Right Foot**, arches his **Torso $25^\circ$ in Mid-Air**, and violently **Scissors the Legs** during contact. This airborne kinetic suspension elevates contact to **$3.1	ext{ meters}$**, converting backward momentum into a **$105	ext{ mph}$ downward kill**.
+Pete Sampras possessed the most lethal overhead smash in tennis history (The 'Slam Dunk'). When lobs travel behind the player, Sampras explodes off his **Rear Right Foot**, arches his **Torso $25^\circ$ in Mid-Air**, and violently **Scissors the Legs** during contact. This airborne kinetic suspension elevates contact to **$3.1\text{ meters}$**, converting backward momentum into a **$105\text{ mph}$ downward kill**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

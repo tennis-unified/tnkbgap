@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Short-Angle Dipping 2HB** is a devastating geometric tool. By dropping the racket head deeply and brushing upward across the ball with **Rapid Left Forearm Pronation ($55^\circ$ brush plane)**, the player imparts **$3,200	ext{ RPM}$ of heavy topspin**. The ball dives inside the crosscourt service box tramline and angles sharply off the court, dragging the defender **$3	ext{ meters}$ wide**.
+The **Short-Angle Dipping 2HB** is a devastating geometric tool. By dropping the racket head deeply and brushing upward across the ball with **Rapid Left Forearm Pronation ($55^\circ$ brush plane)**, the player imparts **$3,200\text{ RPM}$ of heavy topspin**. The ball dives inside the crosscourt service box tramline and angles sharply off the court, dragging the defender **$3\text{ meters}$ wide**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

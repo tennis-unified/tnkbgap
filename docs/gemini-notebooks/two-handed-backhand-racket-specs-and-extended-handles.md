@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Equipment tuning directly affects two-handed backhand efficiency. Two-handed players require an **Extended Handle Length ($1.0	ext{ to }1.5	ext{cm}$ longer grip area)** to prevent the non-dominant hand from cramping against the throat. Combined with a **Swingweight of $325	ext{ to }335	ext{ kg}\cdot	ext{cm}^2$** and **Polar Lead Tape at 3 and 9 O'Clock**, this maximizes bi-manual plow-through while eliminating off-center torsional flutter.
+Equipment tuning directly affects two-handed backhand efficiency. Two-handed players require an **Extended Handle Length ($1.0\text{ to }1.5\text{cm}$ longer grip area)** to prevent the non-dominant hand from cramping against the throat. Combined with a **Swingweight of $325\text{ to }335\text{ kg}\cdot\text{cm}^2$** and **Polar Lead Tape at 3 and 9 O'Clock**, this maximizes bi-manual plow-through while eliminating off-center torsional flutter.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

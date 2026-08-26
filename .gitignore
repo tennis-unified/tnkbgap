@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Books / Large Binaries
+*.pdf
+books/*.pdf
+docs/books/
+site/books/
+
+# Temporary worktrees / scratch
+gh-deploy-pages/
+.DS_Store
+.vscode/
+.idea/

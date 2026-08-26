@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The historic rivalry between Rafael Nadal and Roger Federer was defined by **Southpaw Crosscourt Topspin Asymmetry**. A left-hander's natural crosscourt forehand drives with **$3,400	ext{ to }3,800	ext{ RPM}$** directly into the right-hander's high backhand shoulder zone ($> 1.6	ext{m}$ high). Forcing a right-hander to hit single-handed or two-handed backhands above shoulder height produces weak short balls, creating an effortless inside-in forehand putaway on Shot 3.
+The historic rivalry between Rafael Nadal and Roger Federer was defined by **Southpaw Crosscourt Topspin Asymmetry**. A left-hander's natural crosscourt forehand drives with **$3,400\text{ to }3,800\text{ RPM}$** directly into the right-hander's high backhand shoulder zone ($> 1.6\text{m}$ high). Forcing a right-hander to hit single-handed or two-handed backhands above shoulder height produces weak short balls, creating an effortless inside-in forehand putaway on Shot 3.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

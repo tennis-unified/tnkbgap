@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Maximizing serve speed requires optimizing the relationship between **Angular Velocity ($\omega$)** and **Racket Swingweight ($I_{xx}$)**. While lighter frames swing faster, they lack impact plow-through ($p = m v$). Biomechanical modeling proves that an optimal swingweight of **$325	ext{ to }335	ext{ kg}\cdot	ext{cm}^2$** with a **$6	ext{ to }8	ext{ pts Head-Light balance}$** maximizes terminal kinetic momentum ($p_{\text{ball}} = 1.45 \cdot p_{\text{racket}}$), delivering peak serve velocity.
+Maximizing serve speed requires optimizing the relationship between **Angular Velocity ($\omega$)** and **Racket Swingweight ($I_{xx}$)**. While lighter frames swing faster, they lack impact plow-through ($p = m v$). Biomechanical modeling proves that an optimal swingweight of **$325\text{ to }335\text{ kg}\cdot\text{cm}^2$** with a **$6\text{ to }8\text{ pts Head-Light balance}$** maximizes terminal kinetic momentum ($p_{\text{ball}} = 1.45 \cdot p_{\text{racket}}$), delivering peak serve velocity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

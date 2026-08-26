@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The primary rotational power engine of the forehand is the **X-Factor Stretch**. During the unit turn, the pelvis turns $45^\circ$ while the upper thoracic shoulders coil to $95^\circ$, creating a **$45^\circ	ext{ to }55^\circ	ext{ Hip-to-Shoulder Separation Angle}$**. This twists the torso like a torsion spring, storing massive elastic strain energy ($E_p = \frac{1}{2} k \theta^2$) in the abdominal obliques and thoracolumbar fascia.
+The primary rotational power engine of the forehand is the **X-Factor Stretch**. During the unit turn, the pelvis turns $45^\circ$ while the upper thoracic shoulders coil to $95^\circ$, creating a **$45^\circ\text{ to }55^\circ\text{ Hip-to-Shoulder Separation Angle}$**. This twists the torso like a torsion spring, storing massive elastic strain energy ($E_p = \frac{1}{2} k \theta^2$) in the abdominal obliques and thoracolumbar fascia.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

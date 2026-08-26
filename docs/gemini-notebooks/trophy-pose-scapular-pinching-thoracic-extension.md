@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The Trophy Pose (Stage 3) is the primary potential energy reservoir of the serve. Elite servers (Federer, Sampras, Kyrgios) achieve this through **$25^\circ	ext{ of Thoracic Extension}$**, active **Scapular Retraction (pinching the shoulder blades together)**, and a **$30^\circ	ext{ Forward Pelvic Tilt}$**. This arches the torso into an elastic hunting bow, pre-stretching the entire anterior myofascial sling.
+The Trophy Pose (Stage 3) is the primary potential energy reservoir of the serve. Elite servers (Federer, Sampras, Kyrgios) achieve this through **$25^\circ\text{ of Thoracic Extension}$**, active **Scapular Retraction (pinching the shoulder blades together)**, and a **$30^\circ\text{ Forward Pelvic Tilt}$**. This arches the torso into an elastic hunting bow, pre-stretching the entire anterior myofascial sling.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

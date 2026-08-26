@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Bending at the waist on low volleys drops the head, destroying binocular vision and causing net dumps. The elite solution is **Lower Body Shin Angle Geometry**: dropping the rear knee to within **$5	ext{cm}$ of the court surface** while keeping the **Torso Perfectly Vertical ($90^\circ$)**. This places the eyes and racket at ball level while preserving an upward Continental knife angle to clear the net safely.
+Bending at the waist on low volleys drops the head, destroying binocular vision and causing net dumps. The elite solution is **Lower Body Shin Angle Geometry**: dropping the rear knee to within **$5\text{cm}$ of the court surface** while keeping the **Torso Perfectly Vertical ($90^\circ$)**. This places the eyes and racket at ball level while preserving an upward Continental knife angle to clear the net safely.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

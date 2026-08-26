@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Two distinct structural paradigms dominate professional forehands. The **Straight-Arm Forehand** (Roger Federer, Rafael Nadal, Carlos Alcaraz) locks the elbow straight at contact, creating a massive **Radius of Gyration ($r = 0.98	ext{m}$)** that maximizes sweet spot velocity ($v = \omega r$). The **Double-Bend Forehand** (Novak Djokovic, Jannik Sinner) maintains $90^\circ$ flexions at elbow and wrist, minimizing **Rotational Moment of Inertia ($I = m r^2$)** for razor-sharp precision on fast hard courts.
+Two distinct structural paradigms dominate professional forehands. The **Straight-Arm Forehand** (Roger Federer, Rafael Nadal, Carlos Alcaraz) locks the elbow straight at contact, creating a massive **Radius of Gyration ($r = 0.98\text{m}$)** that maximizes sweet spot velocity ($v = \omega r$). The **Double-Bend Forehand** (Novak Djokovic, Jannik Sinner) maintains $90^\circ$ flexions at elbow and wrist, minimizing **Rotational Moment of Inertia ($I = m r^2$)** for razor-sharp precision on fast hard courts.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

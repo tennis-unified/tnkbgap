@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Repetitive kick serves frequently cause **Lumbar Spondylolysis (pars interarticularis stress fractures at L4-L5)** when players hyperextend their lower back to generate topspin. This whitepaper establishes the **Spine-Shielding Kick Serve Protocol**: replacing lumbar hyperextension with **$115^\circ	ext{ Deep Knee Flexion}$** and **Active Rectus Abdominis / Oblique Crunching**, absorbing rotational stress in large myofascial slings rather than spinal facet joints.
+Repetitive kick serves frequently cause **Lumbar Spondylolysis (pars interarticularis stress fractures at L4-L5)** when players hyperextend their lower back to generate topspin. This whitepaper establishes the **Spine-Shielding Kick Serve Protocol**: replacing lumbar hyperextension with **$115^\circ\text{ Deep Knee Flexion}$** and **Active Rectus Abdominis / Oblique Crunching**, absorbing rotational stress in large myofascial slings rather than spinal facet joints.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

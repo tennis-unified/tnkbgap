@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Short-Angle Dipping Forehand** is a geometric force multiplier. Brushing upward at a steep **$60^\circ	ext{ angle}$** with a Semi-Western grip imparts over **$3,800	ext{ RPM}$ of topspin**. The ball dives sharply inside the service box near the singles sideline, kicking off the court to pull the defender **$3.2	ext{ meters}$ outside the doubles tramline**, opening the entire court for an uncontested winner.
+The **Short-Angle Dipping Forehand** is a geometric force multiplier. Brushing upward at a steep **$60^\circ\text{ angle}$** with a Semi-Western grip imparts over **$3,800\text{ RPM}$ of topspin**. The ball dives sharply inside the service box near the singles sideline, kicking off the court to pull the defender **$3.2\text{ meters}$ outside the doubles tramline**, opening the entire court for an uncontested winner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

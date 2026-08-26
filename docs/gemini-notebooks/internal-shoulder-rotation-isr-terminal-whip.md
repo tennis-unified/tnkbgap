@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Electromyographic and 3D motion analysis proves that **Internal Shoulder Rotation (ISR)** is the single largest contributor to serve speed, accounting for **$54\%$ of terminal racket head velocity**. Firing the subscapularis and pectoralis major produces angular velocities exceeding **$2,800^\circ/	ext{second}$** in the final $25	ext{ms}$ before impact, turning the relaxed arm into a supersonic whip.
+Electromyographic and 3D motion analysis proves that **Internal Shoulder Rotation (ISR)** is the single largest contributor to serve speed, accounting for **$54\%$ of terminal racket head velocity**. Firing the subscapularis and pectoralis major produces angular velocities exceeding **$2,800^\circ/\text{second}$** in the final $25\text{ms}$ before impact, turning the relaxed arm into a supersonic whip.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

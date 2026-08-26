@@ -44,7 +44,7 @@ Mapping points as discrete states from State 1 (0-0) to State 18 (Game Server / 
 
 ## 2. Quantifying Point Importance (Leverage Index)
 
-Point importance is defined as the swing in game win probability ($\Delta P = |P_{	ext{win point}} - P_{	ext{lose point}}|$). At 30-40, $\Delta P = 0.62$; at 40-0, $\Delta P = 0.08$.
+Point importance is defined as the swing in game win probability ($\Delta P = |P_{\text{win point}} - P_{\text{lose point}}|$). At 30-40, $\Delta P = 0.62$; at 40-0, $\Delta P = 0.08$.
 
 ---
 

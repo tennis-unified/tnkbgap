@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Deploying drop shots randomly leads to catastrophic unforced errors. Elite game theory establishes **3 Strict Tactical Trigger Rules**: (1) **Opponent Depth Threshold** (defender is $> 2.5	ext{m}$ behind baseline), (2) **Displaced Balance Trigger** (opponent is leaning or running laterally in the opposite corner), and (3) **Inside-the-Baseline Infiltration** (striker is positioned inside the baseline to cut ball flight to $< 1.1	ext{s}$).
+Deploying drop shots randomly leads to catastrophic unforced errors. Elite game theory establishes **3 Strict Tactical Trigger Rules**: (1) **Opponent Depth Threshold** (defender is $> 2.5\text{m}$ behind baseline), (2) **Displaced Balance Trigger** (opponent is leaning or running laterally in the opposite corner), and (3) **Inside-the-Baseline Infiltration** (striker is positioned inside the baseline to cut ball flight to $< 1.1\text{s}$).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

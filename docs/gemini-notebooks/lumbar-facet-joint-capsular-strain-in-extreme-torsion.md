@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Lumbar vertebrae are anatomically restricted to only **$1^\circ	ext{ to }2^\circ	ext{ of Axial Rotation per Segment}$**. When modern strokes (e.g. Nadal reverse lasso or kick serves) demand high torso rotation while simultaneously laterally flexing, the **L4-L5 and L5-S1 Facet Joint Capsules** endure extreme tensile strain as the inferior articular process collides with the superior articular facet. Engaging the **Transverse Abdominis & Multifidus** stabilizes facet alignment.
+Lumbar vertebrae are anatomically restricted to only **$1^\circ\text{ to }2^\circ\text{ of Axial Rotation per Segment}$**. When modern strokes (e.g. Nadal reverse lasso or kick serves) demand high torso rotation while simultaneously laterally flexing, the **L4-L5 and L5-S1 Facet Joint Capsules** endure extreme tensile strain as the inferior articular process collides with the superior articular facet. Engaging the **Transverse Abdominis & Multifidus** stabilizes facet alignment.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

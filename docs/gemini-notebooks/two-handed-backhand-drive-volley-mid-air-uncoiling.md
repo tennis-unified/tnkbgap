@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Letting high floating balls bounce allows defenders to reset the baseline rally. Modern players (Serena Williams, Aryna Sabalenka, Jelena Ostapenko) crush floating balls using the **Two-Handed Drive-Volley**: jumping into the air off the rear left foot, executing a **Mid-Air Rotational Scissor Kick**, and blasting an **$80+	ext{ mph}$ drive-volley winner** directly out of the air.
+Letting high floating balls bounce allows defenders to reset the baseline rally. Modern players (Serena Williams, Aryna Sabalenka, Jelena Ostapenko) crush floating balls using the **Two-Handed Drive-Volley**: jumping into the air off the rear left foot, executing a **Mid-Air Rotational Scissor Kick**, and blasting an **$80+\text{ mph}$ drive-volley winner** directly out of the air.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

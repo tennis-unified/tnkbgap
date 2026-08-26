@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When an opponent lobs over the backhand shoulder, turning around results in lost court positioning. Roger Federer and Yannick Noah mastered the **Backhand Overhead Smash**: utilizing a **Bevel 1 Eastern Backhand Grip**, coiling the upper torso **$110^\circ	ext{ away from the net}$**, and unleashing an explosive **Scapular Retraction Snap**. This whips the racket upward-backward, blasting an **$80	ext{ mph}$ winner** with backward-facing disguise.
+When an opponent lobs over the backhand shoulder, turning around results in lost court positioning. Roger Federer and Yannick Noah mastered the **Backhand Overhead Smash**: utilizing a **Bevel 1 Eastern Backhand Grip**, coiling the upper torso **$110^\circ\text{ away from the net}$**, and unleashing an explosive **Scapular Retraction Snap**. This whips the racket upward-backward, blasting an **$80\text{ mph}$ winner** with backward-facing disguise.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

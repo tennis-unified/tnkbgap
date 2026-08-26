@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Standing with narrow feet during the return of serve increases reaction latency and causes tipping on wide serves. Modern return biomechanics mandates the **1.6x Biacromial Platform Stance**: setting the feet at **$1.5	ext{ to }1.7	imes	ext{ shoulder width}$** with knees flexed to $110^\circ$. This lowers center of gravity ($h_{\text{CoG}} < 0.80\text{m}$), pre-stretching the adductors and calf tendons for explosive lateral launch in $< 140\text{ms}$.
+Standing with narrow feet during the return of serve increases reaction latency and causes tipping on wide serves. Modern return biomechanics mandates the **1.6x Biacromial Platform Stance**: setting the feet at **$1.5\text{ to }1.7\times\text{ shoulder width}$** with knees flexed to $110^\circ$. This lowers center of gravity ($h_{\text{CoG}} < 0.80\text{m}$), pre-stretching the adductors and calf tendons for explosive lateral launch in $< 140\text{ms}$.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

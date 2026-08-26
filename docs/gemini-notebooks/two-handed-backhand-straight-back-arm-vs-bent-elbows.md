@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Two distinct structural arm alignments exist in the modern 2HB. In the **Straight Dominant Arm Model** (Rafael Nadal, Marat Safin), the right elbow extends fully at contact, maximizing the **Lever Arm Radius ($r = 0.88	ext{m}$)** for heavier topspin. In the **Double-Bend Model** (Novak Djokovic, Andy Murray), both elbows remain slightly bent ($120^\circ$), optimizing **Torsional Control & Timing Compactness** on fast surfaces.
+Two distinct structural arm alignments exist in the modern 2HB. In the **Straight Dominant Arm Model** (Rafael Nadal, Marat Safin), the right elbow extends fully at contact, maximizing the **Lever Arm Radius ($r = 0.88\text{m}$)** for heavier topspin. In the **Double-Bend Model** (Novak Djokovic, Andy Murray), both elbows remain slightly bent ($120^\circ$), optimizing **Torsional Control & Timing Compactness** on fast surfaces.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

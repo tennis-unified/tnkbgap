@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Allowing high floating balls to bounce lets defenders reset the point. Modern champions (Carlos Alcaraz, Aryna Sabalenka, Serena Williams) deploy the **Forehand Drive-Volley**: leaping off the rear foot, executing a **Mid-Air Scissor-Kick Uncoiling**, and blasting an **$80+	ext{ mph}$ topspin drive-volley** out of the air before the ball can drop, ending points instantly.
+Allowing high floating balls to bounce lets defenders reset the point. Modern champions (Carlos Alcaraz, Aryna Sabalenka, Serena Williams) deploy the **Forehand Drive-Volley**: leaping off the rear foot, executing a **Mid-Air Scissor-Kick Uncoiling**, and blasting an **$80+\text{ mph}$ topspin drive-volley** out of the air before the ball can drop, ending points instantly.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

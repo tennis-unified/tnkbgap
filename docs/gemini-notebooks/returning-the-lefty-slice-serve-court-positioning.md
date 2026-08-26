@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Right-handers who stand in their standard return position on the Ad-court against a lefty are systematically dismantled. To neutralize the slice slider, the receiver must execute **The Positional Counter-Shift**: moving **$1.2	ext{ meters}$ wider to the left** and **$0.5	ext{ meters}$ forward**. Intercepting the ball before the sidespin curve expands cuts off the angle and allows an aggressive inside-out backhand return down the middle.
+Right-handers who stand in their standard return position on the Ad-court against a lefty are systematically dismantled. To neutralize the slice slider, the receiver must execute **The Positional Counter-Shift**: moving **$1.2\text{ meters}$ wider to the left** and **$0.5\text{ meters}$ forward**. Intercepting the ball before the sidespin curve expands cuts off the angle and allows an aggressive inside-out backhand return down the middle.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

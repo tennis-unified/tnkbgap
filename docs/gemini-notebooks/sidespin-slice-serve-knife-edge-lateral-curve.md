@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Wide Slice Serve** in the Deuce-court is a devastating geometric tool. Brushing around the outside edge of the ball from **10 to 4 o'clock** with a Continental grip imparts pure sidespin (**$3,200	ext{ RPM}$**). The resulting **Lateral Magnus Vector ($F_M = 14	ext{ N}$)** bends the ball $1.4	ext{ meters}$ in flight and skids low off the hard court ($< 15^\circ$ rebound), dragging the receiver 3 meters outside the doubles alley.
+The **Wide Slice Serve** in the Deuce-court is a devastating geometric tool. Brushing around the outside edge of the ball from **10 to 4 o'clock** with a Continental grip imparts pure sidespin (**$3,200\text{ RPM}$**). The resulting **Lateral Magnus Vector ($F_M = 14\text{ N}$)** bends the ball $1.4\text{ meters}$ in flight and skids low off the hard court ($< 15^\circ$ rebound), dragging the receiver 3 meters outside the doubles alley.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Standing in the exact center of the net leaves the player vulnerable to down-the-line passes. Optimal net coverage requires the **Geometric Angle Bisector Principle**: shifting $0.8	ext{ meters}$ toward the side of the court where the ball was hit. This bisects the opponent's possible return cone, cutting off the high-percentage down-the-line laser and forcing high-risk crosscourt angles.
+Standing in the exact center of the net leaves the player vulnerable to down-the-line passes. Optimal net coverage requires the **Geometric Angle Bisector Principle**: shifting $0.8\text{ meters}$ toward the side of the court where the ball was hit. This bisects the opponent's possible return cone, cutting off the high-percentage down-the-line laser and forcing high-risk crosscourt angles.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

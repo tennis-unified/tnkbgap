@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While the inside-out forehand is the workhorse rally shot, the **Inside-In Forehand** is the knockout punch. Maintaining an identical takeback on the Ad-court, the player holds the **Shoulder Line Sideways until the last $25	ext{ms}$**, slightly delaying contact depth to laser a flat **$85	ext{ mph}$ drive** down the deuce sideline, catching the recovering defender completely flat-footed.
+While the inside-out forehand is the workhorse rally shot, the **Inside-In Forehand** is the knockout punch. Maintaining an identical takeback on the Ad-court, the player holds the **Shoulder Line Sideways until the last $25\text{ms}$**, slightly delaying contact depth to laser a flat **$85\text{ mph}$ drive** down the deuce sideline, catching the recovering defender completely flat-footed.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

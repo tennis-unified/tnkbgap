@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Most players telegraph their serve: tossing at 1:00 for slice and 11:00 for kick. Roger Federer and Pete Sampras mastered **Complete Serve Disguise**: tossing the ball into an **Identical $12:30	ext{ Toss Window}$ for 100% of serves**. By modulating internal shoulder rotation and forearm brush in the final $30	ext{ms}$, they launched 130 mph flat bombs, curving wide slices, or hopping kickers from an identical visual profile.
+Most players telegraph their serve: tossing at 1:00 for slice and 11:00 for kick. Roger Federer and Pete Sampras mastered **Complete Serve Disguise**: tossing the ball into an **Identical $12:30\text{ Toss Window}$ for 100% of serves**. By modulating internal shoulder rotation and forearm brush in the final $30\text{ms}$, they launched 130 mph flat bombs, curving wide slices, or hopping kickers from an identical visual profile.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

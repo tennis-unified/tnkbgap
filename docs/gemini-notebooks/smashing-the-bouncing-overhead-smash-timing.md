@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When an opponent hits a towering sky lob that peaks at 10 meters, mistiming an out-of-the-air smash is extremely common due to extreme descending velocity. The high-percentage solution is **The Bouncing Overhead Smash**: letting the ball bounce on the court, retreating behind the bounce, and striking the ball at the comfortable top of its second rise ($2.5	ext{m}$), executing an **Uncontested $95	ext{ mph}$ Kill**.
+When an opponent hits a towering sky lob that peaks at 10 meters, mistiming an out-of-the-air smash is extremely common due to extreme descending velocity. The high-percentage solution is **The Bouncing Overhead Smash**: letting the ball bounce on the court, retreating behind the bounce, and striking the ball at the comfortable top of its second rise ($2.5\text{m}$), executing an **Uncontested $95\text{ mph}$ Kill**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

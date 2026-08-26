@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Invented by Roger Federer in 2015, the **SABR (Sneak Attack by Roger)** is the most aggressive return maneuver in tennis history. As the server tosses the ball, the receiver sprints forward **$4.0	ext{ meters}$ to the service line 'T'**, strikes the second serve on the half-volley with a compact Continental punch, and immediately closes the net to volley the server's panic pass. This destroys the server's psychological composure and serve rhythm.
+Invented by Roger Federer in 2015, the **SABR (Sneak Attack by Roger)** is the most aggressive return maneuver in tennis history. As the server tosses the ball, the receiver sprints forward **$4.0\text{ meters}$ to the service line 'T'**, strikes the second serve on the half-volley with a compact Continental punch, and immediately closes the net to volley the server's panic pass. This destroys the server's psychological composure and serve rhythm.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

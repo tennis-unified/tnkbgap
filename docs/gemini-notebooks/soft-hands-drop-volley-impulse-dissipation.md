@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The art of the touch drop volley lies in **Dynamic Kinetic Yielding ('Soft Hands')**. Upon impact with a 75 mph passing shot, the player relaxes grip tension from **6/10 to 2/10 in the final 20ms**, allowing the racket frame to recoil slightly. Simultaneously carving under the ball imparts **$2,800	ext{ RPM}$ of dead backspin**, dropping the ball inches over the net with zero forward bounce.
+The art of the touch drop volley lies in **Dynamic Kinetic Yielding ('Soft Hands')**. Upon impact with a 75 mph passing shot, the player relaxes grip tension from **6/10 to 2/10 in the final 20ms**, allowing the racket frame to recoil slightly. Simultaneously carving under the ball imparts **$2,800\text{ RPM}$ of dead backspin**, dropping the ball inches over the net with zero forward bounce.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

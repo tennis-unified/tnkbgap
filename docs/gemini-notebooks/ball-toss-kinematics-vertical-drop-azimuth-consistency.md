@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-An erratic ball toss destroys serve timing. Kinematic tracking reveals that ATP champions achieve a **Toss Spatial Dispersion Under $2.0	ext{cm}$**. The toss must be executed as a **Pure Glenohumeral Shoulder Hinge** with locked elbow and wrist, releasing the ball smoothly at eye level. Optimal toss height peaks just $10	ext{ to }15	ext{cm}$ above maximum contact reach, allowing the player to strike the ball at the 'still point' of zero vertical velocity.
+An erratic ball toss destroys serve timing. Kinematic tracking reveals that ATP champions achieve a **Toss Spatial Dispersion Under $2.0\text{cm}$**. The toss must be executed as a **Pure Glenohumeral Shoulder Hinge** with locked elbow and wrist, releasing the ball smoothly at eye level. Optimal toss height peaks just $10\text{ to }15\text{cm}$ above maximum contact reach, allowing the player to strike the ball at the 'still point' of zero vertical velocity.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

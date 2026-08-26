@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Visual signals require approximately **$120	ext{ to }150	ext{ milliseconds}$** to travel from the retina, through the lateral geniculate nucleus to V1, undergo processing in the parietal cortex, and trigger motor commands via the corticospinal tract. Yet a 130 mph serve reaches the returner in under $400	ext{ms}$. The brain solves this physical impossibility using **Cerebellar Internal Forward Models**: the motor cortex sends an 'efference copy' to the cerebellum, which simulates the ball's flight ahead of real time.
+Visual signals require approximately **$120\text{ to }150\text{ milliseconds}$** to travel from the retina, through the lateral geniculate nucleus to V1, undergo processing in the parietal cortex, and trigger motor commands via the corticospinal tract. Yet a 130 mph serve reaches the returner in under $400\text{ms}$. The brain solves this physical impossibility using **Cerebellar Internal Forward Models**: the motor cortex sends an 'efference copy' to the cerebellum, which simulates the ball's flight ahead of real time.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A 140 mph flat first serve travels the distance from baseline to service box in just **$380	ext{ milliseconds}$**. At this velocity, aerodynamic drag ($F_d = \frac{1}{2} \rho v^2 C_d A$) compresses the felt boundary layer, while gravity drops the ball into the service box with a **Net Cord Clearance Margin of only $12	ext{ to }18	ext{cm}$**. Precision contact height ($> 2.85	ext{m}$) is mandatory to maintain a geometric downward window into the box.
+A 140 mph flat first serve travels the distance from baseline to service box in just **$380\text{ milliseconds}$**. At this velocity, aerodynamic drag ($F_d = \frac{1}{2} \rho v^2 C_d A$) compresses the felt boundary layer, while gravity drops the ball into the service box with a **Net Cord Clearance Margin of only $12\text{ to }18\text{cm}$**. Precision contact height ($> 2.85\text{m}$) is mandatory to maintain a geometric downward window into the box.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

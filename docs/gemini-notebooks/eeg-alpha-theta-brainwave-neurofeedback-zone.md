@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When players choke on match point, EEG telemetry shows high-frequency Beta wave spikes ($> 22	ext{ Hz}$) in the left prefrontal cortex, indicating toxic internal verbal self-talk. In contrast, when elite champions enter 'The Zone' (Satori state), their brain exhibits **Synchronized Alpha Oscillations ($8	ext{--}12	ext{ Hz}$)** across the left temporal lobe, accompanied by frontal Theta ($4	ext{--}8	ext{ Hz}$) coherence, quieting conscious doubt and enabling fluid cerebellar execution.
+When players choke on match point, EEG telemetry shows high-frequency Beta wave spikes ($> 22\text{ Hz}$) in the left prefrontal cortex, indicating toxic internal verbal self-talk. In contrast, when elite champions enter 'The Zone' (Satori state), their brain exhibits **Synchronized Alpha Oscillations ($8\text{--}12\text{ Hz}$)** across the left temporal lobe, accompanied by frontal Theta ($4\text{--}8\text{ Hz}$) coherence, quieting conscious doubt and enabling fluid cerebellar execution.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

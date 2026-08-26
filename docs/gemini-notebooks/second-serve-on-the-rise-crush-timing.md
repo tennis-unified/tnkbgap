@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Second-serve kickers are designed to hop high above the receiver's comfort zone. Stepping back allows the ball to explode to $1.8	ext{ meters}$. The elite counter-measure (Andre Agassi, Jannik Sinner) is **On-the-Rise Interception**: stepping **$1.5	ext{ meters}$ inside the baseline** to strike the ball at **$20	ext{ to }30	ext{cm}$ off the bounce** (waist height), redirecting the server's kick into a devastating baseline winner.
+Second-serve kickers are designed to hop high above the receiver's comfort zone. Stepping back allows the ball to explode to $1.8\text{ meters}$. The elite counter-measure (Andre Agassi, Jannik Sinner) is **On-the-Rise Interception**: stepping **$1.5\text{ meters}$ inside the baseline** to strike the ball at **$20\text{ to }30\text{cm}$ off the bounce** (waist height), redirecting the server's kick into a devastating baseline winner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

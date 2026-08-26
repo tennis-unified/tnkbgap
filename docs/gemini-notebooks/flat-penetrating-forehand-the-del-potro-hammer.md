@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Juan Martin del Potro's 'Thor's Hammer' forehand is the most devastating flat weapon in tennis history, consistently exceeding **$100	ext{ mph}$**. Biomechanically, del Potro utilizes an **Eastern Grip (Bevel 3)**, an extended straight-arm lever, and a **Closed-to-Neutral Step-In** that channels $100\%$ of forward linear bodyweight ($p = m v$) through the contact plane with a flat, low-arc trajectory.
+Juan Martin del Potro's 'Thor's Hammer' forehand is the most devastating flat weapon in tennis history, consistently exceeding **$100\text{ mph}$**. Biomechanically, del Potro utilizes an **Eastern Grip (Bevel 3)**, an extended straight-arm lever, and a **Closed-to-Neutral Step-In** that channels $100\%$ of forward linear bodyweight ($p = m v$) through the contact plane with a flat, low-arc trajectory.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

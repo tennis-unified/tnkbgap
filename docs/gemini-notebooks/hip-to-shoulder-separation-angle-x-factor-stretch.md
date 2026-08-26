@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Borrowed from 3D golf biomechanics and perfected in modern tennis, the **X-Factor Stretch** measures the maximal angular separation between the pelvic line and the shoulder line. Elite ball-strikers (Carlos Alcaraz, Jannik Sinner) achieve an $X$-Factor angle of **$45^\circ	ext{ to }55^\circ$** during the transition from takeback to forward drive, pre-stretching the abdominal obliques and thoracolumbar fascia to deliver explosive rotational snapback.
+Borrowed from 3D golf biomechanics and perfected in modern tennis, the **X-Factor Stretch** measures the maximal angular separation between the pelvic line and the shoulder line. Elite ball-strikers (Carlos Alcaraz, Jannik Sinner) achieve an $X$-Factor angle of **$45^\circ\text{ to }55^\circ$** during the transition from takeback to forward drive, pre-stretching the abdominal obliques and thoracolumbar fascia to deliver explosive rotational snapback.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

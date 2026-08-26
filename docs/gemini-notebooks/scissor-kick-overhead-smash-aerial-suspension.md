@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When retrieved lobs travel behind the player, backpedaling results in off-balance netted smashes. The master solution is the **Scissor-Kick Overhead Smash (Pete Sampras 'Slam Dunk')**: jumping off the rear right foot, **Arching the Torso in Mid-Air ($25^\circ$)**, and violently **Scissoring the Legs** during contact. This converts retreating momentum into a devastating **$100+	ext{ mph}$ downward kill**.
+When retrieved lobs travel behind the player, backpedaling results in off-balance netted smashes. The master solution is the **Scissor-Kick Overhead Smash (Pete Sampras 'Slam Dunk')**: jumping off the rear right foot, **Arching the Torso in Mid-Air ($25^\circ$)**, and violently **Scissoring the Legs** during contact. This converts retreating momentum into a devastating **$100+\text{ mph}$ downward kill**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

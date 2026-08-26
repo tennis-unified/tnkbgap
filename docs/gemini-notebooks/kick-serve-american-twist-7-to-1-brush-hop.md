@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **American Twist Kick Serve** is the ultimate second-serve weapon. By tossing the ball slightly behind the head (11 o'clock) and brushing upward-outward from **7 to 1 o'clock**, the server imparts **$3,600	ext{ to }4,200	ext{ RPM}$ of combined topspin and sidespin**. The Magnus force causes the ball to dive steeply over the net cord with $1.2	ext{m}$ clearance, exploding off the court with a **$1.8	ext{m}$ shoulder-height hop**.
+The **American Twist Kick Serve** is the ultimate second-serve weapon. By tossing the ball slightly behind the head (11 o'clock) and brushing upward-outward from **7 to 1 o'clock**, the server imparts **$3,600\text{ to }4,200\text{ RPM}$ of combined topspin and sidespin**. The Magnus force causes the ball to dive steeply over the net cord with $1.2\text{m}$ clearance, exploding off the court with a **$1.8\text{m}$ shoulder-height hop**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A 130 mph serve cannot be reacted to after ball impact. Elite returners (Djokovic, Murray, Agassi) execute **Pre-Impact Kinematic Cue Decoding**: reading the server's **Toss Azimuth (12 o'clock = Flat/Slice vs. 11 o'clock = Kick)** and **Thoracic Lateral Tilt ($> 30^\circ = 	ext{Wide Slider}$)** at $-100	ext{ms}$ before contact. This yields **$88\%$ directional prediction accuracy**, allowing the returner to move before the ball is even struck.
+A 130 mph serve cannot be reacted to after ball impact. Elite returners (Djokovic, Murray, Agassi) execute **Pre-Impact Kinematic Cue Decoding**: reading the server's **Toss Azimuth (12 o'clock = Flat/Slice vs. 11 o'clock = Kick)** and **Thoracic Lateral Tilt ($> 30^\circ = \text{Wide Slider}$)** at $-100\text{ms}$ before contact. This yields **$88\%$ directional prediction accuracy**, allowing the returner to move before the ball is even struck.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

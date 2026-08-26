@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-While single-handers struggle against heavy topspin bouncing above shoulder height ($1.4	ext{--}1.7	ext{m}$), the Two-Handed Backhand is naturally optimized for high balls. By engaging **Left Hand Dominance** with an Eastern forehand grip, the player strikes the ball at chest height with an **Abbreviated Horizontal Drive**, using two-handed leverage to crush high kicks into deep offensive counters.
+While single-handers struggle against heavy topspin bouncing above shoulder height ($1.4\text{--}1.7\text{m}$), the Two-Handed Backhand is naturally optimized for high balls. By engaging **Left Hand Dominance** with an Eastern forehand grip, the player strikes the ball at chest height with an **Abbreviated Horizontal Drive**, using two-handed leverage to crush high kicks into deep offensive counters.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

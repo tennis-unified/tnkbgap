@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Elite servers use a strict Continental grip (Bevel 2), approaching the ball on a sharp knife edge. In the final **$4	ext{ milliseconds}$ before contact**, rapid **Forearm Pronation ($> 1,800^\circ/	ext{s}$)** combined with **Ulnar Deviation Snap** rotates the stringbed $90^\circ$, presenting a perfectly flush impact surface behind 135 mph flat bombs before rolling outward in the follow-through.
+Elite servers use a strict Continental grip (Bevel 2), approaching the ball on a sharp knife edge. In the final **$4\text{ milliseconds}$ before contact**, rapid **Forearm Pronation ($> 1,800^\circ/\text{s}$)** combined with **Ulnar Deviation Snap** rotates the stringbed $90^\circ$, presenting a perfectly flush impact surface behind 135 mph flat bombs before rolling outward in the follow-through.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

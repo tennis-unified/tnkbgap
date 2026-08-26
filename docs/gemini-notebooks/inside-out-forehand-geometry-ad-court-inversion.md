@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Inside-Out Forehand** is the primary weapon used to dictate baseline rallies. By running around the backhand on the Ad-court, the player sets an open stance 1 meter outside the sideline, uncoils through a steep **$45^\circ	ext{ diagonal contact path}$**, and drives heavy **$3,400	ext{ RPM}$ topspin** across the longest court diagonal ($82.5	ext{ ft}$) directly into the opponent's weaker backhand corner.
+The **Inside-Out Forehand** is the primary weapon used to dictate baseline rallies. By running around the backhand on the Ad-court, the player sets an open stance 1 meter outside the sideline, uncoils through a steep **$45^\circ\text{ diagonal contact path}$**, and drives heavy **$3,400\text{ RPM}$ topspin** across the longest court diagonal ($82.5\text{ ft}$) directly into the opponent's weaker backhand corner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

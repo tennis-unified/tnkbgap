@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Carlos Alcaraz has turned the forehand drop shot into a primary offensive weapon. Biomechanically, Alcaraz maintains a **$100\%$ Identical Full-Drive Takeback**, convincing the opponent to retreat deep. In the final **$30	ext{ milliseconds}$**, he relaxes grip tension to **2/10**, opens the racket face, and carves under the ball with **$3,500	ext{ RPM}$ dead backspin**, causing the ball to stop dead 1 meter past the net.
+Carlos Alcaraz has turned the forehand drop shot into a primary offensive weapon. Biomechanically, Alcaraz maintains a **$100\%$ Identical Full-Drive Takeback**, convincing the opponent to retreat deep. In the final **$30\text{ milliseconds}$**, he relaxes grip tension to **2/10**, opens the racket face, and carves under the ball with **$3,500\text{ RPM}$ dead backspin**, causing the ball to stop dead 1 meter past the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

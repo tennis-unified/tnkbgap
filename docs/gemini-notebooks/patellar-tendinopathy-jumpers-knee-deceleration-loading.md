@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Stopping and reversing direction on abrasive hard courts subjects the patellar tendon to explosive eccentric loads (**$> 4.2	ext{x Bodyweight}$**). Chronic micro-damage without adequate collagen rest leads to **Patellar Tendinopathy ('Jumper's Knee')**. Passive rest leads to tendon atrophy. Evidence-based recovery mandates **Heavy Slow Resistance (HSR) Training and Isometric Spanish Squats (5 sets of 45s holds at 70° knee flexion)**, which induces tendon mechanical stiffness and pain inhibition.
+Stopping and reversing direction on abrasive hard courts subjects the patellar tendon to explosive eccentric loads (**$> 4.2\text{x Bodyweight}$**). Chronic micro-damage without adequate collagen rest leads to **Patellar Tendinopathy ('Jumper's Knee')**. Passive rest leads to tendon atrophy. Evidence-based recovery mandates **Heavy Slow Resistance (HSR) Training and Isometric Spanish Squats (5 sets of 45s holds at 70° knee flexion)**, which induces tendon mechanical stiffness and pain inhibition.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

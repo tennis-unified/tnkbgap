@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Hard-court deceleration generates **$3.5	ext{x Bodyweight Ground Reaction Forces}$**. The primary shock absorber is the **Subtalar Joint**. Upon heel strike, the calcaneus undergoes **$6^\circ	ext{ to }8^\circ	ext{ of Controlled Eversion}$**, which unlocks the **Talonavicular and Calcaneocuboid (Chopart) Joints**, transforming the rigid foot lever into a flexible, compliant shock-absorbing mobile adapter. Excessive overpronation causes tibial internal rotation and patellar tendinitis.
+Hard-court deceleration generates **$3.5\text{x Bodyweight Ground Reaction Forces}$**. The primary shock absorber is the **Subtalar Joint**. Upon heel strike, the calcaneus undergoes **$6^\circ\text{ to }8^\circ\text{ of Controlled Eversion}$**, which unlocks the **Talonavicular and Calcaneocuboid (Chopart) Joints**, transforming the rigid foot lever into a flexible, compliant shock-absorbing mobile adapter. Excessive overpronation causes tibial internal rotation and patellar tendinitis.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

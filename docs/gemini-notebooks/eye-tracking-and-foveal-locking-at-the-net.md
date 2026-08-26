@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-At the net, smooth pursuit eye tracking fails because the angular velocity of passing shots exceeds $250^\circ/	ext{s}$. Elite net players utilize **Predictive Saccades & Foveal Horizon Locking**: making a rapid saccadic eye jump to pre-lock the expected contact point **$100	ext{ms}$ before ball arrival**, holding foveal gaze completely stable within a **$5^\circ	ext{ window}$** to ensure dead-center sweet-spot collision.
+At the net, smooth pursuit eye tracking fails because the angular velocity of passing shots exceeds $250^\circ/\text{s}$. Elite net players utilize **Predictive Saccades & Foveal Horizon Locking**: making a rapid saccadic eye jump to pre-lock the expected contact point **$100\text{ms}$ before ball arrival**, holding foveal gaze completely stable within a **$5^\circ\text{ window}$** to ensure dead-center sweet-spot collision.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

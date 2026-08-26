@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Perfectionism is the enemy of high performance. In professional tennis, the greatest champions (Federer, Nadal, Djokovic) **Win Only $54\%$ of All Points Played**—they lose 46% of points even in dominant victories. The **Fault-Tolerant Tennis Mindset (Nikolai Bernstein Model)** embraces errors as statistical noise, maximizing geometric target margins ($1.0	ext{m inside lines}$) to win through consistent systemic pressure rather than impossible perfection.
+Perfectionism is the enemy of high performance. In professional tennis, the greatest champions (Federer, Nadal, Djokovic) **Win Only $54\%$ of All Points Played**—they lose 46% of points even in dominant victories. The **Fault-Tolerant Tennis Mindset (Nikolai Bernstein Model)** embraces errors as statistical noise, maximizing geometric target margins ($1.0\text{m inside lines}$) to win through consistent systemic pressure rather than impossible perfection.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

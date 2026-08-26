@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Just as on the forehand, maximum racket velocity on the two-handed backhand requires **Proximal-to-Distal Deceleration Sequencing**. High-speed tracking shows that the **Lead (Right) Hip Halts $> 75\%$ of its rotation in $45	ext{ milliseconds}$** just prior to impact. Under the Law of Conservation of Angular Momentum ($L = I \omega$), braking the heavy pelvis instantly whips the shoulders, arms, and racket through the ball at **$80+	ext{ mph}$**.
+Just as on the forehand, maximum racket velocity on the two-handed backhand requires **Proximal-to-Distal Deceleration Sequencing**. High-speed tracking shows that the **Lead (Right) Hip Halts $> 75\%$ of its rotation in $45\text{ milliseconds}$** just prior to impact. Under the Law of Conservation of Angular Momentum ($L = I \omega$), braking the heavy pelvis instantly whips the shoulders, arms, and racket through the ball at **$80+\text{ mph}$**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novak Djokovic is a master of the **Two-Handed Disguised Drop Shot**. He sets up with a **$100\%$ Full Two-Handed Drive Takeback**, forcing the defender deep behind the baseline. In the final **$30	ext{ milliseconds}$**, he releases his non-dominant left hand, opens the racket face with a Continental blade, and carves **$3,000	ext{ RPM}$ dead backspin**, dropping the ball inches past the net.
+Novak Djokovic is a master of the **Two-Handed Disguised Drop Shot**. He sets up with a **$100\%$ Full Two-Handed Drive Takeback**, forcing the defender deep behind the baseline. In the final **$30\text{ milliseconds}$**, he releases his non-dominant left hand, opens the racket face with a Continental blade, and carves **$3,000\text{ RPM}$ dead backspin**, dropping the ball inches past the net.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

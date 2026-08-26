@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Rotating the shoulders horizontally on low balls forces players to scoop with their wrists, resulting in dumped net balls or high floaters. The modern solution is the **Shoulder-Over-Shoulder Cartwheel Engine**: tilting the shoulder axis **$35^\circ	ext{ to }45^\circ$ vertically**. As the player uncoils, the rear left shoulder vaults over the lowered right shoulder, driving the racket upward on a steep brushing arc that lifts low balls with **$2,800	ext{ RPM}$ topspin**.
+Rotating the shoulders horizontally on low balls forces players to scoop with their wrists, resulting in dumped net balls or high floaters. The modern solution is the **Shoulder-Over-Shoulder Cartwheel Engine**: tilting the shoulder axis **$35^\circ\text{ to }45^\circ$ vertically**. As the player uncoils, the rear left shoulder vaults over the lowered right shoulder, driving the racket upward on a steep brushing arc that lifts low balls with **$2,800\text{ RPM}$ topspin**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

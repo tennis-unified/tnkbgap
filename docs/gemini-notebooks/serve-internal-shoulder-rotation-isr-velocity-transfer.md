@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-In peer-reviewed biomechanical studies (Kovacs, Ellenbecker, Reid), **Internal Shoulder Rotation (ISR)** is proven to be the single largest contributor to serve speed, accounting for **$54\%$ of terminal racket velocity**. Accelerating from $170^\circ$ of maximum external rotation to internal impact at over **$2,800^\circ/	ext{sec}$**, the subscapularis and pectoralis major unleash the final explosive catapult that produces 130+ mph serves.
+In peer-reviewed biomechanical studies (Kovacs, Ellenbecker, Reid), **Internal Shoulder Rotation (ISR)** is proven to be the single largest contributor to serve speed, accounting for **$54\%$ of terminal racket velocity**. Accelerating from $170^\circ$ of maximum external rotation to internal impact at over **$2,800^\circ/\text{sec}$**, the subscapularis and pectoralis major unleash the final explosive catapult that produces 130+ mph serves.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

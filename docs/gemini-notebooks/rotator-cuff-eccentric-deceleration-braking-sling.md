@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-After launching a 130 mph serve, the hitting arm must decelerate from $2,800^\circ/	ext{s}$ to zero in under **$30	ext{ milliseconds}$**. The posterior rotator cuff (**Infraspinatus and Teres Minor**) must generate eccentric braking forces equal to **$1.0	imes	ext{ bodyweight}$**. Without adequate eccentric conditioning, this deceleration shock causes micro-tears, subacromial impingement, and labral pathology (SLAP tears).
+After launching a 130 mph serve, the hitting arm must decelerate from $2,800^\circ/\text{s}$ to zero in under **$30\text{ milliseconds}$**. The posterior rotator cuff (**Infraspinatus and Teres Minor**) must generate eccentric braking forces equal to **$1.0\times\text{ bodyweight}$**. Without adequate eccentric conditioning, this deceleration shock causes micro-tears, subacromial impingement, and labral pathology (SLAP tears).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

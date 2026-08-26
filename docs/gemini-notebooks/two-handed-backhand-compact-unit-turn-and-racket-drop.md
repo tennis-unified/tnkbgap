@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-On fast hard courts, large looped backswings result in late contact. The elite two-handed backhand utilizes a **Compact Unit Turn & Gravitational Drop**: turning the shoulders **$50^\circ	ext{ as a single connected unit}$** while keeping the hands close to the left hip. Releasing the racket head under gravity drops the frame below the ball without muscle tension, setting up instant forward acceleration.
+On fast hard courts, large looped backswings result in late contact. The elite two-handed backhand utilizes a **Compact Unit Turn & Gravitational Drop**: turning the shoulders **$50^\circ\text{ as a single connected unit}$** while keeping the hands close to the left hip. Releasing the racket head under gravity drops the frame below the ball without muscle tension, setting up instant forward acceleration.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

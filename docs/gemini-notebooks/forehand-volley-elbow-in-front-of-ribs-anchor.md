@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-A frequent technical error on forehand volleys is letting the elbow tuck back into the hip, jamming the stroke. The biomechanical rule is the **Elbow-in-Front Anchor**: positioning the hitting elbow **$20	ext{cm}$ in front of the rib cage** with the wrist extended $30^\circ$. This creates an unyielding structural cantilever that absorbs 80 mph passing shots and punches them deep with zero arm recoil.
+A frequent technical error on forehand volleys is letting the elbow tuck back into the hip, jamming the stroke. The biomechanical rule is the **Elbow-in-Front Anchor**: positioning the hitting elbow **$20\text{cm}$ in front of the rib cage** with the wrist extended $30^\circ$. This creates an unyielding structural cantilever that absorbs 80 mph passing shots and punches them deep with zero arm recoil.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

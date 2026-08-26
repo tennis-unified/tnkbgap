@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When playing against servers who immediately retreat 3 meters behind the baseline after serving, hitting deep returns plays right into their comfort zone. Modern tacticians (Carlos Alcaraz, Ons Jabeur) utilize the **Disguised Drop-Return**: feigning a ferocious full-swing second serve crush, relaxing grip tension to **2/10 in the final $30	ext{ms}$**, and carving **$3,000	ext{ RPM}$ dead backspin** that lands 1 meter past the net for an uncontested winner.
+When playing against servers who immediately retreat 3 meters behind the baseline after serving, hitting deep returns plays right into their comfort zone. Modern tacticians (Carlos Alcaraz, Ons Jabeur) utilize the **Disguised Drop-Return**: feigning a ferocious full-swing second serve crush, relaxing grip tension to **2/10 in the final $30\text{ms}$**, and carving **$3,000\text{ RPM}$ dead backspin** that lands 1 meter past the net for an uncontested winner.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

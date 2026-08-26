@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-At 6'10" (2.08m), John Isner achieved the most statistically dominant serve in tennis history (over 14,000 career aces). Biomechanically, Isner strikes the ball at a **Contact Height of $3.20	ext{ meters}$**, creating a **True Downward Contact Angle ($	heta = -8.2^\circ$)**. This allows 140 mph flat serves to clear the net with massive safety margins while driving the ball down with steep, unreturnable bounce angles.
+At 6'10" (2.08m), John Isner achieved the most statistically dominant serve in tennis history (over 14,000 career aces). Biomechanically, Isner strikes the ball at a **Contact Height of $3.20\text{ meters}$**, creating a **True Downward Contact Angle ($\theta = -8.2^\circ$)**. This allows 140 mph flat serves to clear the net with massive safety margins while driving the ball down with steep, unreturnable bounce angles.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

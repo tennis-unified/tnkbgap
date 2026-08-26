@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The **Thoracolumbar Junction (T12-L1)** is a critical anatomical crossroads in tennis biomechanics. Here, the facet joint orientation changes abruptly from the **Coronal Plane (Thoracic, allowing rotation)** to the **Sagittal Plane (Lumbar, blocking rotation)**. During explosive $700^\circ/	ext{s}$ uncoiling, immense torsional shear concentrates precisely at T12-L1. Developing **Segmental Neuromuscular Control** prevents thoracolumbar hinge failure.
+The **Thoracolumbar Junction (T12-L1)** is a critical anatomical crossroads in tennis biomechanics. Here, the facet joint orientation changes abruptly from the **Coronal Plane (Thoracic, allowing rotation)** to the **Sagittal Plane (Lumbar, blocking rotation)**. During explosive $700^\circ/\text{s}$ uncoiling, immense torsional shear concentrates precisely at T12-L1. Developing **Segmental Neuromuscular Control** prevents thoracolumbar hinge failure.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

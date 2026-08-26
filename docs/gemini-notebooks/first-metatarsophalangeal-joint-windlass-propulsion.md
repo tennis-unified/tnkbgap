@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Explosive first-step sprinting in tennis relies on the **First Metatarsophalangeal (MTP) Joint**. Achieving **$> 60^\circ	ext{ of Great Toe Extension}$** activates **Hicks' Windlass Mechanism**, winding the plantar fascia tightly around the metatarsal head. This elevates the medial longitudinal arch, converting the flexible foot into a rigid bony lever capable of transmitting **$2,200	ext{ N of Propulsion Thrust}$**. Restricted extension causes Hallux Rigidus.
+Explosive first-step sprinting in tennis relies on the **First Metatarsophalangeal (MTP) Joint**. Achieving **$> 60^\circ\text{ of Great Toe Extension}$** activates **Hicks' Windlass Mechanism**, winding the plantar fascia tightly around the metatarsal head. This elevates the medial longitudinal arch, converting the flexible foot into a rigid bony lever capable of transmitting **$2,200\text{ N of Propulsion Thrust}$**. Restricted extension causes Hallux Rigidus.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

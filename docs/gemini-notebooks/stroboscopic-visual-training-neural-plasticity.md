@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Stroboscopic training utilizes specialized LCD eyewear that alternates between transparent and opaque states at adjustable frequencies ($1	ext{ to }8	ext{ Hz}$). By depriving the visual system of continuous optical motion data, the brain is forced to rely on **Working Visual Memory and Motion Interpolation (filling in the missing frames)**. When returned to normal vision, ball trajectories appear to move in 'slow motion'.
+Stroboscopic training utilizes specialized LCD eyewear that alternates between transparent and opaque states at adjustable frequencies ($1\text{ to }8\text{ Hz}$). By depriving the visual system of continuous optical motion data, the brain is forced to rely on **Working Visual Memory and Motion Interpolation (filling in the missing frames)**. When returned to normal vision, ball trajectories appear to move in 'slow motion'.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

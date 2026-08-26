@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Lumbar spondylolysis (stress fracture of the **Pars Interarticularis at L4-L5**) is the most common cause of structural back pain in tennis. Executing the **Kick Serve** by hyperextending and laterally flexing the lumbar spine compresses the posterior facet columns under **$> 4,000	ext{ N}$ of axial shear load**. Remediation requires replacing spinal hyperextension with **$115^\circ	ext{ Knee Flexion Spring}$** and conditioning the **McGill Big 3 Core Stability Engine**.
+Lumbar spondylolysis (stress fracture of the **Pars Interarticularis at L4-L5**) is the most common cause of structural back pain in tennis. Executing the **Kick Serve** by hyperextending and laterally flexing the lumbar spine compresses the posterior facet columns under **$> 4,000\text{ N}$ of axial shear load**. Remediation requires replacing spinal hyperextension with **$115^\circ\text{ Knee Flexion Spring}$** and conditioning the **McGill Big 3 Core Stability Engine**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

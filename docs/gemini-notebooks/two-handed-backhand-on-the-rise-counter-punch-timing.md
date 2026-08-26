@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Striking the two-handed backhand on-the-rise is the ultimate time-stealing weapon. Champions like **Andre Agassi and Jannik Sinner** step inside the baseline to intercept the ball just **$15	ext{ to }20	ext{cm}$ off the court bounce**. Using a compact backswing and stationary head anchor, they redirect incoming pace with an **$85	ext{ mph}$ laser**, leaving opponents zero recovery time.
+Striking the two-handed backhand on-the-rise is the ultimate time-stealing weapon. Champions like **Andre Agassi and Jannik Sinner** step inside the baseline to intercept the ball just **$15\text{ to }20\text{cm}$ off the court bounce**. Using a compact backswing and stationary head anchor, they redirect incoming pace with an **$85\text{ mph}$ laser**, leaving opponents zero recovery time.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

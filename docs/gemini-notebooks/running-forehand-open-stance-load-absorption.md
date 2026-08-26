@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Retrieving wide balls at full sprint requires the **Running Open-Stance Forehand**. Planting the outside right foot absorbs **$3.5	imes	ext{ bodyweight}$** in eccentric deceleration. Elite athletes (Alcaraz, Djokovic) leap off the loaded outside leg, executing **Mid-Air Rotational Uncoiling** while airborne, striking blistering crosscourt passes and landing on the lead foot for instant recovery.
+Retrieving wide balls at full sprint requires the **Running Open-Stance Forehand**. Planting the outside right foot absorbs **$3.5\times\text{ bodyweight}$** in eccentric deceleration. Elite athletes (Alcaraz, Djokovic) leap off the loaded outside leg, executing **Mid-Air Rotational Uncoiling** while airborne, striking blistering crosscourt passes and landing on the lead foot for instant recovery.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

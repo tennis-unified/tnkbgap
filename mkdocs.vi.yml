@@ -58,7 +58,28 @@ nav:
   - Trang chủ: index.md
   - "Sách — Sân Thống Nhất":
       - "Tổng quan & Mục lục": book/index.md
-      - "Ch 8: Lưỡi Dao Cổ Điển": book/chapter-08-the-classical-blade.md
-      - "Ch 9: Động Cơ Tay Không Thuận": book/chapter-09-the-non-dominant-engine.md
-      - "Ch 10: Chiến Tranh Cận Chiến": book/chapter-10-point-blank-warfare.md
-      - "Ch 11: Chinh Phục Không Trung": book/chapter-11-aerial-conquest.md
+      - "Ch 1: Động Cơ Ẩn Giấu": book/chapter-01-the-hidden-engine.md
+      - "Ch 2: Con Mắt Satori": book/chapter-02-the-satori-eye.md
+      - "Ch 3: Trọng Lực Động": book/chapter-03-dynamic-gravity.md
+      - "Ch 4: Cờ Chớp Trên Sân Bê Tông": book/chapter-04-blitz-chess-on-concrete.md
+      - "Ch 5: Khẩu Đại Bác Trên Cao": book/chapter-05-the-cannon-above.md
+      - "Ch 6: Cánh Cổng Sắt": book/chapter-06-the-iron-gate.md
+      - "Ch 7: Cú Thuận Tay Hiện Đại": book/chapter-07-the-modern-forehand.md
+      - "Ch 8: Lưỡi Kiếm Cổ Điển": book/chapter-08-the-classical-blade.md
+      - "Ch 9: Động Cơ Của Tay Không Thuận": book/chapter-09-the-non-dominant-engine.md
+      - "Ch 10: Cận Chiến Nghẹt Thở": book/chapter-10-point-blank-warfare.md
+      - "Ch 11: Chinh Phục Bầu Trời": book/chapter-11-aerial-conquest.md
+      - "Ch 12: Hủy Diệt Bằng Nhung Lụa": book/chapter-12-velvet-destruction.md
+      - "Ch 13: Vận Động Viên Bất Khả Xâm Phạm": book/chapter-13-the-bulletproof-athlete.md
+      - "Ch 14: Pháo Đài Nội Tâm": book/chapter-14-the-fortress-within.md
+      - "Ch 15: Cỗ Máy Vi Mô": book/chapter-15-the-microscopic-machine.md
+      - "Ch 16: Tâm Trí Đồng Bộ": book/chapter-16-the-synchronized-mind.md
+  - "Báo cáo khoảng trống":
+      - "Cấp 1 — Giá trị cao": reports/tier-1-high-value-gaps.md
+      - "Cấp 2 — Độ sâu chủ đề": reports/tier-2-topic-depth-gaps.md
+      - "Cấp 3 — Chuyên biệt": reports/tier-3-niche-specialty.md
+  - "Nghiên cứu hiện đại":
+      - "Quần vợt hiện đại 2024–2026": research/modern-tennis-2024-2026.md
+      - "Nguồn uy tín": research/authoritative-sources.md
+  - "Kỹ thuật cú đánh":
+      - "Đồng thuận kỹ thuật hiện đại": strokes/modern-stroke-consensus.md

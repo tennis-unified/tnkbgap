@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When pulled 3 meters outside the tramlines with zero offensive options, the **High Defensive Moonball Lob** is the ultimate bailout tool. Launching the ball at a **$55^\circ	ext{ upward angle}$** with an open Continental face creates an **Inverted Parabolic Arc peaking at $6.5	ext{ meters}$**. This buys **$2.8	ext{ seconds}$ of airtime**, allowing the defender to sprint back to the center mark and reset the baseline rally.
+When pulled 3 meters outside the tramlines with zero offensive options, the **High Defensive Moonball Lob** is the ultimate bailout tool. Launching the ball at a **$55^\circ\text{ upward angle}$** with an open Continental face creates an **Inverted Parabolic Arc peaking at $6.5\text{ meters}$**. This buys **$2.8\text{ seconds}$ of airtime**, allowing the defender to sprint back to the center mark and reset the baseline rally.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

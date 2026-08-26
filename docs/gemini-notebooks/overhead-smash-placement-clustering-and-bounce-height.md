@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Hitting overhead smashes aimlessly into the deep court allows fast defenders to guess and retrieve them. Elite smash execution uses **2 High-Probability Target Clusters**: (1) **The Downward Sneaker Strike** (aiming steeply at the opponent's feet where reaction time is $< 120	ext{ms}$), and (2) **The Angled Grandstand Bounce** (cracking 35° crosscourt to bounce the ball high over the side fencing).
+Hitting overhead smashes aimlessly into the deep court allows fast defenders to guess and retrieve them. Elite smash execution uses **2 High-Probability Target Clusters**: (1) **The Downward Sneaker Strike** (aiming steeply at the opponent's feet where reaction time is $< 120\text{ms}$), and (2) **The Angled Grandstand Bounce** (cracking 35° crosscourt to bounce the ball high over the side fencing).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

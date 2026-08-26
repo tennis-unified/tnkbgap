@@ -46,6 +46,24 @@ markdown_extensions:
   - tables
 nav:
   - Home: index.md
+  - "The Master Book":
+      - "Book Overview & TOC": book/index.md
+      - "Ch 1: The Hidden Engine": book/chapter-01-the-hidden-engine.md
+      - "Ch 2: The Satori Eye": book/chapter-02-the-satori-eye.md
+      - "Ch 3: Dynamic Gravity": book/chapter-03-dynamic-gravity.md
+      - "Ch 4: Blitz Chess on Concrete": book/chapter-04-blitz-chess-on-concrete.md
+      - "Ch 5: The Cannon Above": book/chapter-05-the-cannon-above.md
+      - "Ch 6: The Iron Gate": book/chapter-06-the-iron-gate.md
+      - "Ch 7: The Modern Forehand": book/chapter-07-the-modern-forehand.md
+      - "Ch 8: The Classical Blade": book/chapter-08-the-classical-blade.md
+      - "Ch 9: The Non-Dominant Engine": book/chapter-09-the-non-dominant-engine.md
+      - "Ch 10: Point-Blank Warfare": book/chapter-10-point-blank-warfare.md
+      - "Ch 11: Aerial Conquest": book/chapter-11-aerial-conquest.md
+      - "Ch 12: Velvet Destruction": book/chapter-12-velvet-destruction.md
+      - "Ch 13: The Bulletproof Athlete": book/chapter-13-the-bulletproof-athlete.md
+      - "Ch 14: The Fortress Within": book/chapter-14-the-fortress-within.md
+      - "Ch 15: The Microscopic Machine": book/chapter-15-the-microscopic-machine.md
+      - "Ch 16: The Synchronized Mind": book/chapter-16-the-synchronized-mind.md
   - Books:
       - "All books (133 titles)": books/index.md
       - "Featured books":

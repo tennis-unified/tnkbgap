@@ -1,184 +1,186 @@
 ---
-title: "Sân Thống Nhất: Khoa Học Sống, Cơ Học Nội Tâm và Nghệ Thuật Quán Quân Của Tennis Hiện Đại"
-description: "Chuyên luận kinh điển 16 chương về cơ sinh học quần vợt, thị giác thần kinh-nhãn cầu, di chuyển bàn chân, chiến thuật, động học cú đánh, y học thể thao, tâm lý thể thao và hình học đánh đôi."
+title: "Sân Thống Nhất: Khoa Học Sống, Cơ Học Nội Tâm và Nghệ Thuật Đỉnh Cao Của Tennis Hiện Đại"
+description: "Chuyên luận kinh điển 16 chương về cơ sinh học quần vợt, thị giác thần kinh-nhãn cầu, di chuyển bàn chân, chiến thuật, động học cú đánh, y học thể thao, tâm lý thi đấu và chiến thuật đánh đôi."
 ---
 
 # SÂN THỐNG NHẤT
-## Khoa Học Sống, Cơ Học Nội Tâm và Nghệ Thuật Quán Quân Của Tennis Hiện Đại
+## Khoa Học Sống, Cơ Học Nội Tâm và Nghệ Thuật Đỉnh Cao Của Tennis Hiện Đại
 
 <div style="font-size: 1.15em; font-style: italic; color: #555; margin-bottom: 25px; border-left: 4px solid #3f51b5; padding-left: 15px;">
-"Tennis không chỉ đơn thuần là trò chơi đánh quả bóng nặng màu vàng qua tưới ba feet. Đó là một phòng thí nghiệm sống động của vật lý Newton cổ điển, tính toàn vẹn căng-nén sinh học phi tuyến tính, dự đoán thần kinh-nhãn cầu mili-giây, và sự tĩnh lặng nội tâm sâu sắc của võ nội gia."
+"Tennis không chỉ đơn thuần là trò chơi đánh quả bóng nỉ màu vàng qua tấm lưới cao ba feet. Đó là một phòng thí nghiệm sống động của vật lý Newton cổ điển, tính toàn vẹn căng-nén sinh học phi tuyến tính, dự đoán thần kinh-nhãn cầu tính bằng mili-giây, và sự tĩnh lặng nội tâm sâu sắc của võ thuật đỉnh cao."
 </div>
 
 ---
 
-!!! info "Trạng thái bản dịch tiếng Việt"
-    Bản tiếng Việt đang được dịch dần. Hiện đã có: **Chương 8, 9, 10, 11**.
-    Các chương chưa dịch sẽ dẫn tới **bản tiếng Anh** đầy đủ.
-    Xem toàn bộ bản tiếng Anh tại [/tnkbgap/](/tnkbgap/).
+## 📖 Tổng Quan & Cấu Trúc Tác Phẩm
 
-## 📖 Tổng Quan & Kiến Trúc Của Sách
+Chào mừng đến với **SÂN THỐNG NHẤT**, tác phẩm kinh điển 16 chương được tổng hợp từ các nghiên cứu video tốc độ cao đột phá của **TennisPlayer Archive** (John Yandell, Rick Macci, Brian Gordon, Doug King, Paul Wardlaw), Thư viện Khoa học và Huấn luyện Tennis 133 tựa sách kinh điển (*Absolute Tennis*, *Winning Ugly*, *The Inner Game of Tennis*, *The Tao of Tennis*, *Tennis Science for Tennis Players*), cùng hệ thống nghiên cứu chuyên sâu của chúng tôi.
 
-Chào mừng đến với **SÂN THỐNG NHẤT**, tác phẩm kinh điển 16 chương tổng hợp từ nghiên cứu video tốc độ cao đột phá của **TennisPlayer Archive** (John Yandell, Rick Macci, Brian Gordon, Doug King, Paul Wardlaw), Thư viện Khoa học và Huấn luyện Tennis 133 tựa sách lịch sử (*Absolute Tennis*, *Winning Ugly*, *The Inner Game of Tennis*, *The Tao of Tennis*, *Tennis Science for Tennis Players*), và **421 Bản Báo cáo Nghiên cứu Có Cơ sở** của chúng tôi.
-
-Cuốn sách này thống nhất những gì camera tốc độ caó đã tiết lộ về những vận động viên xuất sắc nhất thế giới với trí tuệ trực giác, xúc giác của các huấn luyện viên bậc thày và nguyên lý võ nội gia của dòng chảy động học không cố ý (*Chan Si Jin*, tôi luyện *Dantian*, *Wu Wei*, và *Dĩ Nhu Khắc Cương*).
+Cuốn sách này thống nhất những gì camera tốc độ cao ghi lại về những tay vợt vĩ đại nhất thế giới với sự nhạy bén trực giác của các huấn luyện viên bậc thầy và các nguyên lý nội gia của dòng năng lượng động học tự nhiên (*Triền Ty Kình*, hạ trọng tâm *Đan Điền*, *Vô Vi*, và *Dĩ Nhu Khắc Cương*).
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│ 16 CHƯƠNG KINH ĐIỂN │
-│ │
-│ [Ch 01] Động Cơ Ẩn Giấu: Tính Toàn Vẹn Căng-Nén Sinh Học, Liên Kết Động Học & Cuộn Xoắn Ốc │
-│ [Ch 02] Con Mắt Satori: Thần Kinh-Nhãn Cầu, Mắt Tĩnh Lặng & Tự Động Hóa Tiền Vỏ Não │
-│ [Ch 03] Trọng Lực Động Học: Giảm Trọng Lượng Split-Step, Trượt & Giảm Tốc Trên Sân Cứng │
-│ [Ch 04] Cờ Vua Chớp Nắng Trên Bê Tông: Thống Trị Cú 0-4, Chuỗi Markov & Bậc Thày Dài Hạn │
-│ [Ch 05] Khẩu Đại Bác Phía Trên: Động Học 8 Giai Đoạn Serve, Búng Xoắn Trục & Tạo Tốc Độ │
-│ [Ch 06] Cổng Sắt: Cú Chặn Trả Bóng Đầu Tiên & Giải Mã Hình Học Tay Trái │
-│ [Ch 07] Búa Động Học: Forehand Hiện Đại, Độ Trễ X-Factor & Topspin 3,500 RPM │
-│ [Ch 08] Lưỡi Dao Cổ Điển: Rút Lùi Bả Vai Tay Một & Slice Dao Bay Lơ Lửng │
-│ [Ch 09] Động Cơ Phi Trội ưu: Lực Backhand Hai Tay, Phanh Hông & Tốc Độ Hành Trình │
-│ [Ch 10] Chiến Tranh Cận Chiến: Volley Đấm Hiện Đại, Tay Mềm & Bậc Thày Chuyển Tiếp │
-│ [Ch 11] Chinh Phục Trên Không: Đòn Đâm Tấn Công Topspin & Smash Kéo Kép │
-│ [Ch 12] Sự Hủy Diệt Nhung Mền: Nghệ Thuật Drop Shot 2/10 Ngụy Trang & Đoạn Ly │
-│ [Ch 13] Vận Động Viên Bọc Thép: Cơ Học Xương Khớp Gan, Bảo Tồn Khớp & Phục Hồi │
-│ [Ch 14] Pháo Đài Trong Tâm: Sức Bền Tinh Thần, Tích Luỹ Tiebreak & Dòng Chảy Khắc Kỷ │
-│ [Ch 15] Cỗ Máy Vi Mô: Động Học Khớp Nâng Cao, Vỏ Bao Mạn & Sụn Khớp │
-│ [Ch 16] Tâm Trí Đồng Bộ: Đội Hình Đôi Đẳng Cấp, Véc Tơ Poác & Hiệu ứng Tăng Cường │
+│                                  16 CHƯƠNG KINH ĐIỂN                                    │
+│                                                                                         │
+│  [Ch 01] Động Cơ Ẩn Giấu: Biotensegrity, Chuỗi Động Học & Vòng Xoắn Ốc                 │
+│  [Ch 02] Con Mắt Satori: Vì Sao Người Chơi Đỉnh Cao "Thấy" Bóng Trước Khi Đến           │
+│  [Ch 03] Trọng Lực Động: Split-Step, Cú Trượt, và Nghệ Thuật Giảm Tốc                   │
+│  [Ch 04] Cờ Chớp Trên Sân Bê Tông: Tại Sao Bốn Cú Đánh Đầu Tiên Quyết Định Trận Đấu     │
+│  [Ch 05] Khẩu Đại Bác Trên Cao: Kiến Trúc 8 Giai Đoạn Của Cú Giao Bóng Động Học         │
+│  [Ch 06] Cánh Cổng Sắt: Đỡ Giao Bóng Tuyến Đầu & Giải Mã Hình Học Tay Trái             │
+│  [Ch 07] Cú Thuận Tay Hiện Đại: Năm Chuyển Động Mà Mọi Cú Forehand Đỉnh Cao Đều Có      │
+│  [Ch 08] Lưỡi Kiếm Cổ Điển: Trái Một Tay — Sức Mạnh Xương Bả Vai & Cú Slice Lướt Nhẹ   │
+│  [Ch 09] Động Cơ Của Tay Không Thuận: Trái Hai Tay, Phanh Hông & Tốc Độ Hành Trình      │
+│  [Ch 10] Cận Chiến Nghẹt Thở: Cú Vô-lê Đấm Thẳng, Đôi Tay Mềm & Chuyển Đổi Lên Lưới    │
+│  [Ch 11] Chinh Phục Bầu Trời: Cú Lốp Xoáy Lên Tấn Công & Cú Đập Bổ Kéo Kéo             │
+│  [Ch 12] Hủy Diệt Bằng Nhung Lụa: Nghệ Thuật Của Cú Bỏ Nhỏ Ngụy Trang                   │
+│  [Ch 13] Vận Động Viên Bất Khả Xâm Phạm: Sức Khỏe Gân, Bảo Vệ Khớp & Phục Hồi          │
+│  [Ch 14] Pháo Đài Nội Tâm: Bản Lĩnh Tinh Thần, Tiebreak & Trạng Thái Khắc Kỷ           │
+│  [Ch 15] Cỗ Máy Vi Mô: Chuyện Gì Đang Thực Sự Xảy Ra Bên Trong Khớp Của Bạn            │
+│  [Ch 16] Tâm Trí Đồng Bộ: Đội Hình Đôi, Poach, và Chơi Như Một                         │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📚 Mục Lục
+## 📚 Mục Lục Toàn Bộ 16 Chương
 
 <div class="grid cards" markdown>
 
-- ### ⚡ [Chương 1: Động Cơ Ẩn Giấu](/tnkbgap/book/chapter-01-the-kinetic-engine/)
+- ### ⚡ [Chương 1: Động Cơ Ẩn Giấu](chapter-01-the-hidden-engine.md)
 
- ---
+    ---
 
- **Tính Toàn Vẹn Căng-Nén Sinh Học, Liên Kết Động Học & Cuộn Xoắn Ốc** 
- Lực phản ứng mặt đất (2,200 N) leo qua 6 liên kết động học, vật lý của phản độn đàn hồi myofascial, và nghệ thuật võ nội gia của *Chan Si Jin* (quấn tơ).
+    **Biotensegrity, Chuỗi Động Học & Vòng Xoắn Ốc**
+    Cách lực phản ứng mặt đất truyền qua 6 mắt xích động học, cấu trúc biotensegrity và tính đàn hồi cân cơ trong kỹ thuật quần vợt hiện đại.
 
- [Đọc Chương 1 →](/tnkbgap/book/chapter-01-the-kinetic-engine/)
-- ### 👁️ [Chương 2: Con Mắt Satori](/tnkbgap/book/chapter-02-the-satori-eye/)
+    [Đọc Chương 1 →](chapter-01-the-hidden-engine.md)
+- ### 👁️ [Chương 2: Con Mắt Satori](chapter-02-the-satori-eye.md)
 
- ---
+    ---
 
- **Thần Kinh-Nhãn Cầu, Mắt Tĩnh Lặng & Tự Động Hóa Tiền Vỏ Não** 
- Phản xạ Vestibulo-Ocular (< 7 ms), điểm neo Quiet Eye của Joan Vickers, saccade dự đoán nhảy sớm 150 ms, và tĩnh lặng phê phán vỏ não trước trán (*Petit Bras*).
+    **Vì Sao Người Chơi Đỉnh Cao "Thấy" Bóng Trước Khi Bóng Đến**
+    Phản xạ tiền đình-mắt (VOR), điểm neo Quiet Eye, bước nhảy saccade dự đoán và cách dập tắt tiếng nói chỉ trích nội tâm.
 
- [Đọc Chương 2 →](/tnkbgap/book/chapter-02-the-satori-eye/)
-- ### 👟 [Chương 3: Trọng Lực Động Học](/tnkbgap/book/chapter-03-gravity-and-the-court/)
+    [Đọc Chương 2 →](chapter-02-the-satori-eye.md)
+- ### ⚖️ [Chương 3: Trọng Lực Động](chapter-03-dynamic-gravity.md)
 
- ---
+    ---
 
- **Giảm Trọng Lượng Split-Step,ượt & Giảm Tốc Trên Sân Cứng** 
- Cửa sổ giảm trọng lượng split-step -30ms, chuyển đổi từ ma sát tĩnh sang động học (*μ*<sub>k</sub> = 0.58), và chuỗi giảm tốc 3 khớp hấp thụ 4.2× BW.
+    **Split-Step, Cú Trượt, và Nghệ Thuật Giảm Tốc**
+    Vật lý của bước rơi split-step, ma sát trượt trên sân cứng và đất nện, điểm tựa giảm tốc và bộ pháp hiện đại.
 
- [Đọc Chương 3 →](/tnkbgap/book/chapter-03-gravity-and-the-court/)
-- ### ♟️ [Chương 4: Cờ Vua Chớp Nắng Trên Bê Tông](/tnkbgap/book/chapter-04-blitz-chess-and-development/)
+    [Đọc Chương 3 →](chapter-03-dynamic-gravity.md)
+- ### ♟️ [Chương 4: Cờ Chớp Trên Sân Bê Tông](chapter-04-blitz-chess-on-concrete.md)
 
- ---
+    ---
 
- **Thống Trị Cú 0-4, Chuỗi Markov & Bậc Thày Dài Hạn** 
- Quy tắc 70-20-10 của Craig O'Shannessy, vùng sát thủ Serve+1 và Return+1, định hướng của Paul Wardlaw, phá vỡ nhịp của Brad Gilbert, và hành trình phát triển 5 giai đoạn LTAD.
+    **Tại Sao Bốn Cú Đánh Đầu Tiên Quyết Định Cả Trận Đấu**
+    Định luật định hướng Wardlaw, chiến thuật Serve+1, Return+1 và tư duy tấn công phủ đầu trong 4 cú đánh đầu tiên.
 
- [Đọc Chương 4 →](/tnkbgap/book/chapter-04-blitz-chess-and-development/)
-- ### 🚀 [Chương 5: Khẩu Đại Bác Phía Trên](/tnkbgap/book/chapter-05-the-cannon-above/)
+    [Đọc Chương 4 →](chapter-04-blitz-chess-on-concrete.md)
+- ### 🚀 [Chương 5: Khẩu Đại Bác Trên Cao](chapter-05-the-cannon-above.md)
 
- ---
+    ---
 
- **Động Học 8 Giai Đoạn Serve, Búng Xoắn Trục & Tạo Tốc Độ** 
- Chuỗi động học 8 giai đoạn Kovacs, lò xo uốn gối 115°, xoắn trục vai trong (ISR > 2,800°/s), búng xoắn 4 ms, và ném bóng cố định 12:30.
+    **Kiến Trúc 8 Giai Đoạn Của Cú Giao Bóng Động Học**
+    Mô hình giao bóng 8 giai đoạn Kovacs & Ellenbecker, lực đẩy từ chân, xoay vai trong, phát lực pronation và bảo vệ khớp vai.
 
- [Đọc Chương 5 →](/tnkbgap/book/chapter-05-the-cannon-above/)
-- ### 🛑 [Chương 6: Cổng Sắt](/tnkbgap/book/chapter-06-the-iron-gate/)
+    [Đọc Chương 5 →](chapter-05-the-cannon-above.md)
+- ### 🛡️ [Chương 6: Cánh Cổng Sắt](chapter-06-the-iron-gate.md)
 
- ---
+    ---
 
- **Cú Chặn Trả Bóng Đầu Tiên & Giải Mã Hình Học Tay Trái** 
- Hấp thụ xung lực nhảy-split phía trước, tường phản độn cứng tay 140 mph, xâm nhập sân 1.5 m trên serve thứ hai, và phá vỡ tính bất đối xỉnh xoắn trái.
+    **Đỡ Giao Bóng Ở Tuyến Đầu & Giải Mã Hình Học Của Người Thuận Tay Trái**
+    Chặn đứng cú giao bóng 130 mph bằng kỹ thuật chặn bóng rút gọn, chuyển hướng lực và vô hiệu hóa góc xoáy tay trái.
 
- [Đọc Chương 6 →](/tnkbgap/book/chapter-06-the-iron-gate/)
-- ### 💥 [Chương 7: Búa Động Học](/tnkbgap/book/chapter-07-the-kinetic-hammer/)
+    [Đọc Chương 6 →](chapter-06-the-iron-gate.md)
+- ### 🔨 [Chương 7: Cú Thuận Tay Hiện Đại](chapter-07-the-modern-forehand.md)
 
- ---
+    ---
 
- **Forehand Hiện Đại, Độ Trễ X-Factor & Topspin 3,500 RPM** 
- Động cơ xoắn ATP 5 giai đoạn, đòn đẩy tay thẳng vs. hai khuỷu, độ trễ quán tính tay thụ động, phanh hông dẫn (> 80% trong 40 ms), và vòng cung Magnus gạt nước.
+    **Năm Chuyển Động Mà Mọi Cú Thuận Tay Đỉnh Cao Đều Có**
+    Xoay thân đồng bộ, hạ vợt vào khe, phanh hông trước, gạt kính chắn gió và cơ chế tạo xoáy topspin cực đại.
 
- [Đọc Chương 7 →](/tnkbgap/book/chapter-07-the-kinetic-hammer/)
-- ### 🗡️ [Chương 8: Lưỡi Dao Cổ Điển](chapter-08-the-classical-blade.md)
+    [Đọc Chương 7 →](chapter-07-the-modern-forehand.md)
+- ### 🗡️ [Chương 8: Lưỡi Kiếm Cổ Điển](chapter-08-the-classical-blade.md)
 
- ---
+    ---
 
- **Rút Lùi Bả Vai Tay Một & Slice Dao Bay Lơ Lửng** 
- Bevel 1 Eastern backhand, cuộn vai 120°, tiếp xúc tay thẳng 45 cm phía trước, cân bằng cánh tay phi trội ưu, và lát cắt Bernoulli dao xoắn 3,000 RPM.
+    **Trái Một Tay — Sức Mạnh Từ Xương Bả Vai và Cú Slice Lướt Nhẹ**
+    Kẹp xương bả vai, chuỗi động học trái một tay và nghệ thuật cắt bóng slice xoáy ngược lướt sát mặt lưới.
 
- [Đọc Chương 8 →](chapter-08-the-classical-blade.md)
-- ### ⚔️ [Chương 9: Động Cơ Phi Trội ưu](chapter-09-the-non-dominant-engine.md)
+    [Đọc Chương 8 →](chapter-08-the-classical-blade.md)
+- ### 🔄 [Chương 9: Động Cơ Của Tay Không Thuận](chapter-09-the-non-dominant-engine.md)
 
- ---
+    ---
 
- **Lực Backhand Hai Tay, Phanh Hông & Tốc Độ Hành Trình** 
- Đẩy forehand Eastern tay không 70/30, Bevel 2+7 grip cantilever, trục vai-qua-vai, khôi phụcượt 3.2G tư thế mở, và lái hành trình tiền vỏ não 85 mph của Sinner.
+    **Sức Mạnh Trái Hai Tay, Phanh Hông & Tốc Độ Hành Trình**
+    Sử dụng tay trên làm động cơ chính, trái hai tay thế mở trượt người, phanh hông và tốc độ hành trình 85 dặm/giờ của Sinner.
 
- [Đọc Chương 9 →](chapter-09-the-non-dominant-engine.md)
-- ### 🎾 [Chương 10: Chiến Tranh Cận Chiến](chapter-10-point-blank-warfare.md)
+    [Đọc Chương 9 →](chapter-09-the-non-dominant-engine.md)
+- ### 🎯 [Chương 10: Cận Chiến Nghẹt Thở](chapter-10-point-blank-warfare.md)
 
- ---
+    ---
 
- **Volley Đấm Hiện Đại, Tay Mềm & Bậc Thày Chuyển Tiếp** 
- Xung lực volley đấm (*J = F · Δt*), phân tán động học tay mềm grip 2/10, giảm gối sau 5 cm giữ tầm mắt, và giao tranh phản xạ dưới 150 ms.
+    **Cú Vô-lê Đấm Thẳng, Đôi Tay Mềm & Nghệ Thuật Chuyển Đổi**
+    Vô-lê không vung vợt, nghệ thuật đôi tay mềm giảm chấn, quy tắc hạ gối và làm chủ khu vực lưới.
 
- [Đọc Chương 10 →](chapter-10-point-blank-warfare.md)
-- ### 🏹 [Chương 11: Chinh Phục Trên Không](chapter-11-aerial-conquest.md)
+    [Đọc Chương 10 →](chapter-10-point-blank-warfare.md)
+- ### 🦅 [Chương 11: Chinh Phục Bầu Trời](chapter-11-aerial-conquest.md)
 
- ---
+    ---
 
- **Đòn Đâm Tấn Công Topspin & Smash Kéo Kép** 
- Đòn đâm tấn công topspin 3,800 RPM và hạ xuống Magnus -16.5 m/s², quả bóng phòng thủ cao 2.8 s, smash kéo kép Sampras, và động học tweener.
+    **Cú Lốp Xoáy Lên Tấn Công Và Cú Đập Bổ Kéo Kéo**
+    Cú lốp bóng topspin tấn công, đập bóng scissor-kick trên không, smash trái tay và xử lý bóng tweener cứu nguy.
 
- [Đọc Chương 11 →](chapter-11-aerial-conquest.md)
-- ### 🪶 [Chương 12: Sự Hủy Diệt Nhung Mền](/tnkbgap/book/chapter-12-velvet-destruction/)
+    [Đọc Chương 11 →](chapter-11-aerial-conquest.md)
+- ### 🪶 [Chương 12: Hủy Diệt Bằng Nhung Lụa](chapter-12-velvet-destruction.md)
 
- ---
+    ---
 
- **Nghệ Thuật Drop Shot 2/10 Ngụy Trang & Đoạn Ly** 
- Ngụy trang xoay đơn vị toàn phần 100%, 30 ms grip giảm lực xuống 2/10, backspin kiểm tra 3,500 RPM, ngụy trang Alcaraz 700°/s, và đoạn ly sân 12m.
+    **Nghệ Thuật Của Cú Bỏ Nhỏ Ngụy Trang**
+    Thả lỏng lực nắm, ngụy trang bằng động tác xoay thân, đọc mặt sân và bài học bỏ nhỏ chết người từ Carlos Alcaraz.
 
- [Đọc Chương 12 →](/tnkbgap/book/chapter-12-velvet-destruction/)
-- ### 🩺 [Chương 13: Vận Động Viên Bọc Thép](/tnkbgap/book/chapter-13-the-bulletproof-body/)
+    [Đọc Chương 12 →](chapter-12-velvet-destruction.md)
+- ### 🛡️ [Chương 13: Vận Động Viên Bất Khả Xâm Phạm](chapter-13-the-bulletproof-athlete.md)
 
- ---
+    ---
 
- **Cơ Học Xương Khớp Gan, Bảo Tồn Khớp & Phục Hồi** 
- Cơ học truyền Tyler Twist ECRB, khôi phục giấc ngủ GIRD, phòng ngừa rách SLAP, chân què FAI Cam 45°, liệu pháp BFR, và thanh thải dịch não khi ngủ sóng chậm.
+    **Sức Khỏe Gân, Bảo Vệ Khớp, và Phục Hồi Đúng Cách**
+    Tái tạo collagen gân, hội chứng GIRD khớp vai, va chạm FAI khớp háng, tập luyện BFR và khoa học giấc ngủ phục hồi.
 
- [Đọc Chương 13 →](/tnkbgap/book/chapter-13-the-bulletproof-body/)
-- ### 🧠 [Chương 14: Pháo Đài Trong Tâm](/tnkbgap/book/chapter-14-the-fortress-within/)
+    [Đọc Chương 13 →](chapter-13-the-bulletproof-athlete.md)
+- ### 🏰 [Chương 14: Pháo Đài Nội Tâm](chapter-14-the-fortress-within.md)
 
- ---
+    ---
 
- **Sức Bền Tinh Thần, Tích Luỹ Tiebreak & Dòng Chảy Khắc Kỷ** 
- Điều hòa hạch hạnh nhân Djokovic, kiến trúc nghi lễ Nadal, tự nói cách ly CBT, phép chữa 16 giây Jim Loehr, bình thản khắc kỷ Epictetus, và định luật Grand Slam 54%.
+    **Bản Lĩnh Tinh Thần, Sự Tích Lũy Trong Tiebreak & Trạng Thái Tĩnh Tại Kiểu Khắc Kỷ**
+    Quy tắc 54%, kỹ thuật làm dịu phó giao cảm của Djokovic, nghi thức của Nadal, 16 giây của Jim Loehr và tinh thần Khắc Kỷ trên sân.
 
- [Đọc Chương 14 →](/tnkbgap/book/chapter-14-the-fortress-within/)
-- ### 🦾 [Chương 15: Cỗ Máy Vi Mô](/tnkbgap/book/chapter-15-advanced-joint-kinetics-micro-dynamics/)
+    [Đọc Chương 14 →](chapter-14-the-fortress-within.md)
+- ### 🔬 [Chương 15: Cỗ Máy Vi Mô](chapter-15-the-microscopic-machine.md)
 
- ---
+    ---
 
- **Động Học Khớp Nâng Cao, Vỏ Bao Mạn & Sụn Khớp** 
- Nâng AC/SC clavicular vaulting (40°), nhịp scapulothoracic 2:1, xoắn trục radioulnar (2,200°/s), chấn động carpal scapholunate 45G, và bôi trơn dịch sụn khớp hai pha.
+    **Chuyện Gì Đang Thực Sự Xảy Ra Bên Trong Khớp Của Bạn Khi Thi Đấu**
+    Chuyển động nâng xương đòn, hệ thống phân tán chấn động cẳng tay, đệm khớp cổ tay, cơ chế khớp dưới sên và bôi trơn sụn khớp.
 
- [Đọc Chương 15 →](/tnkbgap/book/chapter-15-advanced-joint-kinetics-micro-dynamics/)
-- ### 👥 [Chương 16: Tâm Trí Đồng Bộ](/tnkbgap/book/chapter-16-the-synchronized-mind/)
+    [Đọc Chương 15 →](chapter-15-the-microscopic-machine.md)
+- ### 🤝 [Chương 16: Tâm Trí Đồng Bộ](chapter-16-the-synchronized-mind.md)
 
- ---
+    ---
 
- **Đội Hình Đôi Đẳng Cấp, Véc Tơ Poác & Hiệu ứng Tăng Cường** 
- I-Formation, siết cổ crosscourt Australia, vec tơ giao nhau poác 300 ms, hiệu ứng tăng cường Bryan Brothers, quy tắc 'V' cửa sổ trung tâm, và bắn tiebreak 10 điểm đấu loại.
+    **Đội Hình Đôi, Poach, và Chơi Như Một**
+    Nguyên tắc vàng đánh đôi, đội hình chữ I và Australian, kỹ thuật bắt lưới poach tiến lên, phân chia khu vực giữa sân và tie-break 10 điểm.
 
- [Đọc Chương 16 →](/tnkbgap/book/chapter-16-the-synchronized-mind/)
+    [Đọc Chương 16 →](chapter-16-the-synchronized-mind.md)
 
 </div>
+
+---
+
+## 🔬 Hướng Dẫn Đọc Sách
+
+1. **Đọc tuần tự từ nền tảng đến dòng chảy**: Đọc từ Chương 1 đến Chương 16 để có sự chuyển hóa toàn diện: từ nền tảng động học $\rightarrow$ thị giác $\rightarrow$ bộ pháp $\rightarrow$ chiến thuật $\rightarrow$ các cú đánh $\rightarrow$ thể chất $\rightarrow$ tâm lý $\rightarrow$ đánh đôi.
+2. **Tra cứu khắc phục lỗi chuyên biệt**: Mỗi chương là một cẩm nang hoàn chỉnh với các bài tập thực chiến và bảng chẩn đoán lỗi cụ thể trên sân.

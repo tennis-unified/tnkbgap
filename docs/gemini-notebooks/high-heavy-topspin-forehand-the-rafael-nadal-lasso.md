@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Rafael Nadal's reverse lasso forehand is the heaviest topspin stroke in tennis history. By finishing the swing **Above the Hitting Shoulder (The Lasso Whip)** rather than wrapping around the torso, Nadal maintains a near-vertical upward racket path throughout contact, generating **$3,600	ext{ to }4,200	ext{ RPM}$**. The ball hops **$1.7	ext{ meters}$ high off the clay**, exploding into the opponent's backhand shoulder zone.
+Rafael Nadal's reverse lasso forehand is the heaviest topspin stroke in tennis history. By finishing the swing **Above the Hitting Shoulder (The Lasso Whip)** rather than wrapping around the torso, Nadal maintains a near-vertical upward racket path throughout contact, generating **$3,600\text{ to }4,200\text{ RPM}$**. The ball hops **$1.7\text{ meters}$ high off the clay**, exploding into the opponent's backhand shoulder zone.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

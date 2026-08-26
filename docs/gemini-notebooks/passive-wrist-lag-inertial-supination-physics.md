@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Novice players actively cock their wrist backward with muscle force, causing severe forearm fatigue and tendinopathy. In the elite ATP forehand, **Wrist Lag is 100% Passive**. As the hips and shoulders accelerate forward, Newton's First Law (inertia) causes the heavy racket head to lag behind, passively extending the relaxed wrist into **$90^\circ	ext{ of Extension and Forearm Supination}$**. The wrist functions as an elastic sling, storing and releasing energy effortlessly.
+Novice players actively cock their wrist backward with muscle force, causing severe forearm fatigue and tendinopathy. In the elite ATP forehand, **Wrist Lag is 100% Passive**. As the hips and shoulders accelerate forward, Newton's First Law (inertia) causes the heavy racket head to lag behind, passively extending the relaxed wrist into **$90^\circ\text{ of Extension and Forearm Supination}$**. The wrist functions as an elastic sling, storing and releasing energy effortlessly.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

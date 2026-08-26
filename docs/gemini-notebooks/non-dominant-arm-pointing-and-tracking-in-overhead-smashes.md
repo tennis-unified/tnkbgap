@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-Dropping the non-dominant arm prematurely on overhead smashes causes shoulder dropping, eye jitter, and netted mis-hits. In elite smashes, the **Non-Dominant Left Arm Reaches Straight Up at the Ball (The Pointing Anchor)**. This performs three critical roles: (1) Locks the **Shoulder Axis at a $40^\circ	ext{ Cartwheel Tilt}$**, (2) Provides a visual calibration frame for depth perception, and (3) Pulls into the ribs during the swing to act as a **Rotational Brake**.
+Dropping the non-dominant arm prematurely on overhead smashes causes shoulder dropping, eye jitter, and netted mis-hits. In elite smashes, the **Non-Dominant Left Arm Reaches Straight Up at the Ball (The Pointing Anchor)**. This performs three critical roles: (1) Locks the **Shoulder Axis at a $40^\circ\text{ Cartwheel Tilt}$**, (2) Provides a visual calibration frame for depth perception, and (3) Pulls into the ribs during the swing to act as a **Rotational Brake**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

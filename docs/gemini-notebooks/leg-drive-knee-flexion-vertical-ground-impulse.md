@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The serve's kinetic chain begins with the ground. Force-plate analysis reveals that sinking into a **$115^\circ	ext{ knee flexion}$** trophy squat generates vertical ground reaction forces exceeding **$2,200	ext{ Newtons}$**. This upward-forward thrust converts linear vertical impulse ($J = \int F dt$) into rotational torso uncoiling, launching the server **$50	ext{cm}$ inside the baseline** at contact.
+The serve's kinetic chain begins with the ground. Force-plate analysis reveals that sinking into a **$115^\circ\text{ knee flexion}$** trophy squat generates vertical ground reaction forces exceeding **$2,200\text{ Newtons}$**. This upward-forward thrust converts linear vertical impulse ($J = \int F dt$) into rotational torso uncoiling, launching the server **$50\text{cm}$ inside the baseline** at contact.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

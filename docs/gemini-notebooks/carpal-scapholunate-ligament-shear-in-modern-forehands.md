@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-During 85 mph baseline impacts, the tennis frame undergoes violent torsional flutter, subjecting the carpus to **$45	ext{G Peak Impact Pulses}$**. The **Scapholunate Interosseous Ligament (SLIL)** is the primary stabilizer between the scaphoid and lunate bones. Striking heavy topspin with extreme extension and radial deviation strains the SLIL, risking **Dorsal Intercalated Segment Instability (DISI)**. Isometric wrist extensor conditioning is required to clamp carpal bones.
+During 85 mph baseline impacts, the tennis frame undergoes violent torsional flutter, subjecting the carpus to **$45\text{G Peak Impact Pulses}$**. The **Scapholunate Interosseous Ligament (SLIL)** is the primary stabilizer between the scaphoid and lunate bones. Striking heavy topspin with extreme extension and radial deviation strains the SLIL, risking **Dorsal Intercalated Segment Instability (DISI)**. Isometric wrist extensor conditioning is required to clamp carpal bones.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

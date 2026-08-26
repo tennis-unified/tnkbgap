@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The Two-Handed Backhand is the most versatile directional weapon in tennis. To hit **Crosscourt Diagonals**, contact occurs **$35	ext{cm}$ ahead of the front hip**, rotating the stringbed across the long court diagonal. For **Down-the-Line Lasers**, contact is delayed by **$8	ext{cm}$**, holding the **Shoulder Line Sideways until the last $25	ext{ms}$** to blast an $85	ext{ mph}$ winner down the sideline.
+The Two-Handed Backhand is the most versatile directional weapon in tennis. To hit **Crosscourt Diagonals**, contact occurs **$35\text{cm}$ ahead of the front hip**, rotating the stringbed across the long court diagonal. For **Down-the-Line Lasers**, contact is delayed by **$8\text{cm}$**, holding the **Shoulder Line Sideways until the last $25\text{ms}$** to blast an $85\text{ mph}$ winner down the sideline.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

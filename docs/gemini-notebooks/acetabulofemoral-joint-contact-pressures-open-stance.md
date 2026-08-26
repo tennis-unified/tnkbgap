@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-The modern open-stance forehand requires the lead hip to absorb $3.5	ext{x Bodyweight}$ in under $80	ext{ms}$. In deep flexion ($> 90^\circ$), adduction, and internal rotation, **Acetabulofemoral Contact Pressures exceed $12	ext{ MPa}$** at the **Anterosuperior Chondrolabral Junction**. This hydraulic stress can delaminate the articular cartilage from the subchondral bone. Modulating stance depth and pre-flaring the foot mitigates peak pressure.
+The modern open-stance forehand requires the lead hip to absorb $3.5\text{x Bodyweight}$ in under $80\text{ms}$. In deep flexion ($> 90^\circ$), adduction, and internal rotation, **Acetabulofemoral Contact Pressures exceed $12\text{ MPa}$** at the **Anterosuperior Chondrolabral Junction**. This hydraulic stress can delaminate the articular cartilage from the subchondral bone. Modulating stance depth and pre-flaring the foot mitigates peak pressure.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐

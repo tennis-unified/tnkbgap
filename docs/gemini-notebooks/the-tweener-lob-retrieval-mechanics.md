@@ -9,7 +9,7 @@
 
 ## Executive Abstract
 
-When a deep lob is unreachable for a standard groundstroke, champions execute the **Between-the-Legs 'Tweener'**. The player sprints straight past the ball, **Overrunning it by $40	ext{cm}$**, widens the legs into a deep stride, and lets the ball drop to **Shin Height ($20	ext{cm}$)** before snapping a rapid Continental wrist flick between the legs, launching a **$65	ext{ mph}$ passing winner**.
+When a deep lob is unreachable for a standard groundstroke, champions execute the **Between-the-Legs 'Tweener'**. The player sprints straight past the ball, **Overrunning it by $40\text{cm}$**, widens the legs into a deep stride, and lets the ball drop to **Shin Height ($20\text{cm}$)** before snapping a rapid Continental wrist flick between the legs, launching a **$65\text{ mph}$ passing winner**.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
