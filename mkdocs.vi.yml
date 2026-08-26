@@ -55,6 +55,7 @@ markdown_extensions:
   - pymdownx.details
   - tables
 nav:
+  - "← Thư Viện Tennis Thống Nhất": https://tennis-unified.github.io/vi/
   - Trang chủ: index.md
   - "Sách — Sân Thống Nhất":
       - "Tổng quan & Mục lục": book/index.md
@@ -74,6 +75,16 @@ nav:
       - "Ch 14: Pháo Đài Nội Tâm": book/chapter-14-the-fortress-within.md
       - "Ch 15: Cỗ Máy Vi Mô": book/chapter-15-the-microscopic-machine.md
       - "Ch 16: Tâm Trí Đồng Bộ": book/chapter-16-the-synchronized-mind.md
+  - "Mục Thư Viện Chính":
+      - "Nền tảng căn bản (Fundamentals)": https://tennis-unified.github.io/vi/fundamentals/
+      - "Phân tích cú đánh (Stroke Analysis)": https://tennis-unified.github.io/vi/stroke-analysis/
+      - "Thư viện video HLV (Coach Library)": https://tennis-unified.github.io/vi/coach-video-library/
+      - "Thư viện video kỹ thuật": https://tennis-unified.github.io/vi/tennis-video-library/
+      - "Từ điển kỹ thuật (Technical Wiki)": https://tennis-unified.github.io/vi/tennis-wiki-reference/
+      - "Thư viện tham khảo (Reference)": https://tennis-unified.github.io/vi/reference-library/
+      - "Cú đánh chuyên biệt (Specialty Shots)": https://tennis-unified.github.io/vi/specialty-shots/
+      - "Chiến thuật đánh đôi (Doubles)": https://tennis-unified.github.io/vi/doubles/
+      - "Cơ sinh học & Thần kinh học": https://tennis-unified.github.io/vi/biomechanics-neurology/
   - "Báo cáo khoảng trống":
       - "Cấp 1 — Giá trị cao": reports/tier-1-high-value-gaps.md
       - "Cấp 2 — Độ sâu chủ đề": reports/tier-2-topic-depth-gaps.md

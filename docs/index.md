@@ -12,12 +12,54 @@ This intranet mirrors that sweep so you can browse, cite, and revisit the findin
 !!! note "Pipeline state — 2026-08-24"
     **1,950** repo articles scanned · **476** books indexed · **92** concepts searched · **20** gaps found · **30+** books readable in browser · **8** modern-web supplements
 
+## 🌐 Tennis Unified Ecosystem & Main Library Links
+
+This research and gap analysis portal directly connects with the **[Tennis Unified Library](https://tennis-unified.github.io/)** (1,300+ articles, 880+ videos, 38 world-class coaches).
+
+<div class="grid cards" markdown>
+
+- ### 🏛️ [Tennis Unified Library (Main Site)](https://tennis-unified.github.io/)
+
+    ---
+
+    The primary unified knowledge base featuring 17 comprehensive sections, 38 coach collections, and stroke video archives.
+
+    [Explore Main Library →](https://tennis-unified.github.io/)
+
+- ### 📖 [The Master Book: The Unified Court](book/index.md)
+
+    ---
+
+    Our 16-chapter master treatise on Newtonian physics, biotensegrity (*Chan Si Jin*), 8-stage serve, and stroke mechanics.
+
+    [Read The Master Book →](book/index.md)
+
+- ### 🎥 [Coach Video Library (38 Coaches)](https://tennis-unified.github.io/coach-video-library/)
+
+    ---
+
+    Video archives from world-class coaches (Fuorivia, Fedorov, Macci, Yandell, Bollettieri, Lansdorp, Mouratoglou).
+
+    [Watch Coach Library →](https://tennis-unified.github.io/coach-video-library/)
+
+- ### ⚡ [Stroke Analysis & Fundamentals](https://tennis-unified.github.io/stroke-analysis/)
+
+    ---
+
+    Over 490+ deep articles covering pro forehands, backhands, serves, volleys, footwork, and tactical development.
+
+    [View Stroke Breakdowns →](https://tennis-unified.github.io/stroke-analysis/)
+
+</div>
+
 ---
 
 ## Quick navigation
 
 | I want to… | Where to go |
 |------------|-------------|
+| Explore the Main Knowledge Base | [Tennis Unified Main Site](https://tennis-unified.github.io/) · [Localhost 8766](http://localhost:8766/TP-Archive-Site/) |
+| Read The Master Book (16 Chapters) | [The Unified Court Overview](book/index.md) · [Bản Tiếng Việt](vi/book/index.md) |
 | Read the headline gap analysis | [Tennis Knowledge Gap Whitepaper](whitepapers/tennis-knowledge-gap-2026-08-24.md) |
 | Get a structured per-tier gap list | [Tier 1 — high-value gaps](reports/tier-1-high-value-gaps.md) · [Tier 2 — topic depth](reports/tier-2-topic-depth-gaps.md) · [Tier 3 — niche](reports/tier-3-niche-specialty.md) |
 | Read a tennis book in the browser | [Tennis Books Library](books/) — 34 titles, PDF inline reader |

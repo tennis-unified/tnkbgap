@@ -18,6 +18,8 @@ Chào mừng đến với **SÂN THỐNG NHẤT**, tác phẩm kinh điển 16 c
 
 Cuốn sách này thống nhất những gì camera tốc độ cao ghi lại về những tay vợt vĩ đại nhất thế giới với sự nhạy bén trực giác của các huấn luyện viên bậc thầy và các nguyên lý nội gia của dòng năng lượng động học tự nhiên (*Triền Ty Kình*, hạ trọng tâm *Đan Điền*, *Vô Vi*, và *Dĩ Nhu Khắc Cương*).
 
+> 💡 **Thư Viện Đồng Hành**: Khám phá toàn bộ bài học video minh họa và hơn 1.300 bài viết kỹ thuật chuyên sâu tại **[Thư Viện Tennis Thống Nhất](https://tennis-unified.github.io/vi/)** ([Phân Tích Cú Đánh](https://tennis-unified.github.io/vi/stroke-analysis/) · [Thư Viện Video HLV](https://tennis-unified.github.io/vi/coach-video-library/) · [Nền Tảng Căn Bản](https://tennis-unified.github.io/vi/fundamentals/) · [Chiến Thuật Đánh Đôi](https://tennis-unified.github.io/vi/doubles/)). Máy chủ nội bộ: [http://localhost:8766/TP-Archive-Site/vi/](http://localhost:8766/TP-Archive-Site/vi/).
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
 │                                  16 CHƯƠNG KINH ĐIỂN                                    │

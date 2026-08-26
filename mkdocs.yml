@@ -45,6 +45,7 @@ markdown_extensions:
   - pymdownx.details
   - tables
 nav:
+  - "← Tennis Unified Main Site": https://tennis-unified.github.io/
   - Home: index.md
   - "The Master Book":
       - "Book Overview & TOC": book/index.md
@@ -64,6 +65,17 @@ nav:
       - "Ch 14: The Fortress Within": book/chapter-14-the-fortress-within.md
       - "Ch 15: The Microscopic Machine": book/chapter-15-the-microscopic-machine.md
       - "Ch 16: The Synchronized Mind": book/chapter-16-the-synchronized-mind.md
+  - "Main Library Sections":
+      - "Fundamentals (350+ Articles)": https://tennis-unified.github.io/fundamentals/
+      - "Stroke Analysis (140+ Articles)": https://tennis-unified.github.io/stroke-analysis/
+      - "Coach Video Library (38 Coaches)": https://tennis-unified.github.io/coach-video-library/
+      - "Tennis Video Library": https://tennis-unified.github.io/tennis-video-library/
+      - "Technical Reference / Wiki": https://tennis-unified.github.io/tennis-wiki-reference/
+      - "Reference Library (10 Collections)": https://tennis-unified.github.io/reference-library/
+      - "Specialty Shots (64 Weapons)": https://tennis-unified.github.io/specialty-shots/
+      - "Doubles Mastery": https://tennis-unified.github.io/doubles/
+      - "Biomechanics & Neurology": https://tennis-unified.github.io/biomechanics-neurology/
+      - "Blog & Match Insights": https://tennis-unified.github.io/blog/
   - Books:
       - "All books (133 titles)": books/index.md
       - "Featured books":

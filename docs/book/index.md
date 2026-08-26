@@ -18,6 +18,8 @@ Welcome to **THE UNIFIED COURT**, a comprehensive 16-chapter master text synthes
 
 This book unites what high-speed cameras have finally revealed about the world’s greatest players with the intuitive, tactile wisdom of master coaches and the internal martial principles of effortless kinetic flow (*Chan Si Jin*, *Dantian* grounding, *Wu Wei*, and *Dĩ Nhu Khắc Cương*).
 
+> 💡 **Companion Library**: Explore the complete companion video lessons and 1,300+ technical articles on the **[Tennis Unified Main Library](https://tennis-unified.github.io/)** ([Stroke Analysis](https://tennis-unified.github.io/stroke-analysis/) · [Coach Video Library](https://tennis-unified.github.io/coach-video-library/) · [Fundamentals](https://tennis-unified.github.io/fundamentals/) · [Doubles](https://tennis-unified.github.io/doubles/)). Local server: [http://localhost:8766/TP-Archive-Site/](http://localhost:8766/TP-Archive-Site/).
+
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
 │                                 THE 16 MASTER CHAPTERS                                  │

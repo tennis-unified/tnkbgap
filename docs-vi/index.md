@@ -14,17 +14,58 @@ Mạng nội bộ này phản ánh khảo sát đó để bạn có thể duyệ
 !!! note "Trạng thái quy trình — 2026-08-24"
     **1.950** bài repo đã quét · **476** cuốn sách đã lập chỉ mục · **92** khái niệm đã tìm kiếm · **20** khoảng trống tìm thấy · **30+** cuốn sách có thể đọc trong trình duyệt · **8** bổ sung web hiện đại
 
+## 🌐 Hệ Thống Tennis Thống Nhất & Thư Viện Chính
+
+Cổng phân tích khoảng trống và nghiên cứu này kết nối trực tiếp với **[Thư Viện Tennis Thống Nhất (Tennis Unified Library)](https://tennis-unified.github.io/vi/)** (1.300+ bài viết, 880+ video, 38 huấn luyện viên thế giới).
+
+<div class="grid cards" markdown>
+
+- ### 🏛️ [Thư Viện Tennis Thống Nhất (Trang Chủ Chính)](https://tennis-unified.github.io/vi/)
+
+    ---
+
+    Hệ thống tri thức chính với 17 chuyên mục toàn diện, 38 bộ sưu tập huấn luyện viên và kho video cú đánh.
+
+    [Khám phá Thư Viện Chính →](https://tennis-unified.github.io/vi/)
+
+- ### 📖 [Sách: Sân Thống Nhất (16 Chương)](book/index.md)
+
+    ---
+
+    Chuyên luận 16 chương hoàn chỉnh về cơ sinh học, chuỗi động học (*Triền Ty Kình*), giao bóng 8 giai đoạn và cú thuận tay hiện đại.
+
+    [Đọc Sách Sân Thống Nhất →](book/index.md)
+
+- ### 🎥 [Thư Viện Video HLV (38 HLV)](https://tennis-unified.github.io/vi/coach-video-library/)
+
+    ---
+
+    Kho video từ các chuyên gia hàng đầu (Fuorivia, Fedorov, Macci, Yandell, Bollettieri, Lansdorp, Mouratoglou).
+
+    [Xem Video HLV →](https://tennis-unified.github.io/vi/coach-video-library/)
+
+- ### ⚡ [Phân Tích Cú Đánh & Nền Tảng](https://tennis-unified.github.io/vi/stroke-analysis/)
+
+    ---
+
+    Hơn 490+ bài viết chuyên sâu về kỹ thuật pro: Forehand, Backhand, Serve, Volley, Footwork và Chiến thuật.
+
+    [Xem Kỹ Thuật Đòn Đánh →](https://tennis-unified.github.io/vi/stroke-analysis/)
+
+</div>
+
 ---
 
 ## Điều hướng nhanh
 
 | Tôi muốn… | Đi đến đâu |
 |------------|-------------|
-| Xem danh sách khoảng trống theo cấp | [Cấp 1 — khoảng trống giá trị cao](/tnkbgap/reports/tier-1-high-value-gaps/) · [Cấp 2 — độ sâu chủ đề](/tnkbgap/reports/tier-2-topic-depth-gaps/) · [Cấp 3 — chuyên môn](/tnkbgap/reports/tier-3-niche-specialty/) |
-| Xem bối cảnh web hiện đại (2024–2026) | [Nghiên cứu quần vợt hiện đại 2024–2026](/tnkbgap/research/modern-tennis-2024-2026/) |
-| Xem nội dung kỹ thuật từ web | [Tổng kết nghiên cứu web](/tnkbgap/research/web-research-summary/) |
-| Xem chỉ mục nguồn uy tín | [Chỉ mục nguồn uy tín](/tnkbgap/research/authoritative-sources/) |
-| Xem đồng thuận hiện đại về cú đánh | [Đồng thuận cú đánh hiện đại](/tnkbgap/strokes/modern-stroke-consensus/) |
+| Truy cập Thư Viện Chính | [Tennis Unified Main Site](https://tennis-unified.github.io/vi/) · [Localhost 8766](http://localhost:8766/TP-Archive-Site/vi/) |
+| Đọc Sách Sân Thống Nhất (16 Chương) | [Tổng quan Sân Thống Nhất](book/index.md) · [English Edition](../book/index.md) |
+| Xem danh sách khoảng trống theo cấp | [Cấp 1 — khoảng trống giá trị cao](reports/tier-1-high-value-gaps.md) · [Cấp 2 — độ sâu chủ đề](reports/tier-2-topic-depth-gaps.md) · [Cấp 3 — chuyên môn](reports/tier-3-niche-specialty.md) |
+| Xem bối cảnh web hiện đại (2024–2026) | [Nghiên cứu quần vợt hiện đại 2024–2026](research/modern-tennis-2024-2026.md) |
+| Xem chỉ mục nguồn uy tín | [Chỉ mục nguồn uy tín](research/authoritative-sources.md) |
+| Xem đồng thuận hiện đại về cú đánh | [Đồng thuận cú đánh hiện đại](strokes/modern-stroke-consensus.md) |
 
 ---
 
