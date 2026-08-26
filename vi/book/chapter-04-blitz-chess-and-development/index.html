@@ -1,0 +1,1012 @@
+
+<!doctype html>
+<html lang="vi" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Phân phối 70-20-10 của Craig O'Shannessy, Kill Zones Serve+1 và Return+1, Directionals của Paul Wardlaw, rút ngắn nhịp độ của Brad Gilbert, và sự thành thạo LTAD.">
+      
+      
+        <meta name="author" content="Henry Pham">
+      
+      
+      
+      
+      
+        
+          <link rel="alternate" href="../../../" hreflang="en">
+        
+          <link rel="alternate" href="../../" hreflang="vi">
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Chương 4: Cờ Vua Tốc Độ Trên Nhựa — Chiến Thắng 0–4 Shots, Markov Chains & Phát triển Đa Năm - Trung Tâm Tri Thức Quần Vợt</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"DM Sans";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/css/site.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#chuong-4" class="md-skip">
+          Bỏ qua
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Đầu trang">
+    <a href="../.." title="Trung Tâm Tri Thức Quần Vợt" class="md-header__button md-logo" aria-label="Trung Tâm Tri Thức Quần Vợt" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Trung Tâm Tri Thức Quần Vợt
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Chương 4: Cờ Vua Tốc Độ Trên Nhựa — Chiến Thắng 0–4 Shots, Markov Chains & Phát triển Đa Năm
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Chuyển sang chế độ tối"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Chuyển sang chế độ tối" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Chuyển sang chế độ sáng"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Chuyển sang chế độ sáng" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+      <div class="md-header__option">
+  <div class="md-select">
+    
+    <button class="md-header__button md-icon" aria-label="Chọn ngôn ngữ">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.5 17.5 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2zm-2.62 7 1.62-4.33L19.12 17z"/></svg>
+    </button>
+    <div class="md-select__inner">
+      <ul class="md-select__list">
+        
+          <li class="md-select__item">
+            <a href="../../../" hreflang="en" class="md-select__link">
+              English
+            </a>
+          </li>
+        
+          <li class="md-select__item">
+            <a href="../../" hreflang="vi" class="md-select__link">
+              Tiếng Việt
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Tìm kiếm" placeholder="Tìm kiếm" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Tìm kiếm">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Xoá" aria-label="Xoá" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Trang chủ
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Sách — Sân Thống Nhất
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Thanh điều hướng" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Trung Tâm Tri Thức Quần Vợt" class="md-nav__button md-logo" aria-label="Trung Tâm Tri Thức Quần Vợt" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Trung Tâm Tri Thức Quần Vợt
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Trang chủ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sách — Sân Thống Nhất
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Sách — Sân Thống Nhất
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-08-the-classical-blade/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ch 8: Lưỡi Dao Cổ Điển
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-09-the-non-dominant-engine/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ch 9: Động Cơ Tay Không Thuận
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-10-point-blank-warfare/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ch 10: Chiến Tranh Cận Chiến
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../chapter-11-aerial-conquest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ch 11: Chinh Phục Không Trung
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#co-vua-toc-o-tren-nhua-chien-thang-04-shots-markov-chains-phat-trien-a-nam" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Cờ Vua Tốc Độ Trên Nhựa: Chiến Thắng 0–4 Shots, Markov Chains &amp; Phát triển Đa Năm
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Cờ Vua Tốc Độ Trên Nhựa: Chiến Thắng 0–4 Shots, Markov Chains &amp; Phát triển Đa Năm">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#i-thuc-te-70-20-10-du-lieu-ot-pha-cua-craig-oshannessy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        I. Thực tế 70-20-10: Dữ Liệu Đột Phá của Craig O'Shannessy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ii-chien-luoc-serve1-3-vung-kill-zone" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        II. Chiến lược Serve+1 &amp; 3 Vùng Kill-Zone
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="II. Chiến lược Serve+1 &amp; 3 Vùng Kill-Zone">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#3-vung-kill-zone-serve1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 Vùng Kill-Zone Serve+1
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#iii-tau-chien-return1-ly-thuyet-middle-channel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        III. Tấu chiến Return+1: Lý thuyết Middle-Channel
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#iv-directionals-cua-paul-wardlaw-quy-tac-toan-hoc-e-giam-thieu-loi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        IV. Directionals của Paul Wardlaw: Quy tắc Toán học để Giảm Thiểu Lỗi
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="IV. Directionals của Paul Wardlaw: Quy tắc Toán học để Giảm Thiểu Lỗi">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#quy-tac-1-qua-bong-crosscourt-nen-tra-crosscourt" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quy Tắc 1: Quả Bóng Crosscourt Nên trả Crosscourt
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quy-tac-2-qua-bong-down-the-line-co-the-uoc-anh-o-bat-ky-noao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quy Tắc 2: Quả Bóng Down-the-Line Có Thể Được Đánh ở Bất Kỳ Nơào
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#quy-tac-3-khong-bao-gio-thay-oi-huong-tren-bong-nam-tren-midline-sau-lung-ban" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quy Tắc 3: Không Bao Giờ Thay Đổi Hướng trên Bóng Nằm Trên Midline Sau Lưng Bạn
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#v-loi-nhuan-scoreline-cua-markov-chain-su-that-ve-30-30-30-40" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        V. Lợi Nhuận Scoreline của Markov Chain: Sự Thật Về 30-30 &amp; 30-40
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vi-chien-thang-ep-cua-brad-gilbert-pha-vo-nhip-o-entropy-chien-luoc" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VI. \"Chiến Thắng Đẹp\" của Brad Gilbert: Phá Vỡ Nhịp Độ &amp; Entropy Chiến lược
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vii-lo-trinh-phat-trien-lau-dai-5-cap-o-ltad" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VII. Lộ Trình Phát Triển Lâu Dài 5 Cấp Độ (LTAD)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#viii-mat-huan-luyen-vien-ma-tran-chan-oan-tactical" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VIII. Mắt Huấn luyện Viên: Ma Trận Chẩn Đoán Tactical
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ix-phong-thi-nghiem-tren-san-cac-bai-tap-chien-luoc-04-shots" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        IX. Phòng Thí Nghiệm Trên Sân: Các Bài Tập Chiến lược 0–4 Shots
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="IX. Phòng Thí Nghiệm Trên Sân: Các Bài Tập Chiến lược 0–4 Shots">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bai-1-tro-choi-kill-4-shot-ieu-chinh-first-strike" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bài 1: Trò Chơi Kill 4 Shot (Điều chỉnh First-Strike)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bai-2-thach-thuc-middle-third-target-box" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bài 2: Thách Thức Middle-Third Target Box
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="chuong-4">CHƯƠNG 4<a class="headerlink" href="#chuong-4" title="Permanent link">&para;</a></h1>
+<h2 id="co-vua-toc-o-tren-nhua-chien-thang-04-shots-markov-chains-phat-trien-a-nam">Cờ Vua Tốc Độ Trên Nhựa: Chiến Thắng 0–4 Shots, Markov Chains &amp; Phát triển Đa Năm<a class="headerlink" href="#co-vua-toc-o-tren-nhua-chien-thang-04-shots-markov-chains-phat-trien-a-nam" title="Permanent link">&para;</a></h2>
+<div style="font-size: 1.1em; font-style: italic; color: #555; margin-bottom: 20px; border-left: 4px solid #3f51b5; padding-left: 15px;">
+"Trong nhiều thập kỷ, văn hóa quần vợt đã lý tưởng hoá cuộc chiến 30 shots lẫn nhau ở baseline. Các huấn luyện viên nói với người chơi để \"chơi trọn bão.\" Nhưng khi dữ liệu lớn, theo dõi quang học Hawk-Eye, và mô hình chuỗi Markov gặp quần vợt chuyên nghiệp, chúng ghi ra một sự thật bất ngờ: quần vợt không phải là marathon. Quần vợt là cờ vua tốc độ quyết định trong 4 nước đi đầu tiên."
+</div>
+
+<hr />
+<h3 id="i-thuc-te-70-20-10-du-lieu-ot-pha-cua-craig-oshannessy">I. Thực tế 70-20-10: Dữ Liệu Đột Phá của Craig O'Shannessy<a class="headerlink" href="#i-thuc-te-70-20-10-du-lieu-ot-pha-cua-craig-oshannessy" title="Permanent link">&para;</a></h3>
+<p>Vào những năm 2010, nhà phân tích dữ liệu quần vợt Craig O'Shannessy (Brain Game Tennis), làm chiến lược chuyên gia hàng đầu cho Novak Djokovic, đã công bố phân tích hóa học hơn 500.000 điểm chơi tại Giải Grand Slam (Wimbledon, US Open, Roland Garros, Úc Open).</p>
+<p>Dữ liệu đã phá hủy huyền thoạing grinding:</p>
+<div class="highlight"><pre><span></span><code>┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│ PHÂN PHỐI ĐỘ DÀI TRẬN TẦNG GRAND SLAM                                                         │
+│                                                                                              │
+│ ██████████████████████████████████████████████ [0–4 Shots]: 70% của TẤT CẢ ĐIỂM                      │
+│ ████████████████ [5–8 Shots]: 20% của TẤT CẢ ĐIỂM                                           │
+│ ██████ [9+ Shots]: 10% của TẤT CẢ ĐIỂM                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+</code></pre></div>
+<blockquote>
+<p><strong>Gần 70% của tất cả các điểm trong quần vợt chuyên nghiệp kết thúc giữa Shot 1 và 4.</strong>
+- <strong>Shot 1</strong>: Cú serve.
+- <strong>Shot 2</strong>: Return của serve.
+- <strong>Shot 3</strong>: Cú gõ đầu tiên của người mở rộng (<strong>Serve + 1</strong>).
+- <strong>Shot 4</strong>: Cú gõ đầu tiên của người nhận (<strong>Return + 1</strong>).</p>
+</blockquote>
+<p>Các vòng tròn 9 shots trở lên chỉ chiếm <strong>10%</strong> tổng thời gian thi đấu. Tuy nhiên, khi bạn đi ngang các học viên hay sân công cộng, thì gì bạn thấy? Những người chơi dành 90% thời gian luyện tập bằng các vòng cộng tác thoải mái 20 shots ở căn giữa sân — luyện tập cho một kịch bản chỉ xuất hiện 1/10 trận.</p>
+<p>Nếu bạn muốn thống trị quần vợt hiện đại, bạn phải trở thành bậc thầy của <strong>First Strike: Chiến Tranh 0–4 Shots</strong>.</p>
+<hr />
+<h3 id="ii-chien-luoc-serve1-3-vung-kill-zone">II. Chiến lược Serve+1 &amp; 3 Vùng Kill-Zone<a class="headerlink" href="#ii-chien-luoc-serve1-3-vung-kill-zone" title="Permanent link">&para;</a></h3>
+<p>Trong trò chơi ATP và WTA hiện đại, cú serve không được gõ để tạo ra một ace; nó được gõ để <strong>điều khiển Shot 3 (Serve + 1)</strong>.</p>
+<p>Khi Roger Federer hoặc Carlos Alcaraz gửi bóng sang bên ngoài ở góc Deuce, mục tiêu chính của họ là kéo người nhận ra ngoài tramline doubles, tạo ra một cú return cao lơ lửng vào giữa hoặc bên Ad. Người mở rộng ngay lập tức chạy quanh để đưa ra vũ khí chính của họ: <strong>Forehand Inside-Out</strong>.</p>
+<div class="highlight"><pre><span></span><code>[Người mở rộng: Slider rộng ở góc Deuce] ──► [Người nhận kéo 3m rộng ra]
+ │
+ ▼
+[Serve + 1 Inside-Out Forehand] ◄── [Cú return lơ lửng yếu vào Middle]
+ │
+ ├──► Lựa chọn A: Laser vào sân trống (85 mph winner)
+ ├──► Lựa chọn B: Đánh đằng sau người nhận (Sụp đổ mômen)
+ └──► Lựa chọn C: Góc cạnh dày vào Service Box Tramline
+</code></pre></div>
+<h4 id="3-vung-kill-zone-serve1">3 Vùng Kill-Zone Serve+1<a class="headerlink" href="#3-vung-kill-zone-serve1" title="Permanent link">&para;</a></h4>
+<ol>
+<li><strong>Laser vào sân trống</strong>: Đập forehand vào phần sân trống đối diện với đường phục hồi của người nhận.</li>
+<li><strong>Bẫy Sai Chân</strong>: Đánh bóng <em>đằng sau</em> người nhận bạn chạy tới. Bởi vì trọng lượng của người nhận đang di chuyển ở 5.5 m/s trong hướng ngược lại, dừng và đảo chiều hướng yêu cầu vượt qua sự quán tính lớn, kết quả là sụp đổ hoàn toàn.</li>
+<li><strong>Góc Dày Service Box</strong>: Dùng 3.500 RPM topspin để thả bóng ngắn và rộng vào tramline service box, kéo người phòng thủ về trước và ra khỏi sân.</li>
+</ol>
+<hr />
+<h3 id="iii-tau-chien-return1-ly-thuyet-middle-channel">III. Tấu chiến Return+1: Lý thuyết Middle-Channel<a class="headerlink" href="#iii-tau-chien-return1-ly-thuyet-middle-channel" title="Permanent link">&para;</a></h3>
+<p>Nếu mục tiêu chiến lược chính của người mở rộng là tấn công vào Shot 3, thì biện pháp phản hồi cao điểm nhất của người nhận ở Shot 2?</p>
+<p>Những người mới thường mắc sai lầm bi đùng bởi cố gắng đánh trúng dọc xuống dòng trên những cú serve 125 mph. Họ bỏ sót rộng hoặc chạm phần cao nhất của dây mạng.</p>
+<p>Các nhà chiến lược cao thủ tuân theo <strong>Lý thuyên Middle-Channel</strong>:</p>
+<blockquote>
+<p><strong>Đánh 80% các cú return trên cú serve đầu tiên sâu xuống trong phần tam phần giữa baseline (2m corridor giữa các hash service).</strong></p>
+</blockquote>
+<div class="highlight"><pre><span></span><code>┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│ CÔNG TRONG REFLECTION CONE TRUNG TÂM                                                       │
+│ │                                                                                              │
+│ [Return đánh xuống trung tâm hash] ──► Góc phản hồi của người mở rộng nén xuống &lt; 14°            │
+│ [Return đánh rộng vào góc] ──► Góc phản hùng của người mở rộng mở rộng &gt; 42°                     │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+</code></pre></div>
+<p>Tại sao middle channel hoạt động một cách tàn bạo?
+1. <strong>Nén Góc</strong>: Việc trả về trung tâm nén hình học phản xạ của người mở rộng từ góc 42° thành dưới <strong>14°</strong>. Không có góc nào để làm bạn tổn thương.
+2. <strong>Khoảng cách quay bị nghẹt</strong>: Bóng trường hỏi dọc thẳng vào bụi bơi của người mở rộng ngăn họ bước vào một vòng cuộn thái độ mở. Người mở rộng buộc phải quay lại thẳng cạnh lệch.
+3. <strong>Lợi thế an toàn tối đa</strong>: Đánh qua phần thấp nhất của mạng (36 inches) vào phần sâu nhất của sân (78 feet), giảm các lỗi không ép buộc xuống mức tối thiểu.</p>
+<hr />
+<h3 id="iv-directionals-cua-paul-wardlaw-quy-tac-toan-hoc-e-giam-thieu-loi">IV. Directionals của Paul Wardlaw: Quy tắc Toán học để Giảm Thiểu Lỗi<a class="headerlink" href="#iv-directionals-cua-paul-wardlaw-quy-tac-toan-hoc-e-giam-thieu-loi" title="Permanent link">&para;</a></h3>
+<p>Một trong những khung huấn luyện sâu sắc nhất trong lịch sử tennis là <strong>Directionals của Wardlaw</strong>, do huấn luyện viên đại học Paul Wardlaw phát triển. Nó thiết lập quy tắc quyết định toán học dựa trên hình học quỹ đạo:</p>
+<h4 id="quy-tac-1-qua-bong-crosscourt-nen-tra-crosscourt">Quy Tắc 1: Quả Bóng Crosscourt Nên trả Crosscourt<a class="headerlink" href="#quy-tac-1-qua-bong-crosscourt-nen-tra-crosscourt" title="Permanent link">&para;</a></h4>
+<p>Khi đối thủ đánh một quả bóng chéo qua sân, nó đi qua cơ thể từ bên ngoài vào trong. Để thay đổi hướng và đánh xuống dòng, bạn phải đánh sớm và chuyển hướng momen vào bằng 45°, gây ra lỗi cao. Trả crosscourt cho phép bạn rung theo đường bay tự nhiên, đánh qua phần thấp nhất của mạng (3.0ft) với khoảng cách sân dài nhất (82.5 ft từ góc đến góc).</p>
+<h4 id="quy-tac-2-qua-bong-down-the-line-co-the-uoc-anh-o-bat-ky-noao">Quy Tắc 2: Quả Bóng Down-the-Line Có Thể Được Đánh ở Bất Kỳ Nơào<a class="headerlink" href="#quy-tac-2-qua-bong-down-the-line-co-the-uoc-anh-o-bat-ky-noao" title="Permanent link">&para;</a></h4>
+<p>Khi đối thủ đánh xuống dòng, bóng bay thẳng về phía bạn. Bạn dễ dàng đưa nó trở lại hoặc chuyển hướng bằng full control.</p>
+<h4 id="quy-tac-3-khong-bao-gio-thay-oi-huong-tren-bong-nam-tren-midline-sau-lung-ban">Quy Tắc 3: Không Bao Giờ Thay Đổi Hướng trên Bóng Nằm Trên Midline Sau Lưng Bạn<a class="headerlink" href="#quy-tac-3-khong-bao-gio-thay-oi-huong-tren-bong-nam-tren-midline-sau-lung-ban" title="Permanent link">&para;</a></h4>
+<p>Nếu bạn bị chậm và buộc phải đánh một quả bóng sau hông dẫn, cố gắng đánh xuống dòng đảm bảo một frame shank. Bạn phải lăn bóng crosscourt với topspin để đặt lại điểm.</p>
+<hr />
+<h3 id="v-loi-nhuan-scoreline-cua-markov-chain-su-that-ve-30-30-30-40">V. Lợi Nhuận Scoreline của Markov Chain: Sự Thật Về 30-30 &amp; 30-40<a class="headerlink" href="#v-loi-nhuan-scoreline-cua-markov-chain-su-that-ve-30-30-30-40" title="Permanent link">&para;</a></h3>
+<p>Trong lý thuyết trò chơi thống kê, tennis là một <strong>quá trình Markov Chain 18 trạng thái</strong>. Bởi tennis sử dụng hệ thống điểm đặc thù (15, 30, 40, Game) nơi bạn cần thắng các điểm then chốt để giành game, không phải tất cả các điểm đều bằng nhau.</p>
+<div class="highlight"><pre><span></span><code>┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│ NHÂN HẠ LỢI NHUẬN CỦA ĐIỂM (XÁC SUẤT GAME)                                                │
+│ │                                                                                              │
+│ [Score: 0-0] ──► Leverage: 1.0x (Giá trị cơ sở)                                               │
+│ [Score: 40-0] ──► Leverage: 0.2x (Tác động thấp tới kết quả game)                           │
+│ [Score: 30-30] ──► Leverage: 3.2x (Trạng thái chuyển đổi lớn)                                │
+│ [Score: 30-40] ──► Leverage: 3.8x (BREAK POINT: Leverage Tối đa của game)                │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+</code></pre></div>
+<p>Mô hình toán học cho thấy thắng điểm ở <strong>30-30</strong> tăng xác suất thắng game của người mở rộng từ <strong>50% lên trên 82%</strong>.</p>
+<p>Tuy nhiên, dưới áp lực 30-30 hoặc 30-40 (break point), những người mới thường siết chặt và trở nên biếc liệt, hy vọng đối thủ sẽ sai.</p>
+<p>Dữ liệu cho thấy chơi thụ động ở break point giảm tỷ lệ chuyển đổi break <strong>24%</strong>. Những người giỏi nhất trong lịch sử — Rafael Nadal, Serena Williams, Novik Djokovic — đều không chơi nhẹ nhàng ở break point; họ thực hiện các mô hình xuất hiện hung aggressive với tỷ lệ cao và sự quyết tâm không ngừng.</p>
+<hr />
+<h3 id="vi-chien-thang-ep-cua-brad-gilbert-pha-vo-nhip-o-entropy-chien-luoc">VI. \"Chiến Thắng Đẹp\" của Brad Gilbert: Phá Vỡ Nhịp Độ &amp; Entropy Chiến lược<a class="headerlink" href="#vi-chien-thang-ep-cua-brad-gilbert-pha-vo-nhip-o-entropy-chien-luoc" title="Permanent link">&para;</a></h3>
+<p>Trong cuốn sách kinh điển của mình <em>Winning Ugly</em>, cự phủ thế giới số 4 Brad Gilbert đã vẽ nền tảng tâm lý để đánh bại những đối thủ sở hữu cú gõ vật lý vượt trội:</p>
+<blockquote>
+<p><strong>\"Nếu đối thủ yêu thích tốc độ cao, đừng cho họ nhịp độ. Hãy cho họ xấu xí.\"</strong></p>
+</blockquote>
+<p>Nếu bạn đối mặt với một người hùng 6ft 4in đập các quả bóng 85 mph ở chiều cao thắt lưng, việc cung cấp thêm nhịp độ nhanh sẽ chơi trên vòng thực thi của họ. Các nhà chiến lược gia hàng đầu giới thiệu <strong>Entropy Chiến lược</strong>:
+1. <strong>Cú Cầu</strong>: Các quả bóng cao, lượn với lượng topspin, bay qua mạng 8 feet, đẩy người đẩy phía sau baseline.
+2. <strong>Cú Lát</strong>: Các quả bóng thấp, rút lên ở mức giày (&lt; 12 inches), ép người hùng phải gập gùi 90°.
+3. <strong>Biến Thể Nhịp</strong>: Dùng 25 giây giữa các điểm, thay đổi ném serve, và dùng các cú drop shot để tước lấy nhịp.</p>
+<hr />
+<h3 id="vii-lo-trinh-phat-trien-lau-dai-5-cap-o-ltad">VII. Lộ Trình Phát Triển Lâu Dài 5 Cấp Độ (LTAD)<a class="headerlink" href="#vii-lo-trinh-phat-trien-lau-dai-5-cap-o-ltad" title="Permanent link">&para;</a></h3>
+<p>Xây dựng một vận động viên quần vợt vô địch không phải là một cuộc chạy nhanh qua đêm; mà là một <strong>Quy Trình Sinh Học 10 Năm, 10.000 Giờ</strong>:</p>
+<div class="highlight"><pre><span></span><code>┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│ BẢN ĐỒ ĐƯỜNG 5 CẤP LTAD                                                                      │
+│                                                                                              │
+│ [Giai đoạn 1: 6–9 tuổi] ──► Đa môn thể thao, Năng động, Cân bằng &amp; Vui vẻ                │
+│ [Giai đoạn 2: 9–12 tuổi] ──► Cơ học Cơ bản, Giao thừng chuyển động &amp; Xoay                │
+│ [Giai đoạn 3: 12–15 tuổi] ──► Chiều cao trung bình (PHV), Cân chỉnh và Cốt lõi            │
+│ [Giai đoạn 4: 15–18 tuổi] ──► Chiến lược First-Strike 0–4, Cường hóa Sức mạnh &amp; Sự kiên cường tinh thần │
+│ [Giai đoạn 5: 18 tuổi trở lên] ──► Tối ưu cho Hành trình Chuyên nghiệp, Sin học &amp; Dòng chảy Thế giới      │
+└──────────────────────────────────────────────────────────────────────────────────────────┘
+</code></pre></div>
+<p>Trong <strong>Giai đoạn 3 (Chiều Cao Trung Bình)</strong>, thanh thiếu niên trải qua sự tăng trưởng xương nhanh chóng nơi các cánh tay dài (<em>r</em>) kéo dài hàng vài inches trong vài tháng, thay đổi Moment of Inertia (<em>I = m · r</em>²). Những huấn luyện viên không hiểu cơ học tăng trưởng chẩn đoán sự vụng về này như \"tài năng mất\". Người huấn luyện thông minh sử dụng <strong>Bio-Banding</strong>, nhẹ cân nặng, và tập trung vào ổn định cơ thần cho đến khi khớp tăng trưởng liên tục.</p>
+<hr />
+<h3 id="viii-mat-huan-luyen-vien-ma-tran-chan-oan-tactical">VIII. Mắt Huấn luyện Viên: Ma Trận Chẩn Đoán Tactical<a class="headerlink" href="#viii-mat-huan-luyen-vien-ma-tran-chan-oan-tactical" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th>Lỗi Chiến lược</th>
+<th>Chi phí trận đấu</th>
+<th>Biện pháp Chiến lược Cao Trình</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Giao hàng mà không có thái độ (Bẫy \"Grinder\")</strong></td>
+<td>Năng lượng cho 15-vòng round trong khi thua cuộc 0–4 shot.</td>
+<td><strong>Lệnh Serve+1</strong>: Chỉ định mục tiêu cho Shot 3 trước mỗi lần serve.</td>
+</tr>
+<tr>
+<td><strong>Nhầm lẫn xuống dòng trên các bóng crosscourt</strong></td>
+<td>Tặng điểm 6–8 không ép buộc mỗi set.</td>
+<td><strong>Phong trào Wardlaw</strong>: Dính chặt vào crosscourt mặc định cho đến khi một bóng ngắn.</td>
+</tr>
+<tr>
+<td><strong>Đẩy yếu lực ở Break Point</strong></td>
+<td>24% giảm tỷ lệ chuyển đổi break point.</td>
+<td><strong>Sự xuất hiện First-Strike</strong>: Tấn công cú return thứ hai 1.5m vào sân với forehand bên trong ra.</td>
+</tr>
+<tr>
+<td><strong>Cung cấp nhịp cho Heavy Hitters</strong></td>
+<td>Đối thủ đạt tới tốc độ cruise 85 mph và vào trạng thái dòng chảy.</td>
+<td><strong>Entropy Gilbert</strong>: Xen kẽ cú moonball cao với cú lát thấp và cú drop shot bất ngờ.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3 id="ix-phong-thi-nghiem-tren-san-cac-bai-tap-chien-luoc-04-shots">IX. Phòng Thí Nghiệm Trên Sân: Các Bài Tập Chiến lược 0–4 Shots<a class="headerlink" href="#ix-phong-thi-nghiem-tren-san-cac-bai-tap-chien-luoc-04-shots" title="Permanent link">&para;</a></h3>
+<h4 id="bai-1-tro-choi-kill-4-shot-ieu-chinh-first-strike">Bài 1: Trò Chơi Kill 4 Shot (Điều chỉnh First-Strike)<a class="headerlink" href="#bai-1-tro-choi-kill-4-shot-ieu-chinh-first-strike" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Quy tắc tính điểm</strong>: Chơi các vòng tiebreak thường tới 10 điểm với một quy tắc tuyệt đối: <strong>Nếu vòng tròn vượt quá 4 shots mà không có chiến thắng hoặc lỗi buộc, CẢ hai người chơi được 0 điểm</strong>.</li>
+<li><strong>Hiệu lực</strong>: Nhanh chóng chỉnh sửa não người chơi để săn Serve+1 và Return+1 aggressive, loại bỏ việc lững thững ở baseline.</li>
+</ul>
+<h4 id="bai-2-thach-thuc-middle-third-target-box">Bài 2: Thách Thức Middle-Third Target Box<a class="headerlink" href="#bai-2-thach-thuc-middle-third-target-box" title="Permanent link">&para;</a></h4>
+<ul>
+<li><strong>Thiết lập</strong>: Đánh dấu một hộp vuông 2m × 2m trên hash dịch vụ trung tâm của baseline đối thủ.</li>
+<li><strong>Thực hiện</strong>: Chấp nhận 20 cú serve đầu tiên. Người nhận phải lấy ít nhất <strong>14 trong 20</strong> cú return trúng hộp tam phần.</li>
+<li><strong>Kết quả</strong>: Nén mạnh góc tấn công Shot-3 của người mở rộng và xây dựng độ tin cậy khoảng trống trước.</li>
+</ul>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Trở lại mục lục
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 2026 Henry Phạm Đức · Tennis Future Lab Research · Toàn bộ nội dung phục vụ mục đích giáo dục.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.path", "navigation.indexes", "navigation.prev_next", "navigation.footer"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u0110\u00e3 sao ch\u00e9p", "clipboard.copy": "Sao ch\u00e9p v\u00e0o b\u1ed9 nh\u1edb t\u1ea1m", "search.result.more.one": "1 t\u1eeb kh\u00e1c trong trang", "search.result.more.other": "# t\u1eeb kh\u00e1c trong trang", "search.result.none": "Kh\u00f4ng t\u00ecm th\u1ea5y t\u00e0i li\u1ec7u li\u00ean quan", "search.result.one": "1 t\u00e0i li\u1ec7u li\u00ean quan", "search.result.other": "# t\u00e0i li\u1ec7u li\u00ean quan", "search.result.placeholder": "Nh\u1eadp \u0111\u1ec3 b\u1eaft \u0111\u1ea7u t\u00ecm ki\u1ebfm", "search.result.term.missing": "Kh\u00f4ng", "select.version": "Ch\u1ecdn phi\u00ean b\u1ea3n"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+    
+  </body>
+</html>

@@ -1,0 +1,234 @@
+/* Site CSS -- Tennis Knowledge Gap Intranet (2026-08-24 rewrite).
+   Philosophy: make the smallest number of overrides possible and let
+   mkdocs-material's own responsive grid do its job. */
+
+/* Slightly larger base font for readability */
+html {
+  font-size: calc(118% * var(--tp-font-scale, 1));
+}
+
+.md-typeset {
+  font-size: 0.8rem;
+  line-height: 1.65;
+}
+
+.md-typeset h1 { font-size: 1.9rem; }
+.md-typeset h2 { font-size: 1.5rem; }
+.md-typeset h3 { font-size: 1.25rem; }
+
+@media screen and (max-width: 480px) {
+  html { font-size: calc(125% * var(--tp-font-scale, 1)); }
+}
+
+/* Pipeline state banner — distinctive synthesis state */
+.md-typeset .admonition.note {
+  border-left: 4px solid var(--md-accent-fg-color, #1976d2);
+}
+
+.md-typeset code {
+  font-size: 0.85em;
+}
+
+.md-typeset .md-typeset__table code {
+  white-space: nowrap;
+}
+
+/* ===== Tennis Knowledge Gap Intranet specific ===== */
+
+/* Sidebar: clean, easy nav with topic sections */
+.md-nav__list .md-nav__list {
+  border-left: 1px dotted var(--md-default-fg-color--lightest, rgba(0,0,0,0.1));
+}
+
+/* Compact card-style boxes for tier reports and books */
+.gap-card {
+  display: block;
+  padding: 16px 20px;
+  margin: 12px 0;
+  border-radius: 8px;
+  border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+  background: var(--md-default-bg-color, #fff);
+  transition: border-color 0.15s, box-shadow 0.15s;
+  text-decoration: none;
+  color: inherit;
+}
+.gap-card:hover {
+  border-color: var(--md-accent-fg-color, #1976d2);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.gap-card-tier {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-accent-fg-color, #1976d2);
+  margin-bottom: 4px;
+}
+.gap-card-title {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.gap-card-desc {
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light, #666);
+}
+
+/* Books grid */
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 16px 0;
+}
+.book-card {
+  display: flex;
+  flex-direction: column;
+  padding: 14px 16px;
+  border-radius: 8px;
+  border: 1px solid var(--md-default-fg-color--lightest, #e0e0e0);
+  background: var(--md-default-bg-color, #fff);
+  transition: border-color 0.15s, box-shadow 0.15s;
+  text-decoration: none;
+  color: inherit;
+}
+.book-card:hover {
+  border-color: var(--md-accent-fg-color, #1976d2);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.book-card-domain {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--md-accent-fg-color, #1976d2);
+  margin-bottom: 6px;
+}
+.book-card-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+.book-card-author {
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light, #888);
+  font-style: italic;
+  margin-bottom: 8px;
+}
+.book-card-read {
+  font-size: 0.85rem;
+  color: var(--md-accent-fg-color, #1976d2);
+  margin-top: auto;
+}
+
+/* PDF iframe viewer — full screen width so pages render at 100% without cropping */
+.pdf-viewer {
+  width: 100%;
+  height: 85vh;
+  min-height: 700px;
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+  border-radius: 6px;
+  background: #525659;
+  display: block;
+}
+
+/* Make the main content column full-width when a book reader page is shown */
+.md-content__inner {
+  max-width: 100%;
+}
+
+.md-main__inner {
+  max-width: 100%;
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-content {
+    max-width: none;
+  }
+  .md-content__inner {
+    margin-right: 0 !important;
+    max-width: 100%;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+/* Books filter */
+.books-filter {
+  background: var(--md-default-bg-color, #fff);
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0 24px;
+}
+.books-filter-input {
+  width: 100%;
+  padding: 8px 12px;
+  font-family: inherit;
+  font-size: 0.9rem;
+  border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+.books-filter-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+.books-filter-tag {
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--md-default-fg-color--lightest, #f0f0f0);
+  font-size: 0.75rem;
+  cursor: pointer;
+  user-select: none;
+  border: 1px solid transparent;
+}
+.books-filter-tag.active {
+  background: var(--md-accent-fg-color, #1976d2);
+  color: white;
+  border-color: var(--md-accent-fg-color, #1976d2);
+}
+
+/* Hide drawer and search to keep nav simple */
+.md-toggle[data-md-toggle="drawer"] { display: none; }
+label[for="__drawer"] { display: none; }
+.md-drawer { display: none; }
+.md-search { display: none; }
+
+/* Hide header buttons except title */
+.md-header__button.md-icon:not(.md-source) { display: none; }
+
+/* Tier badges inline */
+.tier-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 2px 8px;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+.tier-badge-1 { background: #d32f2f; color: white; }
+.tier-badge-2 { background: #f57c00; color: white; }
+.tier-badge-3 { background: #388e3c; color: white; }
+
+/* Hide the secondary TOC */
+@media screen and (max-width: 76.25em) {
+  .md-sidebar--secondary { display: none !important; }
+  .md-content__inner { margin-right: 0 !important; }
+}
+
+.md-typeset img { max-width: 100%; height: auto; }
+
+.md-typeset table:not([class]) {
+  display: block;
+  overflow-x: auto;
+}
+
+/* Compact footer */
+.md-footer-meta { padding: 8px 16px; }
+.md-footer-meta__inner { font-size: 0.7rem; }
