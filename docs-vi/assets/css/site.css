@@ -350,6 +350,27 @@ a, button, .md-nav__link, .md-tabs__link, .page-nav a, .lang-card, .book-card, .
 }
 
 /* ============================================================
+   Full-width responsive layout — override Material's max-width
+   so content fills 100% of the screen on every viewport size
+   ============================================================ */
+.md-grid,
+.md-content,
+.md-content__inner,
+.md-typeset,
+.md-main,
+.md-main__inner,
+.md-container,
+.md-typeset__inner {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.md-sidebar,
+.md-nav {
+  max-width: 100% !important;
+}
+
+/* ============================================================
    Mobile & Android Optimization — 20px Base Font Size
    ============================================================ */
 @media screen and (max-width: 768px) {
