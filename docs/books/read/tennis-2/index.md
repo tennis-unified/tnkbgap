@@ -16,11 +16,11 @@ Tennis. Curated from the Tennis Books library.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Tennis%282%29.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis">
-  Your browser does not support inline PDF viewing. <a href="../../Tennis%282%29.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="https://archive.org/download/makingtenniscour00walsrich/makingtenniscour00walsrich.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis">
+  Your browser does not support inline PDF viewing. <a href="https://archive.org/download/makingtenniscour00walsrich/makingtenniscour00walsrich.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Tennis%282%29.pdf) · [Open in new tab ↗](../../Tennis%282%29.pdf)
+[Download the PDF ↗](https://archive.org/download/makingtenniscour00walsrich/makingtenniscour00walsrich.pdf) · [Open in new tab ↗](https://archive.org/download/makingtenniscour00walsrich/makingtenniscour00walsrich.pdf)
 
 ---
 

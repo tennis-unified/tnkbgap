@@ -16,11 +16,11 @@ Winning tennis doubles. Curated from the Tennis Books library.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Winning_tennis_doubles.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Winning tennis doubles">
-  Your browser does not support inline PDF viewing. <a href="../../Winning_tennis_doubles.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="https://archive.org/download/Virtua_Tennis_2000_Sega_US/Virtua_Tennis_2000_Sega_US.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Winning tennis doubles">
+  Your browser does not support inline PDF viewing. <a href="https://archive.org/download/Virtua_Tennis_2000_Sega_US/Virtua_Tennis_2000_Sega_US.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Winning_tennis_doubles.pdf) · [Open in new tab ↗](../../Winning_tennis_doubles.pdf)
+[Download the PDF ↗](https://archive.org/download/Virtua_Tennis_2000_Sega_US/Virtua_Tennis_2000_Sega_US.pdf) · [Open in new tab ↗](https://archive.org/download/Virtua_Tennis_2000_Sega_US/Virtua_Tennis_2000_Sega_US.pdf)
 
 ---
 

@@ -16,11 +16,11 @@ Tennis handbook. Curated from the Tennis Books library.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Tennis_handbook.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis handbook">
-  Your browser does not support inline PDF viewing. <a href="../../Tennis_handbook.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis handbook">
+  Your browser does not support inline PDF viewing. <a href="https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Tennis_handbook.pdf) · [Open in new tab ↗](../../Tennis_handbook.pdf)
+[Download the PDF ↗](https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf) · [Open in new tab ↗](https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf)
 
 ---
 

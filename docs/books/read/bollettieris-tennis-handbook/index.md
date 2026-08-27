@@ -16,11 +16,11 @@ Bollettieris Tennis Handbook. Curated from the Tennis Books library.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Bollettieris_Tennis_Handbook.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Bollettieris Tennis Handbook">
-  Your browser does not support inline PDF viewing. <a href="../../Bollettieris_Tennis_Handbook.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Bollettieris Tennis Handbook">
+  Your browser does not support inline PDF viewing. <a href="https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Bollettieris_Tennis_Handbook.pdf) · [Open in new tab ↗](../../Bollettieris_Tennis_Handbook.pdf)
+[Download the PDF ↗](https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf) · [Open in new tab ↗](https://archive.org/download/ERIC_ED093807/ERIC_ED093807.pdf)
 
 ---
 

@@ -16,11 +16,11 @@ Tennis 101. Curated from the Tennis Books library.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Tennis%20101.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis 101">
-  Your browser does not support inline PDF viewing. <a href="../../Tennis%20101.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="https://archive.org/download/lawntennisasgame00peil/lawntennisasgame00peil.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis 101">
+  Your browser does not support inline PDF viewing. <a href="https://archive.org/download/lawntennisasgame00peil/lawntennisasgame00peil.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Tennis%20101.pdf) · [Open in new tab ↗](../../Tennis%20101.pdf)
+[Download the PDF ↗](https://archive.org/download/lawntennisasgame00peil/lawntennisasgame00peil.pdf) · [Open in new tab ↗](https://archive.org/download/lawntennisasgame00peil/lawntennisasgame00peil.pdf)
 
 ---
 

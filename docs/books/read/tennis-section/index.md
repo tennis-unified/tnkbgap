@@ -16,11 +16,11 @@ Tennis Section. Curated from the Tennis Books library.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Tennis-Section.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis Section">
-  Your browser does not support inline PDF viewing. <a href="../../Tennis-Section.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="https://archive.org/download/ERIC_ED127308/ERIC_ED127308.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Tennis Section">
+  Your browser does not support inline PDF viewing. <a href="https://archive.org/download/ERIC_ED127308/ERIC_ED127308.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Tennis-Section.pdf) · [Open in new tab ↗](../../Tennis-Section.pdf)
+[Download the PDF ↗](https://archive.org/download/ERIC_ED127308/ERIC_ED127308.pdf) · [Open in new tab ↗](https://archive.org/download/ERIC_ED127308/ERIC_ED127308.pdf)
 
 ---
 
