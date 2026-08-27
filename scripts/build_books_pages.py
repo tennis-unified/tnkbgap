@@ -11,7 +11,11 @@ Then this script also rewrites docs/books/index.md with all books listed.
 
 import os
 import re
+import sys
+import shutil
 from pathlib import Path
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 BOOKS_DIR = Path(r"D:/Github Repos/research-intranet/site/books")
 DOCS_READ = Path(r"D:/Github Repos/research-intranet/docs/books/read")
@@ -264,9 +268,8 @@ def make_page(pdf_filename: str) -> str:
     safe_author = author.replace('"', '\\"')
     safe_desc = desc.replace('"', '\\"')
 
-    # The PDF is at site/books/{filename}. Site URL for the page is /books/read/<slug>/
-    # The relative path from rendered page is ../../{filename}
-    pdf_url = f"../../{pdf_filename.replace(' ', '%20').replace(',', '%2C').replace('&', '%26').replace('(', '%28').replace(')', '%29')}"
+    import urllib.parse
+    pdf_url = f"../../{urllib.parse.quote(pdf_filename)}"
 
     slug = slugify(pdf_filename.replace(".pdf", ""))
 
@@ -392,8 +395,6 @@ def make_index(pages: list) -> None:
 def main():
     # Clean out stale reader pages so that removed/renamed books don't leave orphans
     import shutil
-    if DOCS_READ.exists():
-        shutil.rmtree(DOCS_READ)
     DOCS_READ.mkdir(parents=True, exist_ok=True)
 
     pages = []

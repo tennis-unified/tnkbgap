@@ -9,7 +9,7 @@ description: Main deliverable of the tennis-book vs Tennis-Unified intranet gap 
 
 This whitepaper is the headline artifact. It ranks the 20 gaps by educational value, attaches the source books to every claim, and tells you exactly which articles to extract first.
 
-A web-research supplement (peer-reviewed journals, ITF/ATP/WTA official sources, Wikipedia) updates the book-side evidence with current 2024–2026 context. See [Modern tennis research 2024–2026](../research/modern-tennis-2024-2026.md) and [Web-research technical content](../research/web-research-summary.md).
+A web-research supplement (peer-reviewed journals, ITF/ATP/WTA official sources, Wikipedia) updates the book-side evidence with current 2024–2026 context. See [Modern tennis research 2024–2026](../research/modern-tennis-2024-2026.md) and [Web-research technical content](https://tennis-unified.github.io/tnkbgap/research/web-research-summary/).
 
 ---
 
@@ -124,7 +124,7 @@ The full per-gap evidence is in the [Tier 1 report](../reports/tier-1-high-value
 The book-side evidence above (mostly 2008–2018) is supplemented with current authoritative sources:
 
 - [Modern tennis research 2024–2026](../research/modern-tennis-2024-2026.md) — Alcaraz/Sinner/Sabalenka/Swiatek profiles, ITF rule changes, Hawk-Eye Live rollout, Paris 2024 wheelchair tennis
-- [Web-research technical content](../research/web-research-summary.md) — Rod Cross extended data, Kovacs/Ellenbecker 8-stage full table, aerodynamics cross-reference table
+- [Web-research technical content](https://tennis-unified.github.io/tnkbgap/research/web-research-summary/) — Rod Cross extended data, Kovacs/Ellenbecker 8-stage full table, aerodynamics cross-reference table
 - [Authoritative sources index](../research/authoritative-sources.md) — tennisplayer.net, Wikipedia, ITF, ATP/WTA, peer-reviewed research
 
 ---

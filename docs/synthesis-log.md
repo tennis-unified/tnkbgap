@@ -83,7 +83,7 @@ Updated each time a new gap report or web supplement is generated.
 
 ### gap-20260824-006 — Web-research technical content
 
-- **Path:** `docs/research/web-research-summary.md`
+- **Path:** `docs/https://tennis-unified.github.io/tnkbgap/research/web-research-summary/`
 - **Confidence:** 0.90
 - **Sources:** Cross (AJP 2011), Cross & Lindsey (Sports Engineering 2013), Kovacs & Ellenbecker (Sports Health 2011), Coyle (Bantam 2009)
 - **Summary:** Cross double pendulum extended data, aerodynamics full source table, Kovacs 8-stage full joint angle/EMG table, Talent Code three-rule + myelin science

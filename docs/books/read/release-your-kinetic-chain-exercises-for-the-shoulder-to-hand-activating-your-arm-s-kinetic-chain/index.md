@@ -16,11 +16,11 @@ Release Your Kinetic Chain  Exercises For the Shoulder to Hand  Activating Your 
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm's_Kinetic_Chain!.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Release Your Kinetic Chain  Exercises For the Shoulder to Hand  Activating Your Arm's Kinetic Chain!">
-  Your browser does not support inline PDF viewing. <a href="../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm's_Kinetic_Chain!.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm%27s_Kinetic_Chain%21.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Release Your Kinetic Chain  Exercises For the Shoulder to Hand  Activating Your Arm's Kinetic Chain!">
+  Your browser does not support inline PDF viewing. <a href="../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm%27s_Kinetic_Chain%21.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm's_Kinetic_Chain!.pdf) · [Open in new tab ↗](../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm's_Kinetic_Chain!.pdf)
+[Download the PDF ↗](../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm%27s_Kinetic_Chain%21.pdf) · [Open in new tab ↗](../../Release_Your_Kinetic_Chain__Exercises_For_the_Shoulder_to_Hand__Activating_Your_Arm%27s_Kinetic_Chain%21.pdf)
 
 ---
 

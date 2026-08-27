@@ -5,7 +5,7 @@ description: Pipeline that compares the Tennis-Unified intranet against the Tenn
 
 # Tennis Knowledge Gap Intranet
 
-**One-time comparative sweep + continuously maintained reference.** Hermes scout extracted the Tennis Books library (476 books) and indexed every topic heading in [the Tennis-Unified intranet](http://localhost:8766/TP-Archive-Site/) (1,950 articles). Antigravity ran a 92-concept diff and surfaced **20 confirmed gaps** — topics the books cover deeply that the intranet either omits or touches only superficially. Modern web research (2024–2026 sources) supplements the book-side evidence.
+**One-time comparative sweep + continuously maintained reference.** Hermes scout extracted the Tennis Books library (476 books) and indexed every topic heading in [the Tennis-Unified intranet](https://tennis-unified.github.io/) (1,950 articles). Antigravity ran a 92-concept diff and surfaced **20 confirmed gaps** — topics the books cover deeply that the intranet either omits or touches only superficially. Modern web research (2024–2026 sources) supplements the book-side evidence.
 
 This intranet mirrors that sweep so you can browse, cite, and revisit the findings without rerunning the analysis.
 
@@ -58,8 +58,8 @@ This research and gap analysis portal directly connects with the **[Tennis Unifi
 
 | I want to… | Where to go |
 |------------|-------------|
-| Explore the Main Knowledge Base | [Tennis Unified Main Site](https://tennis-unified.github.io/) · [Localhost 8766](http://localhost:8766/TP-Archive-Site/) |
-| Read The Master Book (16 Chapters) | [The Unified Court Overview](book/index.md) · [Bản Tiếng Việt](vi/book/index.md) |
+| Explore the Main Knowledge Base | [Tennis Unified Main Site](https://tennis-unified.github.io/) · [Knowledge Intranet](https://tennis-unified.github.io/) |
+| Read The Master Book (16 Chapters) | [The Unified Court Overview](book/index.md) · [Bản Tiếng Việt](vi/book/) |
 | Read the headline gap analysis | [Tennis Knowledge Gap Whitepaper](whitepapers/tennis-knowledge-gap-2026-08-24.md) |
 | Get a structured per-tier gap list | [Tier 1 — high-value gaps](reports/tier-1-high-value-gaps.md) · [Tier 2 — topic depth](reports/tier-2-topic-depth-gaps.md) · [Tier 3 — niche](reports/tier-3-niche-specialty.md) |
 | Read a tennis book in the browser | [Tennis Books Library](books/) — 34 titles, PDF inline reader |
@@ -104,7 +104,7 @@ Highlights:
 Supplement the book-side evidence with current web research:
 
 - [Modern tennis research 2024–2026](research/modern-tennis-2024-2026.md) — Alcaraz/Sinner/Sabalenka profiles, ITF rules changes, Hawk-Eye Live rollout, modern coaching consensus
-- [Web-sourced technical content](research/web-research-summary.md) — Rod Cross extended research, Kovacs/Ellenbecker 8-stage, kinetic chain data
+- [Web-sourced technical content](https://tennis-unified.github.io/tnkbgap/research/web-research-summary/) — Rod Cross extended research, Kovacs/Ellenbecker 8-stage, kinetic chain data
 - [Authoritative sources index](research/authoritative-sources.md) — tennisplayer.net archive, Wikipedia tennis, ITF coaching references
 
 ---
@@ -126,7 +126,7 @@ Supplement the book-side evidence with current web research:
 └──────────┬─────────┘
            ▼
 ┌────────────────────┐
-│ 2. Topic inventory │  walks [the Tennis-Unified intranet](http://localhost:8766/TP-Archive-Site/) at `D:/New Tennis Knowledge/Tennis Knowledge/Tennis-Unified/TP-Archive-Site/` │
+│ 2. Topic inventory │  walks [the Tennis-Unified intranet](https://tennis-unified.github.io/) at `D:/New Tennis Knowledge/Tennis Knowledge/Tennis-Unified/TP-Archive-Site/` │
 │                    │  builds 10,945-line heading index
 └──────────┬─────────┘
            ▼

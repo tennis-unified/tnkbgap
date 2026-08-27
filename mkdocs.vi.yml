@@ -10,21 +10,21 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Chuyển sang chế độ tối
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Chuyển sang chế độ sáng
   font:
     text: DM Sans
-    code: Roboto Mono
+    code: Space Mono
   features:
     - navigation.tabs
     - navigation.sections
@@ -35,6 +35,8 @@ theme:
     - navigation.footer
   language: vi
 extra_css:
+  - assets/css/book-theme.css
+  - assets/css/dropdown-tabs.css
   - assets/css/site.css
   - https://unpkg.com/katex@0/dist/katex.min.css
 extra_javascript:

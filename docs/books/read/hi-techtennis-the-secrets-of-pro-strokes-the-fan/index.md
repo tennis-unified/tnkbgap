@@ -16,11 +16,11 @@ Technical analysis of pro strokes from high-speed video.
 
 ## Read the book
 
-<iframe class="pdf-viewer" src="../../Hi-techtennis%20–%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Hi-Tech Tennis — Secrets of Pro Strokes">
-  Your browser does not support inline PDF viewing. <a href="../../Hi-techtennis%20–%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf">Download the PDF</a> instead.
+<iframe class="pdf-viewer" src="../../Hi-techtennis%20%E2%80%93%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf#toolbar=1&navpanes=1&scrollbar=1&view=FitH" title="Hi-Tech Tennis — Secrets of Pro Strokes">
+  Your browser does not support inline PDF viewing. <a href="../../Hi-techtennis%20%E2%80%93%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf">Download the PDF</a> instead.
 </iframe>
 
-[Download the PDF ↗](../../Hi-techtennis%20–%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf) · [Open in new tab ↗](../../Hi-techtennis%20–%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf)
+[Download the PDF ↗](../../Hi-techtennis%20%E2%80%93%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf) · [Open in new tab ↗](../../Hi-techtennis%20%E2%80%93%20The%20Secrets%20of%20Pro%20Strokes-The%20Fan.pdf)
 
 ---
 

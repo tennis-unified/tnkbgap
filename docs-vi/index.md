@@ -7,7 +7,7 @@ description: Quy trình so sánh mạng nội bộ Tennis-Unified với thư vi�
 
 # Mạng nội bộ Phân tích Khoảng trống Kiến thức Quần vợt
 
-**Khảo sát so sánh một lần + tài liệu tham khảo được cập nhật liên tục.** Hermes scout đã trích xuất thư viện Sách Quần vợt (476 cuốn) và lập chỉ mọi tiêu đề chủ đề trong [mạng nội bộ Tennis-Unified](http://localhost:8766/TP-Archive-Site/) (1.950 bài viết). Antigravity đã chạy phép khác biệt 92 khái niệm và phát hiện **20 khoảng trống đã xác nhận** — những chủ đề mà sách đề cập sâu nhưng mạng nội bộ hoặc bỏ quên hoặc chỉ đề cập nông. Nghiên cứu web hiện đại (nguồn 2024–2026) bổ sung bằng chứng phía sách.
+**Khảo sát so sánh một lần + tài liệu tham khảo được cập nhật liên tục.** Hermes scout đã trích xuất thư viện Sách Quần vợt (476 cuốn) và lập chỉ mọi tiêu đề chủ đề trong [mạng nội bộ Tennis-Unified](https://tennis-unified.github.io/) (1.950 bài viết). Antigravity đã chạy phép khác biệt 92 khái niệm và phát hiện **20 khoảng trống đã xác nhận** — những chủ đề mà sách đề cập sâu nhưng mạng nội bộ hoặc bỏ quên hoặc chỉ đề cập nông. Nghiên cứu web hiện đại (nguồn 2024–2026) bổ sung bằng chứng phía sách.
 
 Mạng nội bộ này phản ánh khảo sát đó để bạn có thể duyệt, trích dẫn và xem lại các phát hiện mà không cần chạy lại phân tích.
 
@@ -60,8 +60,8 @@ Cổng phân tích khoảng trống và nghiên cứu này kết nối trực ti
 
 | Tôi muốn… | Đi đến đâu |
 |------------|-------------|
-| Truy cập Thư Viện Chính | [Tennis Unified Main Site](https://tennis-unified.github.io/vi/) · [Localhost 8766](http://localhost:8766/TP-Archive-Site/vi/) |
-| Đọc Sách Sân Thống Nhất (16 Chương) | [Tổng quan Sân Thống Nhất](book/index.md) · [English Edition](../book/index.md) |
+| Truy cập Thư Viện Chính | [Tennis Unified Main Site](https://tennis-unified.github.io/vi/) · [Localhost 8766](https://tennis-unified.github.io/vi/) |
+| Đọc Sách Sân Thống Nhất (16 Chương) | [Tổng quan Sân Thống Nhất](book/index.md) · [English Edition](../book/) |
 | Xem danh sách khoảng trống theo cấp | [Cấp 1 — khoảng trống giá trị cao](reports/tier-1-high-value-gaps.md) · [Cấp 2 — độ sâu chủ đề](reports/tier-2-topic-depth-gaps.md) · [Cấp 3 — chuyên môn](reports/tier-3-niche-specialty.md) |
 | Xem bối cảnh web hiện đại (2024–2026) | [Nghiên cứu quần vợt hiện đại 2024–2026](research/modern-tennis-2024-2026.md) |
 | Xem chỉ mục nguồn uy tín | [Chỉ mục nguồn uy tín](research/authoritative-sources.md) |
@@ -75,9 +75,9 @@ Báo cáo chính bao gồm ba cấp khoảng trống, mỗi khoảng trống đ�
 
 Báo cáo hỗ trợ:
 
-- [Cấp 1 — khoảng trống giá trị cao cụ thể](/tnkbgap/reports/tier-1-high-value-gaps/) — Con lắc đôi Rod Cross, động học khí Mehta, vật lý kick serve, Marty Smith Future Strokes, viêm gai chân, nghiệp vụ HIIT, Westside Conjugate, the yips như liệt cơ trung ơn, quần vợt xe lăn
-- [Cấp 2 — khoảng trống độ sâu chủ đề](/tnkbgap/reports/tier-2-topic-depth-gaps/) — Kế hoạch năm Liên đoàn Quần vợt Đức, chương trình ITF Level 2, Vic Braden 50-50-50, Oscar Wegner "đơn giản hóa cú đánh", truyền thống tinh thần Tao/Zen/Soft Science, quy tắc luyện tập sâu Daniel Coyle, nhật ký Chasing Points, serve 240 km/h Greg Rusedski
-- [Cấp 3 — chuyên môn / ngách](/tnkbgap/reports/tier-3-niche-specialty/) — real tennis, rough/smooth, tiến trình bóng ITF Tennis 10s, sư phạm thể thao kỹ năng mở (Wayne Elderton), dòng thời gian Open Era
+- [Cấp 1 — khoảng trống giá trị cao cụ thể](reports/tier-1-high-value-gaps.md) — Con lắc đôi Rod Cross, động học khí Mehta, vật lý kick serve, Marty Smith Future Strokes, viêm gai chân, nghiệp vụ HIIT, Westside Conjugate, the yips như liệt cơ trung ơn, quần vợt xe lăn
+- [Cấp 2 — khoảng trống độ sâu chủ đề](reports/tier-2-topic-depth-gaps.md) — Kế hoạch năm Liên đoàn Quần vợt Đức, chương trình ITF Level 2, Vic Braden 50-50-50, Oscar Wegner "đơn giản hóa cú đánh", truyền thống tinh thần Tao/Zen/Soft Science, quy tắc luyện tập sâu Daniel Coyle, nhật ký Chasing Points, serve 240 km/h Greg Rusedski
+- [Cấp 3 — chuyên môn / ngách](reports/tier-3-niche-specialty.md) — real tennis, rough/smooth, tiến trình bóng ITF Tennis 10s, sư phạm thể thao kỹ năng mở (Wayne Elderton), dòng thời gian Open Era
 
 ---
 
@@ -85,15 +85,15 @@ Báo cáo hỗ trợ:
 
 Bổ sung bằng chứng phía sách với nghiên cứu web hiện tại:
 
-- [Nghiên cứu quần vợt hiện đại 2024–2026](/tnkbgap/research/modern-tennis-2024-2026/) — Tiểu sử Alcaraz/Sinner/Sabalenka, thay đổi luật ITF, triển khai Hawk-Eye Live, đồng thuận huấn luyện hiện đại
-- [Nội dung kỹ thuật từ web](/tnkbgap/research/web-research-summary/) — Nghiên cứu mở rộng Rod Cross, Kovacs/Ellenbecker 8-Stage, dữ liệu chuỗi động học
-- [Chỉ mục nguồn uy tín](/tnkbgap/research/authoritative-sources/) — Lưu trữ tennisplayer.net, Wikipedia quần vợt, tài liệu huấn luyện ITF
+- [Nghiên cứu quần vợt hiện đại 2024–2026](research/modern-tennis-2024-2026.md) — Tiểu sử Alcaraz/Sinner/Sabalenka, thay đổi luật ITF, triển khai Hawk-Eye Live, đồng thuận huấn luyện hiện đại
+- [Nội dung kỹ thuật từ web](https://tennis-unified.github.io/tnkbgap/research/web-research-summary/) — Nghiên cứu mở rộng Rod Cross, Kovacs/Ellenbecker 8-Stage, dữ liệu chuỗi động học
+- [Chỉ mục nguồn uy tín](research/authoritative-sources.md) — Lưu trữ tennisplayer.net, Wikipedia quần vợt, tài liệu huấn luyện ITF
 
 ---
 
 ## Đồng thuận cú đánh hiện đại
 
-- [Đồng thuận cú đánh hiện đại 2024–2026](/tnkbgap/strokes/modern-stroke-consensus/) — 11 nguyên tắc mà mọi người chơi và huấn luyện viên quần vợt hiện đại đồng ý, từ forehand mở tư thế đến hành trình swing ngắn gọn
+- [Đồng thuận cú đánh hiện đại 2024–2026](strokes/modern-stroke-consensus.md) — 11 nguyên tắc mà mọi người chơi và huấn luyện viên quần vợt hiện đại đồng ý, từ forehand mở tư thế đến hành trình swing ngắn gọn
 
 ---
 
@@ -106,7 +106,7 @@ Bổ sung bằng chứng phía sách với nghiên cứu web hiện tại:
 └──────────┬─────────┘
            ▼
 ┌────────────────────┐
-│ 2. Kiểm kê chủ đề  │  duyệt [mạng nội bộ Tennis-Unified](http://localhost:8766/TP-Archive-Site/) tại `D:/New Tennis Knowledge/Tennis Knowledge/Tennis-Unified/TP-Archive-Site/` │
+│ 2. Kiểm kê chủ đề  │  duyệt [mạng nội bộ Tennis-Unified](https://tennis-unified.github.io/) tại `D:/New Tennis Knowledge/Tennis Knowledge/Tennis-Unified/TP-Archive-Site/` │
 │                    │  xây dựng chỉ mục tiêu đề 10.945 dòng
 └──────────┬─────────┘
            ▼
