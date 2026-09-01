@@ -50,7 +50,7 @@
 
     
     
-  <!-- Accessibility Gadget -->
+  
 <link rel="stylesheet" href="/assets/stylesheets/cerulean.min.css">
 <link rel="stylesheet" href="/assets/css/site.css"></head>
   
@@ -65,7 +65,7 @@
     <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
 <nav class="tu-navbar navbar-expand-md" aria-label="Primary">
   <div class="tu-navbar__inner">
-    <a class="tu-navbar__brand" href="/">🎾 Tennis Unified</a>
+    <a class="tu-navbar__brand" href="/">Tennis Unified</a>
     <ul class="tu-navbar__list">
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/">Home</a></li>
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/tnkbgap/book/">Master Book</a></li>
@@ -254,10 +254,7 @@
         
   
   
-  <span class="md-ellipsis">
-    
-  
-    ← Tennis Unified Main Site
+  <span class="md-ellipsis"> Tennis Unified Main Site
   
 
     
@@ -18041,12 +18038,12 @@
 
 
 
-<h1 id="tennis-knowledge-gap-whitepaper-2026-08-24">Tennis Knowledge Gap Whitepaper — 2026-08-24<a class="headerlink" href="#tennis-knowledge-gap-whitepaper-2026-08-24" title="Permanent link">&para;</a></h1>
+<h1 id="tennis-knowledge-gap-whitepaper-2026-08-24">Tennis Knowledge Gap Whitepaper — 2026-08-24<a class="headerlink" href="#tennis-knowledge-gap-whitepaper-2026-08-24" title="Permanent link"></a></h1>
 <p><strong>One-time comparative sweep + continuously maintained reference.</strong> The Hermes scout walked <code>D:/New Tennis Knowledge/Tennis Books/</code> (476 unique titles) and built a topic index of the 1,950 articles in <a href="http://localhost:8766/TP-Archive-Site/">the Tennis-Unified intranet</a> (source: <code>D:/New Tennis Knowledge/Tennis Knowledge/Tennis-Unified/TP-Archive-Site/</code>). Antigravity ran a 92-concept diff across both corpora and surfaced <strong>20 confirmed gaps</strong> — topics the books treat in depth that the intranet either omits or touches only superficially.</p>
 <p>This whitepaper is the headline artifact. It ranks the 20 gaps by educational value, attaches the source books to every claim, and tells you exactly which articles to extract first.</p>
 <p>A web-research supplement (peer-reviewed journals, ITF/ATP/WTA official sources, Wikipedia) updates the book-side evidence with current 2024–2026 context. See <a href="../../research/modern-tennis-2024-2026/">Modern tennis research 2024–2026</a> and <a href="https://tennis-unified.github.io/tnkbgap/research/web-research-summary/">Web-research technical content</a>.</p>
 <hr />
-<h2 id="methodology">Methodology<a class="headerlink" href="#methodology" title="Permanent link">&para;</a></h2>
+<h2 id="methodology">Methodology<a class="headerlink" href="#methodology" title="Permanent link"></a></h2>
 <table>
 <thead>
 <tr>
@@ -18059,27 +18056,27 @@
 <tr>
 <td>1</td>
 <td>Walk <code>D:/New Tennis Knowledge/Tennis Books/</code></td>
-<td><code>build_book_inventory.py</code> → 476 books catalogued</td>
+<td><code>build_book_inventory.py</code> 476 books catalogued</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Extract TOC + first 5 pages of every book</td>
-<td><code>extract_books.py</code> → 432 KB of <code>.txt</code> previews</td>
+<td><code>extract_books.py</code> 432 KB of <code>.txt</code> previews</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Deep-extract 202 priority books</td>
-<td><code>deep_extract.py</code> → <code>deep/</code> folder</td>
+<td><code>deep_extract.py</code> <code>deep/</code> folder</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Walk <a href="http://localhost:8766/TP-Archive-Site/">the Tennis-Unified intranet</a> (<code>D:/New Tennis Knowledge/Tennis Knowledge/Tennis-Unified/TP-Archive-Site/</code>)</td>
-<td><code>build_repo_inventory.py</code> → 10,945-line heading index</td>
+<td><code>build_repo_inventory.py</code> 10,945-line heading index</td>
 </tr>
 <tr>
 <td>5</td>
 <td>92-concept diff across both corpora</td>
-<td><code>gap_analysis.py</code> → <code>gap_analysis.txt</code></td>
+<td><code>gap_analysis.py</code> <code>gap_analysis.txt</code></td>
 </tr>
 <tr>
 <td>6</td>
@@ -18092,7 +18089,7 @@
 <code>C:/Users/Phamd/Documents/tennis_gap_analysis/book_topics.txt</code>.
 The gap diff (194 lines) is at <code>C:/Users/Phamd/Documents/tennis_gap_analysis/gap_analysis.txt</code>.</p>
 <hr />
-<h2 id="what-the-repo-already-has-deeply-67-of-92-concepts">What the repo already has deeply (67 of 92 concepts)<a class="headerlink" href="#what-the-repo-already-has-deeply-67-of-92-concepts" title="Permanent link">&para;</a></h2>
+<h2 id="what-the-repo-already-has-deeply-67-of-92-concepts">What the repo already has deeply (67 of 92 concepts)<a class="headerlink" href="#what-the-repo-already-has-deeply-67-of-92-concepts" title="Permanent link"></a></h2>
 <p>The Tennis-Unified intranet is exceptionally comprehensive. Concepts where 50+
 books in the library overlap with the repo are already well covered.</p>
 <table>
@@ -18135,7 +18132,7 @@ books in the library overlap with the repo are already well covered.</p>
 <td>✅ Deep (<code>Head Position &amp; Vestibular</code>)</td>
 </tr>
 <tr>
-<td>Kinetic chain (leg→hip→trunk→arm→racket)</td>
+<td>Kinetic chain (leg > hip > trunk > arm > racket)</td>
 <td>41</td>
 <td>✅ Deep (<code>foundation/deep-dives</code>)</td>
 </tr>
@@ -18178,11 +18175,11 @@ books in the library overlap with the repo are already well covered.</p>
 </table>
 <p>Source: <code>gap_analysis.txt</code> — see the "PRESENT (67)" section for the full list.</p>
 <hr />
-<h2 id="what-is-missing-the-20-gaps">What is missing — the 20 gaps<a class="headerlink" href="#what-is-missing-the-20-gaps" title="Permanent link">&para;</a></h2>
+<h2 id="what-is-missing-the-20-gaps">What is missing — the 20 gaps<a class="headerlink" href="#what-is-missing-the-20-gaps" title="Permanent link"></a></h2>
 <p>The remaining 20 concepts (with the number of books in the library that
 treat them) are the genuine additions waiting to be extracted. They are
 sorted into three tiers below.</p>
-<h3 id="tier-1-concrete-high-value-gaps-extract-directly">Tier 1 — Concrete high-value gaps (extract directly)<a class="headerlink" href="#tier-1-concrete-high-value-gaps-extract-directly" title="Permanent link">&para;</a></h3>
+<h3 id="tier-1-concrete-high-value-gaps-extract-directly">Tier 1 — Concrete high-value gaps (extract directly)<a class="headerlink" href="#tier-1-concrete-high-value-gaps-extract-directly" title="Permanent link"></a></h3>
 <table>
 <thead>
 <tr>
@@ -18280,7 +18277,7 @@ sorted into three tiers below.</p>
 </tr>
 </tbody>
 </table>
-<h3 id="tier-2-topic-depth-gaps">Tier 2 — Topic depth gaps<a class="headerlink" href="#tier-2-topic-depth-gaps" title="Permanent link">&para;</a></h3>
+<h3 id="tier-2-topic-depth-gaps">Tier 2 — Topic depth gaps<a class="headerlink" href="#tier-2-topic-depth-gaps" title="Permanent link"></a></h3>
 <table>
 <thead>
 <tr>
@@ -18332,7 +18329,7 @@ sorted into three tiers below.</p>
 </tr>
 </tbody>
 </table>
-<h3 id="tier-3-niche-specialty">Tier 3 — Niche / specialty<a class="headerlink" href="#tier-3-niche-specialty" title="Permanent link">&para;</a></h3>
+<h3 id="tier-3-niche-specialty">Tier 3 — Niche / specialty<a class="headerlink" href="#tier-3-niche-specialty" title="Permanent link"></a></h3>
 <table>
 <thead>
 <tr>
@@ -18370,7 +18367,7 @@ sorted into three tiers below.</p>
 </tbody>
 </table>
 <hr />
-<h2 id="recommended-extraction-order">Recommended extraction order<a class="headerlink" href="#recommended-extraction-order" title="Permanent link">&para;</a></h2>
+<h2 id="recommended-extraction-order">Recommended extraction order<a class="headerlink" href="#recommended-extraction-order" title="Permanent link"></a></h2>
 <p>If you want to add these to the repo, do them in this order:</p>
 <ol>
 <li><strong>Tier 1, items 1–5</strong> (Cross double pendulum, Mehta aerodynamics, Kovacs 8-stage extended, Cross kick-serve, Marty Smith Future Strokes). Highest educational value per minute of work.</li>
@@ -18382,7 +18379,7 @@ sorted into three tiers below.</p>
 </ol>
 <p>The full per-gap evidence is in the <a href="../../reports/tier-1-high-value-gaps/">Tier 1 report</a>, <a href="../../reports/tier-2-topic-depth-gaps/">Tier 2 report</a>, and <a href="../../reports/tier-3-niche-specialty/">Tier 3 report</a>.</p>
 <hr />
-<h2 id="web-research-supplement-20242026">Web-research supplement (2024–2026)<a class="headerlink" href="#web-research-supplement-20242026" title="Permanent link">&para;</a></h2>
+<h2 id="web-research-supplement-20242026">Web-research supplement (2024–2026)<a class="headerlink" href="#web-research-supplement-20242026" title="Permanent link"></a></h2>
 <p>The book-side evidence above (mostly 2008–2018) is supplemented with current authoritative sources:</p>
 <ul>
 <li><a href="../../research/modern-tennis-2024-2026/">Modern tennis research 2024–2026</a> — Alcaraz/Sinner/Sabalenka/Swiatek profiles, ITF rule changes, Hawk-Eye Live rollout, Paris 2024 wheelchair tennis</li>
@@ -18390,7 +18387,7 @@ sorted into three tiers below.</p>
 <li><a href="../../research/authoritative-sources/">Authoritative sources index</a> — tennisplayer.net, Wikipedia, ITF, ATP/WTA, peer-reviewed research</li>
 </ul>
 <hr />
-<h2 id="confidence-and-caveats">Confidence and caveats<a class="headerlink" href="#confidence-and-caveats" title="Permanent link">&para;</a></h2>
+<h2 id="confidence-and-caveats">Confidence and caveats<a class="headerlink" href="#confidence-and-caveats" title="Permanent link"></a></h2>
 <ul>
 <li><strong>Confidence 0.85.</strong> The 92-concept list was seeded from the repo taxonomy and extended by hand-picking concepts that appear in 5+ book topic-counts. It is not exhaustive — there are likely 10–20 additional gaps outside the 92-concept seed.</li>
 <li><strong>Web-research confidence:</strong> Player bio stats cross-checked across 3+ sources (high). Rule-change dates cross-checked against ATP/ITF/USTA official publications (high). Modern coaching consensus aggregated from Top Tennis Training, Essential Tennis, Tennis Evolution, Talk Tennis, Reddit r/10s (medium — reflects current discourse, not always peer-reviewed).</li>

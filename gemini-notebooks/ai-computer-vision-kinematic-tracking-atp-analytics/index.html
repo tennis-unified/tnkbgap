@@ -50,7 +50,7 @@
 
     
     
-  <!-- Accessibility Gadget -->
+  
 <link rel="stylesheet" href="/assets/stylesheets/cerulean.min.css">
 <link rel="stylesheet" href="/assets/css/site.css"></head>
   
@@ -65,7 +65,7 @@
     <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
 <nav class="tu-navbar navbar-expand-md" aria-label="Primary">
   <div class="tu-navbar__inner">
-    <a class="tu-navbar__brand" href="/">🎾 Tennis Unified</a>
+    <a class="tu-navbar__brand" href="/">Tennis Unified</a>
     <ul class="tu-navbar__list">
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/">Home</a></li>
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/tnkbgap/book/">Master Book</a></li>
@@ -254,10 +254,7 @@
         
   
   
-  <span class="md-ellipsis">
-    
-  
-    ← Tennis Unified Main Site
+  <span class="md-ellipsis"> Tennis Unified Main Site
   
 
     
@@ -18052,13 +18049,13 @@
 
 
 
-<h1 id="computer-vision-3d-kinematic-tracking-in-tennis-optical-flow-joint-pose-estimation-automated-diagnostics">Computer Vision &amp; 3D Kinematic Tracking in Tennis: Optical Flow, Joint Pose Estimation &amp; Automated Diagnostics<a class="headerlink" href="#computer-vision-3d-kinematic-tracking-in-tennis-optical-flow-joint-pose-estimation-automated-diagnostics" title="Permanent link">&para;</a></h1>
+<h1 id="computer-vision-3d-kinematic-tracking-in-tennis-optical-flow-joint-pose-estimation-automated-diagnostics">Computer Vision &amp; 3D Kinematic Tracking in Tennis: Optical Flow, Joint Pose Estimation &amp; Automated Diagnostics<a class="headerlink" href="#computer-vision-3d-kinematic-tracking-in-tennis-optical-flow-joint-pose-estimation-automated-diagnostics" title="Permanent link"></a></h1>
 <p><strong>Author:</strong> Henry Phạm Đức · Tennis Future Lab &amp; Kinetic Biomechanics Research<br />
 <strong>Domain:</strong> Next-Gen AI Biomechanics, Computer Vision &amp; Player Archetypes<br />
 <strong>Source Vaults:</strong> <code>Use Cases For Hermes - Gemini - NotebookLM and AIs</code> (<code>b4591be3-1150-447b-9af1-1ab58f2bc030</code>) · <code>Metacognition in AI</code> (<code>24003a0c-b51e-4b98-bfe2-043b99bff9b6</code>)<br />
 <strong>Keywords:</strong> <code>Computer Vision (CV)</code>, <code>3D Pose Estimation</code>, <code>Markerless Motion Capture</code>, <code>Hawk-Eye Optical Flow</code>, <code>Multi-Agent Diagnostic Pipelines</code>, <code>Automated Error Detection</code>, <code>Kinematic Angle Tracking</code></p>
 <hr />
-<h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
+<h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link"></a></h2>
 <p>The evaluation of athletic performance in tennis has evolved from subjective coach observation to quantitative, markerless <strong>3D Computer Vision (CV) and Artificial Intelligence pipelines</strong>. Utilizing multi-camera high-speed video capture (120–500 fps), deep neural network pose estimators (e.g., OpenPose, MediaPipe, DeepLabCut, and proprietary Hawk-Eye optical architectures) reconstruct 33 human joint keypoints in 3D Euclidean space without invasive body markers.</p>
 <p>This whitepaper analyzes: (1) The mathematical foundation of 2D-to-3D markerless joint triangulation, (2) Optical flow algorithms for ball trajectory and spin tracking, (3) Automated algorithmic detection of upstream kinetic chain breakdowns (e.g., measuring <em>X</em>-Factor separation angles and trophy pose tilt in real-time), and (4) The integration of multi-agent LLM systems (Hermes ↔ Antigravity ↔ NotebookLM) to generate personalized, biomechanically grounded coaching interventions.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
@@ -18079,17 +18076,17 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 </code></pre></div>
 <hr />
-<h2 id="1-2d-to-3d-markerless-pose-estimation-architecture">1. 2D-to-3D Markerless Pose Estimation Architecture<a class="headerlink" href="#1-2d-to-3d-markerless-pose-estimation-architecture" title="Permanent link">&para;</a></h2>
+<h2 id="1-2d-to-3d-markerless-pose-estimation-architecture">1. 2D-to-3D Markerless Pose Estimation Architecture<a class="headerlink" href="#1-2d-to-3d-markerless-pose-estimation-architecture" title="Permanent link"></a></h2>
 <div class="highlight"><pre><span></span><code>Camera 1 (Baseline View) ──\
 Camera 2 (Side Court View) ───► [ Direct Linear Transformation (DLT) ] ──► [ 3D Joint Tensor (x, y, z, t) ]
 Camera 3 (Overhead Drone) ─/
 </code></pre></div>
-<h3 id="11-epipolar-geometry-spatial-triangulation">1.1. Epipolar Geometry &amp; Spatial Triangulation<a class="headerlink" href="#11-epipolar-geometry-spatial-triangulation" title="Permanent link">&para;</a></h3>
+<h3 id="11-epipolar-geometry-spatial-triangulation">1.1. Epipolar Geometry &amp; Spatial Triangulation<a class="headerlink" href="#11-epipolar-geometry-spatial-triangulation" title="Permanent link"></a></h3>
 <p>By calibrating extrinsic camera matrices (<em>R</em>, <em>T</em>) and intrinsic camera parameters (<em>f</em><sub>x</sub>, <em>f</em><sub>y</sub>, <em>c</em><sub>x</sub>, <em>c</em><sub>y</sub>), a 2D pixel coordinate (<em>u</em>, <em>v</em>) from multiple camera views is projected along epipolar rays into a singular 3D Cartesian point (<em>X</em>, <em>Y</em>, <em>Z</em>):</p>
 <div class="arithmatex">\[\lambda \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = K [R \mid T] \begin{bmatrix} X \\ Y \\ Z \\ 1 \end{bmatrix}\]</div>
 <p>This allows algorithms to track hip angular velocity (ω<sub>hip</sub>) and internal shoulder rotation (ω<sub>ISR</sub>) with an error margin of <strong>less than 2 millimeters</strong>.</p>
 <hr />
-<h2 id="2-automated-biomechanical-fault-detection-algorithms">2. Automated Biomechanical Fault Detection Algorithms<a class="headerlink" href="#2-automated-biomechanical-fault-detection-algorithms" title="Permanent link">&para;</a></h2>
+<h2 id="2-automated-biomechanical-fault-detection-algorithms">2. Automated Biomechanical Fault Detection Algorithms<a class="headerlink" href="#2-automated-biomechanical-fault-detection-algorithms" title="Permanent link"></a></h2>
 <div class="highlight"><pre><span></span><code>                          AI LOGIC DECISION TREE
 
   [ Measure Forehand Pelvic Rotation Deceleration Peak ]
@@ -18101,19 +18098,19 @@ Camera 3 (Overhead Drone) ─/
                          ├──► Δθ &lt; 30°: Flag "Inadequate Torso Coiling"
                          └──► Δθ ≥ 35°: Score "Elite Kinetic Chain Alignment (10/10)"
 </code></pre></div>
-<h3 id="21-feature-extraction-anomaly-detection">2.1. Feature Extraction &amp; Anomaly Detection<a class="headerlink" href="#21-feature-extraction-anomaly-detection" title="Permanent link">&para;</a></h3>
+<h3 id="21-feature-extraction-anomaly-detection">2.1. Feature Extraction &amp; Anomaly Detection<a class="headerlink" href="#21-feature-extraction-anomaly-detection" title="Permanent link"></a></h3>
 <p>The AI pipeline continuously audits key biomechanical thresholds:
 1. <strong>Serve Trophy Shoulder Tilt</strong>: Triggers warning if dominant shoulder is depressed &lt; 20°.
 2. <strong>Knee Flexion Depth</strong>: Triggers warning if knee flexion at lowest dip is &lt; 100°.
 3. <strong>Quiet Eye Contact Duration</strong>: Measures the variance in head vector during the 100 ms post-impact interval.</p>
 <hr />
-<h2 id="3-autonomous-multi-agent-coaching-integration">3. Autonomous Multi-Agent Coaching Integration<a class="headerlink" href="#3-autonomous-multi-agent-coaching-integration" title="Permanent link">&para;</a></h2>
+<h2 id="3-autonomous-multi-agent-coaching-integration">3. Autonomous Multi-Agent Coaching Integration<a class="headerlink" href="#3-autonomous-multi-agent-coaching-integration" title="Permanent link"></a></h2>
 <div class="highlight"><pre><span></span><code>[ Raw Video Input ] ──► [ Python CV Pose Extractor ] ──► [ JSON Kinematic Telemetry ]
                                                                    │
 [ Agent Diagnostic Report ] ◄── [ Hermes / Antigravity Agent ] ◄──┘
  (Grounds advice in 32 Gemini NotebookLM Research Vaults)
 </code></pre></div>
-<h3 id="31-telemetry-grounded-llm-prompting">3.1. Telemetry-Grounded LLM Prompting<a class="headerlink" href="#31-telemetry-grounded-llm-prompting" title="Permanent link">&para;</a></h3>
+<h3 id="31-telemetry-grounded-llm-prompting">3.1. Telemetry-Grounded LLM Prompting<a class="headerlink" href="#31-telemetry-grounded-llm-prompting" title="Permanent link"></a></h3>
 <p>Instead of providing generic coaching clichés, the telemetry data is structured into a quantitative JSON payload and parsed by autonomous agents, generating precise, physics-based diagnostic prescriptions grounded in elite sports medicine literature.</p>
 
 

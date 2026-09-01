@@ -50,7 +50,7 @@
 
     
     
-  <!-- Accessibility Gadget -->
+  
 <link rel="stylesheet" href="/assets/stylesheets/cerulean.min.css">
 <link rel="stylesheet" href="/assets/css/site.css"></head>
   
@@ -65,7 +65,7 @@
     <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
 <nav class="tu-navbar navbar-expand-md" aria-label="Primary">
   <div class="tu-navbar__inner">
-    <a class="tu-navbar__brand" href="/">🎾 Tennis Unified</a>
+    <a class="tu-navbar__brand" href="/">Tennis Unified</a>
     <ul class="tu-navbar__list">
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/">Home</a></li>
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/tnkbgap/book/">Master Book</a></li>
@@ -254,10 +254,7 @@
         
   
   
-  <span class="md-ellipsis">
-    
-  
-    ← Tennis Unified Main Site
+  <span class="md-ellipsis"> Tennis Unified Main Site
   
 
     
@@ -17962,13 +17959,13 @@
 
 
 
-<h1 id="wearable-imu-accelerometers-racket-telemetry-9-axis-gyroscope-stroke-diagnostics-swing-speed">Wearable IMU Accelerometers &amp; Racket Telemetry: 9-Axis Gyroscope Stroke Diagnostics &amp; Swing Speed<a class="headerlink" href="#wearable-imu-accelerometers-racket-telemetry-9-axis-gyroscope-stroke-diagnostics-swing-speed" title="Permanent link">&para;</a></h1>
+<h1 id="wearable-imu-accelerometers-racket-telemetry-9-axis-gyroscope-stroke-diagnostics-swing-speed">Wearable IMU Accelerometers &amp; Racket Telemetry: 9-Axis Gyroscope Stroke Diagnostics &amp; Swing Speed<a class="headerlink" href="#wearable-imu-accelerometers-racket-telemetry-9-axis-gyroscope-stroke-diagnostics-swing-speed" title="Permanent link"></a></h1>
 <p><strong>Author:</strong> Henry Phạm Đức · Tennis Future Lab &amp; Kinetic Biomechanics Research<br />
 <strong>Domain:</strong> Wearable Telemetry, IMU Sensors &amp; Real-Time Biofeedback<br />
 <strong>Source Vaults:</strong> <code>Use Cases For Hermes - Gemini - NotebookLM and AIs</code> (<code>b4591be3-1150-447b-9af1-1ab58f2bc030</code>) · <code>Tennis Research Project</code> (<code>0f19ffe8-c458-4ab1-8159-14ebaf9d323c</code>)<br />
 <strong>Keywords:</strong> <code>Inertial Measurement Unit (IMU)</code>, <code>9-Axis Gyroscope</code>, <code>Racket Butt-Cap Sensors</code>, <code>Quaternion Kinematics</code>, <code>Impact Shock Peak (G-Force)</code>, <code>Smart Tennis Telemetry</code></p>
 <hr />
-<h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
+<h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link"></a></h2>
 <p>The integration of miniaturized <strong>9-Axis Inertial Measurement Units (IMUs)</strong>—combining a 3-axis accelerometer (± 64G), a 3-axis gyroscope (± 4,000°/s), and a 3-axis magnetometer—embedded within racket handles (e.g., Babolat Play, Sony Smart Sensor) and player wristbands has transformed stroke analysis from qualitative guesswork into high-frequency quantitative telemetry.</p>
 <p>This whitepaper analyzes: (1) The sensor fusion algorithms (Kalman Filtering &amp; Quaternion orientation representation) used to track racket paths in real-time, (2) Mathematical extraction of terminal racket head velocity (<em>v</em><sub>tip</sub>) and sweet spot impact localization, (3) Measuring peak impact shock and deceleration G-forces, and (4) Real-time auditory biofeedback systems accelerating motor skill acquisition.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
@@ -17986,7 +17983,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 </code></pre></div>
 <hr />
-<h2 id="1-mathematical-sensor-fusion-quaternions-vs-euler-angles">1. Mathematical Sensor Fusion: Quaternions vs. Euler Angles<a class="headerlink" href="#1-mathematical-sensor-fusion-quaternions-vs-euler-angles" title="Permanent link">&para;</a></h2>
+<h2 id="1-mathematical-sensor-fusion-quaternions-vs-euler-angles">1. Mathematical Sensor Fusion: Quaternions vs. Euler Angles<a class="headerlink" href="#1-mathematical-sensor-fusion-quaternions-vs-euler-angles" title="Permanent link"></a></h2>
 <div class="highlight"><pre><span></span><code>EULER ANGLES (Pitch, Roll, Yaw):
   Suffers from "Gimbal Lock" during extreme 3D rotations like the serve cartwheel.
 
@@ -17994,11 +17991,11 @@ QUATERNION REPRESENTATION:
   q = [q_0, q_1, q_2, q_3] = [cos(θ/2), u_x sin(θ/2), u_y sin(θ/2), u_z sin(θ/2)]
   ──► Guarantees continuous, singularity-free 3D spatial orientation at 1,000 Hz!
 </code></pre></div>
-<h3 id="11-real-time-acceleration-extraction">1.1. Real-Time Acceleration Extraction<a class="headerlink" href="#11-real-time-acceleration-extraction" title="Permanent link">&para;</a></h3>
+<h3 id="11-real-time-acceleration-extraction">1.1. Real-Time Acceleration Extraction<a class="headerlink" href="#11-real-time-acceleration-extraction" title="Permanent link"></a></h3>
 <p>By knowing the exact distance from the butt-cap IMU to the center of the stringbed (<em>r</em> = 45 cm), the linear velocity of the impact zone (<em>v</em><sub>impact</sub>) is computed dynamically:</p>
 <div class="arithmatex">\[\mathbf{v}_{\text{impact}} = \mathbf{v}_{\text{sensor}} + \boldsymbol{\omega} \times \mathbf{r}\]</div>
 <hr />
-<h2 id="2-telemetry-thresholds-elite-vs-amateur-profiles">2. Telemetry Thresholds: Elite vs. Amateur Profiles<a class="headerlink" href="#2-telemetry-thresholds-elite-vs-amateur-profiles" title="Permanent link">&para;</a></h2>
+<h2 id="2-telemetry-thresholds-elite-vs-amateur-profiles">2. Telemetry Thresholds: Elite vs. Amateur Profiles<a class="headerlink" href="#2-telemetry-thresholds-elite-vs-amateur-profiles" title="Permanent link"></a></h2>
 <table>
 <thead>
 <tr>

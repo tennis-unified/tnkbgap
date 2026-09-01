@@ -50,7 +50,7 @@
 
     
     
-  <!-- Accessibility Gadget -->
+  
 <link rel="stylesheet" href="/assets/stylesheets/cerulean.min.css">
 <link rel="stylesheet" href="/assets/css/site.css"></head>
   
@@ -65,7 +65,7 @@
     <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
 <nav class="tu-navbar navbar-expand-md" aria-label="Primary">
   <div class="tu-navbar__inner">
-    <a class="tu-navbar__brand" href="/">🎾 Tennis Unified</a>
+    <a class="tu-navbar__brand" href="/">Tennis Unified</a>
     <ul class="tu-navbar__list">
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/">Home</a></li>
         <li class="tu-navbar__item"><a class="tu-navbar__link" href="/tnkbgap/book/">Master Book</a></li>
@@ -254,10 +254,7 @@
         
   
   
-  <span class="md-ellipsis">
-    
-  
-    ← Tennis Unified Main Site
+  <span class="md-ellipsis"> Tennis Unified Main Site
   
 
     
@@ -17972,13 +17969,13 @@
 
 
 
-<h1 id="markov-chain-state-transition-modeling-in-tennis-win-probabilities-across-all-18-scoreline-states">Markov Chain State-Transition Modeling in Tennis: Win Probabilities Across All 18 Scoreline States<a class="headerlink" href="#markov-chain-state-transition-modeling-in-tennis-win-probabilities-across-all-18-scoreline-states" title="Permanent link">&para;</a></h1>
+<h1 id="markov-chain-state-transition-modeling-in-tennis-win-probabilities-across-all-18-scoreline-states">Markov Chain State-Transition Modeling in Tennis: Win Probabilities Across All 18 Scoreline States<a class="headerlink" href="#markov-chain-state-transition-modeling-in-tennis-win-probabilities-across-all-18-scoreline-states" title="Permanent link"></a></h1>
 <p><strong>Author:</strong> Henry Phạm Đức · Tennis Future Lab &amp; Kinetic Biomechanics Research<br />
 <strong>Domain:</strong> Tactical Intelligence, Game Theory &amp; Multi-Year Development<br />
 <strong>Source Vaults:</strong> <code>Chiến thuật &amp; Tâm lý thi đấu · Winning Tennis Tactics</code><br />
 <strong>Keywords:</strong> <code>Markov Chain, State Transitions, Scoreline Win Probability, 18 Game States, Closeness Index, Leverage Point</code>  </p>
 <hr />
-<h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link">&para;</a></h2>
+<h2 id="executive-abstract">Executive Abstract<a class="headerlink" href="#executive-abstract" title="Permanent link"></a></h2>
 <p>Tennis is a stochastic point-by-point Markov process. Because scoring is discrete and non-linear, not all points are created equal. This whitepaper constructs a complete <strong>18-State Markov Chain Transition Matrix</strong> (<em>P</em><sub>i,j</sub>), calculating conditional win probabilities for every scoreline (0-0, 15-30, 30-40, Deuce). Points at <strong>30-30 and 30-40 exhibit 3.8x higher scoreline leverage</strong> than 40-0, dictating high-risk aggressive tactical deployments.</p>
 <div class="highlight"><pre><span></span><code>┌─────────────────────────────────────────────────────────────────────────────┐
 │                    TACTICAL INTELLIGENCE &amp; GAME THEORY ARCHITECTURE         │
@@ -17995,7 +17992,7 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 </code></pre></div>
 <hr />
-<h2 id="1-the-18-state-markov-transition-matrix">1. The 18-State Markov Transition Matrix<a class="headerlink" href="#1-the-18-state-markov-transition-matrix" title="Permanent link">&para;</a></h2>
+<h2 id="1-the-18-state-markov-transition-matrix">1. The 18-State Markov Transition Matrix<a class="headerlink" href="#1-the-18-state-markov-transition-matrix" title="Permanent link"></a></h2>
 <p>Mapping points as discrete states from State 1 (0-0) to State 18 (Game Server / Game Receiver), calculating absorbing probabilities (<em>B</em> = (<em>I</em> - <em>Q</em>)⁻¹<em>R</em>).</p>
 <div class="highlight"><pre><span></span><code>       [ Scoreline Leverage Index ] ──► [ Tactical Risk-Reward Calibration ]
                                                        │
@@ -18003,13 +18000,13 @@
         (70% Points Won in 0-4 Shot Window)
 </code></pre></div>
 <hr />
-<h2 id="2-quantifying-point-importance-leverage-index">2. Quantifying Point Importance (Leverage Index)<a class="headerlink" href="#2-quantifying-point-importance-leverage-index" title="Permanent link">&para;</a></h2>
+<h2 id="2-quantifying-point-importance-leverage-index">2. Quantifying Point Importance (Leverage Index)<a class="headerlink" href="#2-quantifying-point-importance-leverage-index" title="Permanent link"></a></h2>
 <p>Point importance is defined as the swing in game win probability (Δ<em>P</em> = |<em>P</em>~win point~ - <em>P</em>~lose point~|). At 30-40, Δ<em>P</em> = 0.62; at 40-0, Δ<em>P</em> = 0.08.</p>
 <hr />
-<h2 id="3-leverage-driven-tactical-selection">3. Leverage-Driven Tactical Selection<a class="headerlink" href="#3-leverage-driven-tactical-selection" title="Permanent link">&para;</a></h2>
+<h2 id="3-leverage-driven-tactical-selection">3. Leverage-Driven Tactical Selection<a class="headerlink" href="#3-leverage-driven-tactical-selection" title="Permanent link"></a></h2>
 <p>Low leverage (40-0) -&gt; High variance experimental shot-making; High leverage (30-40) -&gt; Primary weapon high-percentage execution.</p>
 <hr />
-<h2 id="tactical-diagnostic-remediation-matrix">Tactical Diagnostic &amp; Remediation Matrix<a class="headerlink" href="#tactical-diagnostic-remediation-matrix" title="Permanent link">&para;</a></h2>
+<h2 id="tactical-diagnostic-remediation-matrix">Tactical Diagnostic &amp; Remediation Matrix<a class="headerlink" href="#tactical-diagnostic-remediation-matrix" title="Permanent link"></a></h2>
 <table>
 <thead>
 <tr>
