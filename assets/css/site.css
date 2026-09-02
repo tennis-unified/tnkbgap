@@ -955,3 +955,78 @@ nav.tu-navbar,
 nav.tu-navbar.navbar-expand-md {
   display: none !important;
 }
+
+/* === Books catalog grid (single column with Google Docs Reader cards) === */
+
+.books-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 1.5rem 0 3rem;
+  max-width: 100%;
+}
+
+.book-card {
+  display: flex !important;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding: 1.25rem 1.5rem !important;
+  background: var(--card, #fff) !important;
+  border: 1px solid var(--divider, #e8d3b3) !important;
+  border-bottom: 1px solid var(--divider, #e8d3b3) !important;
+  border-radius: 8px !important;
+  margin-bottom: 0.85rem;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  position: relative;
+}
+
+.book-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .08);
+  border-color: var(--accent, #c2530f) !important;
+  text-decoration: none !important;
+  padding-left: 1.85rem !important;
+}
+
+.book-card-domain {
+  display: inline-block;
+  width: fit-content;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--accent, #c2530f);
+  background: var(--paper-warm, #fbe9d3);
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  border: 1px solid var(--divider, #e8d3b3);
+}
+
+.book-card-title {
+  font-family: 'Jost', 'DM Sans', sans-serif !important;
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+  color: var(--ink, #2a1f14);
+  line-height: 1.35;
+  margin-top: 0.15rem;
+}
+
+.book-card-author {
+  font-size: 0.88rem;
+  color: var(--muted, #8a7a68);
+  font-style: italic;
+}
+
+.book-card-read {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent, #c2530f);
+}
+
+.book-card:hover .book-card-read { color: var(--accent-dark, #8d3a09); }
+
+/* Search filter highlight */
+.book-card.is-hidden { display: none !important; }
