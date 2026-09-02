@@ -816,3 +816,142 @@ iframe.tu-video-iframe {
     margin: 1rem auto !important;
   }
 }
+
+/* === Top navigation (taichinow-style flattened, ported from tennis-unified) === */
+
+.tu-topnav {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  background: var(--paper);
+  border-bottom: 1px solid var(--divider);
+  padding: 0.5rem;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .06), 0 1px 2px rgba(0, 0, 0, .04);
+}
+
+.tu-nav-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 1.4rem;
+  width: auto;
+  height: auto;
+  padding: 0.4rem 0.7rem;
+  border-radius: 999px;
+  gap: 0.25rem;
+  transition: transform 0.2s ease, background 0.2s ease;
+  color: var(--muted);
+}
+
+.tu-nav-item:hover, .tu-nav-item:focus {
+  transform: scale(1.15);
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.tu-nav-item.active {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.tu-nav-item .tu-nav-emoji {
+  display: inline-block;
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.tu-nav-item .tu-nav-text {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-left: 0.35rem;
+  white-space: nowrap;
+}
+
+.tu-nav-item:hover .tu-nav-text {
+  color: var(--accent);
+}
+
+.tu-nav-darkmode {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  width: auto;
+  height: auto;
+  padding: 0.4rem 0.7rem;
+  border-radius: 999px;
+  gap: 0.25rem;
+  background: transparent;
+  border: none;
+  transition: transform 0.2s ease, background 0.2s ease;
+  color: var(--muted);
+}
+
+.tu-nav-darkmode:hover {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.tu-nav-darkmode.active {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+/* === Dark mode override (adapted for tnkbgap Lannino palette) === */
+
+[data-theme="dark"] {
+  --paper: #1a1410;
+  --paper-warm: #221a14;
+  --ink: #f5e6d3;
+  --muted: #b8a48c;
+  --divider: #3d2e22;
+  --accent: #e87b3a;
+  --accent-soft: rgba(232, 123, 58, 0.25);
+  --green: #6ee7b7;
+  --gold: #e0b04a;
+  color-scheme: dark;
+}
+
+[data-theme="dark"] body {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+[data-theme="dark"] .tu-topnav {
+  background: var(--paper-warm);
+  border-bottom-color: var(--divider);
+}
+
+[data-theme="dark"] .tu-nav-item:hover,
+[data-theme="dark"] .tu-nav-darkmode:hover {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+[data-theme="dark"] a { color: var(--accent); }
+[data-theme="dark"] a:hover { color: var(--gold); }
+
+[data-theme="dark"] [data-md-color-scheme="slate"] {
+  --md-default-bg-color: var(--paper);
+  --md-default-fg-color: var(--ink);
+  --md-default-fg-color--light: var(--muted);
+  --md-typeset-a-color: var(--accent);
+  --md-primary-fg-color: var(--ink);
+  --md-primary-bg-color: var(--paper);
+  --md-accent-fg-color: var(--accent);
+}
+
+/* === Hide legacy navbar / breadcrumb (replaced by tu-topnav) ============= */
+
+nav.tu-breadcrumb,
+nav.tu-navbar,
+nav.tu-navbar.navbar-expand-md {
+  display: none !important;
+}
